@@ -31,5 +31,5 @@ export default defineConfig({
 		plugins: [yaml()]
 	},
 	site: 'https://alexsab-ru.github.io',
-	base: 'auto-team.pro'
+	base: '/auto-team.pro/'
 });
