@@ -30,6 +30,7 @@ export default defineConfig({
 	vite: {
 		plugins: [yaml()]
 	},
-	site: 'https://alexsab-ru.github.io',
-	base: '/auto-team.pro/'
+	site: 'https://alexsab-ru.github.io/',
+	base: '/auto-team.pro/',
+	trailingSlash: "always"
 });
