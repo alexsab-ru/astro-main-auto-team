@@ -1,23 +1,23 @@
 import { phoneFormat } from '@/js/utils/numbers.format';
 import { LAST_DAY, MONTH, YEAR } from '@/js/utils/date';
 // Название сайта по умолчанию
-export const SITE_NAME = 'Название сайта';
+export const SITE_NAME = 'АВТО-ТИМ Балаково';
 // Юр лицо
-export const LEGAL_ENTITY = 'ООО «Юридическое название»';
+export const LEGAL_ENTITY = 'ООО «АВТО-ТИМ»';
 // ИНН
 export const LEGAL_INN = '1234567890';
 // Город
-export const LEGAL_CITY = 'г. Город';
+export const LEGAL_CITY = 'г. Балаково';
 // где? в Городе
-export const LEGAL_CITY_WHERE = 'Городе';
+export const LEGAL_CITY_WHERE = 'Балаково';
 // Описание сайта по умолчанию
 export const SITE_DESCR = 'Официальный дилерский центр';
 // Имя пользователя в Телегам
 export const TELEGRAM = '';
 // Телефон по умолчанию
-export const PHONE = '+7 (999) 000-00-00';
+export const PHONE = '+7 (8453) 22-02-00';
 // Бренд
-export const BRAND = 'Baic';
+export const BRAND = 'Мультибренд';
 // Конечное время для таймера
 //string 2024-04-26 or 2024-04-26 23:59:59 or December 31 2015 or December 31 2015 23:59:59 GMT+02:00
 export const TIMER_ENDTIME = '';
