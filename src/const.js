@@ -1,7 +1,7 @@
 import { phoneFormat } from '@/js/utils/numbers.format';
 import { LAST_DAY, MONTH, YEAR } from '@/js/utils/date';
 // Название сайта по умолчанию
-export const SITE_NAME = 'Балаково АВТО ТИМ';
+export const SITE_NAME = 'Балаково Авто Тим';
 // Юр лицо
 export const LEGAL_ENTITY = 'ООО «Энгельс-Авто-Тим»';
 // ИНН
@@ -13,9 +13,9 @@ export const LEGAL_CITY_WHERE = 'Балаково';
 // Описание сайта по умолчанию
 export const SITE_DESCR = 'Официальный дилерский центр';
 // Имя пользователя в Телегам
-export const TELEGRAM = '';
+export const TELEGRAM = 'Changan, Toyota, GAС, LIVAN, Belgee';
 // Телефон по умолчанию
-export const PHONE = '+7 (8453) 22-02-00';
+export const PHONE = '+7 (8453) 220-200';
 // Бренд
 export const BRAND = '';
 // Конечное время для таймера
