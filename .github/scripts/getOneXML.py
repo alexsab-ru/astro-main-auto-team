@@ -60,7 +60,7 @@ def main():
 
     # env_xml_url = os.getenv('ENV_XML_URL', '')
     env_xml_url = os.environ['ENV_XML_URL']
-    urls = env_xml_url.strip().split('\n')
+    urls = env_xml_url.strip().split('\r\n')
     print(urls)
 
     if not urls:
