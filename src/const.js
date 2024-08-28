@@ -13,11 +13,11 @@ export const LEGAL_CITY_WHERE = 'Балаково';
 // Описание сайта по умолчанию
 export const SITE_DESCR = 'Официальный дилерский центр';
 // Имя пользователя в Телегам
-export const TELEGRAM = 'Changan, Toyota, GAС, LIVAN, Belgee';
+export const TELEGRAM = '';
 // Телефон по умолчанию
 export const PHONE = '+7 (8453) 220-200';
 // Бренд
-export const BRAND = '';
+export const BRAND = 'Changan, Toyota, GAС, LIVAN, Belgee';
 // Конечное время для таймера
 //string 2024-04-26 or 2024-04-26 23:59:59 or December 31 2015 or December 31 2015 23:59:59 GMT+02:00
 export const TIMER_ENDTIME = '';
