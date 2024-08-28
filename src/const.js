@@ -1,11 +1,11 @@
 import { phoneFormat } from '@/js/utils/numbers.format';
 import { LAST_DAY, MONTH, YEAR } from '@/js/utils/date';
 // Название сайта по умолчанию
-export const SITE_NAME = 'АВТО-ТИМ Балаково';
+export const SITE_NAME = 'Балаково АВТО ТИМ';
 // Юр лицо
-export const LEGAL_ENTITY = 'ООО «АВТО-ТИМ»';
+export const LEGAL_ENTITY = 'ООО «Энгельс-Авто-Тим»';
 // ИНН
-export const LEGAL_INN = '1234567890';
+export const LEGAL_INN = '6449105698';
 // Город
 export const LEGAL_CITY = 'г. Балаково';
 // где? в Городе

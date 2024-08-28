@@ -31,6 +31,5 @@ export default defineConfig({
 		plugins: [yaml()]
 	},
 	site: 'https://dev.alexsab.ru/',
-	base: '/',
-	trailingSlash: "always"
+	base: '/'
 });
