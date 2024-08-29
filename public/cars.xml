@@ -19,7 +19,7 @@
 			<tradein_discount>80000</tradein_discount>
 			<max_discount>180000</max_discount>
 			<currency>RUR</currency>
-			<vin>LS5A2ASE3RD930992</vin>
+			<vin>LS5A2ASE4RD930063</vin>
 			<description />
 			<images />
 			<multiposting>
@@ -45,7 +45,7 @@
 			<tradein_discount>80000</tradein_discount>
 			<max_discount>180000</max_discount>
 			<currency>RUR</currency>
-			<vin>LS5A2ASE4RD930063</vin>
+			<vin>LS5A2ASE3RD930992</vin>
 			<description />
 			<images />
 			<multiposting>
@@ -367,7 +367,7 @@
 			<tradein_discount>120000</tradein_discount>
 			<max_discount>220000</max_discount>
 			<currency>RUR</currency>
-			<vin>LS5A3DKRXRA024504</vin>
+			<vin>LS5A3DKR7RA024573</vin>
 			<description />
 			<images />
 			<multiposting>
@@ -393,7 +393,7 @@
 			<tradein_discount>120000</tradein_discount>
 			<max_discount>220000</max_discount>
 			<currency>RUR</currency>
-			<vin>LS5A3DKR7RA024573</vin>
+			<vin>LS5A3DKRXRA024504</vin>
 			<description />
 			<images />
 			<multiposting>
@@ -627,6 +627,32 @@
 			<tradein_discount>100000</tradein_discount>
 			<max_discount>200000</max_discount>
 			<currency>RUR</currency>
+			<vin>LS4ASE2E4RA240522</vin>
+			<description />
+			<images />
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<priceWithDiscount>2549900</priceWithDiscount><sale_price>2549900</sale_price><url>https://auto-team.pro/cars/changan-cs55plus-i-рестайлинг-15-amt-181-лс-tech-красный-2024/</url></car>
+		<car>
+			<mark_id>Changan</mark_id>
+			<folder_id>CS55PLUS, I Рестайлинг</folder_id>
+			<modification_id>1.5 AMT (181 л.с.)</modification_id>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<complectation_name>Tech</complectation_name>
+			<wheel>левый</wheel>
+			<color>Красный</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<owners_number>Не было владельцев</owners_number>
+			<year>2024</year>
+			<price>2749900</price>
+			<credit_discount>100000</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>100000</tradein_discount>
+			<max_discount>200000</max_discount>
+			<currency>RUR</currency>
 			<vin>LS4ASE2E6RA246743</vin>
 			<description />
 			<images />
@@ -654,32 +680,6 @@
 			<max_discount>200000</max_discount>
 			<currency>RUR</currency>
 			<vin>LS4ASE2E6RA246337</vin>
-			<description />
-			<images />
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<priceWithDiscount>2549900</priceWithDiscount><sale_price>2549900</sale_price><url>https://auto-team.pro/cars/changan-cs55plus-i-рестайлинг-15-amt-181-лс-tech-красный-2024/</url></car>
-		<car>
-			<mark_id>Changan</mark_id>
-			<folder_id>CS55PLUS, I Рестайлинг</folder_id>
-			<modification_id>1.5 AMT (181 л.с.)</modification_id>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<complectation_name>Tech</complectation_name>
-			<wheel>левый</wheel>
-			<color>Красный</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<owners_number>Не было владельцев</owners_number>
-			<year>2024</year>
-			<price>2749900</price>
-			<credit_discount>100000</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>100000</tradein_discount>
-			<max_discount>200000</max_discount>
-			<currency>RUR</currency>
-			<vin>LS4ASE2E4RA240522</vin>
 			<description />
 			<images />
 			<multiposting>
@@ -738,75 +738,6 @@
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
 		<priceWithDiscount>4099900</priceWithDiscount><sale_price>4099900</sale_price><url>https://auto-team.pro/cars/changan-cs95plus-20-at-233-лс-4wd-premium-черный-2024/</url></car>
-		<car>
-			<mark_id>Changan</mark_id>
-			<folder_id>CS95PLUS</folder_id>
-			<modification_id>2.0 AT (233 л.с.) 4WD</modification_id>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<complectation_name>Premium</complectation_name>
-			<wheel>левый</wheel>
-			<color>Серый</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<owners_number>Не было владельцев</owners_number>
-			<year>2024</year>
-			<price>4299900</price>
-			<credit_discount>100000</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>100000</tradein_discount>
-			<max_discount>200000</max_discount>
-			<currency>RUR</currency>
-			<vin>LS4ASE2AXRJ104845</vin>
-			<description />
-			<images />
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<priceWithDiscount>4099900</priceWithDiscount><sale_price>4099900</sale_price><url>https://auto-team.pro/cars/changan-cs95plus-20-at-233-лс-4wd-premium-серый-2024/</url></car>
-		<car>
-			<mark_id>Changan</mark_id>
-			<folder_id>CS95PLUS</folder_id>
-			<modification_id>2.0 AT (233 л.с.) 4WD</modification_id>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<complectation_name>Premium</complectation_name>
-			<wheel>левый</wheel>
-			<color>Белый</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<owners_number>Не было владельцев</owners_number>
-			<year>2023</year>
-			<price>4251152</price>
-			<credit_discount>100000</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>100000</tradein_discount>
-			<max_discount>200000</max_discount>
-			<currency>RUR</currency>
-			<vin>LS4ASE2A0PJ104172</vin>
-			<description />
-			<images>
-				<image>https://photo.toyotasever.ru/LS4ASE2A0PJ104172/1adc5fd818fa554fb2560dcb5fea323d.jpg</image>
-				<image>https://photo.toyotasever.ru/LS4ASE2A0PJ104172/728937497c720c9d5ad4c9621df00767.jpg</image>
-				<image>https://photo.toyotasever.ru/LS4ASE2A0PJ104172/ad07b3efea077135e85e0a3f412cc989.jpg</image>
-				<image>https://photo.toyotasever.ru/LS4ASE2A0PJ104172/6f1f6ab2d1890e46001a569a036e9223.jpg</image>
-				<image>https://photo.toyotasever.ru/LS4ASE2A0PJ104172/c3ddef42684008b85d48dbb3d44155d2.jpg</image>
-				<image>https://photo.toyotasever.ru/LS4ASE2A0PJ104172/9d2153e12f98dd6b914858f032bdeba5.jpg</image>
-				<image>https://photo.toyotasever.ru/LS4ASE2A0PJ104172/50bb469e37e7762d8c68615e043cd587.jpg</image>
-				<image>https://photo.toyotasever.ru/LS4ASE2A0PJ104172/eb72f06e820e6d281adaf99123c82cb6.jpg</image>
-				<image>https://photo.toyotasever.ru/LS4ASE2A0PJ104172/625ae4161f447c3328e1f8a94b9c022d.jpg</image>
-				<image>https://photo.toyotasever.ru/LS4ASE2A0PJ104172/19ef724b89e9ac4bf5c416eb56124bc6.jpg</image>
-				<image>https://photo.toyotasever.ru/LS4ASE2A0PJ104172/44f1982c67fffbba431bfdd4d90c2a01.jpg</image>
-				<image>https://photo.toyotasever.ru/LS4ASE2A0PJ104172/eed78cf8ce34c9fd1c2dcd6b7239b5c0.jpg</image>
-				<image>https://photo.toyotasever.ru/LS4ASE2A0PJ104172/670f1894c3b1b4ca58a4b6b150dc22cd.jpg</image>
-				<image>https://photo.toyotasever.ru/LS4ASE2A0PJ104172/c1c905d416f7425ec5db850b2d880ebd.jpg</image>
-				<image>https://photo.toyotasever.ru/LS4ASE2A0PJ104172/b611bdbef270d75c2ca739c01dd70fe9.jpg</image>
-				<image>https://photo.toyotasever.ru/LS4ASE2A0PJ104172/0810be45f52b201803f0e79732dd620e.jpg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<priceWithDiscount>4051152</priceWithDiscount><sale_price>4051152</sale_price><url>https://auto-team.pro/cars/changan-cs95plus-20-at-233-лс-4wd-premium-белый-2023/</url></car>
 		<car>
 			<mark_id>Changan</mark_id>
 			<folder_id>CS95PLUS</folder_id>
@@ -876,6 +807,32 @@
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
 		<priceWithDiscount>4049900</priceWithDiscount><sale_price>4049900</sale_price><url>https://auto-team.pro/cars/changan-cs95plus-20-at-233-лс-4wd-premium-серый-2023/</url></car>
+		<car>
+			<mark_id>Changan</mark_id>
+			<folder_id>CS95PLUS</folder_id>
+			<modification_id>2.0 AT (233 л.с.) 4WD</modification_id>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<complectation_name>Premium</complectation_name>
+			<wheel>левый</wheel>
+			<color>Серый</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<owners_number>Не было владельцев</owners_number>
+			<year>2024</year>
+			<price>4299900</price>
+			<credit_discount>100000</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>100000</tradein_discount>
+			<max_discount>200000</max_discount>
+			<currency>RUR</currency>
+			<vin>LS4ASE2AXRJ104845</vin>
+			<description />
+			<images />
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<priceWithDiscount>4099900</priceWithDiscount><sale_price>4099900</sale_price><url>https://auto-team.pro/cars/changan-cs95plus-20-at-233-лс-4wd-premium-серый-2024/</url></car>
 		<car>
 			<mark_id>Changan</mark_id>
 			<folder_id>Eado Plus</folder_id>
@@ -2207,7 +2164,7 @@
 			<tradein_discount>50000</tradein_discount>
 			<max_discount>100000</max_discount>
 			<currency>RUR</currency>
-			<vin>LS5A2DKE9RA215248</vin>
+			<vin>LS5A2DKE3RA215228</vin>
 			<description />
 			<images />
 			<multiposting>
@@ -2233,7 +2190,7 @@
 			<tradein_discount>50000</tradein_discount>
 			<max_discount>100000</max_discount>
 			<currency>RUR</currency>
-			<vin>LS5A2DKE3RA215228</vin>
+			<vin>LS5A2DKE9RA215248</vin>
 			<description />
 			<images />
 			<multiposting>
