@@ -19,7 +19,7 @@
 			<tradein_discount>80000</tradein_discount>
 			<max_discount>180000</max_discount>
 			<currency>RUR</currency>
-			<vin>LS5A2ASE4RD930063</vin>
+			<vin>LS5A2ASE3RD930992</vin>
 			<description />
 			<images />
 			<multiposting>
@@ -45,7 +45,7 @@
 			<tradein_discount>80000</tradein_discount>
 			<max_discount>180000</max_discount>
 			<currency>RUR</currency>
-			<vin>LS5A2ASE3RD930992</vin>
+			<vin>LS5A2ASE4RD930063</vin>
 			<description />
 			<images />
 			<multiposting>
@@ -367,7 +367,7 @@
 			<tradein_discount>120000</tradein_discount>
 			<max_discount>220000</max_discount>
 			<currency>RUR</currency>
-			<vin>LS5A3DKR7RA024573</vin>
+			<vin>LS5A3DKRXRA024504</vin>
 			<description />
 			<images />
 			<multiposting>
@@ -393,7 +393,7 @@
 			<tradein_discount>120000</tradein_discount>
 			<max_discount>220000</max_discount>
 			<currency>RUR</currency>
-			<vin>LS5A3DKRXRA024504</vin>
+			<vin>LS5A3DKR7RA024573</vin>
 			<description />
 			<images />
 			<multiposting>
@@ -627,7 +627,7 @@
 			<tradein_discount>100000</tradein_discount>
 			<max_discount>200000</max_discount>
 			<currency>RUR</currency>
-			<vin>LS4ASE2E6RA246337</vin>
+			<vin>LS4ASE2E6RA246743</vin>
 			<description />
 			<images />
 			<multiposting>
@@ -653,7 +653,7 @@
 			<tradein_discount>100000</tradein_discount>
 			<max_discount>200000</max_discount>
 			<currency>RUR</currency>
-			<vin>LS4ASE2E6RA246743</vin>
+			<vin>LS4ASE2E6RA246337</vin>
 			<description />
 			<images />
 			<multiposting>
@@ -1314,75 +1314,6 @@
 			<custom>растаможен</custom>
 			<owners_number>Не было владельцев</owners_number>
 			<year>2023</year>
-			<price>2789900</price>
-			<credit_discount>50000</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>50000</tradein_discount>
-			<max_discount>100000</max_discount>
-			<currency>RUR</currency>
-			<vin>LS5A2DKE0RA961345</vin>
-			<description />
-			<images>
-				<image>https://photo.toyotasever.ru/LS5A2DKE0RA961345/298bf6684bcbb3935b8981640e497a37.jpg</image>
-				<image>https://photo.toyotasever.ru/LS5A2DKE0RA961345/e07eb5c035f3d32b685e23de1126d7e6.jpg</image>
-				<image>https://photo.toyotasever.ru/LS5A2DKE0RA961345/ec1e533253c5adb9589b72fff5f20209.jpg</image>
-				<image>https://photo.toyotasever.ru/LS5A2DKE0RA961345/32374517ec40711c5110a663b9d9d843.jpg</image>
-				<image>https://photo.toyotasever.ru/LS5A2DKE0RA961345/e644135088a43ba9fb80b6588e34ffbf.jpg</image>
-				<image>https://photo.toyotasever.ru/LS5A2DKE0RA961345/bf987f74bbf6d6c90fa3fa23f9489435.jpg</image>
-				<image>https://photo.toyotasever.ru/LS5A2DKE0RA961345/975fcad1747046c7015f7cbddf5354c5.jpg</image>
-				<image>https://photo.toyotasever.ru/LS5A2DKE0RA961345/43811a16f0925dd372009114fd412cf3.jpg</image>
-				<image>https://photo.toyotasever.ru/LS5A2DKE0RA961345/0473e910fb563e388d0b75587b717f10.jpg</image>
-				<image>https://photo.toyotasever.ru/LS5A2DKE0RA961345/4538a3678a0f336309ede25800290634.jpg</image>
-				<image>https://photo.toyotasever.ru/LS5A2DKE0RA961345/7a98c2e0b60949acc26d1108fc4aebac.jpg</image>
-				<image>https://photo.toyotasever.ru/LS5A2DKE0RA961345/9d4cbc5b54b730153b43de680660a693.jpg</image>
-				<image>https://photo.toyotasever.ru/LS5A2DKE0RA961345/55a676749390a448526cf76cb51b16e1.jpg</image>
-				<image>https://photo.toyotasever.ru/LS5A2DKE0RA961345/28645dda0a0079adc02b9d26d44864f4.jpg</image>
-				<image>https://photo.toyotasever.ru/LS5A2DKE0RA961345/e36b17d6cc8009d7d5d56bd3a9c7034a.jpg</image>
-				<image>https://photo.toyotasever.ru/LS5A2DKE0RA961345/ecd3f980698efa71b18e914a6aa8ccba.jpg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<priceWithDiscount>2689900</priceWithDiscount><sale_price>2689900</sale_price><url>https://auto-team.pro/cars/changan-lamore-15-amt-180-лс-базовая-белый-2023/</url></car>
-		<car>
-			<mark_id>Changan</mark_id>
-			<folder_id>Lamore</folder_id>
-			<modification_id>1.5 AMT (180 л.с.)</modification_id>
-			<body_type>Седан</body_type>
-			<complectation_name>Базовая</complectation_name>
-			<wheel>левый</wheel>
-			<color>Белый</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<owners_number>Не было владельцев</owners_number>
-			<year>2024</year>
-			<price>2789900</price>
-			<credit_discount>50000</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>50000</tradein_discount>
-			<max_discount>100000</max_discount>
-			<currency>RUR</currency>
-			<vin>LS5A2DKE3RA003381</vin>
-			<description />
-			<images />
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<priceWithDiscount>2689900</priceWithDiscount><sale_price>2689900</sale_price><url>https://auto-team.pro/cars/changan-lamore-15-amt-180-лс-базовая-белый-2024/</url></car>
-		<car>
-			<mark_id>Changan</mark_id>
-			<folder_id>Lamore</folder_id>
-			<modification_id>1.5 AMT (180 л.с.)</modification_id>
-			<body_type>Седан</body_type>
-			<complectation_name>Базовая</complectation_name>
-			<wheel>левый</wheel>
-			<color>Белый</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<owners_number>Не было владельцев</owners_number>
-			<year>2023</year>
 			<price>2829811</price>
 			<credit_discount>50000</credit_discount>
 			<insurance_discount>0</insurance_discount>
@@ -1428,6 +1359,32 @@
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
 			<owners_number>Не было владельцев</owners_number>
+			<year>2024</year>
+			<price>2789900</price>
+			<credit_discount>50000</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>50000</tradein_discount>
+			<max_discount>100000</max_discount>
+			<currency>RUR</currency>
+			<vin>LS5A2DKE3RA003381</vin>
+			<description />
+			<images />
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<priceWithDiscount>2689900</priceWithDiscount><sale_price>2689900</sale_price><url>https://auto-team.pro/cars/changan-lamore-15-amt-180-лс-базовая-белый-2024/</url></car>
+		<car>
+			<mark_id>Changan</mark_id>
+			<folder_id>Lamore</folder_id>
+			<modification_id>1.5 AMT (180 л.с.)</modification_id>
+			<body_type>Седан</body_type>
+			<complectation_name>Базовая</complectation_name>
+			<wheel>левый</wheel>
+			<color>Белый</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<owners_number>Не было владельцев</owners_number>
 			<year>2023</year>
 			<price>2789900</price>
 			<credit_discount>50000</credit_discount>
@@ -1454,6 +1411,49 @@
 				<image>https://photo.toyotasever.ru/LS5A2DKE9RA962042/3b36a1b7f1b52f75ebf6d4b615dafa82.jpg</image>
 				<image>https://photo.toyotasever.ru/LS5A2DKE9RA962042/d93020ec13c6909ed05e2873f2e37a43.jpg</image>
 				<image>https://photo.toyotasever.ru/LS5A2DKE9RA962042/011df6dfe91aca55a2179bde336765f3.jpg</image>
+			</images>
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<priceWithDiscount>2689900</priceWithDiscount><sale_price>2689900</sale_price><url>https://auto-team.pro/cars/changan-lamore-15-amt-180-лс-базовая-белый-2023/</url></car>
+		<car>
+			<mark_id>Changan</mark_id>
+			<folder_id>Lamore</folder_id>
+			<modification_id>1.5 AMT (180 л.с.)</modification_id>
+			<body_type>Седан</body_type>
+			<complectation_name>Базовая</complectation_name>
+			<wheel>левый</wheel>
+			<color>Белый</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<owners_number>Не было владельцев</owners_number>
+			<year>2023</year>
+			<price>2789900</price>
+			<credit_discount>50000</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>50000</tradein_discount>
+			<max_discount>100000</max_discount>
+			<currency>RUR</currency>
+			<vin>LS5A2DKE0RA961345</vin>
+			<description />
+			<images>
+				<image>https://photo.toyotasever.ru/LS5A2DKE0RA961345/298bf6684bcbb3935b8981640e497a37.jpg</image>
+				<image>https://photo.toyotasever.ru/LS5A2DKE0RA961345/e07eb5c035f3d32b685e23de1126d7e6.jpg</image>
+				<image>https://photo.toyotasever.ru/LS5A2DKE0RA961345/ec1e533253c5adb9589b72fff5f20209.jpg</image>
+				<image>https://photo.toyotasever.ru/LS5A2DKE0RA961345/32374517ec40711c5110a663b9d9d843.jpg</image>
+				<image>https://photo.toyotasever.ru/LS5A2DKE0RA961345/e644135088a43ba9fb80b6588e34ffbf.jpg</image>
+				<image>https://photo.toyotasever.ru/LS5A2DKE0RA961345/bf987f74bbf6d6c90fa3fa23f9489435.jpg</image>
+				<image>https://photo.toyotasever.ru/LS5A2DKE0RA961345/975fcad1747046c7015f7cbddf5354c5.jpg</image>
+				<image>https://photo.toyotasever.ru/LS5A2DKE0RA961345/43811a16f0925dd372009114fd412cf3.jpg</image>
+				<image>https://photo.toyotasever.ru/LS5A2DKE0RA961345/0473e910fb563e388d0b75587b717f10.jpg</image>
+				<image>https://photo.toyotasever.ru/LS5A2DKE0RA961345/4538a3678a0f336309ede25800290634.jpg</image>
+				<image>https://photo.toyotasever.ru/LS5A2DKE0RA961345/7a98c2e0b60949acc26d1108fc4aebac.jpg</image>
+				<image>https://photo.toyotasever.ru/LS5A2DKE0RA961345/9d4cbc5b54b730153b43de680660a693.jpg</image>
+				<image>https://photo.toyotasever.ru/LS5A2DKE0RA961345/55a676749390a448526cf76cb51b16e1.jpg</image>
+				<image>https://photo.toyotasever.ru/LS5A2DKE0RA961345/28645dda0a0079adc02b9d26d44864f4.jpg</image>
+				<image>https://photo.toyotasever.ru/LS5A2DKE0RA961345/e36b17d6cc8009d7d5d56bd3a9c7034a.jpg</image>
+				<image>https://photo.toyotasever.ru/LS5A2DKE0RA961345/ecd3f980698efa71b18e914a6aa8ccba.jpg</image>
 			</images>
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
@@ -1771,7 +1771,7 @@
 			<tradein_discount>140000</tradein_discount>
 			<max_discount>540000</max_discount>
 			<currency>RUR</currency>
-			<vin>LS4ASE2A2RA706736</vin>
+			<vin>LS4ASE2A6RA713513</vin>
 			<description />
 			<images />
 			<multiposting>
@@ -1797,7 +1797,7 @@
 			<tradein_discount>140000</tradein_discount>
 			<max_discount>540000</max_discount>
 			<currency>RUR</currency>
-			<vin>LS4ASE2A6RA713513</vin>
+			<vin>LS4ASE2A2RA706736</vin>
 			<description />
 			<images />
 			<multiposting>
@@ -2154,25 +2154,40 @@
 			<body_type>Лифтбек</body_type>
 			<complectation_name>DLX</complectation_name>
 			<wheel>левый</wheel>
-			<color>Серый</color>
+			<color>Красный</color>
 			<metallic>нет</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
 			<owners_number>Не было владельцев</owners_number>
-			<year>2024</year>
-			<price>2959900</price>
+			<year>2023</year>
+			<price>2929900</price>
 			<credit_discount>50000</credit_discount>
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>50000</tradein_discount>
 			<max_discount>100000</max_discount>
 			<currency>RUR</currency>
-			<vin>LS5A2DKE6RA235067</vin>
+			<vin>LS5A2DKE1RA945221</vin>
 			<description />
-			<images />
+			<images>
+				<image>https://photo.toyotasever.ru/LS5A2DKE1RA945221/828116bbac45f7afb6aa6675b55a66da.jpg</image>
+				<image>https://photo.toyotasever.ru/LS5A2DKE1RA945221/242698a1a77dab37cea6d399c202ed2a.jpg</image>
+				<image>https://photo.toyotasever.ru/LS5A2DKE1RA945221/2f454e8dd093d9e0f105465eb49362ff.jpg</image>
+				<image>https://photo.toyotasever.ru/LS5A2DKE1RA945221/f8eba9e8f4693c4c8b9dee1b962bdc83.jpg</image>
+				<image>https://photo.toyotasever.ru/LS5A2DKE1RA945221/54504770708299efdb88bf3f6778b744.jpg</image>
+				<image>https://photo.toyotasever.ru/LS5A2DKE1RA945221/5b2067d7173bd1ab8459ba49308e1c93.jpg</image>
+				<image>https://photo.toyotasever.ru/LS5A2DKE1RA945221/f2a5a8afad788a23d59c399b5b9a340b.jpg</image>
+				<image>https://photo.toyotasever.ru/LS5A2DKE1RA945221/aa262214a52775e91045e67ec4d23edf.jpg</image>
+				<image>https://photo.toyotasever.ru/LS5A2DKE1RA945221/779a4200f81373e83237c4cb83c65c36.jpg</image>
+				<image>https://photo.toyotasever.ru/LS5A2DKE1RA945221/ca16a1cab35f708675d9bcd72e1dbde8.jpg</image>
+				<image>https://photo.toyotasever.ru/LS5A2DKE1RA945221/ae77d9fb0d2a63eebf0fcbefeba137b7.jpg</image>
+				<image>https://photo.toyotasever.ru/LS5A2DKE1RA945221/358bfab49690b9b90f1446af53e00f5d.jpg</image>
+				<image>https://photo.toyotasever.ru/LS5A2DKE1RA945221/847ebad1f6f7212f25414e9240727701.jpg</image>
+				<image>https://photo.toyotasever.ru/LS5A2DKE1RA945221/693587d3e3ce90223ac3f6f5891143fd.jpg</image>
+			</images>
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
-		<priceWithDiscount>2859900</priceWithDiscount><sale_price>2859900</sale_price><url>https://auto-team.pro/cars/changan-uni-v-15-amt-181-лс-dlx-серый-2024/</url></car>
+		<priceWithDiscount>2829900</priceWithDiscount><sale_price>2829900</sale_price><url>https://auto-team.pro/cars/changan-uni-v-15-amt-181-лс-dlx-красный-2023/</url></car>
 		<car>
 			<mark_id>Changan</mark_id>
 			<folder_id>UNI-V</folder_id>
@@ -2232,40 +2247,25 @@
 			<body_type>Лифтбек</body_type>
 			<complectation_name>DLX</complectation_name>
 			<wheel>левый</wheel>
-			<color>Красный</color>
+			<color>Серый</color>
 			<metallic>нет</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
 			<owners_number>Не было владельцев</owners_number>
-			<year>2023</year>
-			<price>2929900</price>
+			<year>2024</year>
+			<price>2959900</price>
 			<credit_discount>50000</credit_discount>
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>50000</tradein_discount>
 			<max_discount>100000</max_discount>
 			<currency>RUR</currency>
-			<vin>LS5A2DKE1RA945221</vin>
+			<vin>LS5A2DKE6RA235067</vin>
 			<description />
-			<images>
-				<image>https://photo.toyotasever.ru/LS5A2DKE1RA945221/828116bbac45f7afb6aa6675b55a66da.jpg</image>
-				<image>https://photo.toyotasever.ru/LS5A2DKE1RA945221/242698a1a77dab37cea6d399c202ed2a.jpg</image>
-				<image>https://photo.toyotasever.ru/LS5A2DKE1RA945221/2f454e8dd093d9e0f105465eb49362ff.jpg</image>
-				<image>https://photo.toyotasever.ru/LS5A2DKE1RA945221/f8eba9e8f4693c4c8b9dee1b962bdc83.jpg</image>
-				<image>https://photo.toyotasever.ru/LS5A2DKE1RA945221/54504770708299efdb88bf3f6778b744.jpg</image>
-				<image>https://photo.toyotasever.ru/LS5A2DKE1RA945221/5b2067d7173bd1ab8459ba49308e1c93.jpg</image>
-				<image>https://photo.toyotasever.ru/LS5A2DKE1RA945221/f2a5a8afad788a23d59c399b5b9a340b.jpg</image>
-				<image>https://photo.toyotasever.ru/LS5A2DKE1RA945221/aa262214a52775e91045e67ec4d23edf.jpg</image>
-				<image>https://photo.toyotasever.ru/LS5A2DKE1RA945221/779a4200f81373e83237c4cb83c65c36.jpg</image>
-				<image>https://photo.toyotasever.ru/LS5A2DKE1RA945221/ca16a1cab35f708675d9bcd72e1dbde8.jpg</image>
-				<image>https://photo.toyotasever.ru/LS5A2DKE1RA945221/ae77d9fb0d2a63eebf0fcbefeba137b7.jpg</image>
-				<image>https://photo.toyotasever.ru/LS5A2DKE1RA945221/358bfab49690b9b90f1446af53e00f5d.jpg</image>
-				<image>https://photo.toyotasever.ru/LS5A2DKE1RA945221/847ebad1f6f7212f25414e9240727701.jpg</image>
-				<image>https://photo.toyotasever.ru/LS5A2DKE1RA945221/693587d3e3ce90223ac3f6f5891143fd.jpg</image>
-			</images>
+			<images />
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
-		<priceWithDiscount>2829900</priceWithDiscount><sale_price>2829900</sale_price><url>https://auto-team.pro/cars/changan-uni-v-15-amt-181-лс-dlx-красный-2023/</url></car>
+		<priceWithDiscount>2859900</priceWithDiscount><sale_price>2859900</sale_price><url>https://auto-team.pro/cars/changan-uni-v-15-amt-181-лс-dlx-серый-2024/</url></car>
 	<car>
 			<unique_id>3ca30807-3879-11ef-8123-002590fc7f85</unique_id>
 			<mark_id>GAC</mark_id>
@@ -2686,34 +2686,6 @@
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
 		<priceWithDiscount>2099000</priceWithDiscount><sale_price>2099000</sale_price><url>https://auto-team.pro/cars/gac-gs3-15-amt-170-лс-gs-синий-2024/</url></car>
-		<car>
-			<unique_id>d007561a-6433-11ef-8124-002590fc7f85</unique_id>
-			<mark_id>GAC</mark_id>
-			<folder_id>GS8, II</folder_id>
-			<modification_id>2.0 AT (231 л.с.) 4WD</modification_id>
-			<complectation_name>GL</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Черный</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>4</run>
-			<year>2024</year>
-			<price>3899000</price>
-			<credit_discount>100000</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>200000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>300000</max_discount>
-			<currency>RUR</currency>
-			<vin>LMGJU3G52R1035975</vin>
-			<description />
-			<images />
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<priceWithDiscount>3599000</priceWithDiscount><sale_price>3599000</sale_price><url>https://auto-team.pro/cars/gac-gs8-ii-20-at-231-лс-4wd-gl-черный-2024/</url></car>
 		<car>
 			<unique_id>3847d11b-1c27-11ef-8123-002590fc7f85</unique_id>
 			<mark_id>GAC</mark_id>
