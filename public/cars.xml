@@ -497,32 +497,6 @@
 			<tradein_discount>100000</tradein_discount>
 			<max_discount>200000</max_discount>
 			<currency>RUR</currency>
-			<vin>LS4ASE2E4RA240522</vin>
-			<description />
-			<images />
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<priceWithDiscount>2549900</priceWithDiscount><sale_price>2549900</sale_price><url>https://auto-team.pro/cars/changan-cs55plus-i-рестайлинг-15-amt-181-лс-tech-красный-2024/</url></car>
-		<car>
-			<mark_id>Changan</mark_id>
-			<folder_id>CS55PLUS, I Рестайлинг</folder_id>
-			<modification_id>1.5 AMT (181 л.с.)</modification_id>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<complectation_name>Tech</complectation_name>
-			<wheel>левый</wheel>
-			<color>Красный</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<owners_number>Не было владельцев</owners_number>
-			<year>2024</year>
-			<price>2749900</price>
-			<credit_discount>100000</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>100000</tradein_discount>
-			<max_discount>200000</max_discount>
-			<currency>RUR</currency>
 			<vin>LS4ASE2E6RA246337</vin>
 			<description />
 			<images />
@@ -550,6 +524,32 @@
 			<max_discount>200000</max_discount>
 			<currency>RUR</currency>
 			<vin>LS4ASE2E6RA246743</vin>
+			<description />
+			<images />
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<priceWithDiscount>2549900</priceWithDiscount><sale_price>2549900</sale_price><url>https://auto-team.pro/cars/changan-cs55plus-i-рестайлинг-15-amt-181-лс-tech-красный-2024/</url></car>
+		<car>
+			<mark_id>Changan</mark_id>
+			<folder_id>CS55PLUS, I Рестайлинг</folder_id>
+			<modification_id>1.5 AMT (181 л.с.)</modification_id>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<complectation_name>Tech</complectation_name>
+			<wheel>левый</wheel>
+			<color>Красный</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<owners_number>Не было владельцев</owners_number>
+			<year>2024</year>
+			<price>2749900</price>
+			<credit_discount>100000</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>100000</tradein_discount>
+			<max_discount>200000</max_discount>
+			<currency>RUR</currency>
+			<vin>LS4ASE2E4RA240522</vin>
 			<description />
 			<images />
 			<multiposting>
@@ -726,32 +726,6 @@
 			<body_type>Седан</body_type>
 			<complectation_name>DLX</complectation_name>
 			<wheel>левый</wheel>
-			<color>Белый</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<owners_number>Не было владельцев</owners_number>
-			<year>2023</year>
-			<price>2399900</price>
-			<credit_discount>100000</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>80000</tradein_discount>
-			<max_discount>180000</max_discount>
-			<currency>RUR</currency>
-			<vin>LS5A2DKRXRA961355</vin>
-			<description />
-			<images />
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<priceWithDiscount>2219900</priceWithDiscount><sale_price>2219900</sale_price><url>https://auto-team.pro/cars/changan-eado-plus-14-amt-155-лс-dlx-белый-2023/</url></car>
-		<car>
-			<mark_id>Changan</mark_id>
-			<folder_id>Eado Plus</folder_id>
-			<modification_id>1.4 AMT (155 л.с.)</modification_id>
-			<body_type>Седан</body_type>
-			<complectation_name>DLX</complectation_name>
-			<wheel>левый</wheel>
 			<color>Серый</color>
 			<metallic>нет</metallic>
 			<availability>в наличии</availability>
@@ -846,6 +820,32 @@
 			<body_type>Седан</body_type>
 			<complectation_name>DLX</complectation_name>
 			<wheel>левый</wheel>
+			<color>Черный</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<owners_number>Не было владельцев</owners_number>
+			<year>2023</year>
+			<price>2399900</price>
+			<credit_discount>100000</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>80000</tradein_discount>
+			<max_discount>180000</max_discount>
+			<currency>RUR</currency>
+			<vin>LS5A2DKR9RA961086</vin>
+			<description />
+			<images />
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<priceWithDiscount>2219900</priceWithDiscount><sale_price>2219900</sale_price><url>https://auto-team.pro/cars/changan-eado-plus-14-amt-155-лс-dlx-черный-2023/</url></car>
+		<car>
+			<mark_id>Changan</mark_id>
+			<folder_id>Eado Plus</folder_id>
+			<modification_id>1.4 AMT (155 л.с.)</modification_id>
+			<body_type>Седан</body_type>
+			<complectation_name>DLX</complectation_name>
+			<wheel>левый</wheel>
 			<color>Белый</color>
 			<metallic>нет</metallic>
 			<availability>в наличии</availability>
@@ -887,7 +887,7 @@
 			<body_type>Седан</body_type>
 			<complectation_name>DLX</complectation_name>
 			<wheel>левый</wheel>
-			<color>Черный</color>
+			<color>Белый</color>
 			<metallic>нет</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
@@ -899,13 +899,13 @@
 			<tradein_discount>80000</tradein_discount>
 			<max_discount>180000</max_discount>
 			<currency>RUR</currency>
-			<vin>LS5A2DKR9RA961086</vin>
+			<vin>LS5A2DKRXRA961355</vin>
 			<description />
 			<images />
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
-		<priceWithDiscount>2219900</priceWithDiscount><sale_price>2219900</sale_price><url>https://auto-team.pro/cars/changan-eado-plus-14-amt-155-лс-dlx-черный-2023/</url></car>
+		<priceWithDiscount>2219900</priceWithDiscount><sale_price>2219900</sale_price><url>https://auto-team.pro/cars/changan-eado-plus-14-amt-155-лс-dlx-белый-2023/</url></car>
 		<car>
 			<mark_id>Changan</mark_id>
 			<folder_id>Hunter Plus</folder_id>
@@ -1556,7 +1556,7 @@
 			<tradein_discount>140000</tradein_discount>
 			<max_discount>540000</max_discount>
 			<currency>RUR</currency>
-			<vin>LS4ASE2A2RA706736</vin>
+			<vin>LS4ASE2A6RA713513</vin>
 			<description />
 			<images />
 			<multiposting>
@@ -1582,7 +1582,7 @@
 			<tradein_discount>140000</tradein_discount>
 			<max_discount>540000</max_discount>
 			<currency>RUR</currency>
-			<vin>LS4ASE2A6RA713513</vin>
+			<vin>LS4ASE2A2RA706736</vin>
 			<description />
 			<images />
 			<multiposting>
@@ -1948,7 +1948,7 @@
 			<tradein_discount>50000</tradein_discount>
 			<max_discount>100000</max_discount>
 			<currency>RUR</currency>
-			<vin>LS5A2DKE3RA215228</vin>
+			<vin>LS5A2DKE9RA215248</vin>
 			<description />
 			<images />
 			<multiposting>
@@ -1974,7 +1974,7 @@
 			<tradein_discount>50000</tradein_discount>
 			<max_discount>100000</max_discount>
 			<currency>RUR</currency>
-			<vin>LS5A2DKE9RA215248</vin>
+			<vin>LS5A2DKE3RA215228</vin>
 			<description />
 			<images />
 			<multiposting>
