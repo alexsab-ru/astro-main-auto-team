@@ -471,7 +471,7 @@
 			<tradein_discount>100000</tradein_discount>
 			<max_discount>200000</max_discount>
 			<currency>RUR</currency>
-			<vin>LS4ASE2E1RA238968</vin>
+			<vin>LS4ASE2E6RA245348</vin>
 			<description />
 			<images />
 			<multiposting>
@@ -497,7 +497,7 @@
 			<tradein_discount>100000</tradein_discount>
 			<max_discount>200000</max_discount>
 			<currency>RUR</currency>
-			<vin>LS4ASE2E4RA240522</vin>
+			<vin>LS4ASE2E6RA246337</vin>
 			<description />
 			<images />
 			<multiposting>
@@ -523,7 +523,7 @@
 			<tradein_discount>100000</tradein_discount>
 			<max_discount>200000</max_discount>
 			<currency>RUR</currency>
-			<vin>LS4ASE2E6RA246337</vin>
+			<vin>LS4ASE2E4RA240522</vin>
 			<description />
 			<images />
 			<multiposting>
@@ -1665,6 +1665,32 @@
 			<body_type>Внедорожник 5 дв.</body_type>
 			<complectation_name>Premium</complectation_name>
 			<wheel>левый</wheel>
+			<color>Черный</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<owners_number>Не было владельцев</owners_number>
+			<year>2023</year>
+			<price>2969900</price>
+			<credit_discount>50000</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>50000</tradein_discount>
+			<max_discount>100000</max_discount>
+			<currency>RUR</currency>
+			<vin>LS5A3DKE5RA996413</vin>
+			<description />
+			<images />
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<priceWithDiscount>2869900</priceWithDiscount><sale_price>2869900</sale_price><url>https://auto-team.pro/cars/changan-uni-t-i-рестайлинг-15-amt-188-лс-premium-черный-2023/</url></car>
+		<car>
+			<mark_id>Changan</mark_id>
+			<folder_id>UNI-T, I Рестайлинг</folder_id>
+			<modification_id>1.5 AMT (188 л.с.)</modification_id>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<complectation_name>Premium</complectation_name>
+			<wheel>левый</wheel>
 			<color>синий</color>
 			<metallic>нет</metallic>
 			<availability>в наличии</availability>
@@ -1857,47 +1883,6 @@
 				<image>https://photo.toyotasever.ru/LS5A2DKE1RA945316/1b3c022297d0533380f5cb86303eb90a.jpg</image>
 				<image>https://photo.toyotasever.ru/LS5A2DKE1RA945316/ae6a034e1bd778149d63fe752d91ee5d.jpg</image>
 				<image>https://photo.toyotasever.ru/LS5A2DKE1RA945316/81107bc13911a12b5f1a71921ebebf11.jpg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<priceWithDiscount>2829900</priceWithDiscount><sale_price>2829900</sale_price><url>https://auto-team.pro/cars/changan-uni-v-15-amt-181-лс-dlx-красный-2023/</url></car>
-		<car>
-			<mark_id>Changan</mark_id>
-			<folder_id>UNI-V</folder_id>
-			<modification_id>1.5 AMT (181 л.с.)</modification_id>
-			<body_type>Лифтбек</body_type>
-			<complectation_name>DLX</complectation_name>
-			<wheel>левый</wheel>
-			<color>Красный</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<owners_number>Не было владельцев</owners_number>
-			<year>2023</year>
-			<price>2929900</price>
-			<credit_discount>50000</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>50000</tradein_discount>
-			<max_discount>100000</max_discount>
-			<currency>RUR</currency>
-			<vin>LS5A2DKE1RA945221</vin>
-			<description />
-			<images>
-				<image>https://photo.toyotasever.ru/LS5A2DKE1RA945221/828116bbac45f7afb6aa6675b55a66da.jpg</image>
-				<image>https://photo.toyotasever.ru/LS5A2DKE1RA945221/242698a1a77dab37cea6d399c202ed2a.jpg</image>
-				<image>https://photo.toyotasever.ru/LS5A2DKE1RA945221/2f454e8dd093d9e0f105465eb49362ff.jpg</image>
-				<image>https://photo.toyotasever.ru/LS5A2DKE1RA945221/f8eba9e8f4693c4c8b9dee1b962bdc83.jpg</image>
-				<image>https://photo.toyotasever.ru/LS5A2DKE1RA945221/54504770708299efdb88bf3f6778b744.jpg</image>
-				<image>https://photo.toyotasever.ru/LS5A2DKE1RA945221/5b2067d7173bd1ab8459ba49308e1c93.jpg</image>
-				<image>https://photo.toyotasever.ru/LS5A2DKE1RA945221/f2a5a8afad788a23d59c399b5b9a340b.jpg</image>
-				<image>https://photo.toyotasever.ru/LS5A2DKE1RA945221/aa262214a52775e91045e67ec4d23edf.jpg</image>
-				<image>https://photo.toyotasever.ru/LS5A2DKE1RA945221/779a4200f81373e83237c4cb83c65c36.jpg</image>
-				<image>https://photo.toyotasever.ru/LS5A2DKE1RA945221/ca16a1cab35f708675d9bcd72e1dbde8.jpg</image>
-				<image>https://photo.toyotasever.ru/LS5A2DKE1RA945221/ae77d9fb0d2a63eebf0fcbefeba137b7.jpg</image>
-				<image>https://photo.toyotasever.ru/LS5A2DKE1RA945221/358bfab49690b9b90f1446af53e00f5d.jpg</image>
-				<image>https://photo.toyotasever.ru/LS5A2DKE1RA945221/847ebad1f6f7212f25414e9240727701.jpg</image>
-				<image>https://photo.toyotasever.ru/LS5A2DKE1RA945221/693587d3e3ce90223ac3f6f5891143fd.jpg</image>
 			</images>
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
@@ -3619,7 +3604,7 @@
 			<custom>растаможен</custom>
 			<run>7</run>
 			<year>2024</year>
-			<price>3214990</price>
+			<price>3234990</price>
 			<credit_discount>200000</credit_discount>
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>250000</tradein_discount>
@@ -3632,7 +3617,7 @@
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
-		<priceWithDiscount>2764990</priceWithDiscount><sale_price>2764990</sale_price><url>https://auto-team.pro/cars/belgee-x70-15-amt-177-лс-4wd-prestige-plus-белый-2024/</url></car>
+		<priceWithDiscount>2784990</priceWithDiscount><sale_price>2784990</sale_price><url>https://auto-team.pro/cars/belgee-x70-15-amt-177-лс-4wd-prestige-plus-белый-2024/</url></car>
 		<car>
 			<unique_id>4cc12f2f5ab506ad75887b2ce31a9ccd</unique_id>
 			<mark_id>BELGEE</mark_id>
@@ -3647,7 +3632,7 @@
 			<custom>растаможен</custom>
 			<run>7</run>
 			<year>2024</year>
-			<price>3214990</price>
+			<price>3234990</price>
 			<credit_discount>200000</credit_discount>
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>250000</tradein_discount>
@@ -3660,7 +3645,7 @@
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
-		<priceWithDiscount>2764990</priceWithDiscount><sale_price>2764990</sale_price><url>https://auto-team.pro/cars/belgee-x70-15-amt-177-лс-4wd-prestige-plus-серый-2024/</url></car>
+		<priceWithDiscount>2784990</priceWithDiscount><sale_price>2784990</sale_price><url>https://auto-team.pro/cars/belgee-x70-15-amt-177-лс-4wd-prestige-plus-серый-2024/</url></car>
 		<car>
 			<unique_id>023d61f155070f30ebfade2d1b9ddca3</unique_id>
 			<mark_id>BELGEE</mark_id>
@@ -3675,7 +3660,7 @@
 			<custom>растаможен</custom>
 			<run>7</run>
 			<year>2024</year>
-			<price>3214990</price>
+			<price>3234990</price>
 			<credit_discount>200000</credit_discount>
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>250000</tradein_discount>
@@ -3688,6 +3673,6 @@
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
-		<priceWithDiscount>2764990</priceWithDiscount><sale_price>2764990</sale_price><url>https://auto-team.pro/cars/belgee-x70-15-amt-177-лс-4wd-prestige-plus-черный-2024/</url></car>
+		<priceWithDiscount>2784990</priceWithDiscount><sale_price>2784990</sale_price><url>https://auto-team.pro/cars/belgee-x70-15-amt-177-лс-4wd-prestige-plus-черный-2024/</url></car>
 	</cars>
 </data>
