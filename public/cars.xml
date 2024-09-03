@@ -1843,6 +1843,47 @@
 			<body_type>Лифтбек</body_type>
 			<complectation_name>DLX</complectation_name>
 			<wheel>левый</wheel>
+			<color>Красный</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<owners_number>Не было владельцев</owners_number>
+			<year>2023</year>
+			<price>2929900</price>
+			<credit_discount>50000</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>50000</tradein_discount>
+			<max_discount>100000</max_discount>
+			<currency>RUR</currency>
+			<vin>LS5A2DKE1RA945221</vin>
+			<description />
+			<images>
+				<image>https://photo.toyotasever.ru/LS5A2DKE1RA945221/828116bbac45f7afb6aa6675b55a66da.jpg</image>
+				<image>https://photo.toyotasever.ru/LS5A2DKE1RA945221/242698a1a77dab37cea6d399c202ed2a.jpg</image>
+				<image>https://photo.toyotasever.ru/LS5A2DKE1RA945221/2f454e8dd093d9e0f105465eb49362ff.jpg</image>
+				<image>https://photo.toyotasever.ru/LS5A2DKE1RA945221/f8eba9e8f4693c4c8b9dee1b962bdc83.jpg</image>
+				<image>https://photo.toyotasever.ru/LS5A2DKE1RA945221/54504770708299efdb88bf3f6778b744.jpg</image>
+				<image>https://photo.toyotasever.ru/LS5A2DKE1RA945221/5b2067d7173bd1ab8459ba49308e1c93.jpg</image>
+				<image>https://photo.toyotasever.ru/LS5A2DKE1RA945221/f2a5a8afad788a23d59c399b5b9a340b.jpg</image>
+				<image>https://photo.toyotasever.ru/LS5A2DKE1RA945221/aa262214a52775e91045e67ec4d23edf.jpg</image>
+				<image>https://photo.toyotasever.ru/LS5A2DKE1RA945221/779a4200f81373e83237c4cb83c65c36.jpg</image>
+				<image>https://photo.toyotasever.ru/LS5A2DKE1RA945221/ca16a1cab35f708675d9bcd72e1dbde8.jpg</image>
+				<image>https://photo.toyotasever.ru/LS5A2DKE1RA945221/ae77d9fb0d2a63eebf0fcbefeba137b7.jpg</image>
+				<image>https://photo.toyotasever.ru/LS5A2DKE1RA945221/358bfab49690b9b90f1446af53e00f5d.jpg</image>
+				<image>https://photo.toyotasever.ru/LS5A2DKE1RA945221/847ebad1f6f7212f25414e9240727701.jpg</image>
+				<image>https://photo.toyotasever.ru/LS5A2DKE1RA945221/693587d3e3ce90223ac3f6f5891143fd.jpg</image>
+			</images>
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<priceWithDiscount>2829900</priceWithDiscount><sale_price>2829900</sale_price><url>https://auto-team.pro/cars/changan-uni-v-15-amt-181-лс-dlx-красный-2023/</url></car>
+		<car>
+			<mark_id>Changan</mark_id>
+			<folder_id>UNI-V</folder_id>
+			<modification_id>1.5 AMT (181 л.с.)</modification_id>
+			<body_type>Лифтбек</body_type>
+			<complectation_name>DLX</complectation_name>
+			<wheel>левый</wheel>
 			<color>Серый</color>
 			<metallic>нет</metallic>
 			<availability>в наличии</availability>
@@ -2195,34 +2236,6 @@
 			</multiposting>
 		<priceWithDiscount>2099000</priceWithDiscount><sale_price>2099000</sale_price><url>https://auto-team.pro/cars/gac-gs3-15-amt-170-лс-gs-серебристый-2024/</url></car>
 		<car>
-			<unique_id>5abf300b-2004-11ef-8123-002590fc7f85</unique_id>
-			<mark_id>GAC</mark_id>
-			<folder_id>GS3</folder_id>
-			<modification_id>1.5 AMT (170 л.с.)</modification_id>
-			<complectation_name>GS</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Серый</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>9</run>
-			<year>2024</year>
-			<price>2299000</price>
-			<credit_discount>100000</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>100000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>200000</max_discount>
-			<currency>RUR</currency>
-			<vin>LMGHT1L22R3079951</vin>
-			<description />
-			<images />
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<priceWithDiscount>2099000</priceWithDiscount><sale_price>2099000</sale_price><url>https://auto-team.pro/cars/gac-gs3-15-amt-170-лс-gs-серый-2024/</url></car>
-		<car>
 			<unique_id>89065246-2004-11ef-8123-002590fc7f85</unique_id>
 			<mark_id>GAC</mark_id>
 			<folder_id>GS3</folder_id>
@@ -2244,6 +2257,34 @@
 			<max_discount>200000</max_discount>
 			<currency>RUR</currency>
 			<vin>LMGHT1L26R3080519</vin>
+			<description />
+			<images />
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<priceWithDiscount>2099000</priceWithDiscount><sale_price>2099000</sale_price><url>https://auto-team.pro/cars/gac-gs3-15-amt-170-лс-gs-серый-2024/</url></car>
+		<car>
+			<unique_id>5abf300b-2004-11ef-8123-002590fc7f85</unique_id>
+			<mark_id>GAC</mark_id>
+			<folder_id>GS3</folder_id>
+			<modification_id>1.5 AMT (170 л.с.)</modification_id>
+			<complectation_name>GS</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>Серый</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>9</run>
+			<year>2024</year>
+			<price>2299000</price>
+			<credit_discount>100000</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>100000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>200000</max_discount>
+			<currency>RUR</currency>
+			<vin>LMGHT1L22R3079951</vin>
 			<description />
 			<images />
 			<multiposting>
