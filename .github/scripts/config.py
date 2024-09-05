@@ -316,6 +316,20 @@ model_mapping = {
             "Черный": "cs95_black.webp",
         }
     },
+    "CS95PLUS": {
+        "folder": "cs95new",
+        "color": {
+            "Noble_black": "cs95new_noble_black.webp",
+            "Благородный черный": "cs95new_noble_black.webp",
+            "Черный": "cs95new_noble_black.webp",
+            "Mountain_grey": "cs95new_mountain_grey.webp",
+            "Горный серый": "cs95new_mountain_grey.webp",
+            "Серый": "cs95new_mountain_grey.webp",
+            "Polar_white": "cs95new_polar_white.webp",
+            "Полярный белый": "cs95new_polar_white.webp",
+            "Белый": "cs95new_polar_white.webp",
+        }
+    },
     "Eado Plus": {
         "folder": "eadoplus",
         "color": {
