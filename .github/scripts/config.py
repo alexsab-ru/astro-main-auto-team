@@ -416,4 +416,27 @@ model_mapping = {
             "Серый": "uni-v_sparkling_grey.webp",
         }
     },
+    "UNI-K": {
+        "folder": "uni-k",
+        "color": {
+            "Air-blue": "uni-k_air-blue.webp",
+            "Воздушный голубой": "uni-k_air-blue.webp",
+            "Голубой": "uni-k_air-blue.webp",
+            "Atomic-grey": "uni-k_atomic-grey.webp",
+            "Атомный серый": "uni-k_atomic-grey.webp",
+            "Серый": "uni-k_atomic-grey.webp",
+            "Star-grey": "uni-k_star-grey.webp",
+            "Звездный серый": "uni-k_star-grey.webp",
+            "Серый": "uni-k_star-grey.webp",
+            "Pearl-white": "uni-k_pearl-white.webp",
+            "Перламутровый белый": "uni-k_pearl-white.webp",
+            "Белый": "uni-k_pearl-white.webp",
+            "Pitch-black": "uni-k_pitch-black.webp",
+            "Глубокий черный": "uni-k_pitch-black.webp",
+            "Черный": "uni-k_pitch-black.webp",
+            "Sky-blue": "uni-k_sky-blue.webp",
+            "Небесный синий": "uni-k_sky-blue.webp",
+            "Синий": "uni-k_sky-blue.webp",
+        }
+    },
 }
