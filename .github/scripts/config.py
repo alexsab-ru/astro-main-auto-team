@@ -205,4 +205,21 @@ model_mapping = {
             "Белый": "white.webp",
         }
     },
+    "Alsvin": {
+        "folder": "alsvin",
+        "color": {
+            "Black": "black.webp",
+            "Черный": "black.webp",
+            "Blue": "blue.webp",
+            "Синий": "blue.webp",
+            "Gray": "gray.webp",
+            "Серый": "grey.webp",
+            "Red": "red.webp",
+            "Красный": "red.webp",
+            "Silver": "silver.webp",
+            "Серебряный": "silver.webp",
+            "White": "white.webp",
+            "Белый": "white.webp",
+        }
+    },
 }
