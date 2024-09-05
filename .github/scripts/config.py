@@ -242,4 +242,21 @@ model_mapping = {
             "Серый": "cs55plus_star_grey.webp",
         }
     },
+    "CS35PLUS": {
+        "folder": "cs35plus new",
+        "color": {
+            "Crystal_white": "crystal_white.webp",
+            "Кристально белый": "crystal_white.webp",
+            "Белый": "crystal_white.webp",
+            "Ashen_grey": "ashen_grey.webp",
+            "Серебристый пепел": "ashen_grey.webp",
+            "Серебристый": "ashen_grey.webp",
+            "Spark_red": "spark_red.webp",
+            "Искрящийся красный": "spark_red.webp",
+            "Красный": "spark_red.webp",
+            "Mountain_grey": "mountain_grey.webp",
+            "Горный серый": "mountain_grey.webp",
+            "Серый": "mountain_grey.webp",
+        }
+    },
 }
