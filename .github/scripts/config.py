@@ -222,4 +222,24 @@ model_mapping = {
             "Белый": "white.webp",
         }
     },
+    "CS35PLUS, I Рестайлинг": {
+        "folder": "cs55plus",
+        "color": {
+            "Atomic_grey": "cs55plus_atomic_grey.webp",
+            "Атомный серый": "cs55plus_atomic_grey.webp",
+            "Светло-серый": "cs55plus_atomic_grey.webp",
+            "Deep_black": "cs55plus_deep_black.webp",
+            "Глубокий черный": "cs55plus_deep_black.webp",
+            "Черный": "cs55plus_deep_black.webp",
+            "Pearl_white": "cs55plus_pearl_white.webp",
+            "Перламутровый белый": "cs55plus_pearl_white.webp",
+            "Белый": "cs55plus_pearl_white.webp",
+            "Spark_red": "cs55plus_spark_red.webp",
+            "Искрящийся красный": "cs55plus_spark_red.webp",
+            "Красный": "cs55plus_spark_red.webp",
+            "Star_grey": "cs55plus_star_grey.webp",
+            "Звездный серый": "cs55plus_star_grey.webp",
+            "Серый": "cs55plus_star_grey.webp",
+        }
+    },
 }
