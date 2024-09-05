@@ -279,4 +279,24 @@ model_mapping = {
             "Красный": "eadoplus_red.webp",
         }
     },
+    "Lamore": {
+        "folder": "lamore",
+        "color": {
+            "Deep_black": "lamore_deep_black.webp",
+            "Глубокий черный": "lamore_deep_black.webp",
+            "Черный": "lamore_deep_black.webp",
+            "Mountain_grey": "lamore_mountain_grey.webp",
+            "Горный серый": "lamore_mountain_grey.webp",
+            "Серый": "lamore_mountain_grey.webp",
+            "Shining_red": "lamore_shining_red.webp",
+            "Сияющий красный": "lamore_shining_red.webp",
+            "Красный": "lamore_shining_red.webp",
+            "Starry_white": "lamore_starry_white.webp",
+            "Звездный белый": "lamore_starry_white.webp",
+            "Белый": "lamore_starry_white.webp",
+            "Exquisite_green": "lamore_exquisite_green.webp",
+            "Изысканный зеленый": "lamore_exquisite_green.webp",
+            "Зеленый": "lamore_exquisite_green.webp",
+        }
+    },
 }
