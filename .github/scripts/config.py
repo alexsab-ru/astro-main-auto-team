@@ -371,7 +371,7 @@ model_mapping = {
         }
     },
     "UNI-T, I Рестайлинг": {
-        "folder": "uni-t-i-restayling",
+        "folder": "uni-t",
         "color": {
             "Air_blue": "uni-t_air_blue.webp",
             "Воздушный голубой": "uni-t_air_blue.webp",
