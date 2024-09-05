@@ -279,6 +279,29 @@ model_mapping = {
             "Синий": "cs75plus_crystal_blue.webp",
         }
     },
+    "CS85COUPE": {
+        "folder": "cs85coupe",
+        "color": {
+            "Black": "cs85_black.webp",
+            "Тихий черный": "cs85_black.webp",
+            "Черный": "cs85_black.webp",
+            "Blue": "cs85_blue.webp",
+            "Сияющий синий": "cs85_blue.webp",
+            "Синий": "cs85_blue.webp",
+            "White": "cs85_white.webp",
+            "Полярный белый": "cs85_white.webp",
+            "Белый": "cs85_white.webp",
+            "Red": "cs85_red.webp",
+            "Сияющий красный": "cs85_red.webp",
+            "Красный": "cs85_red.webp",
+            "Viol": "cs85_viol.webp",
+            "Глубокий фиолетовый": "cs85_viol.webp",
+            "Фиолетовый": "cs85_viol.webp",
+            "Grey": "cs85_grey.webp",
+            "Серебристый серый": "cs85_grey.webp",
+            "Серый": "cs85_grey.webp",
+        }
+    },
     "Eado Plus": {
         "folder": "eadoplus",
         "color": {
