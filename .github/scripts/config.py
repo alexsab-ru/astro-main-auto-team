@@ -439,6 +439,26 @@ model_mapping = {
             "Синий": "uni-k_sky-blue.webp",
         }
     },
+    "UNI-K, IDD": {
+        "folder": "uni-k idd",
+        "color": {
+            "Atomic-gray": "uni-k_idd_atomic-gray.webp",
+            "Атомный серый": "uni-k_idd_atomic-gray.webp",
+            "Серый": "uni-k_idd_atomic-gray.webp",
+            "Deep-black": "uni-k_idd_deep-black.webp",
+            "Глубокий черный": "uni-k_idd_deep-black.webp",
+            "Черный": "uni-k_idd_deep-black.webp",
+            "Star-gray": "uni-k_idd_star-gray.webp",
+            "Звездный серый": "uni-k_idd_star-gray.webp",
+            "Серый": "uni-k_idd_star-gray.webp",
+            "Sky-gray": "uni-k_idd_sky-gray.webp",
+            "Небесный синий": "uni-k_idd_sky-gray.webp",
+            "Синий": "uni-k_idd_sky-gray.webp",
+            "Pearl-white": "uni-k_idd_pearl-white.webp",
+            "Перламутровый белый": "uni-k_idd_pearl-white.webp",
+            "Белый": "uni-k_idd_pearl-white.webp",
+        }
+    },
     "Hunter Plus": {
         "folder": "hunterplus",
         "color": {
