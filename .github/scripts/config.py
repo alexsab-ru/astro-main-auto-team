@@ -259,4 +259,24 @@ model_mapping = {
             "Серый": "mountain_grey.webp",
         }
     },
+    "Eado Plus": {
+        "folder": "eadoplus",
+        "color": {
+            "Black": "eadoplus_black.webp",
+            "Глубокий черный": "eadoplus_black.webp",
+            "Черный": "eadoplus_black.webp",
+            "Grey": "eadoplus_grey.webp",
+            "Космический серый": "eadoplus_grey.webp",
+            "Серый": "eadoplus_grey.webp",
+            "White": "eadoplus_white.webp",
+            "Звездный белый": "eadoplus_white.webp",
+            "Белый": "eadoplus_white.webp",
+            "Silver": "eadoplus_silver.webp",
+            "Титановый серебристый": "eadoplus_silver.webp",
+            "Серебристый": "eadoplus_silver.webp",
+            "Red": "eadoplus_red.webp",
+            "Искрящийся красный": "eadoplus_red.webp",
+            "Красный": "eadoplus_red.webp",
+        }
+    },
 }
