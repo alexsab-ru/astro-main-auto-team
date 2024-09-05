@@ -393,4 +393,27 @@ model_mapping = {
             "Синий": "uni-t_sky_blue.webp",
         }
     },
+    "UNI-V": {
+        "folder": "uni-v",
+        "color": {
+            "Atomic_grey": "uni-v_atomic_grey.webp",
+            "Атомный серый": "uni-v_atomic_grey.webp",
+            "Серый": "uni-v_atomic_grey.webp",
+            "Bursting_blue": "uni-v_bursting_blue.webp",
+            "Взрывной синий": "uni-v_bursting_blue.webp",
+            "Синий": "uni-v_bursting_blue.webp",
+            "Moonlight_white": "uni-v_moonlight_white.webp",
+            "Лунный белый": "uni-v_moonlight_white.webp",
+            "Белый": "uni-v_moonlight_white.webp",
+            "Star_dark": "uni-v_star_dark.webp",
+            "Звездный черный": "uni-v_star_dark.webp",
+            "Черный": "uni-v_star_dark.webp",
+            "Dazzling_red": "uni-v_dazzling_red.webp",
+            "Ослепительный красный": "uni-v_dazzling_red.webp",
+            "Красный": "uni-v_dazzling_red.webp",
+            "Sparkling_grey": "uni-v_sparkling_grey.webp",
+            "Искрящийся серый": "uni-v_sparkling_grey.webp",
+            "Серый": "uni-v_sparkling_grey.webp",
+        }
+    },
 }
