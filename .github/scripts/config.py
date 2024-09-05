@@ -12,12 +12,14 @@ model_mapping = {
             "Серый": "gray-metallic",
             "Красный": "red-metallic",
             "Серебристый": "silver-metallic",
-        }},
+        }
+    },
     "Atlas, I": {
         "folder": "Atlas Pro",
         "color": {
 
-        }},
+        }
+    },
     "Atlas, II": {
         "folder": "Atlas-2024",
         "color": {
@@ -26,7 +28,8 @@ model_mapping = {
             "Серебристый": "silver-metallic",
             "Серый": "starry-blue-metallic",
             "Белый": "white",
-        }},
+        }
+    },
     "Coolray, I Рестайлинг": {
         "folder": "New Coolray",
         "color": {
@@ -35,7 +38,8 @@ model_mapping = {
             "Синий": "cyber-blue",
             "Серый": "magnetic-grey",
             "Серебристый": "unicorn-grey",
-        }},
+        }
+    },
     "Coolray, I": {
         "folder": "Coolray",
         "color": {
@@ -44,7 +48,8 @@ model_mapping = {
             "Красный": "red",
             "Серебристый": "silver-metallic",
             "Белый": "white",
-        }},
+        }
+    },
     "Emgrand L": {
         "folder": "Emgrand",
         "color": {
@@ -53,7 +58,8 @@ model_mapping = {
             "Золотой": "gold-metallic",
             "Серый": "gray-metallic",
             "Белый": "white-metallic",
-        }},
+        }
+    },
     "Emgrand, II": {
         "folder": "Emgrand",
         "color": {
@@ -63,7 +69,8 @@ model_mapping = {
             "Оранжевый": "gold-metallic",
             "Серый": "gray-metallic",
             "Белый": "white-metallic",
-        }},
+        }
+    },
     "Monjaro": {
         "folder": "Monjaro",
         "color": {
@@ -74,12 +81,14 @@ model_mapping = {
             "Серый": "gray-metallic",
             "Серебристый": "silver-metallic",
             "Белый": "white-metallic",
-        }},
+        }
+    },
     "Okavango": {
         "folder": "Okavango",
         "color": {
 
-        }},
+        }
+    },
     "Tugella, I Рестайлинг": {
         "folder": "Tugella",
         "color": {
@@ -88,7 +97,8 @@ model_mapping = {
             "Серо-голубой": "gray-blue-metallic",
             "Серый": "gray-metallic",
             "Белый": "white-metallic",
-        }},
+        }
+    },
     "X50": {
         "folder": "x50",
         "color": {
@@ -103,7 +113,8 @@ model_mapping = {
             "Серебристый": "silver.webp",
             "White": "white.webp",
             "Белый": "white.webp",
-        }},
+        }
+    },
     "X70": {
         "folder": "x70",
         "color": {
@@ -120,7 +131,8 @@ model_mapping = {
             "Серебристый": "silver.webp",
             "White": "white.webp",
             "Белый": "white.webp",
-        }},
+        }
+    },
     "GN8": {
         "folder": "gn8",
         "color": {
@@ -129,7 +141,8 @@ model_mapping = {
             "Синий": "blue.webp",
             "Коричневый": "brown.webp",
             "Белый": "white.webp",
-        }},
+        }
+    },
     "GS3": {
         "folder": "gs3",
         "color": {
@@ -140,7 +153,8 @@ model_mapping = {
             "Серебристый": "silver.webp",
             "Серебряный": "silver.webp",
             "Белый": "white.webp",
-        }},
+        }
+    },
     "GS5": {
         "folder": "gs5",
         "color": {
@@ -152,7 +166,8 @@ model_mapping = {
             "Серебристый": "silver.webp",
             "Серебряный": "silver.webp",
             "Белый": "white.webp",
-        }},
+        }
+    },
     "GS8, I поколение": {
         "folder": "gs8",
         "color": {
@@ -163,7 +178,8 @@ model_mapping = {
             "Серый": "gray.webp",
             "Голубой": "ice-blue.webp",
             "Белый": "white.webp",
-        }},
+        }
+    },
     "GS8, II": {
         "folder": "gs8ii",
         "color": {
@@ -175,7 +191,8 @@ model_mapping = {
             "Серебристый": "silver.webp",
             "Серебряный": "silver.webp",
             "Белый": "white.webp",
-        }},
+        }
+    },
     "M8": {
         "folder": "m8",
         "color": {
@@ -186,6 +203,6 @@ model_mapping = {
             "Зелёный": "green.webp",
             "Золотой": "gold.webp",
             "Белый": "white.webp",
-        }},
-    # ... добавьте другие модели по мере необходимости
+        }
+    },
 }
