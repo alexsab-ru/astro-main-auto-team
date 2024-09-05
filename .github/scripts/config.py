@@ -222,7 +222,7 @@ model_mapping = {
             "Белый": "white.webp",
         }
     },
-    "CS35PLUS, I Рестайлинг": {
+    "CS55PLUS, I Рестайлинг": {
         "folder": "cs55plus",
         "color": {
             "Atomic_grey": "cs55plus_atomic_grey.webp",
