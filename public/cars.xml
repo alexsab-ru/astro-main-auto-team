@@ -1400,7 +1400,7 @@
 			<tradein_discount>140000</tradein_discount>
 			<max_discount>540000</max_discount>
 			<currency>RUR</currency>
-			<vin>LS4ASE2A6RA713513</vin>
+			<vin>LS4ASE2A2RA706736</vin>
 			<description />
 			<images />
 			<multiposting>
@@ -1426,7 +1426,7 @@
 			<tradein_discount>140000</tradein_discount>
 			<max_discount>540000</max_discount>
 			<currency>RUR</currency>
-			<vin>LS4ASE2A2RA706736</vin>
+			<vin>LS4ASE2A6RA713513</vin>
 			<description />
 			<images />
 			<multiposting>
@@ -1922,7 +1922,7 @@
 			<tradein_discount>50000</tradein_discount>
 			<max_discount>100000</max_discount>
 			<currency>RUR</currency>
-			<vin>LS5A2DKE3RA215228</vin>
+			<vin>LS5A2DKE9RA215248</vin>
 			<description />
 			<images />
 			<multiposting>
@@ -1948,7 +1948,7 @@
 			<tradein_discount>50000</tradein_discount>
 			<max_discount>100000</max_discount>
 			<currency>RUR</currency>
-			<vin>LS5A2DKE9RA215248</vin>
+			<vin>LS5A2DKE3RA215228</vin>
 			<description />
 			<images />
 			<multiposting>
@@ -3398,7 +3398,15 @@
 			<currency>RUR</currency>
 			<vin>Y4K8622Z6RB934550</vin>
 			<description />
-			<images />
+			<images>
+				<image>https://photo.toyotasever.ru/Y4K8622Z6RB934550/e82ecc72967b60478a333f504d312886.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z6RB934550/bae0cdf2f74052a330b277345344ba15.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z6RB934550/d6d811f5fd441a37d47ba5962754b997.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z6RB934550/099626a3cf4d31e7f9734fb426f08cba.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z6RB934550/3a0bec83d6330b22be5952579ba45e35.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z6RB934550/cdd39221b7d9e9a8b85f92a718ff0fa8.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z6RB934550/32b482fc1418f90a876028540121651b.jpg</image>
+			</images>
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
@@ -4030,7 +4038,20 @@
 			<currency>RUR</currency>
 			<vin>Y4K8722D4RB318881</vin>
 			<description />
-			<images />
+			<images>
+				<image>https://photo.toyotasever.ru/Y4K8722D4RB318881/8539f45778b39be3c7b13d294bf08999.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D4RB318881/76a828eab07a5e78c46d0a81737eacec.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D4RB318881/dea1ff84f079a5aee1c784c934f76308.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D4RB318881/63eb40b8a5f9f17c79779f1a312e6382.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D4RB318881/781609b0bc5aa0fb67cff56cc5b0e69c.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D4RB318881/71ae52c3ab1f3609b960653a6c465fde.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D4RB318881/769480646874ccd9d21ef641e12659eb.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D4RB318881/a30318e41cbc1fab89dcd4fd019104db.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D4RB318881/885878a231a9f04e5f7aa4d39d5d92eb.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D4RB318881/caff009376f36a785cb5d52c2602a729.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D4RB318881/6a7d74b94bb7cbf6ae03c6319b5747b0.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8722D4RB318881/ef13859b9ee4e14c7d5120d7748fba56.jpg</image>
+			</images>
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
