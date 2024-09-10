@@ -14,15 +14,15 @@ def create_file(car, filename, unique_id):
     vin_hidden = process_vin_hidden(vin)
     # Преобразование цвета
     color = car.find('color').text.strip().capitalize()
+    brand = car.find('mark_id').text.strip().lower()
     model = car.find('folder_id').text.strip()
-
     model_obj = model_mapping.get(model, '../404.jpg?')
 
     # Проверяем, существует ли 'model' в 'model_mapping' и есть ли соответствующий 'color'
     if model in model_mapping and color in model_mapping[model].get('color', {}):
         folder = model_mapping[model]['folder']
         color_image = model_mapping[model]['color'][color]
-        thumb = f"/img/models/{folder}/colors/{color_image}"
+        thumb = f"/img/models/{brand}/{folder}/colors/{color_image}"
     else:
         print("")
         errorText = f"VIN: {vin}. Не хватает модели: {model} или цвета: {color}"
