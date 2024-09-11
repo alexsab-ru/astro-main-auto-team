@@ -17,7 +17,7 @@ export const TELEGRAM = '';
 // Телефон по умолчанию
 export const PHONE = '+7 (8453) 220-200';
 // Бренд
-export const BRAND = 'Changan, GAС, Belgee';
+export const BRAND = 'Changan, GAС, Geely, Belgee';
 // Конечное время для таймера
 //string 2024-04-26 or 2024-04-26 23:59:59 or December 31 2015 or December 31 2015 23:59:59 GMT+02:00
 export const TIMER_ENDTIME = '';
