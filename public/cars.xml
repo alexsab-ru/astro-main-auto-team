@@ -732,47 +732,6 @@
 			<custom>растаможен</custom>
 			<owners_number>Не было владельцев</owners_number>
 			<year>2023</year>
-			<price>2419476</price>
-			<credit_discount>100000</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>80000</tradein_discount>
-			<max_discount>180000</max_discount>
-			<currency>RUR</currency>
-			<vin>LS5A2DKR1RA960417</vin>
-			<description />
-			<images>
-				<image>https://photo.toyotasever.ru/LS5A2DKR1RA960417/4270e8665f2dd3e82dd21dbedc6eaf54.jpg</image>
-				<image>https://photo.toyotasever.ru/LS5A2DKR1RA960417/8b9e54f4be9c09564147e61bae309306.jpg</image>
-				<image>https://photo.toyotasever.ru/LS5A2DKR1RA960417/9bdd7c6a9577af885cf7d6f7771560fc.jpg</image>
-				<image>https://photo.toyotasever.ru/LS5A2DKR1RA960417/5e1017c9c0ab4e0f5d767d703bcc153f.jpg</image>
-				<image>https://photo.toyotasever.ru/LS5A2DKR1RA960417/11ac49a5fed8b430cbcbc43787a9e5dd.jpg</image>
-				<image>https://photo.toyotasever.ru/LS5A2DKR1RA960417/8326381e743bb973964faac170b67472.jpg</image>
-				<image>https://photo.toyotasever.ru/LS5A2DKR1RA960417/689036630be483c19f5fff8bdf6984bc.jpg</image>
-				<image>https://photo.toyotasever.ru/LS5A2DKR1RA960417/5904aaa0a55db371bf986d58332b977b.jpg</image>
-				<image>https://photo.toyotasever.ru/LS5A2DKR1RA960417/44b0b0ec4e73373f9f12fd5921b5abff.jpg</image>
-				<image>https://photo.toyotasever.ru/LS5A2DKR1RA960417/6c9474088d133c78e14463595cdc6f04.jpg</image>
-				<image>https://photo.toyotasever.ru/LS5A2DKR1RA960417/9311cf2b9d4ba32de45e6bc46b8cb267.jpg</image>
-				<image>https://photo.toyotasever.ru/LS5A2DKR1RA960417/1511aec5a3ab4d0b6e4fc82c7a7f6cd1.jpg</image>
-				<image>https://photo.toyotasever.ru/LS5A2DKR1RA960417/0087da79de864920044de6b1de84825c.jpg</image>
-				<image>https://photo.toyotasever.ru/LS5A2DKR1RA960417/780d4e2e9514d3d5bb75eecab01dda85.jpg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<priceWithDiscount>2239476</priceWithDiscount><sale_price>2239476</sale_price><url>https://auto-team.pro/cars/changan-eado-plus-14-amt-155-лс-dlx-белый-2023/</url></car>
-		<car>
-			<mark_id>Changan</mark_id>
-			<folder_id>Eado Plus</folder_id>
-			<modification_id>1.4 AMT (155 л.с.)</modification_id>
-			<body_type>Седан</body_type>
-			<complectation_name>DLX</complectation_name>
-			<wheel>левый</wheel>
-			<color>Белый</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<owners_number>Не было владельцев</owners_number>
-			<year>2023</year>
 			<price>2399900</price>
 			<credit_discount>100000</credit_discount>
 			<insurance_discount>0</insurance_discount>
@@ -3597,49 +3556,6 @@
 			</multiposting>
 		<priceWithDiscount>2095990</priceWithDiscount><sale_price>2095990</sale_price><url>https://auto-team.pro/cars/belgee-x50-15-amt-150-лс-style-серебристый-2024/</url></car>
 		<car>
-			<unique_id>caa8363a583b5477ef754f50f9e52709</unique_id>
-			<mark_id>BELGEE</mark_id>
-			<folder_id>X50</folder_id>
-			<modification_id>1.5 AMT (150 л.с.)</modification_id>
-			<complectation_name>Style</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Серебристый</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>7</run>
-			<year>2024</year>
-			<price>2415990</price>
-			<credit_discount>135000</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>185000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>320000</max_discount>
-			<currency>RUR</currency>
-			<vin>Y4K8622Z6RB931261</vin>
-			<description>Партнер-Авто - oфициальный дилерский центp Вelgее в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
-
-✅Bыгoдный кpедит c комфоpтными ежемecячными платежами.
-
-✅Bыгoдa по программе Трейд-ин до 185 000 руб
-
-✅Скидка по программе “Gееly Finаnсе” 135 000 руб.
-
-✅ПТС в наличии! Покупка одним днём! Звоните сейчас, и мы подготовим для Вас персональное предложение!</description>
-			<images>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6RB931261/e494c8bfdc2c67399f5d382291e352d8.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6RB931261/8e8e7765b891c4a05027ab2536b0c3b6.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6RB931261/a44657160dccbb6cf709cc9df61d078e.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6RB931261/79050c2cd966b226f350f4b0c0abc9d6.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6RB931261/7a5bdad9b844d6aea884f0c093f98e88.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6RB931261/7676c39f14cd145b313a09f29a68a251.jpg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<priceWithDiscount>2095990</priceWithDiscount><sale_price>2095990</sale_price><url>https://auto-team.pro/cars/belgee-x50-15-amt-150-лс-style-серебристый-2024/</url></car>
-		<car>
 			<unique_id>84d83969d3dbb8f38e5e186ec8af9fe5</unique_id>
 			<mark_id>BELGEE</mark_id>
 			<folder_id>X50</folder_id>
@@ -3677,6 +3593,49 @@
 				<image>https://photo.toyotasever.ru/Y4K8622Z6RB931213/5293abab304bef312bc361af0b9211e0.jpg</image>
 				<image>https://photo.toyotasever.ru/Y4K8622Z6RB931213/836a0ff419258064d08ffd53e684829b.jpg</image>
 				<image>https://photo.toyotasever.ru/Y4K8622Z6RB931213/07b424d3a4c8fce5c98492fb3faf56ae.jpg</image>
+			</images>
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<priceWithDiscount>2095990</priceWithDiscount><sale_price>2095990</sale_price><url>https://auto-team.pro/cars/belgee-x50-15-amt-150-лс-style-серебристый-2024/</url></car>
+		<car>
+			<unique_id>caa8363a583b5477ef754f50f9e52709</unique_id>
+			<mark_id>BELGEE</mark_id>
+			<folder_id>X50</folder_id>
+			<modification_id>1.5 AMT (150 л.с.)</modification_id>
+			<complectation_name>Style</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>Серебристый</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>7</run>
+			<year>2024</year>
+			<price>2415990</price>
+			<credit_discount>135000</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>185000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>320000</max_discount>
+			<currency>RUR</currency>
+			<vin>Y4K8622Z6RB931261</vin>
+			<description>Партнер-Авто - oфициальный дилерский центp Вelgее в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
+
+✅Bыгoдный кpедит c комфоpтными ежемecячными платежами.
+
+✅Bыгoдa по программе Трейд-ин до 185 000 руб
+
+✅Скидка по программе “Gееly Finаnсе” 135 000 руб.
+
+✅ПТС в наличии! Покупка одним днём! Звоните сейчас, и мы подготовим для Вас персональное предложение!</description>
+			<images>
+				<image>https://photo.toyotasever.ru/Y4K8622Z6RB931261/e494c8bfdc2c67399f5d382291e352d8.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z6RB931261/8e8e7765b891c4a05027ab2536b0c3b6.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z6RB931261/a44657160dccbb6cf709cc9df61d078e.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z6RB931261/79050c2cd966b226f350f4b0c0abc9d6.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z6RB931261/7a5bdad9b844d6aea884f0c093f98e88.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z6RB931261/7676c39f14cd145b313a09f29a68a251.jpg</image>
 			</images>
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
