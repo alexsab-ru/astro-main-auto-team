@@ -1834,7 +1834,7 @@
 			<tradein_discount>50000</tradein_discount>
 			<max_discount>100000</max_discount>
 			<currency>RUR</currency>
-			<vin>LS5A2DKE9RA215248</vin>
+			<vin>LS5A2DKE3RA215228</vin>
 			<description />
 			<images />
 			<multiposting>
@@ -1860,7 +1860,7 @@
 			<tradein_discount>50000</tradein_discount>
 			<max_discount>100000</max_discount>
 			<currency>RUR</currency>
-			<vin>LS5A2DKE3RA215228</vin>
+			<vin>LS5A2DKE9RA215248</vin>
 			<description />
 			<images />
 			<multiposting>
@@ -2269,7 +2269,7 @@
 			<metallic>нет</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
-			<run>3</run>
+			<run>4</run>
 			<year>2024</year>
 			<price>2749000</price>
 			<credit_discount>100000</credit_discount>
@@ -2661,7 +2661,7 @@
 			<metallic>нет</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
-			<run>3</run>
+			<run>4</run>
 			<year>2024</year>
 			<price>4899000</price>
 			<credit_discount>150000</credit_discount>
