@@ -71,7 +71,7 @@
 			<tradein_discount>80000</tradein_discount>
 			<max_discount>180000</max_discount>
 			<currency>RUR</currency>
-			<vin>LS5A2ASEXRD931718</vin>
+			<vin>LS5A2ASE7RD930364</vin>
 			<description />
 			<images />
 			<multiposting>
@@ -97,7 +97,7 @@
 			<tradein_discount>80000</tradein_discount>
 			<max_discount>180000</max_discount>
 			<currency>RUR</currency>
-			<vin>LS5A2ASE7RD930364</vin>
+			<vin>LS5A2ASEXRD931718</vin>
 			<description />
 			<images />
 			<multiposting>
@@ -834,6 +834,58 @@
 			<body_type>Седан</body_type>
 			<complectation_name>Базовая</complectation_name>
 			<wheel>левый</wheel>
+			<color>Серый</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<owners_number>Не было владельцев</owners_number>
+			<year>2024</year>
+			<price>2789900</price>
+			<credit_discount>50000</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>50000</tradein_discount>
+			<max_discount>100000</max_discount>
+			<currency>RUR</currency>
+			<vin>LS5A2DKE3RA001954</vin>
+			<description />
+			<images />
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<priceWithDiscount>2689900</priceWithDiscount><sale_price>2689900</sale_price><url>https://auto-team.pro/cars/changan-lamore-15-amt-180-лс-базовая-серый-2024/</url></car>
+		<car>
+			<mark_id>Changan</mark_id>
+			<folder_id>Lamore</folder_id>
+			<modification_id>1.5 AMT (180 л.с.)</modification_id>
+			<body_type>Седан</body_type>
+			<complectation_name>Базовая</complectation_name>
+			<wheel>левый</wheel>
+			<color>Белый</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<owners_number>Не было владельцев</owners_number>
+			<year>2024</year>
+			<price>2789900</price>
+			<credit_discount>50000</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>50000</tradein_discount>
+			<max_discount>100000</max_discount>
+			<currency>RUR</currency>
+			<vin>LS5A2DKE3RA003381</vin>
+			<description />
+			<images />
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<priceWithDiscount>2689900</priceWithDiscount><sale_price>2689900</sale_price><url>https://auto-team.pro/cars/changan-lamore-15-amt-180-лс-базовая-белый-2024/</url></car>
+		<car>
+			<mark_id>Changan</mark_id>
+			<folder_id>Lamore</folder_id>
+			<modification_id>1.5 AMT (180 л.с.)</modification_id>
+			<body_type>Седан</body_type>
+			<complectation_name>Базовая</complectation_name>
+			<wheel>левый</wheel>
 			<color>Белый</color>
 			<metallic>нет</metallic>
 			<availability>в наличии</availability>
@@ -915,32 +967,6 @@
 			<tradein_discount>50000</tradein_discount>
 			<max_discount>100000</max_discount>
 			<currency>RUR</currency>
-			<vin>LS5A2DKE3RA003381</vin>
-			<description />
-			<images />
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<priceWithDiscount>2689900</priceWithDiscount><sale_price>2689900</sale_price><url>https://auto-team.pro/cars/changan-lamore-15-amt-180-лс-базовая-белый-2024/</url></car>
-		<car>
-			<mark_id>Changan</mark_id>
-			<folder_id>Lamore</folder_id>
-			<modification_id>1.5 AMT (180 л.с.)</modification_id>
-			<body_type>Седан</body_type>
-			<complectation_name>Базовая</complectation_name>
-			<wheel>левый</wheel>
-			<color>Белый</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<owners_number>Не было владельцев</owners_number>
-			<year>2024</year>
-			<price>2789900</price>
-			<credit_discount>50000</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>50000</tradein_discount>
-			<max_discount>100000</max_discount>
-			<currency>RUR</currency>
 			<vin>LS5A2DKE9RA003353</vin>
 			<description />
 			<images />
@@ -1002,10 +1028,79 @@
 		<priceWithDiscount>2689900</priceWithDiscount><sale_price>2689900</sale_price><url>https://auto-team.pro/cars/changan-lamore-15-amt-180-лс-базовая-серый-2023/</url></car>
 		<car>
 			<mark_id>Changan</mark_id>
-			<folder_id>Lamore</folder_id>
-			<modification_id>1.5 AMT (180 л.с.)</modification_id>
-			<body_type>Седан</body_type>
-			<complectation_name>Базовая</complectation_name>
+			<folder_id>UNI-K</folder_id>
+			<modification_id>2.0 AT (226 л.с.) 4WD</modification_id>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<complectation_name>Tech</complectation_name>
+			<wheel>левый</wheel>
+			<color>синий</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<owners_number>Не было владельцев</owners_number>
+			<year>2024</year>
+			<price>4269900</price>
+			<credit_discount>200000</credit_discount>
+			<insurance_discount>200000</insurance_discount>
+			<tradein_discount>140000</tradein_discount>
+			<max_discount>540000</max_discount>
+			<currency>RUR</currency>
+			<vin>LS4ASE2A7RA705808</vin>
+			<description />
+			<images />
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<priceWithDiscount>3729900</priceWithDiscount><sale_price>3729900</sale_price><url>https://auto-team.pro/cars/changan-uni-k-20-at-226-лс-4wd-tech-синий-2024/</url></car>
+		<car>
+			<mark_id>Changan</mark_id>
+			<folder_id>UNI-K</folder_id>
+			<modification_id>2.0 AT (226 л.с.) 4WD</modification_id>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<complectation_name>Tech</complectation_name>
+			<wheel>левый</wheel>
+			<color>Белый</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<owners_number>Не было владельцев</owners_number>
+			<year>2024</year>
+			<price>4269900</price>
+			<credit_discount>200000</credit_discount>
+			<insurance_discount>200000</insurance_discount>
+			<tradein_discount>140000</tradein_discount>
+			<max_discount>540000</max_discount>
+			<currency>RUR</currency>
+			<vin>LS4ASE2A7RA707137</vin>
+			<description />
+			<images>
+				<image>https://photo.toyotasever.ru/LS4ASE2A7RA707137/cc354a924df598380d027cf0a2564017.jpg</image>
+				<image>https://photo.toyotasever.ru/LS4ASE2A7RA707137/9589b34eba321ca4415cb1d76bec7c10.jpg</image>
+				<image>https://photo.toyotasever.ru/LS4ASE2A7RA707137/331ae4950df0985dbe0a3a60edb6583c.jpg</image>
+				<image>https://photo.toyotasever.ru/LS4ASE2A7RA707137/83e29d83f1582b5fddad3745c71b95ad.jpg</image>
+				<image>https://photo.toyotasever.ru/LS4ASE2A7RA707137/824ae5e06ee682495866be8862ed18e1.jpg</image>
+				<image>https://photo.toyotasever.ru/LS4ASE2A7RA707137/8aff03c7602b6a8c8c709f8129c90ec3.jpg</image>
+				<image>https://photo.toyotasever.ru/LS4ASE2A7RA707137/9d228363606d2596fc121266be577976.jpg</image>
+				<image>https://photo.toyotasever.ru/LS4ASE2A7RA707137/cd2916002f1acbaec582efd0e1eab810.jpg</image>
+				<image>https://photo.toyotasever.ru/LS4ASE2A7RA707137/11ce2fefb0c440118407d3f06d1f2115.jpg</image>
+				<image>https://photo.toyotasever.ru/LS4ASE2A7RA707137/585f2c77c2938cb0aaae7ccd7004be2e.jpg</image>
+				<image>https://photo.toyotasever.ru/LS4ASE2A7RA707137/3ffb2b029ce70f3f0afa095cdbf1bce3.jpg</image>
+				<image>https://photo.toyotasever.ru/LS4ASE2A7RA707137/8f9ee9e1268b7d3e9699859a0bbf5eb7.jpg</image>
+				<image>https://photo.toyotasever.ru/LS4ASE2A7RA707137/ac3669f15b44f0df3334d5ef7f0de954.jpg</image>
+				<image>https://photo.toyotasever.ru/LS4ASE2A7RA707137/8cea3858839e637cabc36993ec595e82.jpg</image>
+				<image>https://photo.toyotasever.ru/LS4ASE2A7RA707137/3baf87ebc53c688477bbeaec01dc5e50.jpg</image>
+				<image>https://photo.toyotasever.ru/LS4ASE2A7RA707137/29f3022cb96b04deafe981cedc11cab9.jpg</image>
+			</images>
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<priceWithDiscount>3729900</priceWithDiscount><sale_price>3729900</sale_price><url>https://auto-team.pro/cars/changan-uni-k-20-at-226-лс-4wd-tech-белый-2024/</url></car>
+		<car>
+			<mark_id>Changan</mark_id>
+			<folder_id>UNI-K</folder_id>
+			<modification_id>2.0 AT (226 л.с.) 4WD</modification_id>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<complectation_name>Tech</complectation_name>
 			<wheel>левый</wheel>
 			<color>Серый</color>
 			<metallic>нет</metallic>
@@ -1013,19 +1108,19 @@
 			<custom>растаможен</custom>
 			<owners_number>Не было владельцев</owners_number>
 			<year>2024</year>
-			<price>2789900</price>
-			<credit_discount>50000</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>50000</tradein_discount>
-			<max_discount>100000</max_discount>
+			<price>4269900</price>
+			<credit_discount>200000</credit_discount>
+			<insurance_discount>200000</insurance_discount>
+			<tradein_discount>140000</tradein_discount>
+			<max_discount>540000</max_discount>
 			<currency>RUR</currency>
-			<vin>LS5A2DKE3RA001954</vin>
+			<vin>LS4ASE2A5RA704317</vin>
 			<description />
 			<images />
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
-		<priceWithDiscount>2689900</priceWithDiscount><sale_price>2689900</sale_price><url>https://auto-team.pro/cars/changan-lamore-15-amt-180-лс-базовая-серый-2024/</url></car>
+		<priceWithDiscount>3729900</priceWithDiscount><sale_price>3729900</sale_price><url>https://auto-team.pro/cars/changan-uni-k-20-at-226-лс-4wd-tech-серый-2024/</url></car>
 		<car>
 			<mark_id>Changan</mark_id>
 			<folder_id>UNI-K</folder_id>
@@ -1085,7 +1180,7 @@
 			<body_type>Внедорожник 5 дв.</body_type>
 			<complectation_name>Tech</complectation_name>
 			<wheel>левый</wheel>
-			<color>Белый</color>
+			<color>Серый</color>
 			<metallic>нет</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
@@ -1097,30 +1192,13 @@
 			<tradein_discount>140000</tradein_discount>
 			<max_discount>540000</max_discount>
 			<currency>RUR</currency>
-			<vin>LS4ASE2A7RA707137</vin>
+			<vin>LS4ASE2A1RA715508</vin>
 			<description />
-			<images>
-				<image>https://photo.toyotasever.ru/LS4ASE2A7RA707137/cc354a924df598380d027cf0a2564017.jpg</image>
-				<image>https://photo.toyotasever.ru/LS4ASE2A7RA707137/9589b34eba321ca4415cb1d76bec7c10.jpg</image>
-				<image>https://photo.toyotasever.ru/LS4ASE2A7RA707137/331ae4950df0985dbe0a3a60edb6583c.jpg</image>
-				<image>https://photo.toyotasever.ru/LS4ASE2A7RA707137/83e29d83f1582b5fddad3745c71b95ad.jpg</image>
-				<image>https://photo.toyotasever.ru/LS4ASE2A7RA707137/824ae5e06ee682495866be8862ed18e1.jpg</image>
-				<image>https://photo.toyotasever.ru/LS4ASE2A7RA707137/8aff03c7602b6a8c8c709f8129c90ec3.jpg</image>
-				<image>https://photo.toyotasever.ru/LS4ASE2A7RA707137/9d228363606d2596fc121266be577976.jpg</image>
-				<image>https://photo.toyotasever.ru/LS4ASE2A7RA707137/cd2916002f1acbaec582efd0e1eab810.jpg</image>
-				<image>https://photo.toyotasever.ru/LS4ASE2A7RA707137/11ce2fefb0c440118407d3f06d1f2115.jpg</image>
-				<image>https://photo.toyotasever.ru/LS4ASE2A7RA707137/585f2c77c2938cb0aaae7ccd7004be2e.jpg</image>
-				<image>https://photo.toyotasever.ru/LS4ASE2A7RA707137/3ffb2b029ce70f3f0afa095cdbf1bce3.jpg</image>
-				<image>https://photo.toyotasever.ru/LS4ASE2A7RA707137/8f9ee9e1268b7d3e9699859a0bbf5eb7.jpg</image>
-				<image>https://photo.toyotasever.ru/LS4ASE2A7RA707137/ac3669f15b44f0df3334d5ef7f0de954.jpg</image>
-				<image>https://photo.toyotasever.ru/LS4ASE2A7RA707137/8cea3858839e637cabc36993ec595e82.jpg</image>
-				<image>https://photo.toyotasever.ru/LS4ASE2A7RA707137/3baf87ebc53c688477bbeaec01dc5e50.jpg</image>
-				<image>https://photo.toyotasever.ru/LS4ASE2A7RA707137/29f3022cb96b04deafe981cedc11cab9.jpg</image>
-			</images>
+			<images />
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
-		<priceWithDiscount>3729900</priceWithDiscount><sale_price>3729900</sale_price><url>https://auto-team.pro/cars/changan-uni-k-20-at-226-лс-4wd-tech-белый-2024/</url></car>
+		<priceWithDiscount>3729900</priceWithDiscount><sale_price>3729900</sale_price><url>https://auto-team.pro/cars/changan-uni-k-20-at-226-лс-4wd-tech-серый-2024/</url></car>
 		<car>
 			<mark_id>Changan</mark_id>
 			<folder_id>UNI-K</folder_id>
@@ -1141,32 +1219,6 @@
 			<max_discount>540000</max_discount>
 			<currency>RUR</currency>
 			<vin>LS4ASE2A7RA714167</vin>
-			<description />
-			<images />
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<priceWithDiscount>3729900</priceWithDiscount><sale_price>3729900</sale_price><url>https://auto-team.pro/cars/changan-uni-k-20-at-226-лс-4wd-tech-черный-2024/</url></car>
-		<car>
-			<mark_id>Changan</mark_id>
-			<folder_id>UNI-K</folder_id>
-			<modification_id>2.0 AT (226 л.с.) 4WD</modification_id>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<complectation_name>Tech</complectation_name>
-			<wheel>левый</wheel>
-			<color>Черный</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<owners_number>Не было владельцев</owners_number>
-			<year>2024</year>
-			<price>4269900</price>
-			<credit_discount>200000</credit_discount>
-			<insurance_discount>200000</insurance_discount>
-			<tradein_discount>140000</tradein_discount>
-			<max_discount>540000</max_discount>
-			<currency>RUR</currency>
-			<vin>LS4ASE2A6RA713513</vin>
 			<description />
 			<images />
 			<multiposting>
@@ -1227,110 +1279,6 @@
 		<priceWithDiscount>3729900</priceWithDiscount><sale_price>3729900</sale_price><url>https://auto-team.pro/cars/changan-uni-k-20-at-226-лс-4wd-tech-черный-2024/</url></car>
 		<car>
 			<mark_id>Changan</mark_id>
-			<folder_id>UNI-K</folder_id>
-			<modification_id>2.0 AT (226 л.с.) 4WD</modification_id>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<complectation_name>Tech</complectation_name>
-			<wheel>левый</wheel>
-			<color>синий</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<owners_number>Не было владельцев</owners_number>
-			<year>2024</year>
-			<price>4269900</price>
-			<credit_discount>200000</credit_discount>
-			<insurance_discount>200000</insurance_discount>
-			<tradein_discount>140000</tradein_discount>
-			<max_discount>540000</max_discount>
-			<currency>RUR</currency>
-			<vin>LS4ASE2A7RA705808</vin>
-			<description />
-			<images />
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<priceWithDiscount>3729900</priceWithDiscount><sale_price>3729900</sale_price><url>https://auto-team.pro/cars/changan-uni-k-20-at-226-лс-4wd-tech-синий-2024/</url></car>
-		<car>
-			<mark_id>Changan</mark_id>
-			<folder_id>UNI-K</folder_id>
-			<modification_id>2.0 AT (226 л.с.) 4WD</modification_id>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<complectation_name>Tech</complectation_name>
-			<wheel>левый</wheel>
-			<color>Серый</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<owners_number>Не было владельцев</owners_number>
-			<year>2024</year>
-			<price>4269900</price>
-			<credit_discount>200000</credit_discount>
-			<insurance_discount>200000</insurance_discount>
-			<tradein_discount>140000</tradein_discount>
-			<max_discount>540000</max_discount>
-			<currency>RUR</currency>
-			<vin>LS4ASE2A1RA715508</vin>
-			<description />
-			<images />
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<priceWithDiscount>3729900</priceWithDiscount><sale_price>3729900</sale_price><url>https://auto-team.pro/cars/changan-uni-k-20-at-226-лс-4wd-tech-серый-2024/</url></car>
-		<car>
-			<mark_id>Changan</mark_id>
-			<folder_id>UNI-K</folder_id>
-			<modification_id>2.0 AT (226 л.с.) 4WD</modification_id>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<complectation_name>Tech</complectation_name>
-			<wheel>левый</wheel>
-			<color>Серый</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<owners_number>Не было владельцев</owners_number>
-			<year>2024</year>
-			<price>4269900</price>
-			<credit_discount>200000</credit_discount>
-			<insurance_discount>200000</insurance_discount>
-			<tradein_discount>140000</tradein_discount>
-			<max_discount>540000</max_discount>
-			<currency>RUR</currency>
-			<vin>LS4ASE2A8RA703131</vin>
-			<description />
-			<images />
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<priceWithDiscount>3729900</priceWithDiscount><sale_price>3729900</sale_price><url>https://auto-team.pro/cars/changan-uni-k-20-at-226-лс-4wd-tech-серый-2024/</url></car>
-		<car>
-			<mark_id>Changan</mark_id>
-			<folder_id>UNI-K</folder_id>
-			<modification_id>2.0 AT (226 л.с.) 4WD</modification_id>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<complectation_name>Tech</complectation_name>
-			<wheel>левый</wheel>
-			<color>Серый</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<owners_number>Не было владельцев</owners_number>
-			<year>2024</year>
-			<price>4269900</price>
-			<credit_discount>200000</credit_discount>
-			<insurance_discount>200000</insurance_discount>
-			<tradein_discount>140000</tradein_discount>
-			<max_discount>540000</max_discount>
-			<currency>RUR</currency>
-			<vin>LS4ASE2A5RA704317</vin>
-			<description />
-			<images />
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<priceWithDiscount>3729900</priceWithDiscount><sale_price>3729900</sale_price><url>https://auto-team.pro/cars/changan-uni-k-20-at-226-лс-4wd-tech-серый-2024/</url></car>
-		<car>
-			<mark_id>Changan</mark_id>
 			<folder_id>UNI-T, I Рестайлинг</folder_id>
 			<modification_id>1.5 AMT (188 л.с.)</modification_id>
 			<body_type>Внедорожник 5 дв.</body_type>
@@ -1341,20 +1289,20 @@
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
 			<owners_number>Не было владельцев</owners_number>
-			<year>2024</year>
-			<price>2999900</price>
+			<year>2023</year>
+			<price>2969900</price>
 			<credit_discount>50000</credit_discount>
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>50000</tradein_discount>
 			<max_discount>100000</max_discount>
 			<currency>RUR</currency>
-			<vin>LS5A3DKE5RA706154</vin>
+			<vin>LS5A3DKE5RA996413</vin>
 			<description />
 			<images />
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
-		<priceWithDiscount>2899900</priceWithDiscount><sale_price>2899900</sale_price><url>https://auto-team.pro/cars/changan-uni-t-i-рестайлинг-15-amt-188-лс-premium-черный-2024/</url></car>
+		<priceWithDiscount>2869900</priceWithDiscount><sale_price>2869900</sale_price><url>https://auto-team.pro/cars/changan-uni-t-i-рестайлинг-15-amt-188-лс-premium-черный-2023/</url></car>
 		<car>
 			<mark_id>Changan</mark_id>
 			<folder_id>UNI-T, I Рестайлинг</folder_id>
@@ -1383,30 +1331,71 @@
 		<priceWithDiscount>2899900</priceWithDiscount><sale_price>2899900</sale_price><url>https://auto-team.pro/cars/changan-uni-t-i-рестайлинг-15-amt-188-лс-premium-черный-2024/</url></car>
 		<car>
 			<mark_id>Changan</mark_id>
-			<folder_id>UNI-T, I Рестайлинг</folder_id>
-			<modification_id>1.5 AMT (188 л.с.)</modification_id>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<complectation_name>Premium</complectation_name>
+			<folder_id>UNI-V</folder_id>
+			<modification_id>1.5 AMT (181 л.с.)</modification_id>
+			<body_type>Лифтбек</body_type>
+			<complectation_name>DLX</complectation_name>
 			<wheel>левый</wheel>
-			<color>Черный</color>
+			<color>Красный</color>
 			<metallic>нет</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
 			<owners_number>Не было владельцев</owners_number>
 			<year>2023</year>
-			<price>2969900</price>
+			<price>2973599</price>
 			<credit_discount>50000</credit_discount>
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>50000</tradein_discount>
 			<max_discount>100000</max_discount>
 			<currency>RUR</currency>
-			<vin>LS5A3DKE5RA996413</vin>
+			<vin>LS5A2DKE0RA945744</vin>
+			<description />
+			<images>
+				<image>https://photo.toyotasever.ru/LS5A2DKE0RA945744/abbc6eb184304219a343efc792c91b88.jpg</image>
+				<image>https://photo.toyotasever.ru/LS5A2DKE0RA945744/7294b4249ac76ef4a5cb00abc04b764d.jpg</image>
+				<image>https://photo.toyotasever.ru/LS5A2DKE0RA945744/6f80db9794dd19e649d4a694e1328548.jpg</image>
+				<image>https://photo.toyotasever.ru/LS5A2DKE0RA945744/357033e5c766df2dea03543299efcffe.jpg</image>
+				<image>https://photo.toyotasever.ru/LS5A2DKE0RA945744/dd691e35150f7878e4bfb4c6b3b7feff.jpg</image>
+				<image>https://photo.toyotasever.ru/LS5A2DKE0RA945744/1b138866eafec5e52ae090abf57eb1c7.jpg</image>
+				<image>https://photo.toyotasever.ru/LS5A2DKE0RA945744/691a543c6cb584323466f8f14f1fc83e.jpg</image>
+				<image>https://photo.toyotasever.ru/LS5A2DKE0RA945744/b3262ba9229d6a2ec6dc82a8e841ede1.jpg</image>
+				<image>https://photo.toyotasever.ru/LS5A2DKE0RA945744/8a0c923f5a1cd9ff0eb0555e2bf21318.jpg</image>
+				<image>https://photo.toyotasever.ru/LS5A2DKE0RA945744/b57f7522fc394dd68a4d0b21713348d3.jpg</image>
+				<image>https://photo.toyotasever.ru/LS5A2DKE0RA945744/888f6c38ad4ba088c7aaeafad895695a.jpg</image>
+				<image>https://photo.toyotasever.ru/LS5A2DKE0RA945744/900041c196401000cf1cc58795729e32.jpg</image>
+				<image>https://photo.toyotasever.ru/LS5A2DKE0RA945744/b6f4e3b51a763b570dc2f62c8a39ec93.jpg</image>
+				<image>https://photo.toyotasever.ru/LS5A2DKE0RA945744/80baa71ae2963bd727644298503bf22f.jpg</image>
+			</images>
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<priceWithDiscount>2873599</priceWithDiscount><sale_price>2873599</sale_price><url>https://auto-team.pro/cars/changan-uni-v-15-amt-181-лс-dlx-красный-2023/</url></car>
+		<car>
+			<mark_id>Changan</mark_id>
+			<folder_id>UNI-V</folder_id>
+			<modification_id>1.5 AMT (181 л.с.)</modification_id>
+			<body_type>Лифтбек</body_type>
+			<complectation_name>DLX</complectation_name>
+			<wheel>левый</wheel>
+			<color>Белый</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<owners_number>Не было владельцев</owners_number>
+			<year>2024</year>
+			<price>2959900</price>
+			<credit_discount>50000</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>50000</tradein_discount>
+			<max_discount>100000</max_discount>
+			<currency>RUR</currency>
+			<vin>LS5A2DKE6RA235375</vin>
 			<description />
 			<images />
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
-		<priceWithDiscount>2869900</priceWithDiscount><sale_price>2869900</sale_price><url>https://auto-team.pro/cars/changan-uni-t-i-рестайлинг-15-amt-188-лс-premium-черный-2023/</url></car>
+		<priceWithDiscount>2859900</priceWithDiscount><sale_price>2859900</sale_price><url>https://auto-team.pro/cars/changan-uni-v-15-amt-181-лс-dlx-белый-2024/</url></car>
 		<car>
 			<mark_id>Changan</mark_id>
 			<folder_id>UNI-V</folder_id>
@@ -1458,58 +1447,6 @@
 			<body_type>Лифтбек</body_type>
 			<complectation_name>DLX</complectation_name>
 			<wheel>левый</wheel>
-			<color>Белый</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<owners_number>Не было владельцев</owners_number>
-			<year>2024</year>
-			<price>2959900</price>
-			<credit_discount>50000</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>50000</tradein_discount>
-			<max_discount>100000</max_discount>
-			<currency>RUR</currency>
-			<vin>LS5A2DKE6RA235375</vin>
-			<description />
-			<images />
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<priceWithDiscount>2859900</priceWithDiscount><sale_price>2859900</sale_price><url>https://auto-team.pro/cars/changan-uni-v-15-amt-181-лс-dlx-белый-2024/</url></car>
-		<car>
-			<mark_id>Changan</mark_id>
-			<folder_id>UNI-V</folder_id>
-			<modification_id>1.5 AMT (181 л.с.)</modification_id>
-			<body_type>Лифтбек</body_type>
-			<complectation_name>DLX</complectation_name>
-			<wheel>левый</wheel>
-			<color>Черный</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<owners_number>Не было владельцев</owners_number>
-			<year>2024</year>
-			<price>2959900</price>
-			<credit_discount>50000</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>50000</tradein_discount>
-			<max_discount>100000</max_discount>
-			<currency>RUR</currency>
-			<vin>LS5A2DKE9RA215248</vin>
-			<description />
-			<images />
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<priceWithDiscount>2859900</priceWithDiscount><sale_price>2859900</sale_price><url>https://auto-team.pro/cars/changan-uni-v-15-amt-181-лс-dlx-черный-2024/</url></car>
-		<car>
-			<mark_id>Changan</mark_id>
-			<folder_id>UNI-V</folder_id>
-			<modification_id>1.5 AMT (181 л.с.)</modification_id>
-			<body_type>Лифтбек</body_type>
-			<complectation_name>DLX</complectation_name>
-			<wheel>левый</wheel>
 			<color>Черный</color>
 			<metallic>нет</metallic>
 			<availability>в наличии</availability>
@@ -1536,69 +1473,26 @@
 			<body_type>Лифтбек</body_type>
 			<complectation_name>DLX</complectation_name>
 			<wheel>левый</wheel>
-			<color>Красный</color>
+			<color>Черный</color>
 			<metallic>нет</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
 			<owners_number>Не было владельцев</owners_number>
-			<year>2023</year>
-			<price>2973599</price>
+			<year>2024</year>
+			<price>2959900</price>
 			<credit_discount>50000</credit_discount>
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>50000</tradein_discount>
 			<max_discount>100000</max_discount>
 			<currency>RUR</currency>
-			<vin>LS5A2DKE0RA945744</vin>
-			<description />
-			<images>
-				<image>https://photo.toyotasever.ru/LS5A2DKE0RA945744/abbc6eb184304219a343efc792c91b88.jpg</image>
-				<image>https://photo.toyotasever.ru/LS5A2DKE0RA945744/7294b4249ac76ef4a5cb00abc04b764d.jpg</image>
-				<image>https://photo.toyotasever.ru/LS5A2DKE0RA945744/6f80db9794dd19e649d4a694e1328548.jpg</image>
-				<image>https://photo.toyotasever.ru/LS5A2DKE0RA945744/357033e5c766df2dea03543299efcffe.jpg</image>
-				<image>https://photo.toyotasever.ru/LS5A2DKE0RA945744/dd691e35150f7878e4bfb4c6b3b7feff.jpg</image>
-				<image>https://photo.toyotasever.ru/LS5A2DKE0RA945744/1b138866eafec5e52ae090abf57eb1c7.jpg</image>
-				<image>https://photo.toyotasever.ru/LS5A2DKE0RA945744/691a543c6cb584323466f8f14f1fc83e.jpg</image>
-				<image>https://photo.toyotasever.ru/LS5A2DKE0RA945744/b3262ba9229d6a2ec6dc82a8e841ede1.jpg</image>
-				<image>https://photo.toyotasever.ru/LS5A2DKE0RA945744/8a0c923f5a1cd9ff0eb0555e2bf21318.jpg</image>
-				<image>https://photo.toyotasever.ru/LS5A2DKE0RA945744/b57f7522fc394dd68a4d0b21713348d3.jpg</image>
-				<image>https://photo.toyotasever.ru/LS5A2DKE0RA945744/888f6c38ad4ba088c7aaeafad895695a.jpg</image>
-				<image>https://photo.toyotasever.ru/LS5A2DKE0RA945744/900041c196401000cf1cc58795729e32.jpg</image>
-				<image>https://photo.toyotasever.ru/LS5A2DKE0RA945744/b6f4e3b51a763b570dc2f62c8a39ec93.jpg</image>
-				<image>https://photo.toyotasever.ru/LS5A2DKE0RA945744/80baa71ae2963bd727644298503bf22f.jpg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<priceWithDiscount>2873599</priceWithDiscount><sale_price>2873599</sale_price><url>https://auto-team.pro/cars/changan-uni-v-15-amt-181-лс-dlx-красный-2023/</url></car>
-	<car>
-			<unique_id>8430d759-21b4-11ef-8123-002590fc7f85</unique_id>
-			<mark_id>GAC</mark_id>
-			<folder_id>GS3</folder_id>
-			<modification_id>1.5 AMT (170 л.с.)</modification_id>
-			<complectation_name>GB</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Белый</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>7</run>
-			<year>2024</year>
-			<price>2499000</price>
-			<credit_discount>100000</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>100000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>200000</max_discount>
-			<currency>RUR</currency>
-			<vin>LMGHT1L50R3066237</vin>
+			<vin>LS5A2DKE9RA215248</vin>
 			<description />
 			<images />
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
-		<priceWithDiscount>2299000</priceWithDiscount><sale_price>2299000</sale_price><url>https://auto-team.pro/cars/gac-gs3-15-amt-170-лс-gb-белый-2024/</url></car>
-		<car>
+		<priceWithDiscount>2859900</priceWithDiscount><sale_price>2859900</sale_price><url>https://auto-team.pro/cars/changan-uni-v-15-amt-181-лс-dlx-черный-2024/</url></car>
+	<car>
 			<unique_id>f1a45ed2-6435-11ef-8124-002590fc7f85</unique_id>
 			<mark_id>GAC</mark_id>
 			<folder_id>GS3</folder_id>
@@ -1682,6 +1576,34 @@
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
 		<priceWithDiscount>2299000</priceWithDiscount><sale_price>2299000</sale_price><url>https://auto-team.pro/cars/gac-gs3-15-amt-170-лс-gb-серебристый-2024/</url></car>
+		<car>
+			<unique_id>8430d759-21b4-11ef-8123-002590fc7f85</unique_id>
+			<mark_id>GAC</mark_id>
+			<folder_id>GS3</folder_id>
+			<modification_id>1.5 AMT (170 л.с.)</modification_id>
+			<complectation_name>GB</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>Белый</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>7</run>
+			<year>2024</year>
+			<price>2499000</price>
+			<credit_discount>100000</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>100000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>200000</max_discount>
+			<currency>RUR</currency>
+			<vin>LMGHT1L50R3066237</vin>
+			<description />
+			<images />
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<priceWithDiscount>2299000</priceWithDiscount><sale_price>2299000</sale_price><url>https://auto-team.pro/cars/gac-gs3-15-amt-170-лс-gb-белый-2024/</url></car>
 		<car>
 			<unique_id>ebcdcf0b-2007-11ef-8123-002590fc7f85</unique_id>
 			<mark_id>GAC</mark_id>
@@ -1795,34 +1717,6 @@
 			</multiposting>
 		<priceWithDiscount>2499000</priceWithDiscount><sale_price>2499000</sale_price><url>https://auto-team.pro/cars/gac-gs3-15-amt-170-лс-gl-синий-2024/</url></car>
 		<car>
-			<unique_id>eb8bd456-678a-11ef-8124-002590fc7f85</unique_id>
-			<mark_id>GAC</mark_id>
-			<folder_id>GS3</folder_id>
-			<modification_id>1.5 AMT (170 л.с.)</modification_id>
-			<complectation_name>GL</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Синий</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>6</run>
-			<year>2024</year>
-			<price>2699000</price>
-			<credit_discount>100000</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>100000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>200000</max_discount>
-			<currency>RUR</currency>
-			<vin>LMGHT1L82R3073779</vin>
-			<description />
-			<images />
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<priceWithDiscount>2499000</priceWithDiscount><sale_price>2499000</sale_price><url>https://auto-team.pro/cars/gac-gs3-15-amt-170-лс-gl-синий-2024/</url></car>
-		<car>
 			<unique_id>4038a833-67ac-11ef-8124-002590fc7f85</unique_id>
 			<mark_id>GAC</mark_id>
 			<folder_id>GS3</folder_id>
@@ -1844,6 +1738,34 @@
 			<max_discount>200000</max_discount>
 			<currency>RUR</currency>
 			<vin>LMGHT1L88R3079053</vin>
+			<description />
+			<images />
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<priceWithDiscount>2499000</priceWithDiscount><sale_price>2499000</sale_price><url>https://auto-team.pro/cars/gac-gs3-15-amt-170-лс-gl-синий-2024/</url></car>
+		<car>
+			<unique_id>eb8bd456-678a-11ef-8124-002590fc7f85</unique_id>
+			<mark_id>GAC</mark_id>
+			<folder_id>GS3</folder_id>
+			<modification_id>1.5 AMT (170 л.с.)</modification_id>
+			<complectation_name>GL</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>Синий</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>6</run>
+			<year>2024</year>
+			<price>2699000</price>
+			<credit_discount>100000</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>100000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>200000</max_discount>
+			<currency>RUR</currency>
+			<vin>LMGHT1L82R3073779</vin>
 			<description />
 			<images />
 			<multiposting>
@@ -1963,6 +1885,34 @@
 			</multiposting>
 		<priceWithDiscount>2549000</priceWithDiscount><sale_price>2549000</sale_price><url>https://auto-team.pro/cars/gac-gs3-15-amt-170-лс-gl-r-серебристый-2024/</url></car>
 		<car>
+			<unique_id>89065246-2004-11ef-8123-002590fc7f85</unique_id>
+			<mark_id>GAC</mark_id>
+			<folder_id>GS3</folder_id>
+			<modification_id>1.5 AMT (170 л.с.)</modification_id>
+			<complectation_name>GS</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>Синий</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>7</run>
+			<year>2024</year>
+			<price>2299000</price>
+			<credit_discount>100000</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>100000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>200000</max_discount>
+			<currency>RUR</currency>
+			<vin>LMGHT1L26R3080519</vin>
+			<description />
+			<images />
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<priceWithDiscount>2099000</priceWithDiscount><sale_price>2099000</sale_price><url>https://auto-team.pro/cars/gac-gs3-15-amt-170-лс-gs-синий-2024/</url></car>
+		<car>
 			<unique_id>3e230e38-2006-11ef-8123-002590fc7f85</unique_id>
 			<mark_id>GAC</mark_id>
 			<folder_id>GS3</folder_id>
@@ -2019,35 +1969,7 @@
 			</multiposting>
 		<priceWithDiscount>2099000</priceWithDiscount><sale_price>2099000</sale_price><url>https://auto-team.pro/cars/gac-gs3-15-amt-170-лс-gs-синий-2024/</url></car>
 		<car>
-			<unique_id>89065246-2004-11ef-8123-002590fc7f85</unique_id>
-			<mark_id>GAC</mark_id>
-			<folder_id>GS3</folder_id>
-			<modification_id>1.5 AMT (170 л.с.)</modification_id>
-			<complectation_name>GS</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Синий</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>7</run>
-			<year>2024</year>
-			<price>2299000</price>
-			<credit_discount>100000</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>100000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>200000</max_discount>
-			<currency>RUR</currency>
-			<vin>LMGHT1L26R3080519</vin>
-			<description />
-			<images />
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<priceWithDiscount>2099000</priceWithDiscount><sale_price>2099000</sale_price><url>https://auto-team.pro/cars/gac-gs3-15-amt-170-лс-gs-синий-2024/</url></car>
-		<car>
-			<unique_id>2d313cc5-7805-11ef-8124-002590fc7f85</unique_id>
+			<unique_id>1ce3dd3d-7808-11ef-8124-002590fc7f85</unique_id>
 			<mark_id>GAC</mark_id>
 			<folder_id>GS8, II</folder_id>
 			<modification_id>2.0 AT (231 л.с.) 4WD</modification_id>
@@ -2058,7 +1980,7 @@
 			<metallic>нет</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
-			<run>5</run>
+			<run>3</run>
 			<year>2024</year>
 			<price>4299000</price>
 			<credit_discount>150000</credit_discount>
@@ -2067,7 +1989,7 @@
 			<optional_discount>0</optional_discount>
 			<max_discount>350000</max_discount>
 			<currency>RUR</currency>
-			<vin>LMGJU3G86R1036119</vin>
+			<vin>LMGJU3G82R1033346</vin>
 			<description />
 			<images />
 			<multiposting>
@@ -2103,7 +2025,7 @@
 			</multiposting>
 		<priceWithDiscount>3949000</priceWithDiscount><sale_price>3949000</sale_price><url>https://auto-team.pro/cars/gac-gs8-ii-20-at-231-лс-4wd-gt-черный-2024/</url></car>
 		<car>
-			<unique_id>1ce3dd3d-7808-11ef-8124-002590fc7f85</unique_id>
+			<unique_id>2d313cc5-7805-11ef-8124-002590fc7f85</unique_id>
 			<mark_id>GAC</mark_id>
 			<folder_id>GS8, II</folder_id>
 			<modification_id>2.0 AT (231 л.с.) 4WD</modification_id>
@@ -2114,7 +2036,7 @@
 			<metallic>нет</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
-			<run>3</run>
+			<run>5</run>
 			<year>2024</year>
 			<price>4299000</price>
 			<credit_discount>150000</credit_discount>
@@ -2123,7 +2045,7 @@
 			<optional_discount>0</optional_discount>
 			<max_discount>350000</max_discount>
 			<currency>RUR</currency>
-			<vin>LMGJU3G82R1033346</vin>
+			<vin>LMGJU3G86R1036119</vin>
 			<description />
 			<images />
 			<multiposting>
@@ -2214,34 +2136,6 @@
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
 		<priceWithDiscount>4249000</priceWithDiscount><sale_price>4249000</sale_price><url>https://auto-team.pro/cars/gac-gs8-ii-20-at-231-лс-4wd-gx-зеленый-2024/</url></car>
-		<car>
-			<unique_id>566f554f-7803-11ef-8124-002590fc7f85</unique_id>
-			<mark_id>GAC</mark_id>
-			<folder_id>GS8, II</folder_id>
-			<modification_id>2.0 AT (231 л.с.) 4WD</modification_id>
-			<complectation_name>GX Premium</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Белый</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>5</run>
-			<year>2024</year>
-			<price>4649000</price>
-			<credit_discount>150000</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>200000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>350000</max_discount>
-			<currency>RUR</currency>
-			<vin>LMGJU3G85R1036239</vin>
-			<description />
-			<images />
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<priceWithDiscount>4299000</priceWithDiscount><sale_price>4299000</sale_price><url>https://auto-team.pro/cars/gac-gs8-ii-20-at-231-лс-4wd-gx-premium-белый-2024/</url></car>
 		<car>
 			<unique_id>87d49ca0-75c6-11ef-8124-002590fc7f85</unique_id>
 			<mark_id>GAC</mark_id>
@@ -2355,6 +2249,34 @@
 			</multiposting>
 		<priceWithDiscount>4299000</priceWithDiscount><sale_price>4299000</sale_price><url>https://auto-team.pro/cars/gac-gs8-ii-20-at-231-лс-4wd-gx-premium-зеленый-2024/</url></car>
 		<car>
+			<unique_id>566f554f-7803-11ef-8124-002590fc7f85</unique_id>
+			<mark_id>GAC</mark_id>
+			<folder_id>GS8, II</folder_id>
+			<modification_id>2.0 AT (231 л.с.) 4WD</modification_id>
+			<complectation_name>GX Premium</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>Белый</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>5</run>
+			<year>2024</year>
+			<price>4649000</price>
+			<credit_discount>150000</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>200000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>350000</max_discount>
+			<currency>RUR</currency>
+			<vin>LMGJU3G85R1036239</vin>
+			<description />
+			<images />
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<priceWithDiscount>4299000</priceWithDiscount><sale_price>4299000</sale_price><url>https://auto-team.pro/cars/gac-gs8-ii-20-at-231-лс-4wd-gx-premium-белый-2024/</url></car>
+		<car>
 			<unique_id>59276f93-e831-11ee-8123-002590fc7f85</unique_id>
 			<mark_id>GAC</mark_id>
 			<folder_id>M8</folder_id>
@@ -2432,34 +2354,6 @@
 			<max_discount>300000</max_discount>
 			<currency>RUR</currency>
 			<vin>LMGMU1G8XR1234736</vin>
-			<description />
-			<images />
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<priceWithDiscount>5999999</priceWithDiscount><sale_price>5999999</sale_price><url>https://auto-team.pro/cars/gac-m8-20-at-231-лс-gx-черный-2024/</url></car>
-		<car>
-			<unique_id>62e60dbf-0892-11ef-8123-002590fc7f85</unique_id>
-			<mark_id>GAC</mark_id>
-			<folder_id>M8</folder_id>
-			<modification_id>2.0 AT (231 л.с.)</modification_id>
-			<complectation_name>GX</complectation_name>
-			<body_type>Минивэн</body_type>
-			<wheel>левый</wheel>
-			<color>Черный</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>6</run>
-			<year>2024</year>
-			<price>6299999</price>
-			<credit_discount>100000</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>200000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>300000</max_discount>
-			<currency>RUR</currency>
-			<vin>LMGMU1G87R1236654</vin>
 			<description />
 			<images />
 			<multiposting>
@@ -2578,35 +2472,35 @@
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
 		<priceWithDiscount>5999999</priceWithDiscount><sale_price>5999999</sale_price><url>https://auto-team.pro/cars/gac-m8-20-at-231-лс-gx-черный-2024/</url></car>
-	<car>
-			<unique_id>a8892586d3553614d871fb4def9de26d</unique_id>
-			<mark_id>BELGEE</mark_id>
-			<folder_id>X50</folder_id>
-			<modification_id>1.5 AMT (150 л.с.)</modification_id>
-			<complectation_name>Prestige</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
+		<car>
+			<unique_id>62e60dbf-0892-11ef-8123-002590fc7f85</unique_id>
+			<mark_id>GAC</mark_id>
+			<folder_id>M8</folder_id>
+			<modification_id>2.0 AT (231 л.с.)</modification_id>
+			<complectation_name>GX</complectation_name>
+			<body_type>Минивэн</body_type>
 			<wheel>левый</wheel>
-			<color>Серый</color>
+			<color>Черный</color>
 			<metallic>нет</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
-			<run>8</run>
+			<run>6</run>
 			<year>2024</year>
-			<price>2515990</price>
-			<credit_discount>135000</credit_discount>
+			<price>6299999</price>
+			<credit_discount>100000</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>185000</tradein_discount>
+			<tradein_discount>200000</tradein_discount>
 			<optional_discount>0</optional_discount>
-			<max_discount>320000</max_discount>
+			<max_discount>300000</max_discount>
 			<currency>RUR</currency>
-			<vin>Y4K8622Z7RB936453</vin>
+			<vin>LMGMU1G87R1236654</vin>
 			<description />
 			<images />
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
-		<priceWithDiscount>2195990</priceWithDiscount><sale_price>2195990</sale_price><url>https://auto-team.pro/cars/belgee-x50-15-amt-150-лс-prestige-серый-2024/</url></car>
-		<car>
+		<priceWithDiscount>5999999</priceWithDiscount><sale_price>5999999</sale_price><url>https://auto-team.pro/cars/gac-m8-20-at-231-лс-gx-черный-2024/</url></car>
+	<car>
 			<unique_id>f42e1de553c414ed16685dc10e23873b</unique_id>
 			<mark_id>BELGEE</mark_id>
 			<folder_id>X50</folder_id>
@@ -2695,7 +2589,7 @@
 			</multiposting>
 		<priceWithDiscount>2195990</priceWithDiscount><sale_price>2195990</sale_price><url>https://auto-team.pro/cars/belgee-x50-15-amt-150-лс-prestige-черный-2024/</url></car>
 		<car>
-			<unique_id>6307d1a39e8d198a6a0b724fcafba0d5</unique_id>
+			<unique_id>2e37749c46f328f3aa65a9a01abe2739</unique_id>
 			<mark_id>BELGEE</mark_id>
 			<folder_id>X50</folder_id>
 			<modification_id>1.5 AMT (150 л.с.)</modification_id>
@@ -2706,7 +2600,7 @@
 			<metallic>нет</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
-			<run>7</run>
+			<run>8</run>
 			<year>2024</year>
 			<price>2515990</price>
 			<credit_discount>135000</credit_discount>
@@ -2715,7 +2609,7 @@
 			<optional_discount>0</optional_discount>
 			<max_discount>320000</max_discount>
 			<currency>RUR</currency>
-			<vin>Y4K8622Z6RB935472</vin>
+			<vin>Y4K8622Z9RB935062</vin>
 			<description />
 			<images />
 			<multiposting>
@@ -2751,7 +2645,7 @@
 			</multiposting>
 		<priceWithDiscount>2195990</priceWithDiscount><sale_price>2195990</sale_price><url>https://auto-team.pro/cars/belgee-x50-15-amt-150-лс-prestige-черный-2024/</url></car>
 		<car>
-			<unique_id>2e37749c46f328f3aa65a9a01abe2739</unique_id>
+			<unique_id>6307d1a39e8d198a6a0b724fcafba0d5</unique_id>
 			<mark_id>BELGEE</mark_id>
 			<folder_id>X50</folder_id>
 			<modification_id>1.5 AMT (150 л.с.)</modification_id>
@@ -2762,7 +2656,7 @@
 			<metallic>нет</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
-			<run>8</run>
+			<run>7</run>
 			<year>2024</year>
 			<price>2515990</price>
 			<credit_discount>135000</credit_discount>
@@ -2771,7 +2665,7 @@
 			<optional_discount>0</optional_discount>
 			<max_discount>320000</max_discount>
 			<currency>RUR</currency>
-			<vin>Y4K8622Z9RB935062</vin>
+			<vin>Y4K8622Z6RB935472</vin>
 			<description />
 			<images />
 			<multiposting>
@@ -2823,6 +2717,50 @@
 			</multiposting>
 		<priceWithDiscount>2195990</priceWithDiscount><sale_price>2195990</sale_price><url>https://auto-team.pro/cars/belgee-x50-15-amt-150-лс-prestige-красный-2024/</url></car>
 		<car>
+			<unique_id>b679e3fe3a13abdd33e0cd627d7ec0ab</unique_id>
+			<mark_id>BELGEE</mark_id>
+			<folder_id>X50</folder_id>
+			<modification_id>1.5 AMT (150 л.с.)</modification_id>
+			<complectation_name>Prestige</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>Красный</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>7</run>
+			<year>2024</year>
+			<price>2515990</price>
+			<credit_discount>135000</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>185000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>320000</max_discount>
+			<currency>RUR</currency>
+			<vin>Y4K8622Z6RB934550</vin>
+			<description>Партнер-Авто - oфициальный дилерский центp Вelgее в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
+
+✅Bыгoдный кpедит c комфоpтными ежемecячными платежами.
+
+✅Bыгoдa по программе Трейд-ин до 185 000 руб
+
+✅Скидка по программе “Gееly Finаnсе” 135 000 руб.
+
+✅ПТС в наличии! Покупка одним днём! Звоните сейчас, и мы подготовим для Вас персональное предложение!</description>
+			<images>
+				<image>https://photo.toyotasever.ru/Y4K8622Z6RB934550/e82ecc72967b60478a333f504d312886.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z6RB934550/bae0cdf2f74052a330b277345344ba15.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z6RB934550/d6d811f5fd441a37d47ba5962754b997.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z6RB934550/099626a3cf4d31e7f9734fb426f08cba.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z6RB934550/3a0bec83d6330b22be5952579ba45e35.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z6RB934550/cdd39221b7d9e9a8b85f92a718ff0fa8.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z6RB934550/32b482fc1418f90a876028540121651b.jpg</image>
+			</images>
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<priceWithDiscount>2195990</priceWithDiscount><sale_price>2195990</sale_price><url>https://auto-team.pro/cars/belgee-x50-15-amt-150-лс-prestige-красный-2024/</url></car>
+		<car>
 			<unique_id>647601fdbec8df415d83686450878e47</unique_id>
 			<mark_id>BELGEE</mark_id>
 			<folder_id>X50</folder_id>
@@ -2867,27 +2805,27 @@
 			</multiposting>
 		<priceWithDiscount>2195990</priceWithDiscount><sale_price>2195990</sale_price><url>https://auto-team.pro/cars/belgee-x50-15-amt-150-лс-prestige-красный-2024/</url></car>
 		<car>
-			<unique_id>b679e3fe3a13abdd33e0cd627d7ec0ab</unique_id>
+			<unique_id>e554f1514677f4bfb1739f65d671ea54</unique_id>
 			<mark_id>BELGEE</mark_id>
 			<folder_id>X50</folder_id>
 			<modification_id>1.5 AMT (150 л.с.)</modification_id>
-			<complectation_name>Prestige</complectation_name>
+			<complectation_name>Style</complectation_name>
 			<body_type>Внедорожник 5 дв.</body_type>
 			<wheel>левый</wheel>
-			<color>Красный</color>
+			<color>Серебристый</color>
 			<metallic>нет</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
-			<run>7</run>
+			<run>6</run>
 			<year>2024</year>
-			<price>2515990</price>
+			<price>2415990</price>
 			<credit_discount>135000</credit_discount>
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>185000</tradein_discount>
 			<optional_discount>0</optional_discount>
 			<max_discount>320000</max_discount>
 			<currency>RUR</currency>
-			<vin>Y4K8622Z6RB934550</vin>
+			<vin>Y4K8622Z1RB927392</vin>
 			<description>Партнер-Авто - oфициальный дилерский центp Вelgее в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
 
 ✅Bыгoдный кpедит c комфоpтными ежемecячными платежами.
@@ -2898,18 +2836,18 @@
 
 ✅ПТС в наличии! Покупка одним днём! Звоните сейчас, и мы подготовим для Вас персональное предложение!</description>
 			<images>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6RB934550/e82ecc72967b60478a333f504d312886.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6RB934550/bae0cdf2f74052a330b277345344ba15.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6RB934550/d6d811f5fd441a37d47ba5962754b997.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6RB934550/099626a3cf4d31e7f9734fb426f08cba.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6RB934550/3a0bec83d6330b22be5952579ba45e35.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6RB934550/cdd39221b7d9e9a8b85f92a718ff0fa8.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6RB934550/32b482fc1418f90a876028540121651b.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z1RB927392/5c1ec223538be32ea6ae000774c3392d.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z1RB927392/e2e3088417b8d4671609e4c40faf313b.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z1RB927392/437e587f0bb40486a96738575dab8619.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z1RB927392/a8e6bcc16bbd1bafb1fcc6016e8b120f.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z1RB927392/a0f4d832a42749658548b98256cdfb3d.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z1RB927392/09f7171abaa92e3f84f80ffbb62e654f.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z1RB927392/bc7aaac9f09b21143294f19103556816.jpg</image>
 			</images>
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
-		<priceWithDiscount>2195990</priceWithDiscount><sale_price>2195990</sale_price><url>https://auto-team.pro/cars/belgee-x50-15-amt-150-лс-prestige-красный-2024/</url></car>
+		<priceWithDiscount>2095990</priceWithDiscount><sale_price>2095990</sale_price><url>https://auto-team.pro/cars/belgee-x50-15-amt-150-лс-style-серебристый-2024/</url></car>
 		<car>
 			<unique_id>6090e37581d2b906d5cec9284db2d9bb</unique_id>
 			<mark_id>BELGEE</mark_id>
@@ -2993,50 +2931,6 @@
 				<image>https://photo.toyotasever.ru/Y4K8622Z1RB927358/92529e364f09108b5e6593089f7bf32d.jpg</image>
 				<image>https://photo.toyotasever.ru/Y4K8622Z1RB927358/7744cebe0851478c846ed262c57100bc.jpg</image>
 				<image>https://photo.toyotasever.ru/Y4K8622Z1RB927358/54742374345a21e0662ceaf9adbb2f4f.jpg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<priceWithDiscount>2095990</priceWithDiscount><sale_price>2095990</sale_price><url>https://auto-team.pro/cars/belgee-x50-15-amt-150-лс-style-серебристый-2024/</url></car>
-		<car>
-			<unique_id>e554f1514677f4bfb1739f65d671ea54</unique_id>
-			<mark_id>BELGEE</mark_id>
-			<folder_id>X50</folder_id>
-			<modification_id>1.5 AMT (150 л.с.)</modification_id>
-			<complectation_name>Style</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Серебристый</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>6</run>
-			<year>2024</year>
-			<price>2415990</price>
-			<credit_discount>135000</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>185000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>320000</max_discount>
-			<currency>RUR</currency>
-			<vin>Y4K8622Z1RB927392</vin>
-			<description>Партнер-Авто - oфициальный дилерский центp Вelgее в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
-
-✅Bыгoдный кpедит c комфоpтными ежемecячными платежами.
-
-✅Bыгoдa по программе Трейд-ин до 185 000 руб
-
-✅Скидка по программе “Gееly Finаnсе” 135 000 руб.
-
-✅ПТС в наличии! Покупка одним днём! Звоните сейчас, и мы подготовим для Вас персональное предложение!</description>
-			<images>
-				<image>https://photo.toyotasever.ru/Y4K8622Z1RB927392/5c1ec223538be32ea6ae000774c3392d.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z1RB927392/e2e3088417b8d4671609e4c40faf313b.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z1RB927392/437e587f0bb40486a96738575dab8619.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z1RB927392/a8e6bcc16bbd1bafb1fcc6016e8b120f.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z1RB927392/a0f4d832a42749658548b98256cdfb3d.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z1RB927392/09f7171abaa92e3f84f80ffbb62e654f.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z1RB927392/bc7aaac9f09b21143294f19103556816.jpg</image>
 			</images>
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
