@@ -71,7 +71,7 @@
 			<tradein_discount>80000</tradein_discount>
 			<max_discount>180000</max_discount>
 			<currency>RUR</currency>
-			<vin>LS5A2ASEXRD931718</vin>
+			<vin>LS5A2ASE7RD930364</vin>
 			<description />
 			<images />
 			<multiposting>
@@ -97,7 +97,7 @@
 			<tradein_discount>80000</tradein_discount>
 			<max_discount>180000</max_discount>
 			<currency>RUR</currency>
-			<vin>LS5A2ASE7RD930364</vin>
+			<vin>LS5A2ASEXRD931718</vin>
 			<description />
 			<images />
 			<multiposting>
@@ -298,7 +298,7 @@
 			<tradein_discount>80000</tradein_discount>
 			<max_discount>180000</max_discount>
 			<currency>RUR</currency>
-			<vin>LS5A2ASE1RD929291</vin>
+			<vin>LS5A2ASE1RD929310</vin>
 			<description />
 			<images />
 			<multiposting>
@@ -324,7 +324,7 @@
 			<tradein_discount>80000</tradein_discount>
 			<max_discount>180000</max_discount>
 			<currency>RUR</currency>
-			<vin>LS5A2ASE1RD929310</vin>
+			<vin>LS5A2ASE1RD929291</vin>
 			<description />
 			<images />
 			<multiposting>
@@ -523,32 +523,6 @@
 			<tradein_discount>120000</tradein_discount>
 			<max_discount>220000</max_discount>
 			<currency>RUR</currency>
-			<vin>LS5A3DKR1RA029350</vin>
-			<description />
-			<images />
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<priceWithDiscount>2329900</priceWithDiscount><sale_price>2329900</sale_price><url>https://auto-team.pro/cars/changan-cs35plus-i-рестайлинг-14-amt-150-лс-tech-серый-2024/</url></car>
-		<car>
-			<mark_id>Changan</mark_id>
-			<folder_id>CS35PLUS, I Рестайлинг</folder_id>
-			<modification_id>1.4 AMT (150 л.с.)</modification_id>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<complectation_name>Tech</complectation_name>
-			<wheel>левый</wheel>
-			<color>Серый</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<owners_number>Не было владельцев</owners_number>
-			<year>2024</year>
-			<price>2549900</price>
-			<credit_discount>100000</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>120000</tradein_discount>
-			<max_discount>220000</max_discount>
-			<currency>RUR</currency>
 			<vin>LS5A3DKR2RA027588</vin>
 			<description />
 			<images />
@@ -575,7 +549,7 @@
 			<tradein_discount>120000</tradein_discount>
 			<max_discount>220000</max_discount>
 			<currency>RUR</currency>
-			<vin>LS5A3DKR8RA028826</vin>
+			<vin>LS5A3DKR1RA029350</vin>
 			<description />
 			<images />
 			<multiposting>
@@ -816,7 +790,7 @@
 			<tradein_discount>80000</tradein_discount>
 			<max_discount>180000</max_discount>
 			<currency>RUR</currency>
-			<vin>LS5A2DKR8RA014072</vin>
+			<vin>LS5A2DKR7RA017531</vin>
 			<description />
 			<images />
 			<multiposting>
@@ -842,7 +816,7 @@
 			<tradein_discount>80000</tradein_discount>
 			<max_discount>180000</max_discount>
 			<currency>RUR</currency>
-			<vin>LS5A2DKR7RA017531</vin>
+			<vin>LS5A2DKR8RA014072</vin>
 			<description />
 			<images />
 			<multiposting>
@@ -1158,7 +1132,7 @@
 			<tradein_discount>0</tradein_discount>
 			<max_discount>0</max_discount>
 			<currency>RUR</currency>
-			<vin>LSCBBZ2A6RG903728</vin>
+			<vin>LSCBBZ2A7RG901907</vin>
 			<description />
 			<images />
 			<multiposting>
@@ -1184,7 +1158,7 @@
 			<tradein_discount>0</tradein_discount>
 			<max_discount>0</max_discount>
 			<currency>RUR</currency>
-			<vin>LSCBBZ2A7RG901907</vin>
+			<vin>LSCBBZ2A6RG903728</vin>
 			<description />
 			<images />
 			<multiposting>
@@ -1553,7 +1527,7 @@
 			<body_type>Внедорожник 5 дв.</body_type>
 			<complectation_name>Tech</complectation_name>
 			<wheel>левый</wheel>
-			<color>синий</color>
+			<color>Серый</color>
 			<metallic>нет</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
@@ -1565,13 +1539,13 @@
 			<tradein_discount>140000</tradein_discount>
 			<max_discount>540000</max_discount>
 			<currency>RUR</currency>
-			<vin>LS4ASE2A7RA705808</vin>
+			<vin>LS4ASE2A1RA715508</vin>
 			<description />
 			<images />
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
-		<priceWithDiscount>3829900</priceWithDiscount><sale_price>3829900</sale_price><url>https://auto-team.pro/cars/changan-uni-k-20-at-226-лс-4wd-tech-синий-2024/</url></car>
+		<priceWithDiscount>3829900</priceWithDiscount><sale_price>3829900</sale_price><url>https://auto-team.pro/cars/changan-uni-k-20-at-226-лс-4wd-tech-серый-2024/</url></car>
 		<car>
 			<mark_id>Changan</mark_id>
 			<folder_id>UNI-K</folder_id>
@@ -1657,7 +1631,7 @@
 			<body_type>Внедорожник 5 дв.</body_type>
 			<complectation_name>Tech</complectation_name>
 			<wheel>левый</wheel>
-			<color>Серый</color>
+			<color>синий</color>
 			<metallic>нет</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
@@ -1669,13 +1643,13 @@
 			<tradein_discount>140000</tradein_discount>
 			<max_discount>540000</max_discount>
 			<currency>RUR</currency>
-			<vin>LS4ASE2A1RA715508</vin>
+			<vin>LS4ASE2A7RA705808</vin>
 			<description />
 			<images />
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
-		<priceWithDiscount>3829900</priceWithDiscount><sale_price>3829900</sale_price><url>https://auto-team.pro/cars/changan-uni-k-20-at-226-лс-4wd-tech-серый-2024/</url></car>
+		<priceWithDiscount>3829900</priceWithDiscount><sale_price>3829900</sale_price><url>https://auto-team.pro/cars/changan-uni-k-20-at-226-лс-4wd-tech-синий-2024/</url></car>
 		<car>
 			<mark_id>Changan</mark_id>
 			<folder_id>UNI-K</folder_id>
@@ -1816,7 +1790,7 @@
 			<tradein_discount>50000</tradein_discount>
 			<max_discount>100000</max_discount>
 			<currency>RUR</currency>
-			<vin>LS5A3DKE1RA706877</vin>
+			<vin>LS5A3DKE3RA703317</vin>
 			<description />
 			<images />
 			<multiposting>
@@ -1842,7 +1816,7 @@
 			<tradein_discount>50000</tradein_discount>
 			<max_discount>100000</max_discount>
 			<currency>RUR</currency>
-			<vin>LS5A3DKE3RA703317</vin>
+			<vin>LS5A3DKE1RA706877</vin>
 			<description />
 			<images />
 			<multiposting>
@@ -1913,6 +1887,32 @@
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
 			<owners_number>Не было владельцев</owners_number>
+			<year>2023</year>
+			<price>3099900</price>
+			<credit_discount>50000</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>50000</tradein_discount>
+			<max_discount>100000</max_discount>
+			<currency>RUR</currency>
+			<vin>LS5A3DKE5RA996413</vin>
+			<description />
+			<images />
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<priceWithDiscount>2999900</priceWithDiscount><sale_price>2999900</sale_price><url>https://auto-team.pro/cars/changan-uni-t-i-рестайлинг-15-amt-188-лс-premium-черный-2023/</url></car>
+		<car>
+			<mark_id>Changan</mark_id>
+			<folder_id>UNI-T, I Рестайлинг</folder_id>
+			<modification_id>1.5 AMT (188 л.с.)</modification_id>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<complectation_name>Premium</complectation_name>
+			<wheel>левый</wheel>
+			<color>Черный</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<owners_number>Не было владельцев</owners_number>
 			<year>2024</year>
 			<price>3099900</price>
 			<credit_discount>50000</credit_discount>
@@ -1953,58 +1953,6 @@
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
 		<priceWithDiscount>2999900</priceWithDiscount><sale_price>2999900</sale_price><url>https://auto-team.pro/cars/changan-uni-t-i-рестайлинг-15-amt-188-лс-premium-черный-2024/</url></car>
-		<car>
-			<mark_id>Changan</mark_id>
-			<folder_id>UNI-T, I Рестайлинг</folder_id>
-			<modification_id>1.5 AMT (188 л.с.)</modification_id>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<complectation_name>Premium</complectation_name>
-			<wheel>левый</wheel>
-			<color>Черный</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<owners_number>Не было владельцев</owners_number>
-			<year>2023</year>
-			<price>3099900</price>
-			<credit_discount>50000</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>50000</tradein_discount>
-			<max_discount>100000</max_discount>
-			<currency>RUR</currency>
-			<vin>LS5A3DKE5RA996413</vin>
-			<description />
-			<images />
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<priceWithDiscount>2999900</priceWithDiscount><sale_price>2999900</sale_price><url>https://auto-team.pro/cars/changan-uni-t-i-рестайлинг-15-amt-188-лс-premium-черный-2023/</url></car>
-		<car>
-			<mark_id>Changan</mark_id>
-			<folder_id>UNI-V</folder_id>
-			<modification_id>1.5 AMT (181 л.с.)</modification_id>
-			<body_type>Лифтбек</body_type>
-			<complectation_name>DLX</complectation_name>
-			<wheel>левый</wheel>
-			<color>Черный</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<owners_number>Не было владельцев</owners_number>
-			<year>2024</year>
-			<price>3059900</price>
-			<credit_discount>50000</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>50000</tradein_discount>
-			<max_discount>100000</max_discount>
-			<currency>RUR</currency>
-			<vin>LS5A2DKE3RA215228</vin>
-			<description />
-			<images />
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<priceWithDiscount>2959900</priceWithDiscount><sale_price>2959900</sale_price><url>https://auto-team.pro/cars/changan-uni-v-15-amt-181-лс-dlx-черный-2024/</url></car>
 		<car>
 			<mark_id>Changan</mark_id>
 			<folder_id>UNI-V</folder_id>
@@ -2090,7 +2038,7 @@
 			<body_type>Лифтбек</body_type>
 			<complectation_name>DLX</complectation_name>
 			<wheel>левый</wheel>
-			<color>Серый</color>
+			<color>Черный</color>
 			<metallic>нет</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
@@ -2102,13 +2050,83 @@
 			<tradein_discount>50000</tradein_discount>
 			<max_discount>100000</max_discount>
 			<currency>RUR</currency>
-			<vin>LS5A2DKE7RA255845</vin>
+			<vin>LS5A2DKE3RA215228</vin>
 			<description />
 			<images />
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
-		<priceWithDiscount>2959900</priceWithDiscount><sale_price>2959900</sale_price><url>https://auto-team.pro/cars/changan-uni-v-15-amt-181-лс-dlx-серый-2024/</url></car>
+		<priceWithDiscount>2959900</priceWithDiscount><sale_price>2959900</sale_price><url>https://auto-team.pro/cars/changan-uni-v-15-amt-181-лс-dlx-черный-2024/</url></car>
+		<car>
+			<mark_id>Changan</mark_id>
+			<folder_id>UNI-V</folder_id>
+			<modification_id>1.5 AMT (181 л.с.)</modification_id>
+			<body_type>Лифтбек</body_type>
+			<complectation_name>DLX</complectation_name>
+			<wheel>левый</wheel>
+			<color>Белый</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<owners_number>Не было владельцев</owners_number>
+			<year>2024</year>
+			<price>3059900</price>
+			<credit_discount>50000</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>50000</tradein_discount>
+			<max_discount>100000</max_discount>
+			<currency>RUR</currency>
+			<vin>LS5A2DKE2RA216449</vin>
+			<description />
+			<images>
+				<image>https://photo.toyotasever.ru/LS5A2DKE2RA216449/04a2910cc177b5e761cf063a1064a9bb.jpg</image>
+				<image>https://photo.toyotasever.ru/LS5A2DKE2RA216449/80ec5f5cb755cea43c895465471abbc7.jpg</image>
+				<image>https://photo.toyotasever.ru/LS5A2DKE2RA216449/87b94f5771c78f69af149b86f96ecc3b.jpg</image>
+				<image>https://photo.toyotasever.ru/LS5A2DKE2RA216449/e5b13232d09675f0eb994f179b746f3b.jpg</image>
+				<image>https://photo.toyotasever.ru/LS5A2DKE2RA216449/86f8224821de25c2075a91e5c3c9db5a.jpg</image>
+				<image>https://photo.toyotasever.ru/LS5A2DKE2RA216449/12d425f46da23e36d9856c278bfcaaf2.jpg</image>
+				<image>https://photo.toyotasever.ru/LS5A2DKE2RA216449/4a812f5ee77a69703f9c637e1b62592b.jpg</image>
+				<image>https://photo.toyotasever.ru/LS5A2DKE2RA216449/ef3dde771715201490fc76312166c969.jpg</image>
+				<image>https://photo.toyotasever.ru/LS5A2DKE2RA216449/58757f2f8da0e57d0d786ca1c9034eb7.jpg</image>
+				<image>https://photo.toyotasever.ru/LS5A2DKE2RA216449/cb26b891b7b36893939ddef40cf2da5c.jpg</image>
+				<image>https://photo.toyotasever.ru/LS5A2DKE2RA216449/b54c0556e3d8b9e5ca172602ba0557eb.jpg</image>
+				<image>https://photo.toyotasever.ru/LS5A2DKE2RA216449/afa3ab2d76f2f7766ecc63c1793dc603.jpg</image>
+				<image>https://photo.toyotasever.ru/LS5A2DKE2RA216449/5f4b4e16d0017195b1b6a167b7de10d9.jpg</image>
+				<image>https://photo.toyotasever.ru/LS5A2DKE2RA216449/207bbe857fa65f09746ee9840d7fe881.jpg</image>
+				<image>https://photo.toyotasever.ru/LS5A2DKE2RA216449/6c1c1c60c334c56c6d55aa7865e734e7.jpg</image>
+				<image>https://photo.toyotasever.ru/LS5A2DKE2RA216449/08f4da3b6f4d9d002a29954754c00518.jpg</image>
+				<image>https://photo.toyotasever.ru/LS5A2DKE2RA216449/403671a647e384917f44959620688e5a.jpg</image>
+			</images>
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<priceWithDiscount>2959900</priceWithDiscount><sale_price>2959900</sale_price><url>https://auto-team.pro/cars/changan-uni-v-15-amt-181-лс-dlx-белый-2024/</url></car>
+		<car>
+			<mark_id>Changan</mark_id>
+			<folder_id>UNI-V</folder_id>
+			<modification_id>1.5 AMT (181 л.с.)</modification_id>
+			<body_type>Лифтбек</body_type>
+			<complectation_name>DLX</complectation_name>
+			<wheel>левый</wheel>
+			<color>Белый</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<owners_number>Не было владельцев</owners_number>
+			<year>2024</year>
+			<price>3059900</price>
+			<credit_discount>50000</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>50000</tradein_discount>
+			<max_discount>100000</max_discount>
+			<currency>RUR</currency>
+			<vin>LS5A2DKE9RA250954</vin>
+			<description />
+			<images />
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<priceWithDiscount>2959900</priceWithDiscount><sale_price>2959900</sale_price><url>https://auto-team.pro/cars/changan-uni-v-15-amt-181-лс-dlx-белый-2024/</url></car>
 		<car>
 			<mark_id>Changan</mark_id>
 			<folder_id>UNI-V</folder_id>
@@ -2157,7 +2175,7 @@
 			<body_type>Лифтбек</body_type>
 			<complectation_name>DLX</complectation_name>
 			<wheel>левый</wheel>
-			<color>Белый</color>
+			<color>Серый</color>
 			<metallic>нет</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
@@ -2169,57 +2187,13 @@
 			<tradein_discount>50000</tradein_discount>
 			<max_discount>100000</max_discount>
 			<currency>RUR</currency>
-			<vin>LS5A2DKE9RA250954</vin>
+			<vin>LS5A2DKE7RA255845</vin>
 			<description />
 			<images />
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
-		<priceWithDiscount>2959900</priceWithDiscount><sale_price>2959900</sale_price><url>https://auto-team.pro/cars/changan-uni-v-15-amt-181-лс-dlx-белый-2024/</url></car>
-		<car>
-			<mark_id>Changan</mark_id>
-			<folder_id>UNI-V</folder_id>
-			<modification_id>1.5 AMT (181 л.с.)</modification_id>
-			<body_type>Лифтбек</body_type>
-			<complectation_name>DLX</complectation_name>
-			<wheel>левый</wheel>
-			<color>Белый</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<owners_number>Не было владельцев</owners_number>
-			<year>2024</year>
-			<price>3059900</price>
-			<credit_discount>50000</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>50000</tradein_discount>
-			<max_discount>100000</max_discount>
-			<currency>RUR</currency>
-			<vin>LS5A2DKE2RA216449</vin>
-			<description />
-			<images>
-				<image>https://photo.toyotasever.ru/LS5A2DKE2RA216449/04a2910cc177b5e761cf063a1064a9bb.jpg</image>
-				<image>https://photo.toyotasever.ru/LS5A2DKE2RA216449/80ec5f5cb755cea43c895465471abbc7.jpg</image>
-				<image>https://photo.toyotasever.ru/LS5A2DKE2RA216449/87b94f5771c78f69af149b86f96ecc3b.jpg</image>
-				<image>https://photo.toyotasever.ru/LS5A2DKE2RA216449/e5b13232d09675f0eb994f179b746f3b.jpg</image>
-				<image>https://photo.toyotasever.ru/LS5A2DKE2RA216449/86f8224821de25c2075a91e5c3c9db5a.jpg</image>
-				<image>https://photo.toyotasever.ru/LS5A2DKE2RA216449/12d425f46da23e36d9856c278bfcaaf2.jpg</image>
-				<image>https://photo.toyotasever.ru/LS5A2DKE2RA216449/4a812f5ee77a69703f9c637e1b62592b.jpg</image>
-				<image>https://photo.toyotasever.ru/LS5A2DKE2RA216449/ef3dde771715201490fc76312166c969.jpg</image>
-				<image>https://photo.toyotasever.ru/LS5A2DKE2RA216449/58757f2f8da0e57d0d786ca1c9034eb7.jpg</image>
-				<image>https://photo.toyotasever.ru/LS5A2DKE2RA216449/cb26b891b7b36893939ddef40cf2da5c.jpg</image>
-				<image>https://photo.toyotasever.ru/LS5A2DKE2RA216449/b54c0556e3d8b9e5ca172602ba0557eb.jpg</image>
-				<image>https://photo.toyotasever.ru/LS5A2DKE2RA216449/afa3ab2d76f2f7766ecc63c1793dc603.jpg</image>
-				<image>https://photo.toyotasever.ru/LS5A2DKE2RA216449/5f4b4e16d0017195b1b6a167b7de10d9.jpg</image>
-				<image>https://photo.toyotasever.ru/LS5A2DKE2RA216449/207bbe857fa65f09746ee9840d7fe881.jpg</image>
-				<image>https://photo.toyotasever.ru/LS5A2DKE2RA216449/6c1c1c60c334c56c6d55aa7865e734e7.jpg</image>
-				<image>https://photo.toyotasever.ru/LS5A2DKE2RA216449/08f4da3b6f4d9d002a29954754c00518.jpg</image>
-				<image>https://photo.toyotasever.ru/LS5A2DKE2RA216449/403671a647e384917f44959620688e5a.jpg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<priceWithDiscount>2959900</priceWithDiscount><sale_price>2959900</sale_price><url>https://auto-team.pro/cars/changan-uni-v-15-amt-181-лс-dlx-белый-2024/</url></car>
+		<priceWithDiscount>2959900</priceWithDiscount><sale_price>2959900</sale_price><url>https://auto-team.pro/cars/changan-uni-v-15-amt-181-лс-dlx-серый-2024/</url></car>
 	<car>
 			<unique_id>48d42e58-7f37-11ef-8124-002590fc7f85</unique_id>
 			<mark_id>GAC</mark_id>
