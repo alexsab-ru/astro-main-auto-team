@@ -3727,7 +3727,7 @@
 			</multiposting>
 		<priceWithDiscount>5999999</priceWithDiscount><sale_price>5999999</sale_price><url>https://auto-team.pro/cars/gac-m8-20-at-231-лс-gx-черный-2024/</url></car>
 		<car>
-			<unique_id>253bef7d-0892-11ef-8123-002590fc7f85</unique_id>
+			<unique_id>0b2018ef-0d09-11ef-8123-002590fc7f85</unique_id>
 			<mark_id>GAC</mark_id>
 			<folder_id>M8</folder_id>
 			<modification_id>2.0 AT (231 л.с.)</modification_id>
@@ -3738,7 +3738,7 @@
 			<metallic>нет</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
-			<run>11</run>
+			<run>10</run>
 			<year>2024</year>
 			<price>6299999</price>
 			<credit_discount>100000</credit_discount>
@@ -3747,7 +3747,7 @@
 			<optional_discount>0</optional_discount>
 			<max_discount>300000</max_discount>
 			<currency>RUR</currency>
-			<vin>LMGMU1G83R1236506</vin>
+			<vin>LMGMU1G80R1241727</vin>
 			<description />
 			<images />
 			<multiposting>
@@ -3783,7 +3783,7 @@
 			</multiposting>
 		<priceWithDiscount>5999999</priceWithDiscount><sale_price>5999999</sale_price><url>https://auto-team.pro/cars/gac-m8-20-at-231-лс-gx-черный-2024/</url></car>
 		<car>
-			<unique_id>0b2018ef-0d09-11ef-8123-002590fc7f85</unique_id>
+			<unique_id>253bef7d-0892-11ef-8123-002590fc7f85</unique_id>
 			<mark_id>GAC</mark_id>
 			<folder_id>M8</folder_id>
 			<modification_id>2.0 AT (231 л.с.)</modification_id>
@@ -3794,7 +3794,7 @@
 			<metallic>нет</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
-			<run>10</run>
+			<run>11</run>
 			<year>2024</year>
 			<price>6299999</price>
 			<credit_discount>100000</credit_discount>
@@ -3803,7 +3803,7 @@
 			<optional_discount>0</optional_discount>
 			<max_discount>300000</max_discount>
 			<currency>RUR</currency>
-			<vin>LMGMU1G80R1241727</vin>
+			<vin>LMGMU1G83R1236506</vin>
 			<description />
 			<images />
 			<multiposting>
