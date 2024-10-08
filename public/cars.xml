@@ -298,7 +298,7 @@
 			<tradein_discount>80000</tradein_discount>
 			<max_discount>180000</max_discount>
 			<currency>RUR</currency>
-			<vin>LS5A2ASE1RD929291</vin>
+			<vin>LS5A2ASE1RD929310</vin>
 			<description />
 			<images />
 			<multiposting>
@@ -324,7 +324,7 @@
 			<tradein_discount>80000</tradein_discount>
 			<max_discount>180000</max_discount>
 			<currency>RUR</currency>
-			<vin>LS5A2ASE1RD929310</vin>
+			<vin>LS5A2ASE1RD929291</vin>
 			<description />
 			<images />
 			<multiposting>
@@ -393,7 +393,7 @@
 			<tradein_discount>120000</tradein_discount>
 			<max_discount>220000</max_discount>
 			<currency>RUR</currency>
-			<vin>LS5A3DKR5RA029237</vin>
+			<vin>LS5A3DKRXRA016533</vin>
 			<description />
 			<images />
 			<multiposting>
@@ -471,32 +471,6 @@
 			<tradein_discount>120000</tradein_discount>
 			<max_discount>220000</max_discount>
 			<currency>RUR</currency>
-			<vin>LS5A3DKR1RA029350</vin>
-			<description />
-			<images />
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<priceWithDiscount>2329900</priceWithDiscount><sale_price>2329900</sale_price><url>https://auto-team.pro/cars/changan-cs35plus-i-рестайлинг-14-amt-150-лс-tech-серый-2024/</url></car>
-		<car>
-			<mark_id>Changan</mark_id>
-			<folder_id>CS35PLUS, I Рестайлинг</folder_id>
-			<modification_id>1.4 AMT (150 л.с.)</modification_id>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<complectation_name>Tech</complectation_name>
-			<wheel>левый</wheel>
-			<color>Серый</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<owners_number>Не было владельцев</owners_number>
-			<year>2024</year>
-			<price>2549900</price>
-			<credit_discount>100000</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>120000</tradein_discount>
-			<max_discount>220000</max_discount>
-			<currency>RUR</currency>
 			<vin>LS5A3DKR2RA027588</vin>
 			<description />
 			<images />
@@ -523,7 +497,7 @@
 			<tradein_discount>120000</tradein_discount>
 			<max_discount>220000</max_discount>
 			<currency>RUR</currency>
-			<vin>LS5A3DKR6RA028923</vin>
+			<vin>LS5A3DKR1RA029350</vin>
 			<description />
 			<images />
 			<multiposting>
@@ -550,6 +524,110 @@
 			<max_discount>220000</max_discount>
 			<currency>RUR</currency>
 			<vin>LS5A3DKR4RA029424</vin>
+			<description />
+			<images />
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<priceWithDiscount>2329900</priceWithDiscount><sale_price>2329900</sale_price><url>https://auto-team.pro/cars/changan-cs35plus-i-рестайлинг-14-amt-150-лс-tech-серый-2024/</url></car>
+		<car>
+			<mark_id>Changan</mark_id>
+			<folder_id>CS35PLUS, I Рестайлинг</folder_id>
+			<modification_id>1.4 AMT (150 л.с.)</modification_id>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<complectation_name>Tech</complectation_name>
+			<wheel>левый</wheel>
+			<color>Серый</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<owners_number>Не было владельцев</owners_number>
+			<year>2024</year>
+			<price>2549900</price>
+			<credit_discount>100000</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>120000</tradein_discount>
+			<max_discount>220000</max_discount>
+			<currency>RUR</currency>
+			<vin>LS5A3DKR6RA028596</vin>
+			<description />
+			<images />
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<priceWithDiscount>2329900</priceWithDiscount><sale_price>2329900</sale_price><url>https://auto-team.pro/cars/changan-cs35plus-i-рестайлинг-14-amt-150-лс-tech-серый-2024/</url></car>
+		<car>
+			<mark_id>Changan</mark_id>
+			<folder_id>CS35PLUS, I Рестайлинг</folder_id>
+			<modification_id>1.4 AMT (150 л.с.)</modification_id>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<complectation_name>Tech</complectation_name>
+			<wheel>левый</wheel>
+			<color>Серый</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<owners_number>Не было владельцев</owners_number>
+			<year>2024</year>
+			<price>2549900</price>
+			<credit_discount>100000</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>120000</tradein_discount>
+			<max_discount>220000</max_discount>
+			<currency>RUR</currency>
+			<vin>LS5A3DKR6RA028615</vin>
+			<description />
+			<images />
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<priceWithDiscount>2329900</priceWithDiscount><sale_price>2329900</sale_price><url>https://auto-team.pro/cars/changan-cs35plus-i-рестайлинг-14-amt-150-лс-tech-серый-2024/</url></car>
+		<car>
+			<mark_id>Changan</mark_id>
+			<folder_id>CS35PLUS, I Рестайлинг</folder_id>
+			<modification_id>1.4 AMT (150 л.с.)</modification_id>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<complectation_name>Tech</complectation_name>
+			<wheel>левый</wheel>
+			<color>Серый</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<owners_number>Не было владельцев</owners_number>
+			<year>2024</year>
+			<price>2549900</price>
+			<credit_discount>100000</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>120000</tradein_discount>
+			<max_discount>220000</max_discount>
+			<currency>RUR</currency>
+			<vin>LS5A3DKR8RA029412</vin>
+			<description />
+			<images />
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<priceWithDiscount>2329900</priceWithDiscount><sale_price>2329900</sale_price><url>https://auto-team.pro/cars/changan-cs35plus-i-рестайлинг-14-amt-150-лс-tech-серый-2024/</url></car>
+		<car>
+			<mark_id>Changan</mark_id>
+			<folder_id>CS35PLUS, I Рестайлинг</folder_id>
+			<modification_id>1.4 AMT (150 л.с.)</modification_id>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<complectation_name>Tech</complectation_name>
+			<wheel>левый</wheel>
+			<color>Серый</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<owners_number>Не было владельцев</owners_number>
+			<year>2024</year>
+			<price>2549900</price>
+			<credit_discount>100000</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>120000</tradein_discount>
+			<max_discount>220000</max_discount>
+			<currency>RUR</currency>
+			<vin>LS5A3DKR6RA028923</vin>
 			<description />
 			<images />
 			<multiposting>
@@ -627,84 +705,6 @@
 			<tradein_discount>120000</tradein_discount>
 			<max_discount>220000</max_discount>
 			<currency>RUR</currency>
-			<vin>LS5A3DKR8RA029412</vin>
-			<description />
-			<images />
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<priceWithDiscount>2329900</priceWithDiscount><sale_price>2329900</sale_price><url>https://auto-team.pro/cars/changan-cs35plus-i-рестайлинг-14-amt-150-лс-tech-серый-2024/</url></car>
-		<car>
-			<mark_id>Changan</mark_id>
-			<folder_id>CS35PLUS, I Рестайлинг</folder_id>
-			<modification_id>1.4 AMT (150 л.с.)</modification_id>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<complectation_name>Tech</complectation_name>
-			<wheel>левый</wheel>
-			<color>Серый</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<owners_number>Не было владельцев</owners_number>
-			<year>2024</year>
-			<price>2549900</price>
-			<credit_discount>100000</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>120000</tradein_discount>
-			<max_discount>220000</max_discount>
-			<currency>RUR</currency>
-			<vin>LS5A3DKR6RA028615</vin>
-			<description />
-			<images />
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<priceWithDiscount>2329900</priceWithDiscount><sale_price>2329900</sale_price><url>https://auto-team.pro/cars/changan-cs35plus-i-рестайлинг-14-amt-150-лс-tech-серый-2024/</url></car>
-		<car>
-			<mark_id>Changan</mark_id>
-			<folder_id>CS35PLUS, I Рестайлинг</folder_id>
-			<modification_id>1.4 AMT (150 л.с.)</modification_id>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<complectation_name>Tech</complectation_name>
-			<wheel>левый</wheel>
-			<color>Серый</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<owners_number>Не было владельцев</owners_number>
-			<year>2024</year>
-			<price>2549900</price>
-			<credit_discount>100000</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>120000</tradein_discount>
-			<max_discount>220000</max_discount>
-			<currency>RUR</currency>
-			<vin>LS5A3DKR6RA028596</vin>
-			<description />
-			<images />
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<priceWithDiscount>2329900</priceWithDiscount><sale_price>2329900</sale_price><url>https://auto-team.pro/cars/changan-cs35plus-i-рестайлинг-14-amt-150-лс-tech-серый-2024/</url></car>
-		<car>
-			<mark_id>Changan</mark_id>
-			<folder_id>CS35PLUS, I Рестайлинг</folder_id>
-			<modification_id>1.4 AMT (150 л.с.)</modification_id>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<complectation_name>Tech</complectation_name>
-			<wheel>левый</wheel>
-			<color>Серый</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<owners_number>Не было владельцев</owners_number>
-			<year>2024</year>
-			<price>2549900</price>
-			<credit_discount>100000</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>120000</tradein_discount>
-			<max_discount>220000</max_discount>
-			<currency>RUR</currency>
 			<vin>LS5A3DKR6RA028789</vin>
 			<description />
 			<images />
@@ -757,65 +757,13 @@
 			<tradein_discount>120000</tradein_discount>
 			<max_discount>220000</max_discount>
 			<currency>RUR</currency>
-			<vin>LS5A3DKRXRA016533</vin>
+			<vin>LS5A3DKR5RA029237</vin>
 			<description />
 			<images />
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
 		<priceWithDiscount>2329900</priceWithDiscount><sale_price>2329900</sale_price><url>https://auto-team.pro/cars/changan-cs35plus-i-рестайлинг-14-amt-150-лс-tech-белый-2024/</url></car>
-		<car>
-			<mark_id>Changan</mark_id>
-			<folder_id>CS55PLUS, I Рестайлинг</folder_id>
-			<modification_id>1.5 AMT (181 л.с.)</modification_id>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<complectation_name>Tech</complectation_name>
-			<wheel>левый</wheel>
-			<color>Серый</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<owners_number>Не было владельцев</owners_number>
-			<year>2024</year>
-			<price>2849900</price>
-			<credit_discount>100000</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>100000</tradein_discount>
-			<max_discount>200000</max_discount>
-			<currency>RUR</currency>
-			<vin>LS4ASE2E6RA248850</vin>
-			<description />
-			<images />
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<priceWithDiscount>2649900</priceWithDiscount><sale_price>2649900</sale_price><url>https://auto-team.pro/cars/changan-cs55plus-i-рестайлинг-15-amt-181-лс-tech-серый-2024/</url></car>
-		<car>
-			<mark_id>Changan</mark_id>
-			<folder_id>CS95PLUS</folder_id>
-			<modification_id>2.0 AT (233 л.с.) 4WD</modification_id>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<complectation_name>Premium</complectation_name>
-			<wheel>левый</wheel>
-			<color>Серый</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<owners_number>Не было владельцев</owners_number>
-			<year>2023</year>
-			<price>4329900</price>
-			<credit_discount>100000</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>100000</tradein_discount>
-			<max_discount>200000</max_discount>
-			<currency>RUR</currency>
-			<vin>LS4ASE2A0RJ104305</vin>
-			<description />
-			<images />
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<priceWithDiscount>4129900</priceWithDiscount><sale_price>4129900</sale_price><url>https://auto-team.pro/cars/changan-cs95plus-20-at-233-лс-4wd-premium-серый-2023/</url></car>
 		<car>
 			<mark_id>Changan</mark_id>
 			<folder_id>CS95PLUS</folder_id>
@@ -885,6 +833,32 @@
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
 		<priceWithDiscount>4129900</priceWithDiscount><sale_price>4129900</sale_price><url>https://auto-team.pro/cars/changan-cs95plus-20-at-233-лс-4wd-premium-белый-2023/</url></car>
+		<car>
+			<mark_id>Changan</mark_id>
+			<folder_id>CS95PLUS</folder_id>
+			<modification_id>2.0 AT (233 л.с.) 4WD</modification_id>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<complectation_name>Premium</complectation_name>
+			<wheel>левый</wheel>
+			<color>Серый</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<owners_number>Не было владельцев</owners_number>
+			<year>2023</year>
+			<price>4329900</price>
+			<credit_discount>100000</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>100000</tradein_discount>
+			<max_discount>200000</max_discount>
+			<currency>RUR</currency>
+			<vin>LS4ASE2A0RJ104305</vin>
+			<description />
+			<images />
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<priceWithDiscount>4129900</priceWithDiscount><sale_price>4129900</sale_price><url>https://auto-team.pro/cars/changan-cs95plus-20-at-233-лс-4wd-premium-серый-2023/</url></car>
 		<car>
 			<mark_id>Changan</mark_id>
 			<folder_id>Eado Plus</folder_id>
@@ -2053,20 +2027,20 @@
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
 			<owners_number>Не было владельцев</owners_number>
-			<year>2024</year>
-			<price>3099900</price>
+			<year>2023</year>
+			<price>4369900</price>
 			<credit_discount>50000</credit_discount>
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>50000</tradein_discount>
 			<max_discount>100000</max_discount>
 			<currency>RUR</currency>
-			<vin>LS5A3DKE3RA703317</vin>
+			<vin>LS5A3DKE7RA998602</vin>
 			<description />
 			<images />
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
-		<priceWithDiscount>2999900</priceWithDiscount><sale_price>2999900</sale_price><url>https://auto-team.pro/cars/changan-uni-t-i-рестайлинг-15-amt-188-лс-premium-серый-2024/</url></car>
+		<priceWithDiscount>4269900</priceWithDiscount><sale_price>4269900</sale_price><url>https://auto-team.pro/cars/changan-uni-t-i-рестайлинг-15-amt-188-лс-premium-серый-2023/</url></car>
 		<car>
 			<mark_id>Changan</mark_id>
 			<folder_id>UNI-T, I Рестайлинг</folder_id>
@@ -2093,32 +2067,6 @@
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
 		<priceWithDiscount>2999900</priceWithDiscount><sale_price>2999900</sale_price><url>https://auto-team.pro/cars/changan-uni-t-i-рестайлинг-15-amt-188-лс-premium-серый-2023/</url></car>
-		<car>
-			<mark_id>Changan</mark_id>
-			<folder_id>UNI-T, I Рестайлинг</folder_id>
-			<modification_id>1.5 AMT (188 л.с.)</modification_id>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<complectation_name>Premium</complectation_name>
-			<wheel>левый</wheel>
-			<color>Серый</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<owners_number>Не было владельцев</owners_number>
-			<year>2023</year>
-			<price>4369900</price>
-			<credit_discount>50000</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>50000</tradein_discount>
-			<max_discount>100000</max_discount>
-			<currency>RUR</currency>
-			<vin>LS5A3DKE7RA998602</vin>
-			<description />
-			<images />
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<priceWithDiscount>4269900</priceWithDiscount><sale_price>4269900</sale_price><url>https://auto-team.pro/cars/changan-uni-t-i-рестайлинг-15-amt-188-лс-premium-серый-2023/</url></car>
 		<car>
 			<mark_id>Changan</mark_id>
 			<folder_id>UNI-T, I Рестайлинг</folder_id>
@@ -2199,30 +2147,30 @@
 		<priceWithDiscount>2999900</priceWithDiscount><sale_price>2999900</sale_price><url>https://auto-team.pro/cars/changan-uni-t-i-рестайлинг-15-amt-188-лс-premium-черный-2024/</url></car>
 		<car>
 			<mark_id>Changan</mark_id>
-			<folder_id>UNI-V</folder_id>
-			<modification_id>1.5 AMT (181 л.с.)</modification_id>
-			<body_type>Лифтбек</body_type>
-			<complectation_name>DLX</complectation_name>
+			<folder_id>UNI-T, I Рестайлинг</folder_id>
+			<modification_id>1.5 AMT (188 л.с.)</modification_id>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<complectation_name>Premium</complectation_name>
 			<wheel>левый</wheel>
-			<color>Черный</color>
+			<color>Серый</color>
 			<metallic>нет</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
 			<owners_number>Не было владельцев</owners_number>
 			<year>2024</year>
-			<price>3059900</price>
+			<price>3099900</price>
 			<credit_discount>50000</credit_discount>
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>50000</tradein_discount>
 			<max_discount>100000</max_discount>
 			<currency>RUR</currency>
-			<vin>LS5A2DKE3RA255583</vin>
+			<vin>LS5A3DKE3RA703317</vin>
 			<description />
 			<images />
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
-		<priceWithDiscount>2959900</priceWithDiscount><sale_price>2959900</sale_price><url>https://auto-team.pro/cars/changan-uni-v-15-amt-181-лс-dlx-черный-2024/</url></car>
+		<priceWithDiscount>2999900</priceWithDiscount><sale_price>2999900</sale_price><url>https://auto-team.pro/cars/changan-uni-t-i-рестайлинг-15-amt-188-лс-premium-серый-2024/</url></car>
 		<car>
 			<mark_id>Changan</mark_id>
 			<folder_id>UNI-V</folder_id>
@@ -2379,32 +2327,6 @@
 			<tradein_discount>50000</tradein_discount>
 			<max_discount>100000</max_discount>
 			<currency>RUR</currency>
-			<vin>LS5A2DKE9RA215248</vin>
-			<description />
-			<images />
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<priceWithDiscount>2959900</priceWithDiscount><sale_price>2959900</sale_price><url>https://auto-team.pro/cars/changan-uni-v-15-amt-181-лс-dlx-черный-2024/</url></car>
-		<car>
-			<mark_id>Changan</mark_id>
-			<folder_id>UNI-V</folder_id>
-			<modification_id>1.5 AMT (181 л.с.)</modification_id>
-			<body_type>Лифтбек</body_type>
-			<complectation_name>DLX</complectation_name>
-			<wheel>левый</wheel>
-			<color>Черный</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<owners_number>Не было владельцев</owners_number>
-			<year>2024</year>
-			<price>3059900</price>
-			<credit_discount>50000</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>50000</tradein_discount>
-			<max_discount>100000</max_discount>
-			<currency>RUR</currency>
 			<vin>LS5A2DKE3RA215228</vin>
 			<description />
 			<images />
@@ -2438,6 +2360,58 @@
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
 		<priceWithDiscount>2959900</priceWithDiscount><sale_price>2959900</sale_price><url>https://auto-team.pro/cars/changan-uni-v-15-amt-181-лс-dlx-черный-2024/</url></car>
+		<car>
+			<mark_id>Changan</mark_id>
+			<folder_id>UNI-V</folder_id>
+			<modification_id>1.5 AMT (181 л.с.)</modification_id>
+			<body_type>Лифтбек</body_type>
+			<complectation_name>DLX</complectation_name>
+			<wheel>левый</wheel>
+			<color>Черный</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<owners_number>Не было владельцев</owners_number>
+			<year>2024</year>
+			<price>3059900</price>
+			<credit_discount>50000</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>50000</tradein_discount>
+			<max_discount>100000</max_discount>
+			<currency>RUR</currency>
+			<vin>LS5A2DKE3RA255583</vin>
+			<description />
+			<images />
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<priceWithDiscount>2959900</priceWithDiscount><sale_price>2959900</sale_price><url>https://auto-team.pro/cars/changan-uni-v-15-amt-181-лс-dlx-черный-2024/</url></car>
+		<car>
+			<mark_id>Changan</mark_id>
+			<folder_id>UNI-V</folder_id>
+			<modification_id>1.5 AMT (181 л.с.)</modification_id>
+			<body_type>Лифтбек</body_type>
+			<complectation_name>DLX</complectation_name>
+			<wheel>левый</wheel>
+			<color>Черный</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<owners_number>Не было владельцев</owners_number>
+			<year>2024</year>
+			<price>3059900</price>
+			<credit_discount>50000</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>50000</tradein_discount>
+			<max_discount>100000</max_discount>
+			<currency>RUR</currency>
+			<vin>LS5A2DKE9RA215248</vin>
+			<description />
+			<images />
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<priceWithDiscount>2959900</priceWithDiscount><sale_price>2959900</sale_price><url>https://auto-team.pro/cars/changan-uni-v-15-amt-181-лс-dlx-черный-2024/</url></car>
 	<car>
 			<unique_id>48d42e58-7f37-11ef-8124-002590fc7f85</unique_id>
 			<mark_id>GAC</mark_id>
@@ -2450,7 +2424,7 @@
 			<metallic>нет</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
-			<run>3</run>
+			<run>4</run>
 			<year>2024</year>
 			<price>2499000</price>
 			<credit_discount>100000</credit_discount>
@@ -2534,7 +2508,7 @@
 			<metallic>нет</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
-			<run>4</run>
+			<run>5</run>
 			<year>2024</year>
 			<price>2499000</price>
 			<credit_discount>100000</credit_discount>
@@ -2674,7 +2648,7 @@
 			<metallic>нет</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
-			<run>3</run>
+			<run>4</run>
 			<year>2024</year>
 			<price>2499000</price>
 			<credit_discount>100000</credit_discount>
@@ -2702,7 +2676,7 @@
 			<metallic>нет</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
-			<run>3</run>
+			<run>4</run>
 			<year>2024</year>
 			<price>2499000</price>
 			<credit_discount>100000</credit_discount>
@@ -2898,7 +2872,7 @@
 			<metallic>нет</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
-			<run>3</run>
+			<run>4</run>
 			<year>2024</year>
 			<price>2699000</price>
 			<credit_discount>100000</credit_discount>
@@ -3122,7 +3096,7 @@
 			<metallic>нет</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
-			<run>3</run>
+			<run>4</run>
 			<year>2024</year>
 			<price>2699000</price>
 			<credit_discount>100000</credit_discount>
@@ -3206,7 +3180,7 @@
 			<metallic>нет</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
-			<run>3</run>
+			<run>4</run>
 			<year>2024</year>
 			<price>2699000</price>
 			<credit_discount>100000</credit_discount>
@@ -3402,7 +3376,7 @@
 			<metallic>нет</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
-			<run>7</run>
+			<run>8</run>
 			<year>2024</year>
 			<price>4299000</price>
 			<credit_discount>150000</credit_discount>
@@ -3430,7 +3404,7 @@
 			<metallic>нет</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
-			<run>5</run>
+			<run>6</run>
 			<year>2024</year>
 			<price>4299000</price>
 			<credit_discount>150000</credit_discount>
@@ -3458,7 +3432,7 @@
 			<metallic>нет</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
-			<run>3</run>
+			<run>4</run>
 			<year>2024</year>
 			<price>4299000</price>
 			<credit_discount>150000</credit_discount>
@@ -3486,7 +3460,7 @@
 			<metallic>нет</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
-			<run>4</run>
+			<run>5</run>
 			<year>2024</year>
 			<price>4849000</price>
 			<credit_discount>150000</credit_discount>
@@ -3514,7 +3488,7 @@
 			<metallic>нет</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
-			<run>3</run>
+			<run>4</run>
 			<year>2024</year>
 			<price>4849000</price>
 			<credit_discount>150000</credit_discount>
@@ -3542,7 +3516,7 @@
 			<metallic>нет</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
-			<run>5</run>
+			<run>6</run>
 			<year>2024</year>
 			<price>4899000</price>
 			<credit_discount>150000</credit_discount>
@@ -3570,7 +3544,7 @@
 			<metallic>нет</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
-			<run>3</run>
+			<run>4</run>
 			<year>2024</year>
 			<price>4899000</price>
 			<credit_discount>150000</credit_discount>
@@ -3626,7 +3600,7 @@
 			<metallic>нет</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
-			<run>3</run>
+			<run>4</run>
 			<year>2024</year>
 			<price>4899000</price>
 			<credit_discount>150000</credit_discount>
