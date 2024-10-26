@@ -45,7 +45,7 @@
 			<tradein_discount>0</tradein_discount>
 			<max_discount>0</max_discount>
 			<currency>RUR</currency>
-			<vin>LS4ASE2E2RA268545</vin>
+			<vin>LS4ASE2E4RA269969</vin>
 			<description />
 			<images />
 			<multiposting>
@@ -71,7 +71,7 @@
 			<tradein_discount>0</tradein_discount>
 			<max_discount>0</max_discount>
 			<currency>RUR</currency>
-			<vin>LS4ASE2E4RA269969</vin>
+			<vin>LS4ASE2E2RA268545</vin>
 			<description />
 			<images />
 			<multiposting>
@@ -149,7 +149,7 @@
 			<tradein_discount>0</tradein_discount>
 			<max_discount>0</max_discount>
 			<currency>RUR</currency>
-			<vin>LS4ASE2E4RA277649</vin>
+			<vin>LS4ASE2E5RA270791</vin>
 			<description />
 			<images />
 			<multiposting>
@@ -175,7 +175,7 @@
 			<tradein_discount>0</tradein_discount>
 			<max_discount>0</max_discount>
 			<currency>RUR</currency>
-			<vin>LS4ASE2E5RA270791</vin>
+			<vin>LS4ASE2E4RA277649</vin>
 			<description />
 			<images />
 			<multiposting>
@@ -2692,49 +2692,6 @@
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
 		<priceWithDiscount>2427669</priceWithDiscount><sale_price>2427669</sale_price><url>https://auto-team.pro/cars/belgee-x70-15-amt-177-лс-4wd-prestige-plus-серый-2024/</url></car>
-		<car>
-			<unique_id>023d61f155070f30ebfade2d1b9ddca3</unique_id>
-			<mark_id>BELGEE</mark_id>
-			<folder_id>X70</folder_id>
-			<modification_id>1.5 AMT (177 л.с.) 4WD</modification_id>
-			<complectation_name>Prestige+</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Черный</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>8</run>
-			<year>2024</year>
-			<price>3342990</price>
-			<credit_discount>665321</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>250000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>915321</max_discount>
-			<currency>RUR</currency>
-			<vin>Y4K8722DXRB317430</vin>
-			<description>Партнер-Авто - oфициальный дилерский центp Вelgее в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
-
-✅Bыгoдный кpедит c комфоpтными ежемecячными платежами.
-
-✅Bыгoдa по программе Трейд-ин до 250 000 руб
-
-✅Скидка по программе “BelGee Finаnсе” 200 000 руб.
-
-✅ПТС в наличии! Покупка одним днём! Звоните сейчас, и мы подготовим для Вас персональное предложение!</description>
-			<images>
-				<image>https://photo.toyotasever.ru/Y4K8722DXRB317430/086374265e76e029d1c680bf553918c7.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722DXRB317430/6308fef676c7bd0c4e9362fbd6dc3ecc.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722DXRB317430/b78e796eb3a4698128016eacd68829e6.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722DXRB317430/63f2872eccce8e1fea327edd1fc023c2.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722DXRB317430/956622e37c74cd219516c3066e2ae67d.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8722DXRB317430/e6111c5594912c617f5339697451816a.jpg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<priceWithDiscount>2427669</priceWithDiscount><sale_price>2427669</sale_price><url>https://auto-team.pro/cars/belgee-x70-15-amt-177-лс-4wd-prestige-plus-черный-2024/</url></car>
 		<car>
 			<unique_id>90b4c3bc781a575394454807e3cb75b3</unique_id>
 			<mark_id>BELGEE</mark_id>
