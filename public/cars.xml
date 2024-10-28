@@ -45,7 +45,7 @@
 			<tradein_discount>0</tradein_discount>
 			<max_discount>0</max_discount>
 			<currency>RUR</currency>
-			<vin>LS4ASE2E4RA269969</vin>
+			<vin>LS4ASE2E2RA268545</vin>
 			<description />
 			<images />
 			<multiposting>
@@ -71,7 +71,7 @@
 			<tradein_discount>0</tradein_discount>
 			<max_discount>0</max_discount>
 			<currency>RUR</currency>
-			<vin>LS4ASE2E2RA268545</vin>
+			<vin>LS4ASE2E4RA269969</vin>
 			<description />
 			<images />
 			<multiposting>
@@ -149,7 +149,7 @@
 			<tradein_discount>0</tradein_discount>
 			<max_discount>0</max_discount>
 			<currency>RUR</currency>
-			<vin>LS4ASE2E5RA270791</vin>
+			<vin>LS4ASE2E4RA277649</vin>
 			<description />
 			<images />
 			<multiposting>
@@ -175,7 +175,7 @@
 			<tradein_discount>0</tradein_discount>
 			<max_discount>0</max_discount>
 			<currency>RUR</currency>
-			<vin>LS4ASE2E4RA277649</vin>
+			<vin>LS4ASE2E5RA270791</vin>
 			<description />
 			<images />
 			<multiposting>
@@ -1272,34 +1272,6 @@
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
 		<priceWithDiscount>4499000</priceWithDiscount><sale_price>4499000</sale_price><url>https://auto-team.pro/cars/gac-gs8-ii-20-at-231-лс-4wd-gx-зеленый-2024/</url></car>
-		<car>
-			<unique_id>7a46884f-8fb3-11ef-8125-002590fc7f85</unique_id>
-			<mark_id>GAC</mark_id>
-			<folder_id>GS8, II</folder_id>
-			<modification_id>2.0 AT (231 л.с.) 4WD</modification_id>
-			<complectation_name>GX Premium</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Белый</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>3</run>
-			<year>2024</year>
-			<price>4899000</price>
-			<credit_discount>150000</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>200000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>350000</max_discount>
-			<currency>RUR</currency>
-			<vin>LMGJU3G80R1028095</vin>
-			<description />
-			<images />
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<priceWithDiscount>4549000</priceWithDiscount><sale_price>4549000</sale_price><url>https://auto-team.pro/cars/gac-gs8-ii-20-at-231-лс-4wd-gx-premium-белый-2024/</url></car>
 		<car>
 			<unique_id>272c847f-91f2-11ef-8125-002590fc7f85</unique_id>
 			<mark_id>GAC</mark_id>
