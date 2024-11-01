@@ -16,6 +16,15 @@ on:
   # Runs on pushes targeting the default branch
   push:
     branches: ["main"]
+    paths-ignore:
+      - '.github/workflows/update_cars.yml'
+      - '.github/scripts/getOneXML.py'
+      - '.github/scripts/update_cars_avito.py'
+      - '.github/scripts/update_cars_carcopy.py'
+      - '.github/scripts/update_cars_maxposter.py'
+      - '.github/scripts/update_cars_vehicles.py'
+      - '.github/scripts/update_cars.py'
+      - '.github/scripts/config.py'
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
@@ -50,7 +59,7 @@ jobs:
         id: check_changes
         run: |
           # Проверка запущен ли экшн вручную или есть ли коммиты за последние 10 минут
-          if [ "${{ github.event_name }}" == "workflow_dispatch" ]; then
+          if [ "${{ github.event_name }}" == "workflow_dispatch" ] || [ "${{ github.event_name }}" == "schedule" ]; then
             echo "Run manually. Assuming changes." && echo "changes=true" >> $GITHUB_OUTPUT
           else
             COUNT=$(git rev-list --count HEAD --since="10 minutes ago")
