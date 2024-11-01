@@ -1794,34 +1794,6 @@
 			</multiposting>
 		<priceWithDiscount>3019900</priceWithDiscount><sale_price>3019900</sale_price><url>https://auto-team.pro/cars/changan-uni-v-15-amt-181-лс-dlx-белый-2024/</url></car>
 	<car>
-			<unique_id>85b398ba-7f38-11ef-8124-002590fc7f85</unique_id>
-			<mark_id>GAC</mark_id>
-			<folder_id>GS3</folder_id>
-			<modification_id>1.5 AMT (170 л.с.)</modification_id>
-			<complectation_name>GB</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Белый</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>4</run>
-			<year>2024</year>
-			<price>2499000</price>
-			<credit_discount>100000</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>100000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>200000</max_discount>
-			<currency>RUR</currency>
-			<vin>LMGHT1L54R3086622</vin>
-			<description />
-			<images />
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<priceWithDiscount>2299000</priceWithDiscount><sale_price>2299000</sale_price><url>https://auto-team.pro/cars/gac-gs3-15-amt-170-лс-gb-белый-2024/</url></car>
-		<car>
 			<unique_id>48d42e58-7f37-11ef-8124-002590fc7f85</unique_id>
 			<mark_id>GAC</mark_id>
 			<folder_id>GS3</folder_id>
@@ -1843,6 +1815,34 @@
 			<max_discount>200000</max_discount>
 			<currency>RUR</currency>
 			<vin>LMGHT1L54R3085065</vin>
+			<description />
+			<images />
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<priceWithDiscount>2299000</priceWithDiscount><sale_price>2299000</sale_price><url>https://auto-team.pro/cars/gac-gs3-15-amt-170-лс-gb-белый-2024/</url></car>
+		<car>
+			<unique_id>85b398ba-7f38-11ef-8124-002590fc7f85</unique_id>
+			<mark_id>GAC</mark_id>
+			<folder_id>GS3</folder_id>
+			<modification_id>1.5 AMT (170 л.с.)</modification_id>
+			<complectation_name>GB</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>Белый</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>4</run>
+			<year>2024</year>
+			<price>2499000</price>
+			<credit_discount>100000</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>100000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>200000</max_discount>
+			<currency>RUR</currency>
+			<vin>LMGHT1L54R3086622</vin>
 			<description />
 			<images />
 			<multiposting>
@@ -2018,34 +2018,6 @@
 			</multiposting>
 		<priceWithDiscount>2349000</priceWithDiscount><sale_price>2349000</sale_price><url>https://auto-team.pro/cars/gac-gs3-15-amt-170-лс-gb-r-белый-2024/</url></car>
 		<car>
-			<unique_id>5780c277-200b-11ef-8123-002590fc7f85</unique_id>
-			<mark_id>GAC</mark_id>
-			<folder_id>GS3</folder_id>
-			<modification_id>1.5 AMT (170 л.с.)</modification_id>
-			<complectation_name>GB-R</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Синий</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>8</run>
-			<year>2024</year>
-			<price>2549000</price>
-			<credit_discount>100000</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>100000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>200000</max_discount>
-			<currency>RUR</currency>
-			<vin>LMGHT1L54R3069657</vin>
-			<description />
-			<images />
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<priceWithDiscount>2349000</priceWithDiscount><sale_price>2349000</sale_price><url>https://auto-team.pro/cars/gac-gs3-15-amt-170-лс-gb-r-синий-2024/</url></car>
-		<car>
 			<unique_id>26fd7f41-2008-11ef-8123-002590fc7f85</unique_id>
 			<mark_id>GAC</mark_id>
 			<folder_id>GS3</folder_id>
@@ -2067,6 +2039,34 @@
 			<max_discount>200000</max_discount>
 			<currency>RUR</currency>
 			<vin>LMGHT1L55R3068758</vin>
+			<description />
+			<images />
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<priceWithDiscount>2349000</priceWithDiscount><sale_price>2349000</sale_price><url>https://auto-team.pro/cars/gac-gs3-15-amt-170-лс-gb-r-синий-2024/</url></car>
+		<car>
+			<unique_id>5780c277-200b-11ef-8123-002590fc7f85</unique_id>
+			<mark_id>GAC</mark_id>
+			<folder_id>GS3</folder_id>
+			<modification_id>1.5 AMT (170 л.с.)</modification_id>
+			<complectation_name>GB-R</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>Синий</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>8</run>
+			<year>2024</year>
+			<price>2549000</price>
+			<credit_discount>100000</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>100000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>200000</max_discount>
+			<currency>RUR</currency>
+			<vin>LMGHT1L54R3069657</vin>
 			<description />
 			<images />
 			<multiposting>
@@ -2102,34 +2102,6 @@
 			</multiposting>
 		<priceWithDiscount>2349000</priceWithDiscount><sale_price>2349000</sale_price><url>https://auto-team.pro/cars/gac-gs3-15-amt-170-лс-gb-r-синий-2024/</url></car>
 		<car>
-			<unique_id>78bb6cc7-7f39-11ef-8124-002590fc7f85</unique_id>
-			<mark_id>GAC</mark_id>
-			<folder_id>GS3</folder_id>
-			<modification_id>1.5 AMT (170 л.с.)</modification_id>
-			<complectation_name>GL</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Белый</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>8</run>
-			<year>2024</year>
-			<price>2699000</price>
-			<credit_discount>100000</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>100000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>200000</max_discount>
-			<currency>RUR</currency>
-			<vin>LMGHT1L89R3086867</vin>
-			<description />
-			<images />
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<priceWithDiscount>2499000</priceWithDiscount><sale_price>2499000</sale_price><url>https://auto-team.pro/cars/gac-gs3-15-amt-170-лс-gl-белый-2024/</url></car>
-		<car>
 			<unique_id>36097997-7f39-11ef-8124-002590fc7f85</unique_id>
 			<mark_id>GAC</mark_id>
 			<folder_id>GS3</folder_id>
@@ -2151,6 +2123,34 @@
 			<max_discount>200000</max_discount>
 			<currency>RUR</currency>
 			<vin>LMGHT1L87R3087029</vin>
+			<description />
+			<images />
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<priceWithDiscount>2499000</priceWithDiscount><sale_price>2499000</sale_price><url>https://auto-team.pro/cars/gac-gs3-15-amt-170-лс-gl-белый-2024/</url></car>
+		<car>
+			<unique_id>78bb6cc7-7f39-11ef-8124-002590fc7f85</unique_id>
+			<mark_id>GAC</mark_id>
+			<folder_id>GS3</folder_id>
+			<modification_id>1.5 AMT (170 л.с.)</modification_id>
+			<complectation_name>GL</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>Белый</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>8</run>
+			<year>2024</year>
+			<price>2699000</price>
+			<credit_discount>100000</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>100000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>200000</max_discount>
+			<currency>RUR</currency>
+			<vin>LMGHT1L89R3086867</vin>
 			<description />
 			<images />
 			<multiposting>
@@ -2270,34 +2270,6 @@
 			</multiposting>
 		<priceWithDiscount>2499000</priceWithDiscount><sale_price>2499000</sale_price><url>https://auto-team.pro/cars/gac-gs3-15-amt-170-лс-gl-синий-2024/</url></car>
 		<car>
-			<unique_id>5a07a314-7f38-11ef-8124-002590fc7f85</unique_id>
-			<mark_id>GAC</mark_id>
-			<folder_id>GS3</folder_id>
-			<modification_id>1.5 AMT (170 л.с.)</modification_id>
-			<complectation_name>GL</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Синий</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>5</run>
-			<year>2024</year>
-			<price>2699000</price>
-			<credit_discount>100000</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>100000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>200000</max_discount>
-			<currency>RUR</currency>
-			<vin>LMGHT1L83R3087819</vin>
-			<description />
-			<images />
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<priceWithDiscount>2499000</priceWithDiscount><sale_price>2499000</sale_price><url>https://auto-team.pro/cars/gac-gs3-15-amt-170-лс-gl-синий-2024/</url></car>
-		<car>
 			<unique_id>7d88f425-7f37-11ef-8124-002590fc7f85</unique_id>
 			<mark_id>GAC</mark_id>
 			<folder_id>GS3</folder_id>
@@ -2326,7 +2298,7 @@
 			</multiposting>
 		<priceWithDiscount>2499000</priceWithDiscount><sale_price>2499000</sale_price><url>https://auto-team.pro/cars/gac-gs3-15-amt-170-лс-gl-синий-2024/</url></car>
 		<car>
-			<unique_id>e620c936-816d-11ef-8125-002590fc7f85</unique_id>
+			<unique_id>5a07a314-7f38-11ef-8124-002590fc7f85</unique_id>
 			<mark_id>GAC</mark_id>
 			<folder_id>GS3</folder_id>
 			<modification_id>1.5 AMT (170 л.с.)</modification_id>
@@ -2337,7 +2309,7 @@
 			<metallic>нет</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
-			<run>7</run>
+			<run>5</run>
 			<year>2024</year>
 			<price>2699000</price>
 			<credit_discount>100000</credit_discount>
@@ -2346,7 +2318,35 @@
 			<optional_discount>0</optional_discount>
 			<max_discount>200000</max_discount>
 			<currency>RUR</currency>
-			<vin>LMGHT1L81R3089696</vin>
+			<vin>LMGHT1L83R3087819</vin>
+			<description />
+			<images />
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<priceWithDiscount>2499000</priceWithDiscount><sale_price>2499000</sale_price><url>https://auto-team.pro/cars/gac-gs3-15-amt-170-лс-gl-синий-2024/</url></car>
+		<car>
+			<unique_id>baf7fe02-816c-11ef-8125-002590fc7f85</unique_id>
+			<mark_id>GAC</mark_id>
+			<folder_id>GS3</folder_id>
+			<modification_id>1.5 AMT (170 л.с.)</modification_id>
+			<complectation_name>GL</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>Синий</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>5</run>
+			<year>2024</year>
+			<price>2699000</price>
+			<credit_discount>100000</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>100000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>200000</max_discount>
+			<currency>RUR</currency>
+			<vin>LMGHT1L83R3086315</vin>
 			<description />
 			<images />
 			<multiposting>
@@ -2382,7 +2382,7 @@
 			</multiposting>
 		<priceWithDiscount>2499000</priceWithDiscount><sale_price>2499000</sale_price><url>https://auto-team.pro/cars/gac-gs3-15-amt-170-лс-gl-синий-2024/</url></car>
 		<car>
-			<unique_id>baf7fe02-816c-11ef-8125-002590fc7f85</unique_id>
+			<unique_id>e620c936-816d-11ef-8125-002590fc7f85</unique_id>
 			<mark_id>GAC</mark_id>
 			<folder_id>GS3</folder_id>
 			<modification_id>1.5 AMT (170 л.с.)</modification_id>
@@ -2393,7 +2393,7 @@
 			<metallic>нет</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
-			<run>5</run>
+			<run>7</run>
 			<year>2024</year>
 			<price>2699000</price>
 			<credit_discount>100000</credit_discount>
@@ -2402,7 +2402,7 @@
 			<optional_discount>0</optional_discount>
 			<max_discount>200000</max_discount>
 			<currency>RUR</currency>
-			<vin>LMGHT1L83R3086315</vin>
+			<vin>LMGHT1L81R3089696</vin>
 			<description />
 			<images />
 			<multiposting>
@@ -2466,34 +2466,6 @@
 			</multiposting>
 		<priceWithDiscount>2549000</priceWithDiscount><sale_price>2549000</sale_price><url>https://auto-team.pro/cars/gac-gs3-15-amt-170-лс-gl-r-серебряный-2024/</url></car>
 		<car>
-			<unique_id>5159969a-678d-11ef-8124-002590fc7f85</unique_id>
-			<mark_id>GAC</mark_id>
-			<folder_id>GS3</folder_id>
-			<modification_id>1.5 AMT (170 л.с.)</modification_id>
-			<complectation_name>GL-R</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Серебристый</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>6</run>
-			<year>2024</year>
-			<price>2749000</price>
-			<credit_discount>100000</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>100000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>200000</max_discount>
-			<currency>RUR</currency>
-			<vin>LMGHT1L86R3073591</vin>
-			<description />
-			<images />
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<priceWithDiscount>2549000</priceWithDiscount><sale_price>2549000</sale_price><url>https://auto-team.pro/cars/gac-gs3-15-amt-170-лс-gl-r-серебристый-2024/</url></car>
-		<car>
 			<unique_id>b34efabb-67ae-11ef-8124-002590fc7f85</unique_id>
 			<mark_id>GAC</mark_id>
 			<folder_id>GS3</folder_id>
@@ -2515,6 +2487,34 @@
 			<max_discount>200000</max_discount>
 			<currency>RUR</currency>
 			<vin>LMGHT1L84R3069863</vin>
+			<description />
+			<images />
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<priceWithDiscount>2549000</priceWithDiscount><sale_price>2549000</sale_price><url>https://auto-team.pro/cars/gac-gs3-15-amt-170-лс-gl-r-серебристый-2024/</url></car>
+		<car>
+			<unique_id>5159969a-678d-11ef-8124-002590fc7f85</unique_id>
+			<mark_id>GAC</mark_id>
+			<folder_id>GS3</folder_id>
+			<modification_id>1.5 AMT (170 л.с.)</modification_id>
+			<complectation_name>GL-R</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>Серебристый</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>6</run>
+			<year>2024</year>
+			<price>2749000</price>
+			<credit_discount>100000</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>100000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>200000</max_discount>
+			<currency>RUR</currency>
+			<vin>LMGHT1L86R3073591</vin>
 			<description />
 			<images />
 			<multiposting>
