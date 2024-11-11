@@ -45,7 +45,7 @@
 			<tradein_discount>120000</tradein_discount>
 			<max_discount>220000</max_discount>
 			<currency>RUR</currency>
-			<vin>LS5A3DKR8RA024713</vin>
+			<vin>LS5A3DKR9RA024994</vin>
 			<description />
 			<images />
 			<multiposting>
@@ -71,7 +71,7 @@
 			<tradein_discount>120000</tradein_discount>
 			<max_discount>220000</max_discount>
 			<currency>RUR</currency>
-			<vin>LS5A3DKR9RA024994</vin>
+			<vin>LS5A3DKR8RA024713</vin>
 			<description />
 			<images />
 			<multiposting>
@@ -243,7 +243,7 @@
 			<tradein_discount>0</tradein_discount>
 			<max_discount>0</max_discount>
 			<currency>RUR</currency>
-			<vin>LSCBBZ2A6RG903728</vin>
+			<vin>LSCBBZ2A7RG901907</vin>
 			<description />
 			<images />
 			<multiposting>
@@ -399,7 +399,7 @@
 			<tradein_discount>0</tradein_discount>
 			<max_discount>0</max_discount>
 			<currency>RUR</currency>
-			<vin>LSCBBZ2A7RG901907</vin>
+			<vin>LSCBBZ2A6RG903728</vin>
 			<description />
 			<images />
 			<multiposting>
@@ -1077,58 +1077,6 @@
 			<tradein_discount>0</tradein_discount>
 			<max_discount>0</max_discount>
 			<currency>RUR</currency>
-			<vin>LS4ASE2E6RA270122</vin>
-			<description />
-			<images />
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<priceWithDiscount>2909900</priceWithDiscount><sale_price>2909900</sale_price><url>https://auto-team.pro/cars/changan-cs55plus-i-рестайлинг-15-amt-181-лс-tech-серый-2024/</url></car>
-		<car>
-			<mark_id>Changan</mark_id>
-			<folder_id>CS55PLUS, I Рестайлинг</folder_id>
-			<modification_id>1.5 AMT (181 л.с.)</modification_id>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<complectation_name>Tech</complectation_name>
-			<wheel>левый</wheel>
-			<color>Серый</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<owners_number>Не было владельцев</owners_number>
-			<year>2024</year>
-			<price>2849900</price>
-			<credit_discount>0</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
-			<max_discount>0</max_discount>
-			<currency>RUR</currency>
-			<vin>LS4ASE2E5RA278440</vin>
-			<description />
-			<images />
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<priceWithDiscount>2849900</priceWithDiscount><sale_price>2849900</sale_price><url>https://auto-team.pro/cars/changan-cs55plus-i-рестайлинг-15-amt-181-лс-tech-серый-2024/</url></car>
-		<car>
-			<mark_id>Changan</mark_id>
-			<folder_id>CS55PLUS, I Рестайлинг</folder_id>
-			<modification_id>1.5 AMT (181 л.с.)</modification_id>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<complectation_name>Tech</complectation_name>
-			<wheel>левый</wheel>
-			<color>Серый</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<owners_number>Не было владельцев</owners_number>
-			<year>2024</year>
-			<price>2909900</price>
-			<credit_discount>0</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
-			<max_discount>0</max_discount>
-			<currency>RUR</currency>
 			<vin>LS4ASE2E5RA270791</vin>
 			<description />
 			<images />
@@ -1162,58 +1110,6 @@
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
 		<priceWithDiscount>2909900</priceWithDiscount><sale_price>2909900</sale_price><url>https://auto-team.pro/cars/changan-cs55plus-i-рестайлинг-15-amt-181-лс-tech-серый-2024/</url></car>
-		<car>
-			<mark_id>Changan</mark_id>
-			<folder_id>CS55PLUS, I Рестайлинг</folder_id>
-			<modification_id>1.5 AMT (181 л.с.)</modification_id>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<complectation_name>Tech</complectation_name>
-			<wheel>левый</wheel>
-			<color>Черный</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<owners_number>Не было владельцев</owners_number>
-			<year>2024</year>
-			<price>2909900</price>
-			<credit_discount>0</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
-			<max_discount>0</max_discount>
-			<currency>RUR</currency>
-			<vin>LS4ASE2E5RA260276</vin>
-			<description />
-			<images />
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<priceWithDiscount>2909900</priceWithDiscount><sale_price>2909900</sale_price><url>https://auto-team.pro/cars/changan-cs55plus-i-рестайлинг-15-amt-181-лс-tech-черный-2024/</url></car>
-		<car>
-			<mark_id>Changan</mark_id>
-			<folder_id>CS55PLUS, I Рестайлинг</folder_id>
-			<modification_id>1.5 AMT (181 л.с.)</modification_id>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<complectation_name>Tech</complectation_name>
-			<wheel>левый</wheel>
-			<color>Черный</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<owners_number>Не было владельцев</owners_number>
-			<year>2024</year>
-			<price>2909900</price>
-			<credit_discount>0</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
-			<max_discount>0</max_discount>
-			<currency>RUR</currency>
-			<vin>LS4ASE2E0RA262579</vin>
-			<description />
-			<images />
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<priceWithDiscount>2909900</priceWithDiscount><sale_price>2909900</sale_price><url>https://auto-team.pro/cars/changan-cs55plus-i-рестайлинг-15-amt-181-лс-tech-черный-2024/</url></car>
 		<car>
 			<mark_id>Changan</mark_id>
 			<folder_id>CS55PLUS, I Рестайлинг</folder_id>
@@ -1273,6 +1169,84 @@
 			<body_type>Внедорожник 5 дв.</body_type>
 			<complectation_name>Tech</complectation_name>
 			<wheel>левый</wheel>
+			<color>Черный</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<owners_number>Не было владельцев</owners_number>
+			<year>2024</year>
+			<price>2909900</price>
+			<credit_discount>0</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>0</tradein_discount>
+			<max_discount>0</max_discount>
+			<currency>RUR</currency>
+			<vin>LS4ASE2E0RA262579</vin>
+			<description />
+			<images />
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<priceWithDiscount>2909900</priceWithDiscount><sale_price>2909900</sale_price><url>https://auto-team.pro/cars/changan-cs55plus-i-рестайлинг-15-amt-181-лс-tech-черный-2024/</url></car>
+		<car>
+			<mark_id>Changan</mark_id>
+			<folder_id>CS55PLUS, I Рестайлинг</folder_id>
+			<modification_id>1.5 AMT (181 л.с.)</modification_id>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<complectation_name>Tech</complectation_name>
+			<wheel>левый</wheel>
+			<color>Черный</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<owners_number>Не было владельцев</owners_number>
+			<year>2024</year>
+			<price>2909900</price>
+			<credit_discount>0</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>0</tradein_discount>
+			<max_discount>0</max_discount>
+			<currency>RUR</currency>
+			<vin>LS4ASE2E5RA260276</vin>
+			<description />
+			<images />
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<priceWithDiscount>2909900</priceWithDiscount><sale_price>2909900</sale_price><url>https://auto-team.pro/cars/changan-cs55plus-i-рестайлинг-15-amt-181-лс-tech-черный-2024/</url></car>
+		<car>
+			<mark_id>Changan</mark_id>
+			<folder_id>CS55PLUS, I Рестайлинг</folder_id>
+			<modification_id>1.5 AMT (181 л.с.)</modification_id>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<complectation_name>Tech</complectation_name>
+			<wheel>левый</wheel>
+			<color>Черный</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<owners_number>Не было владельцев</owners_number>
+			<year>2024</year>
+			<price>2849900</price>
+			<credit_discount>0</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>0</tradein_discount>
+			<max_discount>0</max_discount>
+			<currency>RUR</currency>
+			<vin>LS4ASE2E5RA278437</vin>
+			<description />
+			<images />
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<priceWithDiscount>2849900</priceWithDiscount><sale_price>2849900</sale_price><url>https://auto-team.pro/cars/changan-cs55plus-i-рестайлинг-15-amt-181-лс-tech-черный-2024/</url></car>
+		<car>
+			<mark_id>Changan</mark_id>
+			<folder_id>CS55PLUS, I Рестайлинг</folder_id>
+			<modification_id>1.5 AMT (181 л.с.)</modification_id>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<complectation_name>Tech</complectation_name>
+			<wheel>левый</wheel>
 			<color>Белый</color>
 			<metallic>нет</metallic>
 			<availability>в наличии</availability>
@@ -1311,7 +1285,7 @@
 			<tradein_discount>0</tradein_discount>
 			<max_discount>0</max_discount>
 			<currency>RUR</currency>
-			<vin>LS4ASE2E0RA253784</vin>
+			<vin>LS4ASE2E8RA250289</vin>
 			<description />
 			<images />
 			<multiposting>
@@ -1337,13 +1311,39 @@
 			<tradein_discount>0</tradein_discount>
 			<max_discount>0</max_discount>
 			<currency>RUR</currency>
-			<vin>LS4ASE2E8RA250289</vin>
+			<vin>LS4ASE2E0RA253784</vin>
 			<description />
 			<images />
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
 		<priceWithDiscount>2909900</priceWithDiscount><sale_price>2909900</sale_price><url>https://auto-team.pro/cars/changan-cs55plus-i-рестайлинг-15-amt-181-лс-tech-красный-2024/</url></car>
+		<car>
+			<mark_id>Changan</mark_id>
+			<folder_id>CS55PLUS, I Рестайлинг</folder_id>
+			<modification_id>1.5 AMT (181 л.с.)</modification_id>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<complectation_name>Tech</complectation_name>
+			<wheel>левый</wheel>
+			<color>Серый</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<owners_number>Не было владельцев</owners_number>
+			<year>2024</year>
+			<price>2849900</price>
+			<credit_discount>0</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>0</tradein_discount>
+			<max_discount>0</max_discount>
+			<currency>RUR</currency>
+			<vin>LS4ASE2E5RA278440</vin>
+			<description />
+			<images />
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<priceWithDiscount>2849900</priceWithDiscount><sale_price>2849900</sale_price><url>https://auto-team.pro/cars/changan-cs55plus-i-рестайлинг-15-amt-181-лс-tech-серый-2024/</url></car>
 		<car>
 			<mark_id>Changan</mark_id>
 			<folder_id>UNI-T, I Рестайлинг</folder_id>
@@ -1493,7 +1493,7 @@
 			<tradein_discount>50000</tradein_discount>
 			<max_discount>100000</max_discount>
 			<currency>RUR</currency>
-			<vin>LS5A2DKE3RA255583</vin>
+			<vin>LS5A2DKE9RA215248</vin>
 			<description />
 			<images />
 			<multiposting>
@@ -1656,7 +1656,7 @@
 			<tradein_discount>50000</tradein_discount>
 			<max_discount>100000</max_discount>
 			<currency>RUR</currency>
-			<vin>LS5A2DKE9RA215248</vin>
+			<vin>LS5A2DKE3RA255583</vin>
 			<description />
 			<images />
 			<multiposting>
@@ -2056,34 +2056,6 @@
 			</multiposting>
 		<priceWithDiscount>2499000</priceWithDiscount><sale_price>2499000</sale_price><url>https://auto-team.pro/cars/gac-gs3-15-amt-170-лс-gl-синий-2024/</url></car>
 		<car>
-			<unique_id>4038a833-67ac-11ef-8124-002590fc7f85</unique_id>
-			<mark_id>GAC</mark_id>
-			<folder_id>GS3</folder_id>
-			<modification_id>1.5 AMT (170 л.с.)</modification_id>
-			<complectation_name>GL</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Синий</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>5</run>
-			<year>2024</year>
-			<price>2699000</price>
-			<credit_discount>100000</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>100000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>200000</max_discount>
-			<currency>RUR</currency>
-			<vin>LMGHT1L88R3079053</vin>
-			<description />
-			<images />
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<priceWithDiscount>2499000</priceWithDiscount><sale_price>2499000</sale_price><url>https://auto-team.pro/cars/gac-gs3-15-amt-170-лс-gl-синий-2024/</url></car>
-		<car>
 			<unique_id>eb8bd456-678a-11ef-8124-002590fc7f85</unique_id>
 			<mark_id>GAC</mark_id>
 			<folder_id>GS3</folder_id>
@@ -2105,6 +2077,34 @@
 			<max_discount>200000</max_discount>
 			<currency>RUR</currency>
 			<vin>LMGHT1L82R3073779</vin>
+			<description />
+			<images />
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<priceWithDiscount>2499000</priceWithDiscount><sale_price>2499000</sale_price><url>https://auto-team.pro/cars/gac-gs3-15-amt-170-лс-gl-синий-2024/</url></car>
+		<car>
+			<unique_id>4038a833-67ac-11ef-8124-002590fc7f85</unique_id>
+			<mark_id>GAC</mark_id>
+			<folder_id>GS3</folder_id>
+			<modification_id>1.5 AMT (170 л.с.)</modification_id>
+			<complectation_name>GL</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>Синий</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>5</run>
+			<year>2024</year>
+			<price>2699000</price>
+			<credit_discount>100000</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>100000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>200000</max_discount>
+			<currency>RUR</currency>
+			<vin>LMGHT1L88R3079053</vin>
 			<description />
 			<images />
 			<multiposting>
@@ -2196,34 +2196,6 @@
 			</multiposting>
 		<priceWithDiscount>2499000</priceWithDiscount><sale_price>2499000</sale_price><url>https://auto-team.pro/cars/gac-gs3-15-amt-170-лс-gl-синий-2024/</url></car>
 		<car>
-			<unique_id>baf7fe02-816c-11ef-8125-002590fc7f85</unique_id>
-			<mark_id>GAC</mark_id>
-			<folder_id>GS3</folder_id>
-			<modification_id>1.5 AMT (170 л.с.)</modification_id>
-			<complectation_name>GL</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Синий</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>5</run>
-			<year>2024</year>
-			<price>2699000</price>
-			<credit_discount>100000</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>100000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>200000</max_discount>
-			<currency>RUR</currency>
-			<vin>LMGHT1L83R3086315</vin>
-			<description />
-			<images />
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<priceWithDiscount>2499000</priceWithDiscount><sale_price>2499000</sale_price><url>https://auto-team.pro/cars/gac-gs3-15-amt-170-лс-gl-синий-2024/</url></car>
-		<car>
 			<unique_id>4d763d90-816d-11ef-8125-002590fc7f85</unique_id>
 			<mark_id>GAC</mark_id>
 			<folder_id>GS3</folder_id>
@@ -2245,6 +2217,34 @@
 			<max_discount>200000</max_discount>
 			<currency>RUR</currency>
 			<vin>LMGHT1L85R3089183</vin>
+			<description />
+			<images />
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<priceWithDiscount>2499000</priceWithDiscount><sale_price>2499000</sale_price><url>https://auto-team.pro/cars/gac-gs3-15-amt-170-лс-gl-синий-2024/</url></car>
+		<car>
+			<unique_id>baf7fe02-816c-11ef-8125-002590fc7f85</unique_id>
+			<mark_id>GAC</mark_id>
+			<folder_id>GS3</folder_id>
+			<modification_id>1.5 AMT (170 л.с.)</modification_id>
+			<complectation_name>GL</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>Синий</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>5</run>
+			<year>2024</year>
+			<price>2699000</price>
+			<credit_discount>100000</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>100000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>200000</max_discount>
+			<currency>RUR</currency>
+			<vin>LMGHT1L83R3086315</vin>
 			<description />
 			<images />
 			<multiposting>
@@ -2588,34 +2588,6 @@
 			</multiposting>
 		<priceWithDiscount>4499000</priceWithDiscount><sale_price>4499000</sale_price><url>https://auto-team.pro/cars/gac-gs8-ii-20-at-231-лс-4wd-gx-серый-2024/</url></car>
 		<car>
-			<unique_id>27926a3a-7ee8-11ef-8124-002590fc7f85</unique_id>
-			<mark_id>GAC</mark_id>
-			<folder_id>GS8, II</folder_id>
-			<modification_id>2.0 AT (231 л.с.) 4WD</modification_id>
-			<complectation_name>GX</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Зеленый</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>4</run>
-			<year>2024</year>
-			<price>4849000</price>
-			<credit_discount>150000</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>200000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>350000</max_discount>
-			<currency>RUR</currency>
-			<vin>LMGJU3G8XR1029223</vin>
-			<description />
-			<images />
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<priceWithDiscount>4499000</priceWithDiscount><sale_price>4499000</sale_price><url>https://auto-team.pro/cars/gac-gs8-ii-20-at-231-лс-4wd-gx-зеленый-2024/</url></car>
-		<car>
 			<unique_id>57ad8fe7-7809-11ef-8124-002590fc7f85</unique_id>
 			<mark_id>GAC</mark_id>
 			<folder_id>GS8, II</folder_id>
@@ -2644,33 +2616,33 @@
 			</multiposting>
 		<priceWithDiscount>4499000</priceWithDiscount><sale_price>4499000</sale_price><url>https://auto-team.pro/cars/gac-gs8-ii-20-at-231-лс-4wd-gx-черный-2024/</url></car>
 		<car>
-			<unique_id>4e8fc000-8fb2-11ef-8125-002590fc7f85</unique_id>
+			<unique_id>27926a3a-7ee8-11ef-8124-002590fc7f85</unique_id>
 			<mark_id>GAC</mark_id>
 			<folder_id>GS8, II</folder_id>
 			<modification_id>2.0 AT (231 л.с.) 4WD</modification_id>
-			<complectation_name>GX Premium</complectation_name>
+			<complectation_name>GX</complectation_name>
 			<body_type>Внедорожник 5 дв.</body_type>
 			<wheel>левый</wheel>
-			<color>Черный</color>
+			<color>Зеленый</color>
 			<metallic>нет</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
 			<run>4</run>
 			<year>2024</year>
-			<price>4899000</price>
+			<price>4849000</price>
 			<credit_discount>150000</credit_discount>
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>200000</tradein_discount>
 			<optional_discount>0</optional_discount>
 			<max_discount>350000</max_discount>
 			<currency>RUR</currency>
-			<vin>LMGJU3G8XR1039976</vin>
+			<vin>LMGJU3G8XR1029223</vin>
 			<description />
 			<images />
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
-		<priceWithDiscount>4549000</priceWithDiscount><sale_price>4549000</sale_price><url>https://auto-team.pro/cars/gac-gs8-ii-20-at-231-лс-4wd-gx-premium-черный-2024/</url></car>
+		<priceWithDiscount>4499000</priceWithDiscount><sale_price>4499000</sale_price><url>https://auto-team.pro/cars/gac-gs8-ii-20-at-231-лс-4wd-gx-зеленый-2024/</url></car>
 		<car>
 			<unique_id>4ffdbb0c-9059-11ef-8125-002590fc7f85</unique_id>
 			<mark_id>GAC</mark_id>
@@ -2812,34 +2784,6 @@
 			</multiposting>
 		<priceWithDiscount>4549000</priceWithDiscount><sale_price>4549000</sale_price><url>https://auto-team.pro/cars/gac-gs8-ii-20-at-231-лс-4wd-gx-premium-зеленый-2024/</url></car>
 		<car>
-			<unique_id>ea53b2ce-8fb2-11ef-8125-002590fc7f85</unique_id>
-			<mark_id>GAC</mark_id>
-			<folder_id>GS8, II</folder_id>
-			<modification_id>2.0 AT (231 л.с.) 4WD</modification_id>
-			<complectation_name>GX Premium</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Черный</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>3</run>
-			<year>2024</year>
-			<price>4899000</price>
-			<credit_discount>150000</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>200000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>350000</max_discount>
-			<currency>RUR</currency>
-			<vin>LMGJU3G89R1028113</vin>
-			<description />
-			<images />
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<priceWithDiscount>4549000</priceWithDiscount><sale_price>4549000</sale_price><url>https://auto-team.pro/cars/gac-gs8-ii-20-at-231-лс-4wd-gx-premium-черный-2024/</url></car>
-		<car>
 			<unique_id>566f554f-7803-11ef-8124-002590fc7f85</unique_id>
 			<mark_id>GAC</mark_id>
 			<folder_id>GS8, II</folder_id>
@@ -2923,6 +2867,62 @@
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
 		<priceWithDiscount>4549000</priceWithDiscount><sale_price>4549000</sale_price><url>https://auto-team.pro/cars/gac-gs8-ii-20-at-231-лс-4wd-gx-premium-серебряный-2024/</url></car>
+		<car>
+			<unique_id>4e8fc000-8fb2-11ef-8125-002590fc7f85</unique_id>
+			<mark_id>GAC</mark_id>
+			<folder_id>GS8, II</folder_id>
+			<modification_id>2.0 AT (231 л.с.) 4WD</modification_id>
+			<complectation_name>GX Premium</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>Черный</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>4</run>
+			<year>2024</year>
+			<price>4899000</price>
+			<credit_discount>150000</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>200000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>350000</max_discount>
+			<currency>RUR</currency>
+			<vin>LMGJU3G8XR1039976</vin>
+			<description />
+			<images />
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<priceWithDiscount>4549000</priceWithDiscount><sale_price>4549000</sale_price><url>https://auto-team.pro/cars/gac-gs8-ii-20-at-231-лс-4wd-gx-premium-черный-2024/</url></car>
+		<car>
+			<unique_id>ea53b2ce-8fb2-11ef-8125-002590fc7f85</unique_id>
+			<mark_id>GAC</mark_id>
+			<folder_id>GS8, II</folder_id>
+			<modification_id>2.0 AT (231 л.с.) 4WD</modification_id>
+			<complectation_name>GX Premium</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>Черный</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>3</run>
+			<year>2024</year>
+			<price>4899000</price>
+			<credit_discount>150000</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>200000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>350000</max_discount>
+			<currency>RUR</currency>
+			<vin>LMGJU3G89R1028113</vin>
+			<description />
+			<images />
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<priceWithDiscount>4549000</priceWithDiscount><sale_price>4549000</sale_price><url>https://auto-team.pro/cars/gac-gs8-ii-20-at-231-лс-4wd-gx-premium-черный-2024/</url></car>
 		<car>
 			<unique_id>59276f93-e831-11ee-8123-002590fc7f85</unique_id>
 			<mark_id>GAC</mark_id>
@@ -3161,7 +3161,7 @@
 			<custom>растаможен</custom>
 			<run>9</run>
 			<year>2024</year>
-			<price>2343990</price>
+			<price>2446190</price>
 			<credit_discount>327379</credit_discount>
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>185000</tradein_discount>
@@ -3198,7 +3198,99 @@
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
-		<priceWithDiscount>1831611</priceWithDiscount><sale_price>1831611</sale_price><url>https://auto-team.pro/cars/belgee-x50-15-amt-150-лс-active-белый-2024/</url></car>
+		<priceWithDiscount>1933811</priceWithDiscount><sale_price>1933811</sale_price><url>https://auto-team.pro/cars/belgee-x50-15-amt-150-лс-active-белый-2024/</url></car>
+		<car>
+			<unique_id>ed8056e043d1b3997cf595b86a81fab9</unique_id>
+			<mark_id>BELGEE</mark_id>
+			<folder_id>X50</folder_id>
+			<modification_id>1.5 AMT (150 л.с.)</modification_id>
+			<complectation_name>Active</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>Белый</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>7</run>
+			<year>2024</year>
+			<price>2446190</price>
+			<credit_discount>327379</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>185000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>512379</max_discount>
+			<currency>RUR</currency>
+			<vin>Y4K8622Z6RB940073</vin>
+			<description />
+			<images />
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<priceWithDiscount>1933811</priceWithDiscount><sale_price>1933811</sale_price><url>https://auto-team.pro/cars/belgee-x50-15-amt-150-лс-active-белый-2024/</url></car>
+		<car>
+			<unique_id>ae94ef5693e4c3bd79800e50f00e9da3</unique_id>
+			<mark_id>BELGEE</mark_id>
+			<folder_id>X50</folder_id>
+			<modification_id>1.5 AMT (150 л.с.)</modification_id>
+			<complectation_name>Active</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>Белый</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>7</run>
+			<year>2024</year>
+			<price>2446190</price>
+			<credit_discount>327379</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>185000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>512379</max_discount>
+			<currency>RUR</currency>
+			<vin>Y4K8622Z7RB938316</vin>
+			<description />
+			<images />
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<priceWithDiscount>1933811</priceWithDiscount><sale_price>1933811</sale_price><url>https://auto-team.pro/cars/belgee-x50-15-amt-150-лс-active-белый-2024/</url></car>
+		<car>
+			<unique_id>0a5ec5cb973bb63aec1d723a6b1fa9e4</unique_id>
+			<mark_id>BELGEE</mark_id>
+			<folder_id>X50</folder_id>
+			<modification_id>1.5 AMT (150 л.с.)</modification_id>
+			<complectation_name>Active</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>БЕЛЫЙ</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>7</run>
+			<year>2024</year>
+			<price>2446190</price>
+			<credit_discount>327379</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>185000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>512379</max_discount>
+			<currency>RUR</currency>
+			<vin>Y4K8622Z6RB940090</vin>
+			<description />
+			<images>
+				<image>https://photo.toyotasever.ru/Y4K8622Z6RB940090/65b977ef4ef29afa8b7ceee1c942a4ce.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z6RB940090/f721a0eb0417d9c6e3793694e572b731.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z6RB940090/538cfd8c8ba10a51ceb7ecbaa91f9d36.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z6RB940090/45f50faac8674d2abe65f65b63f49e78.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z6RB940090/dc5a3c9fcc9a04641e7091fb0dd50818.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z6RB940090/2fff3ee96c13f3c89fa7141c18883ce4.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z6RB940090/acf1db2bcea408a718b950e84c0cff01.jpg</image>
+			</images>
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<priceWithDiscount>1933811</priceWithDiscount><sale_price>1933811</sale_price><url>https://auto-team.pro/cars/belgee-x50-15-amt-150-лс-active-белый-2024/</url></car>
 		<car>
 			<unique_id>41f0cf2c91f94eee4dcabefd26660b5c</unique_id>
 			<mark_id>BELGEE</mark_id>
@@ -3213,7 +3305,7 @@
 			<custom>растаможен</custom>
 			<run>7</run>
 			<year>2024</year>
-			<price>2343990</price>
+			<price>2446190</price>
 			<credit_discount>327379</credit_discount>
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>185000</tradein_discount>
@@ -3241,43 +3333,7 @@
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
-		<priceWithDiscount>1831611</priceWithDiscount><sale_price>1831611</sale_price><url>https://auto-team.pro/cars/belgee-x50-15-amt-150-лс-active-белый-2024/</url></car>
-		<car>
-			<unique_id>0a5ec5cb973bb63aec1d723a6b1fa9e4</unique_id>
-			<mark_id>BELGEE</mark_id>
-			<folder_id>X50</folder_id>
-			<modification_id>1.5 AMT (150 л.с.)</modification_id>
-			<complectation_name>Active</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>БЕЛЫЙ</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>7</run>
-			<year>2024</year>
-			<price>2343990</price>
-			<credit_discount>327379</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>185000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>512379</max_discount>
-			<currency>RUR</currency>
-			<vin>Y4K8622Z6RB940090</vin>
-			<description />
-			<images>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6RB940090/65b977ef4ef29afa8b7ceee1c942a4ce.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6RB940090/f721a0eb0417d9c6e3793694e572b731.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6RB940090/538cfd8c8ba10a51ceb7ecbaa91f9d36.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6RB940090/45f50faac8674d2abe65f65b63f49e78.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6RB940090/dc5a3c9fcc9a04641e7091fb0dd50818.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6RB940090/2fff3ee96c13f3c89fa7141c18883ce4.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z6RB940090/acf1db2bcea408a718b950e84c0cff01.jpg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<priceWithDiscount>1831611</priceWithDiscount><sale_price>1831611</sale_price><url>https://auto-team.pro/cars/belgee-x50-15-amt-150-лс-active-белый-2024/</url></car>
+		<priceWithDiscount>1933811</priceWithDiscount><sale_price>1933811</sale_price><url>https://auto-team.pro/cars/belgee-x50-15-amt-150-лс-active-белый-2024/</url></car>
 		<car>
 			<unique_id>23b4dd1669d0607b4183bb05500ce0b0</unique_id>
 			<mark_id>BELGEE</mark_id>
@@ -3292,7 +3348,7 @@
 			<custom>растаможен</custom>
 			<run>8</run>
 			<year>2024</year>
-			<price>2343990</price>
+			<price>2446190</price>
 			<credit_discount>327379</credit_discount>
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>185000</tradein_discount>
@@ -3305,7 +3361,7 @@
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
-		<priceWithDiscount>1831611</priceWithDiscount><sale_price>1831611</sale_price><url>https://auto-team.pro/cars/belgee-x50-15-amt-150-лс-active-белый-2024/</url></car>
+		<priceWithDiscount>1933811</priceWithDiscount><sale_price>1933811</sale_price><url>https://auto-team.pro/cars/belgee-x50-15-amt-150-лс-active-белый-2024/</url></car>
 		<car>
 			<unique_id>08598818aa8117ae1d38d5a7de647c2d</unique_id>
 			<mark_id>BELGEE</mark_id>
@@ -3320,7 +3376,7 @@
 			<custom>растаможен</custom>
 			<run>7</run>
 			<year>2024</year>
-			<price>2343990</price>
+			<price>2446190</price>
 			<credit_discount>327379</credit_discount>
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>185000</tradein_discount>
@@ -3333,63 +3389,7 @@
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
-		<priceWithDiscount>1831611</priceWithDiscount><sale_price>1831611</sale_price><url>https://auto-team.pro/cars/belgee-x50-15-amt-150-лс-active-белый-2024/</url></car>
-		<car>
-			<unique_id>ae94ef5693e4c3bd79800e50f00e9da3</unique_id>
-			<mark_id>BELGEE</mark_id>
-			<folder_id>X50</folder_id>
-			<modification_id>1.5 AMT (150 л.с.)</modification_id>
-			<complectation_name>Active</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Белый</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>7</run>
-			<year>2024</year>
-			<price>2343990</price>
-			<credit_discount>327379</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>185000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>512379</max_discount>
-			<currency>RUR</currency>
-			<vin>Y4K8622Z7RB938316</vin>
-			<description />
-			<images />
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<priceWithDiscount>1831611</priceWithDiscount><sale_price>1831611</sale_price><url>https://auto-team.pro/cars/belgee-x50-15-amt-150-лс-active-белый-2024/</url></car>
-		<car>
-			<unique_id>ed8056e043d1b3997cf595b86a81fab9</unique_id>
-			<mark_id>BELGEE</mark_id>
-			<folder_id>X50</folder_id>
-			<modification_id>1.5 AMT (150 л.с.)</modification_id>
-			<complectation_name>Active</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Белый</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>7</run>
-			<year>2024</year>
-			<price>2343990</price>
-			<credit_discount>327379</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>185000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>512379</max_discount>
-			<currency>RUR</currency>
-			<vin>Y4K8622Z6RB940073</vin>
-			<description />
-			<images />
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<priceWithDiscount>1831611</priceWithDiscount><sale_price>1831611</sale_price><url>https://auto-team.pro/cars/belgee-x50-15-amt-150-лс-active-белый-2024/</url></car>
+		<priceWithDiscount>1933811</priceWithDiscount><sale_price>1933811</sale_price><url>https://auto-team.pro/cars/belgee-x50-15-amt-150-лс-active-белый-2024/</url></car>
 		<car>
 			<unique_id>8ba70ac1789a18f7b6f4e684e247bdd0</unique_id>
 			<mark_id>BELGEE</mark_id>
@@ -3404,7 +3404,7 @@
 			<custom>растаможен</custom>
 			<run>6</run>
 			<year>2024</year>
-			<price>2343990</price>
+			<price>2446190</price>
 			<credit_discount>327379</credit_discount>
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>185000</tradein_discount>
@@ -3417,7 +3417,7 @@
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
-		<priceWithDiscount>1831611</priceWithDiscount><sale_price>1831611</sale_price><url>https://auto-team.pro/cars/belgee-x50-15-amt-150-лс-active-белый-2024/</url></car>
+		<priceWithDiscount>1933811</priceWithDiscount><sale_price>1933811</sale_price><url>https://auto-team.pro/cars/belgee-x50-15-amt-150-лс-active-белый-2024/</url></car>
 		<car>
 			<unique_id>974a58d8133af4a5f70c77eb51ba2d11</unique_id>
 			<mark_id>BELGEE</mark_id>
@@ -3432,7 +3432,7 @@
 			<custom>растаможен</custom>
 			<run>6</run>
 			<year>2024</year>
-			<price>2610990</price>
+			<price>2656190</price>
 			<credit_discount>327379</credit_discount>
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>400000</tradein_discount>
@@ -3445,7 +3445,35 @@
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
-		<priceWithDiscount>1883611</priceWithDiscount><sale_price>1883611</sale_price><url>https://auto-team.pro/cars/belgee-x50-15-amt-150-лс-prestige-белый-2024/</url></car>
+		<priceWithDiscount>1928811</priceWithDiscount><sale_price>1928811</sale_price><url>https://auto-team.pro/cars/belgee-x50-15-amt-150-лс-prestige-белый-2024/</url></car>
+		<car>
+			<unique_id>6ffaed53e7a5988a7e8436bfa79915b2</unique_id>
+			<mark_id>BELGEE</mark_id>
+			<folder_id>X50</folder_id>
+			<modification_id>1.5 AMT (150 л.с.)</modification_id>
+			<complectation_name>Prestige</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>Белый</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>6</run>
+			<year>2024</year>
+			<price>2656190</price>
+			<credit_discount>327379</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>400000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>727379</max_discount>
+			<currency>RUR</currency>
+			<vin>Y4K8622Z3RB922470</vin>
+			<description />
+			<images />
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<priceWithDiscount>1928811</priceWithDiscount><sale_price>1928811</sale_price><url>https://auto-team.pro/cars/belgee-x50-15-amt-150-лс-prestige-белый-2024/</url></car>
 		<car>
 			<unique_id>feeee5994f711b943a4afecd65ca6995</unique_id>
 			<mark_id>BELGEE</mark_id>
@@ -3460,7 +3488,7 @@
 			<custom>растаможен</custom>
 			<run>6</run>
 			<year>2024</year>
-			<price>2610990</price>
+			<price>2656190</price>
 			<credit_discount>327379</credit_discount>
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>400000</tradein_discount>
@@ -3473,50 +3501,35 @@
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
-		<priceWithDiscount>1883611</priceWithDiscount><sale_price>1883611</sale_price><url>https://auto-team.pro/cars/belgee-x50-15-amt-150-лс-prestige-серебристый-2024/</url></car>
+		<priceWithDiscount>1928811</priceWithDiscount><sale_price>1928811</sale_price><url>https://auto-team.pro/cars/belgee-x50-15-amt-150-лс-prestige-серебристый-2024/</url></car>
 		<car>
-			<unique_id>4ee062c92cf3dcc6d157a0440956258c</unique_id>
+			<unique_id>3b0516f830e56d3fba655aec269e130c</unique_id>
 			<mark_id>BELGEE</mark_id>
 			<folder_id>X50</folder_id>
 			<modification_id>1.5 AMT (150 л.с.)</modification_id>
 			<complectation_name>Prestige</complectation_name>
 			<body_type>Внедорожник 5 дв.</body_type>
 			<wheel>левый</wheel>
-			<color>Серый</color>
+			<color>Серебристый</color>
 			<metallic>нет</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
-			<run>8</run>
+			<run>6</run>
 			<year>2024</year>
-			<price>2610990</price>
+			<price>2656190</price>
 			<credit_discount>327379</credit_discount>
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>400000</tradein_discount>
 			<optional_discount>0</optional_discount>
 			<max_discount>727379</max_discount>
 			<currency>RUR</currency>
-			<vin>Y4K8622Z7RB934864</vin>
-			<description>Партнер-Авто - oфициальный дилерский центp Вelgее в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
-
-✅Bыгoдный кpедит c комфоpтными ежемecячными платежами.
-
-✅Bыгoдa по программе Трейд-ин до 185 000 руб
-
-✅Скидка по программе “Gееly Finаnсе” 135 000 руб.
-
-✅ПТС в наличии! Покупка одним днём! Звоните сейчас, и мы подготовим для Вас персональное предложение!</description>
-			<images>
-				<image>https://photo.toyotasever.ru/Y4K8622Z7RB934864/85dc09657412a2ab424e0bb81466752d.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z7RB934864/17a4d7ab9a3105893bff3b608084f83d.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z7RB934864/1a0294912d64f5d51a0e84627109c98c.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z7RB934864/aff6abb1947cf6090d4f4978813792c0.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z7RB934864/9d118cb5a67781ade237faaad0517741.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z7RB934864/80e0d8b74177a716c2eef14d293ab515.jpg</image>
-			</images>
+			<vin>Y4K8622Z9RB942917</vin>
+			<description />
+			<images />
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
-		<priceWithDiscount>1883611</priceWithDiscount><sale_price>1883611</sale_price><url>https://auto-team.pro/cars/belgee-x50-15-amt-150-лс-prestige-серый-2024/</url></car>
+		<priceWithDiscount>1928811</priceWithDiscount><sale_price>1928811</sale_price><url>https://auto-team.pro/cars/belgee-x50-15-amt-150-лс-prestige-серебристый-2024/</url></car>
 		<car>
 			<unique_id>3d8efc297f15747b66ba321a34835f8b</unique_id>
 			<mark_id>BELGEE</mark_id>
@@ -3531,7 +3544,7 @@
 			<custom>растаможен</custom>
 			<run>7</run>
 			<year>2024</year>
-			<price>2610990</price>
+			<price>2656190</price>
 			<credit_discount>327379</credit_discount>
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>400000</tradein_discount>
@@ -3559,7 +3572,7 @@
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
-		<priceWithDiscount>1883611</priceWithDiscount><sale_price>1883611</sale_price><url>https://auto-team.pro/cars/belgee-x50-15-amt-150-лс-prestige-серый-2024/</url></car>
+		<priceWithDiscount>1928811</priceWithDiscount><sale_price>1928811</sale_price><url>https://auto-team.pro/cars/belgee-x50-15-amt-150-лс-prestige-серый-2024/</url></car>
 		<car>
 			<unique_id>645e8b1f5603937cc0e72e6a1b46b01d</unique_id>
 			<mark_id>BELGEE</mark_id>
@@ -3574,7 +3587,7 @@
 			<custom>растаможен</custom>
 			<run>8</run>
 			<year>2024</year>
-			<price>2610990</price>
+			<price>2656190</price>
 			<credit_discount>327379</credit_discount>
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>400000</tradein_discount>
@@ -3602,7 +3615,7 @@
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
-		<priceWithDiscount>1883611</priceWithDiscount><sale_price>1883611</sale_price><url>https://auto-team.pro/cars/belgee-x50-15-amt-150-лс-prestige-серый-2024/</url></car>
+		<priceWithDiscount>1928811</priceWithDiscount><sale_price>1928811</sale_price><url>https://auto-team.pro/cars/belgee-x50-15-amt-150-лс-prestige-серый-2024/</url></car>
 		<car>
 			<unique_id>bf3b1c03ae2c1913715bb0df8867dc5a</unique_id>
 			<mark_id>BELGEE</mark_id>
@@ -3617,7 +3630,7 @@
 			<custom>растаможен</custom>
 			<run>8</run>
 			<year>2024</year>
-			<price>2610990</price>
+			<price>2656190</price>
 			<credit_discount>327379</credit_discount>
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>400000</tradein_discount>
@@ -3646,50 +3659,7 @@
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
-		<priceWithDiscount>1883611</priceWithDiscount><sale_price>1883611</sale_price><url>https://auto-team.pro/cars/belgee-x50-15-amt-150-лс-prestige-черный-2024/</url></car>
-		<car>
-			<unique_id>2e37749c46f328f3aa65a9a01abe2739</unique_id>
-			<mark_id>BELGEE</mark_id>
-			<folder_id>X50</folder_id>
-			<modification_id>1.5 AMT (150 л.с.)</modification_id>
-			<complectation_name>Prestige</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Черный</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>8</run>
-			<year>2024</year>
-			<price>2610990</price>
-			<credit_discount>327379</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>400000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>727379</max_discount>
-			<currency>RUR</currency>
-			<vin>Y4K8622Z9RB935062</vin>
-			<description>Партнер-Авто - oфициальный дилерский центp Вelgее в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
-
-✅Bыгoдный кpедит c комфоpтными ежемecячными платежами.
-
-✅Bыгoдa по программе Трейд-ин до 185 000 руб
-
-✅Скидка по программе “Gееly Finаnсе” 135 000 руб.
-
-✅ПТС в наличии! Покупка одним днём! Звоните сейчас, и мы подготовим для Вас персональное предложение!</description>
-			<images>
-				<image>https://photo.toyotasever.ru/Y4K8622Z9RB935062/cab712c875fe294cb8ff35af537d10e1.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z9RB935062/1dd0973147113f679fe78bf789e7841f.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z9RB935062/4cfc8c5f3ef7da18119ab25b0032b32c.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z9RB935062/cce9dc3929e9b3261404beba3996d72d.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z9RB935062/8d944e18e122ce8aec6d15ec0ff2402e.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z9RB935062/94f68c75e3f6e803e21c51c8654fae72.jpg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<priceWithDiscount>1883611</priceWithDiscount><sale_price>1883611</sale_price><url>https://auto-team.pro/cars/belgee-x50-15-amt-150-лс-prestige-черный-2024/</url></car>
+		<priceWithDiscount>1928811</priceWithDiscount><sale_price>1928811</sale_price><url>https://auto-team.pro/cars/belgee-x50-15-amt-150-лс-prestige-черный-2024/</url></car>
 		<car>
 			<unique_id>7d4a3969f2dc2adab910124d8b6c0b3a</unique_id>
 			<mark_id>BELGEE</mark_id>
@@ -3704,7 +3674,7 @@
 			<custom>растаможен</custom>
 			<run>8</run>
 			<year>2024</year>
-			<price>2610990</price>
+			<price>2656190</price>
 			<credit_discount>327379</credit_discount>
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>400000</tradein_discount>
@@ -3733,7 +3703,50 @@
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
-		<priceWithDiscount>1883611</priceWithDiscount><sale_price>1883611</sale_price><url>https://auto-team.pro/cars/belgee-x50-15-amt-150-лс-prestige-черный-2024/</url></car>
+		<priceWithDiscount>1928811</priceWithDiscount><sale_price>1928811</sale_price><url>https://auto-team.pro/cars/belgee-x50-15-amt-150-лс-prestige-черный-2024/</url></car>
+		<car>
+			<unique_id>2e37749c46f328f3aa65a9a01abe2739</unique_id>
+			<mark_id>BELGEE</mark_id>
+			<folder_id>X50</folder_id>
+			<modification_id>1.5 AMT (150 л.с.)</modification_id>
+			<complectation_name>Prestige</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>Черный</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>8</run>
+			<year>2024</year>
+			<price>2656190</price>
+			<credit_discount>327379</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>400000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>727379</max_discount>
+			<currency>RUR</currency>
+			<vin>Y4K8622Z9RB935062</vin>
+			<description>Партнер-Авто - oфициальный дилерский центp Вelgее в Саратове. Кoмaндa квaлифициpoвaнныx пpофессиoнaлов cвоегo дeлa c богaтым опытом paботы. Мы стрeмимcя выcтpаивaть дoлгоcpочные партнeрcкие oтношeния c каждым клиентом!
+
+✅Bыгoдный кpедит c комфоpтными ежемecячными платежами.
+
+✅Bыгoдa по программе Трейд-ин до 185 000 руб
+
+✅Скидка по программе “Gееly Finаnсе” 135 000 руб.
+
+✅ПТС в наличии! Покупка одним днём! Звоните сейчас, и мы подготовим для Вас персональное предложение!</description>
+			<images>
+				<image>https://photo.toyotasever.ru/Y4K8622Z9RB935062/cab712c875fe294cb8ff35af537d10e1.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z9RB935062/1dd0973147113f679fe78bf789e7841f.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z9RB935062/4cfc8c5f3ef7da18119ab25b0032b32c.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z9RB935062/cce9dc3929e9b3261404beba3996d72d.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z9RB935062/8d944e18e122ce8aec6d15ec0ff2402e.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z9RB935062/94f68c75e3f6e803e21c51c8654fae72.jpg</image>
+			</images>
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<priceWithDiscount>1928811</priceWithDiscount><sale_price>1928811</sale_price><url>https://auto-team.pro/cars/belgee-x50-15-amt-150-лс-prestige-черный-2024/</url></car>
 		<car>
 			<unique_id>647601fdbec8df415d83686450878e47</unique_id>
 			<mark_id>BELGEE</mark_id>
@@ -3748,7 +3761,7 @@
 			<custom>растаможен</custom>
 			<run>7</run>
 			<year>2024</year>
-			<price>2610990</price>
+			<price>2656190</price>
 			<credit_discount>327379</credit_discount>
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>400000</tradein_discount>
@@ -3777,7 +3790,7 @@
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
-		<priceWithDiscount>1883611</priceWithDiscount><sale_price>1883611</sale_price><url>https://auto-team.pro/cars/belgee-x50-15-amt-150-лс-prestige-красный-2024/</url></car>
+		<priceWithDiscount>1928811</priceWithDiscount><sale_price>1928811</sale_price><url>https://auto-team.pro/cars/belgee-x50-15-amt-150-лс-prestige-красный-2024/</url></car>
 		<car>
 			<unique_id>b679e3fe3a13abdd33e0cd627d7ec0ab</unique_id>
 			<mark_id>BELGEE</mark_id>
@@ -3792,7 +3805,7 @@
 			<custom>растаможен</custom>
 			<run>7</run>
 			<year>2024</year>
-			<price>2610990</price>
+			<price>2656190</price>
 			<credit_discount>327379</credit_discount>
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>400000</tradein_discount>
@@ -3821,7 +3834,7 @@
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
-		<priceWithDiscount>1883611</priceWithDiscount><sale_price>1883611</sale_price><url>https://auto-team.pro/cars/belgee-x50-15-amt-150-лс-prestige-красный-2024/</url></car>
+		<priceWithDiscount>1928811</priceWithDiscount><sale_price>1928811</sale_price><url>https://auto-team.pro/cars/belgee-x50-15-amt-150-лс-prestige-красный-2024/</url></car>
 		<car>
 			<unique_id>68c5afefd905a9d667a8b48b12b80ca5</unique_id>
 			<mark_id>BELGEE</mark_id>
@@ -3836,7 +3849,7 @@
 			<custom>растаможен</custom>
 			<run>7</run>
 			<year>2024</year>
-			<price>2510990</price>
+			<price>2556190</price>
 			<credit_discount>350000</credit_discount>
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>285000</tradein_discount>
@@ -3857,7 +3870,7 @@
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
-		<priceWithDiscount>1875990</priceWithDiscount><sale_price>1875990</sale_price><url>https://auto-team.pro/cars/belgee-x50-15-amt-150-лс-style-белый-2024/</url></car>
+		<priceWithDiscount>1921190</priceWithDiscount><sale_price>1921190</sale_price><url>https://auto-team.pro/cars/belgee-x50-15-amt-150-лс-style-белый-2024/</url></car>
 		<car>
 			<unique_id>a246881eef17dae1f9062228362a67b8</unique_id>
 			<mark_id>BELGEE</mark_id>
@@ -3872,7 +3885,7 @@
 			<custom>растаможен</custom>
 			<run>6</run>
 			<year>2024</year>
-			<price>2510990</price>
+			<price>2556190</price>
 			<credit_discount>350000</credit_discount>
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>285000</tradein_discount>
@@ -3885,7 +3898,7 @@
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
-		<priceWithDiscount>1875990</priceWithDiscount><sale_price>1875990</sale_price><url>https://auto-team.pro/cars/belgee-x50-15-amt-150-лс-style-белый-2024/</url></car>
+		<priceWithDiscount>1921190</priceWithDiscount><sale_price>1921190</sale_price><url>https://auto-team.pro/cars/belgee-x50-15-amt-150-лс-style-белый-2024/</url></car>
 		<car>
 			<unique_id>e554f1514677f4bfb1739f65d671ea54</unique_id>
 			<mark_id>BELGEE</mark_id>
@@ -3900,7 +3913,7 @@
 			<custom>растаможен</custom>
 			<run>7</run>
 			<year>2024</year>
-			<price>2510990</price>
+			<price>2556190</price>
 			<credit_discount>350000</credit_discount>
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>285000</tradein_discount>
@@ -3929,7 +3942,7 @@
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
-		<priceWithDiscount>1875990</priceWithDiscount><sale_price>1875990</sale_price><url>https://auto-team.pro/cars/belgee-x50-15-amt-150-лс-style-серебристый-2024/</url></car>
+		<priceWithDiscount>1921190</priceWithDiscount><sale_price>1921190</sale_price><url>https://auto-team.pro/cars/belgee-x50-15-amt-150-лс-style-серебристый-2024/</url></car>
 		<car>
 			<unique_id>d1204bc3d2f62ceca19195584d512fbf</unique_id>
 			<mark_id>BELGEE</mark_id>
@@ -3944,7 +3957,7 @@
 			<custom>растаможен</custom>
 			<run>6</run>
 			<year>2024</year>
-			<price>2510990</price>
+			<price>2556190</price>
 			<credit_discount>350000</credit_discount>
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>285000</tradein_discount>
@@ -3973,7 +3986,7 @@
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
-		<priceWithDiscount>1875990</priceWithDiscount><sale_price>1875990</sale_price><url>https://auto-team.pro/cars/belgee-x50-15-amt-150-лс-style-серебристый-2024/</url></car>
+		<priceWithDiscount>1921190</priceWithDiscount><sale_price>1921190</sale_price><url>https://auto-team.pro/cars/belgee-x50-15-amt-150-лс-style-серебристый-2024/</url></car>
 		<car>
 			<unique_id>f3b6abb187845cdc54f6686bf309d739</unique_id>
 			<mark_id>BELGEE</mark_id>
@@ -3988,7 +4001,7 @@
 			<custom>растаможен</custom>
 			<run>7</run>
 			<year>2024</year>
-			<price>2510990</price>
+			<price>2556190</price>
 			<credit_discount>350000</credit_discount>
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>285000</tradein_discount>
@@ -4017,7 +4030,7 @@
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
-		<priceWithDiscount>1875990</priceWithDiscount><sale_price>1875990</sale_price><url>https://auto-team.pro/cars/belgee-x50-15-amt-150-лс-style-серый-2024/</url></car>
+		<priceWithDiscount>1921190</priceWithDiscount><sale_price>1921190</sale_price><url>https://auto-team.pro/cars/belgee-x50-15-amt-150-лс-style-серый-2024/</url></car>
 		<car>
 			<unique_id>84a72bf1d8437d7f6c56b1514cf8c6e7</unique_id>
 			<mark_id>BELGEE</mark_id>
@@ -4032,7 +4045,7 @@
 			<custom>растаможен</custom>
 			<run>7</run>
 			<year>2024</year>
-			<price>2510990</price>
+			<price>2556190</price>
 			<credit_discount>350000</credit_discount>
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>285000</tradein_discount>
@@ -4061,7 +4074,7 @@
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
-		<priceWithDiscount>1875990</priceWithDiscount><sale_price>1875990</sale_price><url>https://auto-team.pro/cars/belgee-x50-15-amt-150-лс-style-серый-2024/</url></car>
+		<priceWithDiscount>1921190</priceWithDiscount><sale_price>1921190</sale_price><url>https://auto-team.pro/cars/belgee-x50-15-amt-150-лс-style-серый-2024/</url></car>
 		<car>
 			<unique_id>0369674afdca9cef96b3a8b0c7166d5e</unique_id>
 			<mark_id>BELGEE</mark_id>
@@ -4076,7 +4089,7 @@
 			<custom>растаможен</custom>
 			<run>5</run>
 			<year>2024</year>
-			<price>2510990</price>
+			<price>2556190</price>
 			<credit_discount>350000</credit_discount>
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>285000</tradein_discount>
@@ -4105,7 +4118,7 @@
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
-		<priceWithDiscount>1875990</priceWithDiscount><sale_price>1875990</sale_price><url>https://auto-team.pro/cars/belgee-x50-15-amt-150-лс-style-красный-2024/</url></car>
+		<priceWithDiscount>1921190</priceWithDiscount><sale_price>1921190</sale_price><url>https://auto-team.pro/cars/belgee-x50-15-amt-150-лс-style-красный-2024/</url></car>
 		<car>
 			<unique_id>864da30cb0137ee729c77ba719ff1d56</unique_id>
 			<mark_id>BELGEE</mark_id>
@@ -4120,7 +4133,7 @@
 			<custom>растаможен</custom>
 			<run>7</run>
 			<year>2024</year>
-			<price>2510990</price>
+			<price>2556190</price>
 			<credit_discount>350000</credit_discount>
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>285000</tradein_discount>
@@ -4149,7 +4162,7 @@
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
-		<priceWithDiscount>1875990</priceWithDiscount><sale_price>1875990</sale_price><url>https://auto-team.pro/cars/belgee-x50-15-amt-150-лс-style-красный-2024/</url></car>
+		<priceWithDiscount>1921190</priceWithDiscount><sale_price>1921190</sale_price><url>https://auto-team.pro/cars/belgee-x50-15-amt-150-лс-style-красный-2024/</url></car>
 		<car>
 			<unique_id>1d92dd3ff82eb48ebbed16f00256619b</unique_id>
 			<mark_id>BELGEE</mark_id>
@@ -4164,7 +4177,7 @@
 			<custom>растаможен</custom>
 			<run>7</run>
 			<year>2024</year>
-			<price>3237990</price>
+			<price>3280190</price>
 			<credit_discount>616000</credit_discount>
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>250000</tradein_discount>
@@ -4185,7 +4198,7 @@
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
-		<priceWithDiscount>2371990</priceWithDiscount><sale_price>2371990</sale_price><url>https://auto-team.pro/cars/belgee-x70-15-amt-177-лс-4wd-prestige-серебристый-2024/</url></car>
+		<priceWithDiscount>2414190</priceWithDiscount><sale_price>2414190</sale_price><url>https://auto-team.pro/cars/belgee-x70-15-amt-177-лс-4wd-prestige-серебристый-2024/</url></car>
 		<car>
 			<unique_id>bd2d9c28ba88014590431c5b42799e58</unique_id>
 			<mark_id>BELGEE</mark_id>
@@ -4200,7 +4213,7 @@
 			<custom>растаможен</custom>
 			<run>6</run>
 			<year>2024</year>
-			<price>3237990</price>
+			<price>3280190</price>
 			<credit_discount>616000</credit_discount>
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>250000</tradein_discount>
@@ -4221,7 +4234,7 @@
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
-		<priceWithDiscount>2371990</priceWithDiscount><sale_price>2371990</sale_price><url>https://auto-team.pro/cars/belgee-x70-15-amt-177-лс-4wd-prestige-серебристый-2024/</url></car>
+		<priceWithDiscount>2414190</priceWithDiscount><sale_price>2414190</sale_price><url>https://auto-team.pro/cars/belgee-x70-15-amt-177-лс-4wd-prestige-серебристый-2024/</url></car>
 		<car>
 			<unique_id>719422d8d083fa88abb7c122d767db33</unique_id>
 			<mark_id>BELGEE</mark_id>
@@ -4236,7 +4249,7 @@
 			<custom>растаможен</custom>
 			<run>6</run>
 			<year>2024</year>
-			<price>3237990</price>
+			<price>3280190</price>
 			<credit_discount>616000</credit_discount>
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>250000</tradein_discount>
@@ -4249,7 +4262,7 @@
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
-		<priceWithDiscount>2371990</priceWithDiscount><sale_price>2371990</sale_price><url>https://auto-team.pro/cars/belgee-x70-15-amt-177-лс-4wd-prestige-черный-2024/</url></car>
+		<priceWithDiscount>2414190</priceWithDiscount><sale_price>2414190</sale_price><url>https://auto-team.pro/cars/belgee-x70-15-amt-177-лс-4wd-prestige-черный-2024/</url></car>
 		<car>
 			<unique_id>fed36888b782c67a8a402e5bc27bda06</unique_id>
 			<mark_id>BELGEE</mark_id>
@@ -4264,7 +4277,7 @@
 			<custom>растаможен</custom>
 			<run>7</run>
 			<year>2024</year>
-			<price>3342990</price>
+			<price>3385190</price>
 			<credit_discount>665321</credit_discount>
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>250000</tradein_discount>
@@ -4285,7 +4298,7 @@
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
-		<priceWithDiscount>2427669</priceWithDiscount><sale_price>2427669</sale_price><url>https://auto-team.pro/cars/belgee-x70-15-amt-177-лс-4wd-prestige-plus-серебристый-2024/</url></car>
+		<priceWithDiscount>2469869</priceWithDiscount><sale_price>2469869</sale_price><url>https://auto-team.pro/cars/belgee-x70-15-amt-177-лс-4wd-prestige-plus-серебристый-2024/</url></car>
 		<car>
 			<unique_id>023d61f155070f30ebfade2d1b9ddca3</unique_id>
 			<mark_id>BELGEE</mark_id>
@@ -4300,7 +4313,7 @@
 			<custom>растаможен</custom>
 			<run>8</run>
 			<year>2024</year>
-			<price>3342990</price>
+			<price>3385190</price>
 			<credit_discount>665321</credit_discount>
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>250000</tradein_discount>
@@ -4328,7 +4341,7 @@
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
-		<priceWithDiscount>2427669</priceWithDiscount><sale_price>2427669</sale_price><url>https://auto-team.pro/cars/belgee-x70-15-amt-177-лс-4wd-prestige-plus-черный-2024/</url></car>
+		<priceWithDiscount>2469869</priceWithDiscount><sale_price>2469869</sale_price><url>https://auto-team.pro/cars/belgee-x70-15-amt-177-лс-4wd-prestige-plus-черный-2024/</url></car>
 		<car>
 			<unique_id>508bb0d0e25f0b7b8e6c028b0fecdb06</unique_id>
 			<mark_id>BELGEE</mark_id>
@@ -4343,7 +4356,7 @@
 			<custom>растаможен</custom>
 			<run>6</run>
 			<year>2024</year>
-			<price>3037990</price>
+			<price>3080190</price>
 			<credit_discount>565321</credit_discount>
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>250000</tradein_discount>
@@ -4356,7 +4369,35 @@
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
-		<priceWithDiscount>2222669</priceWithDiscount><sale_price>2222669</sale_price><url>https://auto-team.pro/cars/belgee-x70-15-amt-177-лс-4wd-style-серый-2024/</url></car>
+		<priceWithDiscount>2264869</priceWithDiscount><sale_price>2264869</sale_price><url>https://auto-team.pro/cars/belgee-x70-15-amt-177-лс-4wd-style-серый-2024/</url></car>
+		<car>
+			<unique_id>6b7b115cb5ebb3d7770b93051f8ab8bc</unique_id>
+			<mark_id>BELGEE</mark_id>
+			<folder_id>X70</folder_id>
+			<modification_id>1.5 AMT (177 л.с.) 4WD</modification_id>
+			<complectation_name>Style</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>Черный</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>6</run>
+			<year>2024</year>
+			<price>3080190</price>
+			<credit_discount>565321</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>250000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>815321</max_discount>
+			<currency>RUR</currency>
+			<vin>Y4K8722D5RB330005</vin>
+			<description />
+			<images />
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<priceWithDiscount>2264869</priceWithDiscount><sale_price>2264869</sale_price><url>https://auto-team.pro/cars/belgee-x70-15-amt-177-лс-4wd-style-черный-2024/</url></car>
 		<car>
 			<unique_id>342180826b40fd63c1f211a308fb8e54</unique_id>
 			<mark_id>BELGEE</mark_id>
@@ -4371,7 +4412,7 @@
 			<custom>растаможен</custom>
 			<run>8</run>
 			<year>2024</year>
-			<price>2862990</price>
+			<price>2905190</price>
 			<credit_discount>504111</credit_discount>
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>250000</tradein_discount>
@@ -4405,7 +4446,7 @@
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
-		<priceWithDiscount>2108879</priceWithDiscount><sale_price>2108879</sale_price><url>https://auto-team.pro/cars/belgee-x70-15-at-150-лс-style-белый-2024/</url></car>
+		<priceWithDiscount>2151079</priceWithDiscount><sale_price>2151079</sale_price><url>https://auto-team.pro/cars/belgee-x70-15-at-150-лс-style-белый-2024/</url></car>
 		<car>
 			<unique_id>d49ccce49d34624088a9c1e52d3531ea</unique_id>
 			<mark_id>BELGEE</mark_id>
@@ -4420,7 +4461,7 @@
 			<custom>растаможен</custom>
 			<run>6</run>
 			<year>2024</year>
-			<price>2862990</price>
+			<price>2905190</price>
 			<credit_discount>504111</credit_discount>
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>250000</tradein_discount>
@@ -4433,7 +4474,7 @@
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
-		<priceWithDiscount>2108879</priceWithDiscount><sale_price>2108879</sale_price><url>https://auto-team.pro/cars/belgee-x70-15-at-150-лс-style-серебристый-2024/</url></car>
+		<priceWithDiscount>2151079</priceWithDiscount><sale_price>2151079</sale_price><url>https://auto-team.pro/cars/belgee-x70-15-at-150-лс-style-серебристый-2024/</url></car>
 		<car>
 			<unique_id>8ea82138deaaf0452d660d4303e7a6ea</unique_id>
 			<mark_id>BELGEE</mark_id>
@@ -4448,7 +4489,7 @@
 			<custom>растаможен</custom>
 			<run>7</run>
 			<year>2024</year>
-			<price>2862990</price>
+			<price>2905190</price>
 			<credit_discount>504111</credit_discount>
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>250000</tradein_discount>
@@ -4469,7 +4510,35 @@
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
-		<priceWithDiscount>2108879</priceWithDiscount><sale_price>2108879</sale_price><url>https://auto-team.pro/cars/belgee-x70-15-at-150-лс-style-серый-2024/</url></car>
+		<priceWithDiscount>2151079</priceWithDiscount><sale_price>2151079</sale_price><url>https://auto-team.pro/cars/belgee-x70-15-at-150-лс-style-серый-2024/</url></car>
+		<car>
+			<unique_id>7e43d2a7693c0d1fdd9810ad1bb80ce2</unique_id>
+			<mark_id>BELGEE</mark_id>
+			<folder_id>X70</folder_id>
+			<modification_id>1.5 AT (150 л.с.)</modification_id>
+			<complectation_name>Style</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>Серый</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>6</run>
+			<year>2024</year>
+			<price>2905190</price>
+			<credit_discount>504111</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>250000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>754111</max_discount>
+			<currency>RUR</currency>
+			<vin>Y4K8722Z2RB329325</vin>
+			<description />
+			<images />
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<priceWithDiscount>2151079</priceWithDiscount><sale_price>2151079</sale_price><url>https://auto-team.pro/cars/belgee-x70-15-at-150-лс-style-серый-2024/</url></car>
 		<car>
 			<unique_id>b60918e308f53c83b45b6466b3b22a86</unique_id>
 			<mark_id>BELGEE</mark_id>
@@ -4484,7 +4553,7 @@
 			<custom>растаможен</custom>
 			<run>7</run>
 			<year>2024</year>
-			<price>2862990</price>
+			<price>2905190</price>
 			<credit_discount>504111</credit_discount>
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>250000</tradein_discount>
@@ -4505,6 +4574,34 @@
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
-		<priceWithDiscount>2108879</priceWithDiscount><sale_price>2108879</sale_price><url>https://auto-team.pro/cars/belgee-x70-15-at-150-лс-style-черный-2024/</url></car>
+		<priceWithDiscount>2151079</priceWithDiscount><sale_price>2151079</sale_price><url>https://auto-team.pro/cars/belgee-x70-15-at-150-лс-style-черный-2024/</url></car>
+		<car>
+			<unique_id>16d9ea05da93c5921f35455f013bc0b5</unique_id>
+			<mark_id>BELGEE</mark_id>
+			<folder_id>X70</folder_id>
+			<modification_id>1.5 AT (150 л.с.)</modification_id>
+			<complectation_name>Style</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>Красный</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>6</run>
+			<year>2024</year>
+			<price>2905190</price>
+			<credit_discount>504111</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>250000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>754111</max_discount>
+			<currency>RUR</currency>
+			<vin>Y4K8722Z4RB330296</vin>
+			<description />
+			<images />
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<priceWithDiscount>2151079</priceWithDiscount><sale_price>2151079</sale_price><url>https://auto-team.pro/cars/belgee-x70-15-at-150-лс-style-красный-2024/</url></car>
 	</cars>
 </data>
