@@ -57,13 +57,13 @@ def increment_str(str, increment):
 def duplicate_car(car, n, status="в пути", offset=0):
     """Функция для дублирования элемента 'car' N раз с изменением vin."""
     duplicates = []
-    
-    # Проверка наличия обязательных полей 'vin' и 'availability'
+
+    # Проверка наличия обязательных полей 'VIN' и 'Availability'
     try:
-        if car.find('vin') is None:
-            raise ValueError("Элемент 'car' не содержит обязательного поля 'vin'")
-        if car.find('availability') is None:
-            raise ValueError("Элемент 'car' не содержит обязательного поля 'availability'")
+        if car.find('VIN') is None:
+            raise ValueError("Элемент 'car' не содержит обязательного поля 'VIN'")
+        if car.find('Availability') is None:
+            raise ValueError("Элемент 'car' не содержит обязательного поля 'Availability'")
     except ValueError as e:
         print(f"Ошибка: {e}")
         return duplicates  # Вернем пустой список и продолжим выполнение скрипта
@@ -71,15 +71,14 @@ def duplicate_car(car, n, status="в пути", offset=0):
     for i in range(n):
         try:
             new_car = copy.deepcopy(car)  # Клонируем текущий элемент car
-            
+
             # Обрабатываем VIN
-            vin_element = new_car.find('vin')
-            vin = vin_element.text
-            new_vin = modify_vin(vin.lower(), offset + i + 1)
-            vin_element.text = new_vin.upper()  # Меняем текст VIN
-            
+            vin = new_car.find('VIN').text
+            new_vin = modify_vin(vin.lower(), offset+i+1)
+            new_car.find('VIN').text = new_vin.upper()  # Меняем текст VIN
+
             # Обрабатываем unique_id, если он существует
-            unique_id_element = new_car.find('unique_id')
+            unique_id_element = new_car.find('Id')
             if unique_id_element is not None:
                 unique_id = unique_id_element.text
                 new_unique_id = increment_str(unique_id, offset + i + 1)  # Изменяем последний символ на i
@@ -89,11 +88,9 @@ def duplicate_car(car, n, status="в пути", offset=0):
                 print(vin, new_vin, "unique_id отсутствует")
             
             # Обновляем статус
-            availability_element = new_car.find('availability')
-            availability_element.text = status  # Меняем статус Наличие автомобиля
-
+            new_car.find('Availability').text = status  # Меняем статус Наличие автомобиля
             duplicates.append(new_car)
-
+        
         except AttributeError as e:
             print(f"Ошибка при обработке элемента: {e}")
     
@@ -124,7 +121,7 @@ remove_mark_ids = [
 ]
 remove_folder_ids = [
 ]
-cars_element = root.find('cars')
+cars_element = root
 
 for car in cars_element:
     should_remove = False
@@ -145,14 +142,14 @@ for car in cars_element:
         cars_to_remove.append(car)
         continue  # Пропускаем остальные операции для этой машины
 
-    friendly_url = f"{join_car_data(car, 'mark_id', 'folder_id', 'modification_id', 'complectation_name', 'color', 'year')}"
-    friendly_url = f"{process_friendly_url(friendly_url)}"
-    print(f"Уникальный идентификатор: {friendly_url}")
-    create_child_element(car, 'url', f"https://{repo_name}/cars/{friendly_url}/")
-    update_element_text(car, 'color', avitoColor(car.find('color').text))
+    # friendly_url = f"{join_car_data(car, 'mark_id', 'folder_id', 'modification_id', 'complectation_name', 'color', 'year')}"
+    # friendly_url = f"{process_friendly_url(friendly_url)}"
+    # print(f"Уникальный идентификатор: {friendly_url}")
+    # create_child_element(car, 'url', f"https://{repo_name}/cars/{friendly_url}/")
+    update_element_text(car, 'Color', avitoColor(car.find('Color').text))
     
     # Получаем VIN автомобиля
-    vin = car.find('vin').text if car.find('vin') is not None else None
+    vin = car.find('VIN').text if car.find('VIN') is not None else None
     
     if vin and vin in air_storage_data and air_storage_data.get(vin):
         # Создаем указанное количество дубликатов для машин из JSON
