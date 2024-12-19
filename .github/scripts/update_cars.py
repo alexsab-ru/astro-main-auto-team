@@ -13,9 +13,8 @@ def create_file(car, filename, friendly_url):
     vin_hidden = process_vin_hidden(vin)
     # Преобразование цвета
     color = car.find('color').text.strip().capitalize()
-    brand = car.find('mark_id').text.strip().lower()
     model = car.find('folder_id').text.strip()
-    brand = car.find('mark_id').text.strip()
+    brand = car.find('mark_id').text.strip().lower()
 
     folder = get_folder(brand, model)
     color_image = get_color_filename(brand, model, color)
