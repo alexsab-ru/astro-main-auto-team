@@ -1,0 +1,84 @@
+---
+pubDate: 2024-06-07
+caption:  Cпециальные условия для корпоративных клиентов GAC
+image: /img/specials/korporativnym-klientam/thumb.webp
+title: Корпоративным клиентам GAC
+description: "Балаково Авто Тим предлагает специальную программу продаж для корпоративных клиентов GAC, в основе которой лежит персональный подход к каждому клиенту"
+breadcrumb: Корпоративным клиентам GAC
+h1: Cпециальные условия для корпоративных клиентов GAC
+---
+export const DateFrom = "01.01.2024"
+export const DateTo = "31.01.2024"
+
+import Button from '@/components/Button/Button.astro';
+import { SITE_NAME, PHONE } from '@/const';
+import { phoneFormat } from '@/js/utils/numbers.format';
+import { LAST_DAY, MONTH, YEAR } from '@/js/utils/date';
+
+<picture>
+	<source media="(min-width: 768px)" srcset="/img/specials/korporativnym-klientam/banner.webp" />
+	<source media="(min-width: 320px)" srcset="/img/specials/korporativnym-klientam/thumb.webp" />
+	<img src="/img/specials/korporativnym-klientam/banner.webp" class="" alt="Корпоративным клиентам GAC" />
+</picture>
+
+<h3 class="font-bold uppercase text-center text-2xl sm:text-3xl mt-10 mb-6">Преимущества GAC для бизнеса</h3>
+<p class="text-center text-lg !mb-10 lg:!mb-14">Балаково Авто Тим предлагает специальную программу продаж для корпоративных клиентов GAC, в основе которой лежит персональный подход к каждому клиенту, а также особые условия на покупку автомобилей GAC</p>
+
+<div class="grid grid-cols-2 md:grid-cols-3 gap-3 sm:gap-5 md:gap-10 mb-14 sm:mb-20">
+	<div class="font-bold">
+		<div class="text-xl md:text-3xl sm:mb-4 text-accent-500">01</div>
+		<div class="text-xs sm:text-base md:text-xl">Высокое качество, надежность</div>
+	</div>
+	<div class="font-bold">
+		<div class="text-xl md:text-3xl sm:mb-4 text-accent-500">02</div>
+		<div class="text-xs sm:text-base md:text-xl">Гарантийный период - 5 лет или 150 000 км</div>
+	</div>
+	<div class="font-bold">
+		<div class="text-xl md:text-3xl sm:mb-4 text-accent-500">03</div>
+		<div class="text-xs sm:text-base md:text-xl">Привлекательная стоимость, особые условия покупки</div>
+	</div>
+	<div class="font-bold">
+		<div class="text-xl md:text-3xl sm:mb-4 text-accent-500">04</div>
+		<div class="text-xs sm:text-base md:text-xl">Специальные предложения по финансированию от лизинговых компаний - партнеров</div>
+	</div>
+	<div class="font-bold">
+		<div class="text-xl md:text-3xl sm:mb-4 text-accent-500">05</div>
+		<div class="text-xs sm:text-base md:text-xl">Модельный ряд, отвечающий требованиям различных сегментов бизнеса</div>
+	</div>
+	<div class="font-bold">
+		<div class="text-xl md:text-3xl sm:mb-4 text-accent-500">06</div>
+		<div class="text-xs sm:text-base md:text-xl">Обширная география покрытия дилерской сети</div>
+	</div>
+</div>
+
+<div class="flex flex-col-reverse lg:flex-row mt-10 mb-0 sm:mb-20">
+	<div class="w-full lg:w-1/2 lg:pr-10 xl:pr-20 py-10">	
+		<div class="text-xl sm:text-3xl xl:text-4xl font-bold mb-7">Особые условия для всех категорий корпоративных клиентов GAC</div>
+		<ol class="list-decimal space-y-6 pl-5 *:text-base *:sm:text-xl !mb-6 sm:!mb-10">
+			<li>Государственные компании</li>
+			<li>Юридические лица</li>
+			<li>Индивидуальные предприниматели</li>
+			<li>Лизинговые компании</li>
+		</ol>
+		<Button 
+			classes="popup-link w-fit inline-block !px-4 xl:!px-8 !py-2 xl:!py-3 !text-white !no-underline" 
+			url="#common-modal" 
+			title="Получить предложение"
+			dataTitle="Получить предложение с персональным подходом"
+			dataFormName={`Получить предложение. Копоративным клиентам GAC`}
+		/>
+	</div>
+	<img src="/img/specials/korporativnym-klientam/1.webp" class="w-full lg:w-1/2" alt="GAC" />
+</div>
+
+Подробности в отделе продаж по телефону: <a class="whitespace-nowrap" href={`tel:${phoneFormat(PHONE)}`}>{ PHONE }</a>
+
+<div class="mt-10 mb-5">
+	<Button 
+		classes="popup-link block w-fit !px-4 xl:!px-8 !py-2 xl:!py-3 !text-white !no-underline" 
+		url="#common-modal" 
+		title="Подробнее"
+		dataTitle="Заказать обратный звонок"
+		dataFormName={`Подробнее. Копоративным клиентам GAC`}
+	/>
+</div>
