@@ -1,0 +1,65 @@
+---
+h1: "Эффективные решения для бизнеса – специальные предложения GAC"
+title: "Эффективные решения для бизнеса – специальные предложения GAC"
+caption: "Эффективные решения для бизнеса – специальные предложения GAC"
+breadcrumb: "Эффективные решения для бизнеса"
+pubDate: 2024-12-01
+image: /img/specials/for-business/thumb.webp
+description: "Приобретайте автомобили GAC для бизнеса по специальным предложениям"
+---
+
+import Button from '@/components/Button/Button.astro';
+import SpecialSalonsInfo from '@/components/SpecialSalonsInfo.astro';
+import { SITE_NAME, PHONE } from '@/const';
+import { phoneFormat } from '@/js/utils/numbers.format';
+import { FIRST_DAY, LAST_DAY, MONTH, YEAR } from '@/js/utils/date';
+
+export const from = `${FIRST_DAY}.${MONTH}.${YEAR}`;
+export const to = `${LAST_DAY}.${MONTH}.${YEAR}`;
+
+<picture>
+	<source media="(min-width: 768px)" srcset="/img/specials/for-business/banner.webp" />
+	<source media="(min-width: 320px)" srcset="/img/specials/for-business/thumb.webp" />
+	<img src="/img/specials/for-business/banner.webp" class="mb-10" alt="Специальное предложение на GAC" />
+</picture>
+
+<div class="flex flex-col lg:flex-row mb-14 lg:mb-20">
+	<img src="/img/specials/for-business/thumb.webp" class="h-auto object-cover object-center w-full lg:w-1/2" alt="GAC" />
+	<div class="w-full lg:w-1/2 lg:pl-10 xl:pl-20 py-10">	
+		<div class="text-xl sm:text-3xl xl:text-4xl font-bold mb-7">Программа «GAC M8 – специально для бизнеса»</div>
+		<p>Приобретайте GAC M8 для бизнеса по специальному предложению – скидка 12% при приобретении в лизинг через любую лизинговую компанию.<sup>1</sup></p>
+		<p><b>До {to} года</b></p>
+		<div class="flex gap-4 mt-10">
+			<Button 
+				classes="popup-link w-fit inline-block !px-4 xl:!px-8 !py-2 xl:!py-3 !text-white !no-underline !mb-0" 
+				url="#common-modal" 
+				title="Получить предложение"
+				dataTitle="Программа «GAC M8 – специально для бизнеса»"
+				dataFormName={`Получить предложение. Программа «GAC M8 – специально для бизнеса»`}
+			/>
+		</div>
+	</div>
+</div>
+
+<div class="flex flex-col lg:flex-row-reverse mb-14 lg:mb-20">
+	<img src="/img/specials/for-business/yandex-go.webp" class="h-auto object-cover object-center w-full lg:w-1/2" alt="Yandex GO" />
+	<div class="w-full lg:w-1/2 lg:pr-10 xl:pr-20 py-10">	
+		<div class="text-xl sm:text-3xl xl:text-4xl font-bold mb-7">Программа «GAC GS3 для партнеров Яндекс GO Такси»</div>
+		<p>Специальное предложение для партнеров Яндекс Go Такси – скидка на приобретение GAC GS3 в размере 12%!</p>
+		<p>GAC GS3 классифицирован для работы в Яндекс Go Такси в классе «Комфорт» в Москве и Санкт-Петербурге, и в «Комфорт+» в регионах.</p>
+		<p>Для получения скидки статус партнера нужно подтвердить через Яндекс GO Такси.</p>
+		<div class="flex gap-4 mt-10">
+			<Button 
+				classes="popup-link w-fit inline-block !px-4 xl:!px-8 !py-2 xl:!py-3 !text-white !no-underline !mb-0" 
+				url="#common-modal" 
+				title="Получить предложение"
+				dataTitle="Программа «GAC GS3 для партнеров Яндекс GO Такси»"
+				dataFormName={`Получить предложение. Программа «GAC GS3 для партнеров Яндекс GO Такси»`}
+			/>
+		</div>
+	</div>
+</div>
+
+<SpecialSalonsInfo dataFormName="Эффективные решения для бизнеса – специальные предложения GAC" />
+
+> <sup>1</sup> Программа «GAC M8 – специально для бизнеса» суммируется с выгодами по иным действующим акциям, если в условиях акций не указано иное.
