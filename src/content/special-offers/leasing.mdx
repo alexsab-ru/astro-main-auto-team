@@ -7,6 +7,7 @@ image: /img/specials/belgee-leasing/thumb_600x338.webp
 description: "Лизинг Belgee — программа для корпоративных клиентов. Узнайте об условиях сотрудничества по программе Лизинг Belgee."
 ---
 import Button from '@/components/Button/Button.astro';
+import SpecialSalonsInfo from '@/components/SpecialSalonsInfo.astro';
 import { SITE_NAME, PHONE } from '@/const';
 import { phoneFormat } from '@/js/utils/numbers.format';
 import { LAST_DAY, MONTH, YEAR } from '@/js/utils/date';
@@ -44,16 +45,10 @@ export const to = `${LAST_DAY}.${MONTH}.${YEAR}`;
 - ☑ Покупателем нового автомобиля должна быть лизинговая компания 
 - ☑ Выгоды не распространяются на лизинг для физических лиц
 
-Подробности в нашем дилерском центре по тел.: <a href={`tel:${phoneFormat(PHONE)}`}>{PHONE}</a>
-
-<div class="flex justify-center mt-10 mb-5">
-	<Button 
-		classes="popup-link block !px-4 xl:!px-8 !py-2 xl:!py-3 !text-white !no-underline" 
-		url="#common-modal" 
-		title="Получить предложение"
-		dataTitle="Программа Belgee Лизинг"
-		dataFormName="Программа Belgee Лизинг"
-	/>
-</div>
+<SpecialSalonsInfo 
+	title="Получить предложение"
+	dataTitle="Программа Belgee Лизинг"
+	dataFormName="Программа Belgee Лизинг"
+/>
 
 > <sup>*</sup> 335 000 рублей для автомобилей X50 (все комплектации).

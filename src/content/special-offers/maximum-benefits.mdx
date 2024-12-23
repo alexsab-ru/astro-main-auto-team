@@ -7,6 +7,7 @@ image: /img/specials/belgee-maximum-benefits/thumb_600x338.webp
 description: "Белджи Самара представляет выгоду при приобретении новых автомобилей с использованием кредитных средств, программ Трейд-ин и программы Белджи Финанс для покупки авто"
 ---
 import Button from '@/components/Button/Button.astro';
+import SpecialSalonsInfo from '@/components/SpecialSalonsInfo.astro';
 import { SITE_NAME, PHONE } from '@/const';
 import { phoneFormat } from '@/js/utils/numbers.format';
 import { LAST_DAY, MONTH, YEAR } from '@/js/utils/date';
@@ -65,17 +66,11 @@ export const to = `${LAST_DAY}.${MONTH}.${YEAR}`;
     </table>
 </div>
 
-Подробности в нашем дилерском центре по тел.: <a href={`tel:${phoneFormat(PHONE)}`}>{PHONE}</a>
-
-<div class="flex justify-center mt-10 mb-5">
-    <Button 
-        classes="popup-link block !px-4 xl:!px-8 !py-2 xl:!py-3 !text-white !no-underline" 
-        url="#common-modal" 
-        title="Получить предложение"
-        dataTitle="Получить максимальную выгоду"
-        dataFormName="Получить предложение. Максимальная выгода"
-    />
-</div>
+<SpecialSalonsInfo 
+    title="Получить предложение"
+    dataTitle="Получить максимальную выгоду"
+    dataFormName="Получить предложение. Максимальная выгода"
+/>
 
 > <sup>*</sup> Максимальная цена перепродажи, с учетом применимых выгод состоит из выгоды по программе «Лояльный Трейд-ин»<sup>3</sup> либо «Специальный Трейд-ин»<sup>3</sup> и выгоды при покупке с использованием кредитных<sup>1</sup> средств Банка. Настоящее предложение, включая любые сведения о предоставляемой выгоде, носит исключительно информационный характер, не является офертой, подробности у официального дилера «Belgee». Предложение действительно с {from} г. по {to} г.
 

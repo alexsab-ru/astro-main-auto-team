@@ -7,6 +7,7 @@ image: /img/specials/belgee-kreditnye-predlozheniya-na-avtomobili-belgee/thumb_6
 description: "Ознакомьтесь с кредитными предложениями и отправьте запрос официальному дилеру Белджи Самара."
 ---
 import Button from '@/components/Button/Button.astro';
+import SpecialSalonsInfo from '@/components/SpecialSalonsInfo.astro';
 import { SITE_NAME, PHONE } from '@/const';
 import { phoneFormat } from '@/js/utils/numbers.format';
 import { LAST_DAY, MONTH, YEAR } from '@/js/utils/date';
@@ -709,17 +710,11 @@ export const to = `${LAST_DAY}.${MONTH}.${YEAR}`;
 - ☑ предоставление не менее 2 (двух) контактных телефонов.
 
 
-Подробности в нашем дилерском центре по тел.: <a href={`tel:${phoneFormat(PHONE)}`}>{PHONE}</a>
-
-<div class="flex justify-center mt-10 mb-5">
-	<Button 
-		classes="popup-link block !px-4 xl:!px-8 !py-2 xl:!py-3 !text-white !no-underline" 
-		url="#common-modal" 
-		title="Получить предложение"
-		dataTitle="Получить предложение по кредиту"
-		dataFormName="Получить предложение по кредиту"
-	/>
-</div>
+<SpecialSalonsInfo 
+	title="Получить предложение"
+	dataTitle="Кредитные предложения на автомобили Белджи"
+	dataFormName="Получить предложение. Кредитные предложения на автомобили Белджи"
+/>
 
 > <sup>*</sup> Предложение действительно для моделей **Belgee X50** и **Belgee X70** в любой комплектации, приобретаемых у официального дилера {SITE_NAME}.
 

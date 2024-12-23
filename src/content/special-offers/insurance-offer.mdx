@@ -7,6 +7,7 @@ image: /img/specials/belgee-insurance-offer/thumb_600x338.webp
 description: "Ознакомьтесь со страховыми продуктами и дополнительными условиями страхования программы Belgee Insurance в официальном дилерском центре Belgee Самара."
 ---
 import Button from '@/components/Button/Button.astro';
+import SpecialSalonsInfo from '@/components/SpecialSalonsInfo.astro';
 import { SITE_NAME, PHONE } from '@/const';
 import { phoneFormat } from '@/js/utils/numbers.format';
 import { LAST_DAY, MONTH, YEAR } from '@/js/utils/date';
@@ -38,16 +39,10 @@ export const to = `${LAST_DAY}.${MONTH}.${YEAR}`;
 - ☑ Отсутствие ограничений по хранению автомобиля<sup>*</sup>
 - ☑ Неагрегатная страховая сумма по риску «ущерб», то есть после выплаты страхового возмещения размер страховой суммы не уменьшается
 
-Подробности в нашем дилерском центре по тел.: <a href={`tel:${phoneFormat(PHONE)}`}>{PHONE}</a>
-
-<div class="flex justify-center mt-10 mb-5">
-    <Button 
-        classes="popup-link block !px-4 xl:!px-8 !py-2 xl:!py-3 !text-white !no-underline" 
-        url="#common-modal" 
-        title="Получить предложение"
-        dataTitle="Получить программу страхования"
-        dataFormName="Получить предложение. Программы страхования"
-    />
-</div>
+<SpecialSalonsInfo 
+	title="Получить предложение"
+    dataTitle="Получить программу страхования Belgee Insurance"
+    dataFormName="Получить предложение. Программы страхования Belgee Insurance"
+/>
 
 > <sup>*</sup>Условия предоставления и наличие данной услуги зависит от страховщика.

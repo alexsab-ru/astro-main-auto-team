@@ -11,6 +11,7 @@ export const DateFrom = "01.01.2024"
 export const DateTo = "31.01.2024"
 
 import Button from '@/components/Button/Button.astro';
+import SpecialSalonsInfo from '@/components/SpecialSalonsInfo.astro';
 import { SITE_NAME, PHONE } from '@/const';
 import { phoneFormat } from '@/js/utils/numbers.format';
 
@@ -88,14 +89,8 @@ import { phoneFormat } from '@/js/utils/numbers.format';
 	<img src="/img/specials/gac-v-trade-in/2.webp" class="w-full lg:w-1/2" alt="Trade-in GAC" />
 </div>
 
-Подробности в отделе продаж по телефону: <a class="whitespace-nowrap" href={`tel:${phoneFormat(PHONE)}`}>{ PHONE }</a>
-
-<div class="mt-10 mb-5">
-	<Button 
-		classes="popup-link block w-fit !px-4 xl:!px-8 !py-2 xl:!py-3 !text-white !no-underline" 
-		url="#common-modal" 
-		title="Подробнее"
-		dataTitle="Заказать обратный звонок"
-		dataFormName={`Подробнее. Трейд-ин GAC`}
-	/>
-</div>
+<SpecialSalonsInfo 
+	title="Подробнее"
+	dataTitle="Трейд-ин GAC"
+	dataFormName="Подробнее. Трейд-ин GAC"
+/>

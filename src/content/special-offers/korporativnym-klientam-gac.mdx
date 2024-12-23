@@ -11,6 +11,7 @@ export const DateFrom = "01.01.2024"
 export const DateTo = "31.01.2024"
 
 import Button from '@/components/Button/Button.astro';
+import SpecialSalonsInfo from '@/components/SpecialSalonsInfo.astro';
 import { SITE_NAME, PHONE } from '@/const';
 import { phoneFormat } from '@/js/utils/numbers.format';
 import { LAST_DAY, MONTH, YEAR } from '@/js/utils/date';
@@ -71,14 +72,7 @@ import { LAST_DAY, MONTH, YEAR } from '@/js/utils/date';
 	<img src="/img/specials/korporativnym-klientam/1.webp" class="w-full lg:w-1/2" alt="GAC" />
 </div>
 
-Подробности в отделе продаж по телефону: <a class="whitespace-nowrap" href={`tel:${phoneFormat(PHONE)}`}>{ PHONE }</a>
-
-<div class="mt-10 mb-5">
-	<Button 
-		classes="popup-link block w-fit !px-4 xl:!px-8 !py-2 xl:!py-3 !text-white !no-underline" 
-		url="#common-modal" 
-		title="Подробнее"
-		dataTitle="Заказать обратный звонок"
-		dataFormName={`Подробнее. Копоративным клиентам GAC`}
-	/>
-</div>
+<SpecialSalonsInfo 
+	dataTitle="Предложения копоративным клиентам GAC"
+	dataFormName="Получить предложение. Копоративным клиентам GAC"
+/>

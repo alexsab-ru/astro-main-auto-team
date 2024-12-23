@@ -7,6 +7,7 @@ image: /img/specials/belgee-trade-in/thumb_600x338.webp
 description: "Благодаря услуге трейд-ин Belgee вы можете получить выгоду при покупке автомобиля Belgee, сдав свой текущий автомобиль. Оценить имеющийся автомобиль вы можете в Belgee Самара."
 ---
 import Button from '@/components/Button/Button.astro';
+import SpecialSalonsInfo from '@/components/SpecialSalonsInfo.astro';
 import { SITE_NAME, PHONE } from '@/const';
 import { phoneFormat } from '@/js/utils/numbers.format';
 import { LAST_DAY, MONTH, YEAR } from '@/js/utils/date';
@@ -95,16 +96,6 @@ export const to = `${LAST_DAY}.${MONTH}.${YEAR}`;
 
 <strong>Обычный трейд-ин</strong> — это единовременная и разовая скидка по программе Трейд-ин предоставляется дилером покупателю от розничной цены автомобиля, приобретаемого по Программе, при сдаче в Трейд-ин автомобилей иных марок. Информацию о брендах и моделях, участвующих в программе, уточняйте у официальных дилеров.
 
-<div class="flex justify-center mt-10 mb-5">
-    <Button 
-        classes="popup-link block !px-4 xl:!px-8 !py-2 xl:!py-3 !text-white !no-underline" 
-        url="#common-modal" 
-        title="Заявка на трейд-ин"
-        dataTitle="Заявка на Трейд-ин Belgee"
-        dataFormName="Заявка на трейд-ин"
-    />
-</div>
-
 **Условия участия в программе трейд-ин:**
 
 Для оценки вашего автомобиля и получения подробной информации о перечне необходимых документов и условиях обращайтесь к специалистам дилерского центра **{SITE_NAME}**.
@@ -129,14 +120,8 @@ export const to = `${LAST_DAY}.${MONTH}.${YEAR}`;
 
 Помните о том, что наличие полного комплекта резины, дооснащение, кожаная обивка салона и автоматическая КПП могут увеличивать оценочную стоимость автомобиля. Но в то же время оценочную стоимость могут снизить серьёзные повреждения кузова, механическая неисправность, большой возраст и пробег.
 
-Подробности в нашем дилерском центре по тел.: <a href={`tel:${phoneFormat(PHONE)}`}>{PHONE}</a>
-
-<div class="flex justify-center mt-10 mb-5">
-    <Button 
-        classes="popup-link block !px-4 xl:!px-8 !py-2 xl:!py-3 !text-white !no-underline" 
-        url="#common-modal" 
-        title="Получить предложение"
-        dataTitle="Получить предложение на Трейд-ин Belgee"
-        dataFormName="Получить предложение. Трейд-ин Belgee"
-    />
-</div>
+<SpecialSalonsInfo 
+    title="Получить предложение"
+    dataTitle="Получить предложение на Трейд-ин Belgee"
+    dataFormName="Получить предложение. Трейд-ин Belgee"
+/>
