@@ -2760,8 +2760,8 @@ GAC GS3 – это идеальное сочетание элегантност�
 			<run>7</run>
 			<year>2024</year>
 			<price>2799000</price>
-			<credit_discount>450000</credit_discount>
-			<insurance_discount>51000</insurance_discount>
+			<credit_discount>100000</credit_discount>
+			<insurance_discount>50000</insurance_discount>
 			<tradein_discount>200000</tradein_discount>
 			<optional_discount>0</optional_discount>
 			<currency>RUR</currency>
@@ -2829,8 +2829,8 @@ GAC GS3 – это идеальное сочетание элегантност�
 			<run>10</run>
 			<year>2024</year>
 			<price>2799000</price>
-			<credit_discount>450000</credit_discount>
-			<insurance_discount>51000</insurance_discount>
+			<credit_discount>100000</credit_discount>
+			<insurance_discount>50000</insurance_discount>
 			<tradein_discount>200000</tradein_discount>
 			<optional_discount>0</optional_discount>
 			<currency>RUR</currency>
@@ -2921,8 +2921,8 @@ GAC GS3 – это идеальное сочетание элегантност�
 			<run>3</run>
 			<year>2024</year>
 			<price>2799000</price>
-			<credit_discount>450000</credit_discount>
-			<insurance_discount>51000</insurance_discount>
+			<credit_discount>100000</credit_discount>
+			<insurance_discount>50000</insurance_discount>
 			<tradein_discount>200000</tradein_discount>
 			<optional_discount>0</optional_discount>
 			<currency>RUR</currency>
@@ -2990,8 +2990,8 @@ GAC GS3 – это идеальное сочетание элегантност�
 			<run>8</run>
 			<year>2024</year>
 			<price>2799000</price>
-			<credit_discount>450000</credit_discount>
-			<insurance_discount>51000</insurance_discount>
+			<credit_discount>100000</credit_discount>
+			<insurance_discount>50000</insurance_discount>
 			<tradein_discount>200000</tradein_discount>
 			<optional_discount>0</optional_discount>
 			<currency>RUR</currency>
@@ -3077,8 +3077,8 @@ GAC GS3 – это идеальное сочетание элегантност�
 			<run>6</run>
 			<year>2024</year>
 			<price>2799000</price>
-			<credit_discount>450000</credit_discount>
-			<insurance_discount>51000</insurance_discount>
+			<credit_discount>100000</credit_discount>
+			<insurance_discount>50000</insurance_discount>
 			<tradein_discount>200000</tradein_discount>
 			<optional_discount>0</optional_discount>
 			<currency>RUR</currency>
@@ -3165,8 +3165,8 @@ GAC GS3 – это идеальное сочетание элегантност�
 			<run>6</run>
 			<year>2024</year>
 			<price>2799000</price>
-			<credit_discount>450000</credit_discount>
-			<insurance_discount>51000</insurance_discount>
+			<credit_discount>100000</credit_discount>
+			<insurance_discount>50000</insurance_discount>
 			<tradein_discount>200000</tradein_discount>
 			<optional_discount>0</optional_discount>
 			<currency>RUR</currency>
@@ -3505,9 +3505,9 @@ GAC GS3 – это идеальное сочетание элегантност�
 			<run>7</run>
 			<year>2024</year>
 			<price>2449000</price>
-			<credit_discount>150000</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>250000</tradein_discount>
+			<credit_discount>500000</credit_discount>
+			<insurance_discount>51000</insurance_discount>
+			<tradein_discount>200000</tradein_discount>
 			<optional_discount>0</optional_discount>
 			<currency>RUR</currency>
 			<vin>LMGHT1L25R3087171</vin>
@@ -3599,9 +3599,9 @@ GAC GS3 – это идеальное сочетание элегантност�
 			<run>7</run>
 			<year>2024</year>
 			<price>2449000</price>
-			<credit_discount>150000</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>250000</tradein_discount>
+			<credit_discount>500000</credit_discount>
+			<insurance_discount>51000</insurance_discount>
+			<tradein_discount>200000</tradein_discount>
 			<optional_discount>0</optional_discount>
 			<currency>RUR</currency>
 			<vin>LMGHT1L28R3087889</vin>
@@ -3695,9 +3695,9 @@ GAC GS3 – это идеальное сочетание элегантност�
 			<run>6</run>
 			<year>2024</year>
 			<price>2399000</price>
-			<credit_discount>150000</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>250000</tradein_discount>
+			<credit_discount>500000</credit_discount>
+			<insurance_discount>51000</insurance_discount>
+			<tradein_discount>200000</tradein_discount>
 			<optional_discount>0</optional_discount>
 			<currency>RUR</currency>
 			<vin>LMGHT1L26R3086854</vin>
