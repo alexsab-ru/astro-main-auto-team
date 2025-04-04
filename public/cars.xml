@@ -3832,7 +3832,7 @@ GAC GS3 – это идеальное сочетание элегантност�
 			<run>7</run>
 			<year>2024</year>
 			<price>2449000</price>
-			<credit_discount>500000</credit_discount>
+			<credit_discount>200000</credit_discount>
 			<insurance_discount>51000</insurance_discount>
 			<tradein_discount>200000</tradein_discount>
 			<optional_discount>0</optional_discount>
@@ -3926,7 +3926,7 @@ GAC GS3 – это идеальное сочетание элегантност�
 			<run>7</run>
 			<year>2024</year>
 			<price>2449000</price>
-			<credit_discount>500000</credit_discount>
+			<credit_discount>200000</credit_discount>
 			<insurance_discount>51000</insurance_discount>
 			<tradein_discount>200000</tradein_discount>
 			<optional_discount>0</optional_discount>
@@ -4022,7 +4022,7 @@ GAC GS3 – это идеальное сочетание элегантност�
 			<run>6</run>
 			<year>2024</year>
 			<price>2449000</price>
-			<credit_discount>500000</credit_discount>
+			<credit_discount>200000</credit_discount>
 			<insurance_discount>51000</insurance_discount>
 			<tradein_discount>200000</tradein_discount>
 			<optional_discount>0</optional_discount>
@@ -4857,7 +4857,26 @@ GAC GS8 – это идеальное сочетание брутальност�
 Ждём вас в нашем дилерском центре: г. Саратов, ул. Усть-Курдюмская, д. 6. 
 
 *Подробности предложения у консультантов отдела продаж</description>
-			<images />
+			<images>
+				<image>https://photo.toyotasever.ru/LMGJU3G85R1041120/8050f3fdffce4b6a7c727a4a3154d793.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G85R1041120/0c6b50f8feb7aeb040d3b1b492a1b8f4.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G85R1041120/ff6d150f8ee6c1ebf80d27520062362e.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G85R1041120/731bd5574f7e26173d485c7d70c92407.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G85R1041120/263e2652b102b39767599f35cfdaf789.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G85R1041120/79cb6b4c646a5dd368be582534d91e91.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G85R1041120/b9084b0093f0ed1a3feb8fe6878388f5.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G85R1041120/64f83eceda04f2d51ab8c09d2dbfd806.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G85R1041120/4acdb99b41266de0235363669adb49ea.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G85R1041120/19492b46269eb98ef7346b804fb3b6a8.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G85R1041120/596a8819b84317d4d018e75c45520c74.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G85R1041120/af9f56a12aa2b713071552d0760570ac.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G85R1041120/4fa92cc8b0611b81cd6a047ed8c167f8.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G85R1041120/5c345f3860fcee040bbc0906c53c89fa.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G85R1041120/d2da5d913f5ec2371f878711e4387cae.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G85R1041120/f8af5932f1c5ed04935763cfb6ff5cbe.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G85R1041120/2d46f6425662132fe61d9c6d900cdc53.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G85R1041120/8b391be212eca018223fb99e80e5f95d.jpeg</image>
+			</images>
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
@@ -5266,7 +5285,7 @@ GAC GS8 – это идеальное сочетание брутальност�
 
 *Подробности предложения у консультантов отдела продаж</description>
 			<images>
-				<image>https://photo.toyotasever.ru/LMGMU1G87R1236654/24f385d8d42cf7898239d7e28d0ab48d.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGMU1G87R1236654/e7a49c8d0884c15addcf0d045e24019d.jpg</image>
 				<image>https://photo.toyotasever.ru/LMGMU1G87R1236654/ad85f39a20f0331cfd9bb801702c707a.jpeg</image>
 				<image>https://photo.toyotasever.ru/LMGMU1G87R1236654/eb11c0c9c22976519c31fed2c1d0b039.jpeg</image>
 				<image>https://photo.toyotasever.ru/LMGMU1G87R1236654/8cd5ccb9f249621976c00450f6489590.jpeg</image>
@@ -5362,7 +5381,7 @@ GAC GS8 – это идеальное сочетание брутальност�
 
 *Подробности предложения у консультантов отдела продаж</description>
 			<images>
-				<image>https://photo.toyotasever.ru/LMGMU1G81R1241753/7f1650b95b3780ada577223d5857e28f.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGMU1G81R1241753/3b30eadc7dcd42f0d798b29fd7507f42.jpg</image>
 				<image>https://photo.toyotasever.ru/LMGMU1G81R1241753/a32fdb6e7183db910e5d8a3988712743.jpeg</image>
 				<image>https://photo.toyotasever.ru/LMGMU1G81R1241753/a0f0d7cbab94be4baddca7ba3a6ec6b7.jpeg</image>
 				<image>https://photo.toyotasever.ru/LMGMU1G81R1241753/09bd2b18f31c68caafbe9a197ac48e9f.jpeg</image>
