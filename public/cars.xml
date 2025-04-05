@@ -2960,97 +2960,6 @@ He упуcтитe cвой шанс!
 			</multiposting>
 		<max_discount>0</max_discount><priceWithDiscount>3139900</priceWithDiscount><sale_price>3139900</sale_price><url>https://auto-team.pro/cars/changan-uni-v-15-amt-181-лс-dlx-белый-2024/</url></car>
 	<car>
-			<unique_id>d184e00a25e3419a2d99925c5b93721f</unique_id>
-			<mark_id>GAC</mark_id>
-			<folder_id>GS3</folder_id>
-			<modification_id>1.5 AMT (170 л.с.)</modification_id>
-			<complectation_name>GB</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Синий</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>7</run>
-			<year>2024</year>
-			<price>2599000</price>
-			<credit_discount>100000</credit_discount>
-			<insurance_discount>50000</insurance_discount>
-			<tradein_discount>200000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<currency>RUR</currency>
-			<vin>LMGHT1L53R3089561</vin>
-			<description>Улучшим любое предложение на GAC GS3! Не верите? Звоните!
-
-Только до конца месяца для Вас:
-
-☑️ 6 технических обслуживаний всего за 1 рубль при покупке GS3*;
-☑️ 5 лет без сервисных забот*;
-☑️ 10 шинных отелей*.
-
-Мощь и надёжность под капотом GS3  
-
-• Двигатель 1.5TGDI — 170 л.с., 250 Н·м.
-• Расход топлива — всего 5,9 л/100 км.
-• Автоматическая коробка передач WDCT — плавное и быстрое переключение.
-
-Комфорт и пространство
-
-• Объём багажника до 1271 литра — место найдётся для всего.
-• Электронное управление багажником — удобство в каждой детали.
-
-Безопасность на уровне
-
-• 10 электронных ассистентов для вашей уверенности за рулём.
-• Камеры кругового обзора 360° исключают слепые зоны.
-Высокопрочная конструкция кузова для максимальной защиты.
-
-Преимущества покупки нового автомобиля GAC GS3 в GАС Центр Саратов:
-☑️ Большой выбор автомобилей в наличии
-☑️ Быстрая выдача автомобиля в день покупки
-☑️ Гарантия на автомобиль 5 лет или 150 000 км (в зависимости от того, что наступит раньше)
-☑️ НДС и уникальные условия покупки в лизинг
-☑️ Выгодные условия по обмену автомобиля
-☑️ Дополнительные бонусы при обмене автомобилей с пробегом премиальных брендов (Audi, BMW, Mercedes, Lexus, Porsche, Land Rover, Jaguar, Volvo, Infiniti)
-
-Программы по кредитованию и страхованию в GАС Центр Саратов:
-☑️ Дистанционная подача заявки на кредитование и страхование
-☑️ Возможность выбора выгодной программы кредитования из предложений разных банков
-☑️ Полное сопровождение сделки нашими специалистами
-
-⭐️Производитель: GAC Motor Corporation – один из крупнейших и уважаемых автопроизводителей Китая, сотрудничает с брендами мирового уровня, такими как Toyota, Honda и Mitsubishi.
-⭐️GАС Центр Саратов – это ваш индивидуальный подход к выбору идеального автомобиля.
-⭐️Выбирайте автомобиль, который соответствует вашему стилю жизни, в GАС Центр Саратов!
-
-Ждём вас в нашем дилерском центре: г. Саратов, ул. Усть-Курдюмская, д. 6.
-
-*Подробности предложения у консультантов отдела продаж</description>
-			<images>
-				<image>https://photo.toyotasever.ru/LMGHT1L53R3089561/2ecb84406abd31b12ccd75f944bf9146.jpg</image>
-				<image>https://photo.toyotasever.ru/LMGHT1L53R3089561/083144f933b5bc35181bf07551265af0.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGHT1L53R3089561/5a8314fa365c0ef05334511bfeb9d785.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGHT1L53R3089561/eebbde6409383b47b891401d98b01474.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGHT1L53R3089561/6f2ff1a0aaf73802fcd63357da1e3d6c.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGHT1L53R3089561/1aabd7d3440d1f5ebabc1aabbf923374.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGHT1L53R3089561/d0a35c8bddf902c8ad6ee89060b51916.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGHT1L53R3089561/aa1f09e738069164ac2e3e027acc9f1e.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGHT1L53R3089561/333d7d97c20c5baf18f5c89b864e50d1.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGHT1L53R3089561/e96673e2970649cd639360a0bd6e9138.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGHT1L53R3089561/11b945f78c1f0b00a857e63d164b00c5.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGHT1L53R3089561/440ac4478a3e6b01121a9f815da66476.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGHT1L53R3089561/f5286b36af55041a00623c162ad460f2.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGHT1L53R3089561/a80c4e8ccf23e7e09525ef14fcca32db.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGHT1L53R3089561/86255b2bf68038dd9987bac83ca74188.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGHT1L53R3089561/8a5627bfbcc8affe2386ed95667b3e07.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGHT1L53R3089561/f1f099a4447b1c8bcede04674b86ee3d.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGHT1L53R3089561/a8808ec64bdcc5eb1cf0ea48f8551e5e.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGHT1L53R3089561/ac4dd2345a498c56f80764a08a037c75.jpeg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<max_discount>0</max_discount><priceWithDiscount>2599000</priceWithDiscount><sale_price>2599000</sale_price><url>https://auto-team.pro/cars/gac-gs3-15-amt-170-лс-gb-синий-2024/</url></car>
-		<car>
 			<unique_id>543addccd8f156dec40d75c004fe345d</unique_id>
 			<mark_id>GAC</mark_id>
 			<folder_id>GS3</folder_id>
@@ -3142,6 +3051,97 @@ He упуcтитe cвой шанс!
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
 		<max_discount>0</max_discount><priceWithDiscount>2599000</priceWithDiscount><sale_price>2599000</sale_price><url>https://auto-team.pro/cars/gac-gs3-15-amt-170-лс-gb-серебряный-2024/</url></car>
+		<car>
+			<unique_id>d184e00a25e3419a2d99925c5b93721f</unique_id>
+			<mark_id>GAC</mark_id>
+			<folder_id>GS3</folder_id>
+			<modification_id>1.5 AMT (170 л.с.)</modification_id>
+			<complectation_name>GB</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>Синий</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>7</run>
+			<year>2024</year>
+			<price>2599000</price>
+			<credit_discount>100000</credit_discount>
+			<insurance_discount>50000</insurance_discount>
+			<tradein_discount>200000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<currency>RUR</currency>
+			<vin>LMGHT1L53R3089561</vin>
+			<description>Улучшим любое предложение на GAC GS3! Не верите? Звоните!
+
+Только до конца месяца для Вас:
+
+☑️ 6 технических обслуживаний всего за 1 рубль при покупке GS3*;
+☑️ 5 лет без сервисных забот*;
+☑️ 10 шинных отелей*.
+
+Мощь и надёжность под капотом GS3  
+
+• Двигатель 1.5TGDI — 170 л.с., 250 Н·м.
+• Расход топлива — всего 5,9 л/100 км.
+• Автоматическая коробка передач WDCT — плавное и быстрое переключение.
+
+Комфорт и пространство
+
+• Объём багажника до 1271 литра — место найдётся для всего.
+• Электронное управление багажником — удобство в каждой детали.
+
+Безопасность на уровне
+
+• 10 электронных ассистентов для вашей уверенности за рулём.
+• Камеры кругового обзора 360° исключают слепые зоны.
+Высокопрочная конструкция кузова для максимальной защиты.
+
+Преимущества покупки нового автомобиля GAC GS3 в GАС Центр Саратов:
+☑️ Большой выбор автомобилей в наличии
+☑️ Быстрая выдача автомобиля в день покупки
+☑️ Гарантия на автомобиль 5 лет или 150 000 км (в зависимости от того, что наступит раньше)
+☑️ НДС и уникальные условия покупки в лизинг
+☑️ Выгодные условия по обмену автомобиля
+☑️ Дополнительные бонусы при обмене автомобилей с пробегом премиальных брендов (Audi, BMW, Mercedes, Lexus, Porsche, Land Rover, Jaguar, Volvo, Infiniti)
+
+Программы по кредитованию и страхованию в GАС Центр Саратов:
+☑️ Дистанционная подача заявки на кредитование и страхование
+☑️ Возможность выбора выгодной программы кредитования из предложений разных банков
+☑️ Полное сопровождение сделки нашими специалистами
+
+⭐️Производитель: GAC Motor Corporation – один из крупнейших и уважаемых автопроизводителей Китая, сотрудничает с брендами мирового уровня, такими как Toyota, Honda и Mitsubishi.
+⭐️GАС Центр Саратов – это ваш индивидуальный подход к выбору идеального автомобиля.
+⭐️Выбирайте автомобиль, который соответствует вашему стилю жизни, в GАС Центр Саратов!
+
+Ждём вас в нашем дилерском центре: г. Саратов, ул. Усть-Курдюмская, д. 6.
+
+*Подробности предложения у консультантов отдела продаж</description>
+			<images>
+				<image>https://photo.toyotasever.ru/LMGHT1L53R3089561/2ecb84406abd31b12ccd75f944bf9146.jpg</image>
+				<image>https://photo.toyotasever.ru/LMGHT1L53R3089561/083144f933b5bc35181bf07551265af0.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGHT1L53R3089561/5a8314fa365c0ef05334511bfeb9d785.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGHT1L53R3089561/eebbde6409383b47b891401d98b01474.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGHT1L53R3089561/6f2ff1a0aaf73802fcd63357da1e3d6c.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGHT1L53R3089561/1aabd7d3440d1f5ebabc1aabbf923374.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGHT1L53R3089561/d0a35c8bddf902c8ad6ee89060b51916.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGHT1L53R3089561/aa1f09e738069164ac2e3e027acc9f1e.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGHT1L53R3089561/333d7d97c20c5baf18f5c89b864e50d1.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGHT1L53R3089561/e96673e2970649cd639360a0bd6e9138.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGHT1L53R3089561/11b945f78c1f0b00a857e63d164b00c5.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGHT1L53R3089561/440ac4478a3e6b01121a9f815da66476.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGHT1L53R3089561/f5286b36af55041a00623c162ad460f2.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGHT1L53R3089561/a80c4e8ccf23e7e09525ef14fcca32db.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGHT1L53R3089561/86255b2bf68038dd9987bac83ca74188.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGHT1L53R3089561/8a5627bfbcc8affe2386ed95667b3e07.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGHT1L53R3089561/f1f099a4447b1c8bcede04674b86ee3d.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGHT1L53R3089561/a8808ec64bdcc5eb1cf0ea48f8551e5e.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGHT1L53R3089561/ac4dd2345a498c56f80764a08a037c75.jpeg</image>
+			</images>
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<max_discount>0</max_discount><priceWithDiscount>2599000</priceWithDiscount><sale_price>2599000</sale_price><url>https://auto-team.pro/cars/gac-gs3-15-amt-170-лс-gb-синий-2024/</url></car>
 		<car>
 			<unique_id>4ed2fd82e21a62926c70ddc74a5a8b42</unique_id>
 			<mark_id>GAC</mark_id>
@@ -3243,18 +3243,18 @@ He упуcтитe cвой шанс!
 			</multiposting>
 		<max_discount>0</max_discount><priceWithDiscount>2649000</priceWithDiscount><sale_price>2649000</sale_price><url>https://auto-team.pro/cars/gac-gs3-15-amt-170-лс-gb-r-белый-2024/</url></car>
 		<car>
-			<unique_id>df58e06062bb67cc88cc6d920c05cf80</unique_id>
+			<unique_id>e5bc1f2ad6b18a474cec2f6974760a53</unique_id>
 			<mark_id>GAC</mark_id>
 			<folder_id>GS3</folder_id>
 			<modification_id>1.5 AMT (170 л.с.)</modification_id>
 			<complectation_name>GL</complectation_name>
 			<body_type>Внедорожник 5 дв.</body_type>
 			<wheel>левый</wheel>
-			<color>Синий</color>
+			<color>Белый</color>
 			<metallic>нет</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
-			<run>6</run>
+			<run>10</run>
 			<year>2024</year>
 			<price>2799000</price>
 			<credit_discount>100000</credit_discount>
@@ -3262,14 +3262,8 @@ He упуcтитe cвой шанс!
 			<tradein_discount>200000</tradein_discount>
 			<optional_discount>0</optional_discount>
 			<currency>RUR</currency>
-			<vin>LMGHT1L83R3086315</vin>
-			<description>Улучшим любое предложение на GAC GS3! Не верите? Звоните!
-
-Только до конца месяца для Вас:
-
-☑️ 6 технических обслуживаний всего за 1 рубль при покупке GS3*;
-☑️ 5 лет без сервисных забот*;
-☑️ 10 шинных отелей*.
+			<vin>LMGHT1L89R3086867</vin>
+			<description>GS3 - идеальный городской кроссовер с мощным двигателем и стильным дизайном!
 
 Мощь и надёжность под капотом GS3  
 
@@ -3309,29 +3303,36 @@ He упуcтитe cвой шанс!
 
 *Подробности предложения у консультантов отдела продаж</description>
 			<images>
-				<image>https://photo.toyotasever.ru/LMGHT1L83R3086315/17b9531da3ab71040c818b3f7def53ca.jpg</image>
-				<image>https://photo.toyotasever.ru/LMGHT1L83R3086315/579e8d722dfa6a1fc7f436ba92837ed0.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGHT1L83R3086315/1cf57587886d5c9bbdb21cee8340a47f.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGHT1L83R3086315/2d444ef45e80791a6df453409f54a862.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGHT1L83R3086315/b8ac728c4a712b2d37241de72cff3349.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGHT1L83R3086315/88fc523b77351c98a58df12a86dde43a.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGHT1L83R3086315/b4c0c7870cc274a98b4c0c6d50c5050d.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGHT1L83R3086315/f48bf9482e895d9af52ea509ba83a713.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGHT1L83R3086315/0441fa733e3d4eedd575a6bf1021108e.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGHT1L83R3086315/8cbc8cb2a926403ed5dcb9762c9a1c8c.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGHT1L83R3086315/0baff5042776259c06bab98d8ee4a570.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGHT1L83R3086315/1f3e6c5fd235c1c7010424e12cc98a45.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGHT1L83R3086315/f340af64325c8fd71ff538bcd736c980.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGHT1L83R3086315/6987406f5bc96117b85eaca2e78413cb.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGHT1L83R3086315/ef46b706e7310d2e7c9d05dbbbb43db1.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGHT1L83R3086315/a7e6ae1fafbeac476722af9b6e309fef.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGHT1L83R3086315/fd3a930683f163d6f457ca3b390d5e8a.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGHT1L83R3086315/8422adc0fbbd0109294b22aad5fb0c89.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGHT1L89R3086867/bc6d624b99f99c263845c2fd8ce7130e.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGHT1L89R3086867/0004181370615464249c7146281e5376.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGHT1L89R3086867/2f46ee1257fdeedef007e7846ff79bfd.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGHT1L89R3086867/961cf4460ed49e4c286734fb0b41df71.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGHT1L89R3086867/34980cbd6858ad41882621b2ba576ad4.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGHT1L89R3086867/893ce7a0c924b9b6f353484858599b8d.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGHT1L89R3086867/77ba60fc6246de514b54be687bca1280.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGHT1L89R3086867/37a3c0c6317b67d10f830541c7b49ed3.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGHT1L89R3086867/f76e51ae1abcec8b7274103d6131e7d9.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGHT1L89R3086867/b09f47c33dca6e78943b4c30d2f89740.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGHT1L89R3086867/0d42c99c63c648f328a265464acb7c2a.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGHT1L89R3086867/3d368ce10ce19eb412fc4a02a26a8590.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGHT1L89R3086867/2d70105dc3296d025c03d45d397b4c0d.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGHT1L89R3086867/f04d29d523b6835d19ce0189a065580d.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGHT1L89R3086867/5a706c41c8121c51288ad0a3dbd5f803.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGHT1L89R3086867/9a844911834f6fa3b7582588cfc17abd.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGHT1L89R3086867/9912bc35ab4fcbc18ede2d74e0bcbdcc.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGHT1L89R3086867/3ec5b474ac89b0e68fe0e4872c3a2b26.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGHT1L89R3086867/b35014661b1287f6e859f4d2201eefd2.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGHT1L89R3086867/bf2c97255555dd469c4760482694f5b8.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGHT1L89R3086867/2c4ee26456d07b69ee29c6255004d725.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGHT1L89R3086867/e2bc95e5ff9fc974b50860abe155b8da.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGHT1L89R3086867/8a5204d62c008e32b855ddbf9448a523.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGHT1L89R3086867/f92ee92a95c239a2513fcca2753e5472.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGHT1L89R3086867/37fe4082d86802e8d1ffa449009d309c.jpeg</image>
 			</images>
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
-		<max_discount>0</max_discount><priceWithDiscount>2799000</priceWithDiscount><sale_price>2799000</sale_price><url>https://auto-team.pro/cars/gac-gs3-15-amt-170-лс-gl-синий-2024/</url></car>
+		<max_discount>0</max_discount><priceWithDiscount>2799000</priceWithDiscount><sale_price>2799000</sale_price><url>https://auto-team.pro/cars/gac-gs3-15-amt-170-лс-gl-белый-2024/</url></car>
 		<car>
 			<unique_id>844535bac8bfb9ab1added1d4dfc39a2</unique_id>
 			<mark_id>GAC</mark_id>
@@ -3512,18 +3513,18 @@ He упуcтитe cвой шанс!
 			</multiposting>
 		<max_discount>0</max_discount><priceWithDiscount>2799000</priceWithDiscount><sale_price>2799000</sale_price><url>https://auto-team.pro/cars/gac-gs3-15-amt-170-лс-gl-синий-2024/</url></car>
 		<car>
-			<unique_id>e5bc1f2ad6b18a474cec2f6974760a53</unique_id>
+			<unique_id>df58e06062bb67cc88cc6d920c05cf80</unique_id>
 			<mark_id>GAC</mark_id>
 			<folder_id>GS3</folder_id>
 			<modification_id>1.5 AMT (170 л.с.)</modification_id>
 			<complectation_name>GL</complectation_name>
 			<body_type>Внедорожник 5 дв.</body_type>
 			<wheel>левый</wheel>
-			<color>Белый</color>
+			<color>Синий</color>
 			<metallic>нет</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
-			<run>10</run>
+			<run>6</run>
 			<year>2024</year>
 			<price>2799000</price>
 			<credit_discount>100000</credit_discount>
@@ -3531,8 +3532,14 @@ He упуcтитe cвой шанс!
 			<tradein_discount>200000</tradein_discount>
 			<optional_discount>0</optional_discount>
 			<currency>RUR</currency>
-			<vin>LMGHT1L89R3086867</vin>
-			<description>GS3 - идеальный городской кроссовер с мощным двигателем и стильным дизайном!
+			<vin>LMGHT1L83R3086315</vin>
+			<description>Улучшим любое предложение на GAC GS3! Не верите? Звоните!
+
+Только до конца месяца для Вас:
+
+☑️ 6 технических обслуживаний всего за 1 рубль при покупке GS3*;
+☑️ 5 лет без сервисных забот*;
+☑️ 10 шинных отелей*.
 
 Мощь и надёжность под капотом GS3  
 
@@ -3572,36 +3579,29 @@ He упуcтитe cвой шанс!
 
 *Подробности предложения у консультантов отдела продаж</description>
 			<images>
-				<image>https://photo.toyotasever.ru/LMGHT1L89R3086867/bc6d624b99f99c263845c2fd8ce7130e.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGHT1L89R3086867/0004181370615464249c7146281e5376.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGHT1L89R3086867/2f46ee1257fdeedef007e7846ff79bfd.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGHT1L89R3086867/961cf4460ed49e4c286734fb0b41df71.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGHT1L89R3086867/34980cbd6858ad41882621b2ba576ad4.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGHT1L89R3086867/893ce7a0c924b9b6f353484858599b8d.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGHT1L89R3086867/77ba60fc6246de514b54be687bca1280.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGHT1L89R3086867/37a3c0c6317b67d10f830541c7b49ed3.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGHT1L89R3086867/f76e51ae1abcec8b7274103d6131e7d9.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGHT1L89R3086867/b09f47c33dca6e78943b4c30d2f89740.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGHT1L89R3086867/0d42c99c63c648f328a265464acb7c2a.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGHT1L89R3086867/3d368ce10ce19eb412fc4a02a26a8590.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGHT1L89R3086867/2d70105dc3296d025c03d45d397b4c0d.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGHT1L89R3086867/f04d29d523b6835d19ce0189a065580d.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGHT1L89R3086867/5a706c41c8121c51288ad0a3dbd5f803.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGHT1L89R3086867/9a844911834f6fa3b7582588cfc17abd.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGHT1L89R3086867/9912bc35ab4fcbc18ede2d74e0bcbdcc.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGHT1L89R3086867/3ec5b474ac89b0e68fe0e4872c3a2b26.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGHT1L89R3086867/b35014661b1287f6e859f4d2201eefd2.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGHT1L89R3086867/bf2c97255555dd469c4760482694f5b8.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGHT1L89R3086867/2c4ee26456d07b69ee29c6255004d725.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGHT1L89R3086867/e2bc95e5ff9fc974b50860abe155b8da.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGHT1L89R3086867/8a5204d62c008e32b855ddbf9448a523.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGHT1L89R3086867/f92ee92a95c239a2513fcca2753e5472.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGHT1L89R3086867/37fe4082d86802e8d1ffa449009d309c.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGHT1L83R3086315/17b9531da3ab71040c818b3f7def53ca.jpg</image>
+				<image>https://photo.toyotasever.ru/LMGHT1L83R3086315/579e8d722dfa6a1fc7f436ba92837ed0.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGHT1L83R3086315/1cf57587886d5c9bbdb21cee8340a47f.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGHT1L83R3086315/2d444ef45e80791a6df453409f54a862.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGHT1L83R3086315/b8ac728c4a712b2d37241de72cff3349.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGHT1L83R3086315/88fc523b77351c98a58df12a86dde43a.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGHT1L83R3086315/b4c0c7870cc274a98b4c0c6d50c5050d.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGHT1L83R3086315/f48bf9482e895d9af52ea509ba83a713.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGHT1L83R3086315/0441fa733e3d4eedd575a6bf1021108e.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGHT1L83R3086315/8cbc8cb2a926403ed5dcb9762c9a1c8c.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGHT1L83R3086315/0baff5042776259c06bab98d8ee4a570.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGHT1L83R3086315/1f3e6c5fd235c1c7010424e12cc98a45.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGHT1L83R3086315/f340af64325c8fd71ff538bcd736c980.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGHT1L83R3086315/6987406f5bc96117b85eaca2e78413cb.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGHT1L83R3086315/ef46b706e7310d2e7c9d05dbbbb43db1.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGHT1L83R3086315/a7e6ae1fafbeac476722af9b6e309fef.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGHT1L83R3086315/fd3a930683f163d6f457ca3b390d5e8a.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGHT1L83R3086315/8422adc0fbbd0109294b22aad5fb0c89.jpeg</image>
 			</images>
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
-		<max_discount>0</max_discount><priceWithDiscount>2799000</priceWithDiscount><sale_price>2799000</sale_price><url>https://auto-team.pro/cars/gac-gs3-15-amt-170-лс-gl-белый-2024/</url></car>
+		<max_discount>0</max_discount><priceWithDiscount>2799000</priceWithDiscount><sale_price>2799000</sale_price><url>https://auto-team.pro/cars/gac-gs3-15-amt-170-лс-gl-синий-2024/</url></car>
 		<car>
 			<unique_id>ff4fffae9249e79db575b2c2a4065c5e</unique_id>
 			<mark_id>GAC</mark_id>
@@ -4483,18 +4483,18 @@ GS8  —  флагманский большой внедорожник для с
 			</multiposting>
 		<max_discount>0</max_discount><priceWithDiscount>4699000</priceWithDiscount><sale_price>4699000</sale_price><url>https://auto-team.pro/cars/gac-gs8-ii-20-at-231-лс-4wd-gx-черный-2024/</url></car>
 		<car>
-			<unique_id>7849394700b810b51ee0e9660250f23c</unique_id>
+			<unique_id>47a59a73be4095630877ba7fd5e6f0c6</unique_id>
 			<mark_id>GAC</mark_id>
 			<folder_id>GS8, II</folder_id>
 			<modification_id>2.0 AT (231 л.с.) 4WD</modification_id>
 			<complectation_name>GX Premium</complectation_name>
 			<body_type>Внедорожник 5 дв.</body_type>
 			<wheel>левый</wheel>
-			<color>Черный</color>
+			<color>Белый</color>
 			<metallic>нет</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
-			<run>11</run>
+			<run>13</run>
 			<year>2024</year>
 			<price>4749000</price>
 			<credit_discount>100000</credit_discount>
@@ -4502,17 +4502,8 @@ GS8  —  флагманский большой внедорожник для с
 			<tradein_discount>300000</tradein_discount>
 			<optional_discount>0</optional_discount>
 			<currency>RUR</currency>
-			<vin>LMGJU3G85R1040114</vin>
-			<description>Улучшим любое предложение на GAC GS8! Не верите? Звоните!
-
-Только до конца месяца для Вас:
-
-☑️ 6 технических обслуживаний всего за 1 рубль при покупке GS8*;
-☑️ 5 лет без сервисных забот*;
-☑️ 10 шинных отелей*.
-
-
-GS8  —  флагманский большой внедорожник для самых долгих путешествий 
+			<vin>LMGJU3G83R1042847</vin>
+			<description>GS8  —  флагманский большой внедорожник для самых долгих путешествий 
 
 • Харизматичный экстерьер — хромированная решётка радиатора в симметричном v-образном дизайне, полностью светодиодные матричные фары «Взгляд победителя», кристальная текстура задних фар «Рубиновый бриллиант» делают его незабываемо привлекательным на дороге.
 
@@ -4543,26 +4534,45 @@ GS8  —  флагманский большой внедорожник для с
 
 *Подробности предложения у консультантов отдела продаж</description>
 			<images>
-				<image>https://photo.toyotasever.ru/LMGJU3G85R1040114/9e43a795bfba0e0306147b9070d8539d.jpg</image>
-				<image>https://photo.toyotasever.ru/LMGJU3G85R1040114/82a4b978de12f81f569eaf009ff213b9.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGJU3G85R1040114/b811c84f86756904cc6a512ea6c4a210.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGJU3G85R1040114/825f7b306ee877f18dd1c1e2bb7dc7f7.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGJU3G85R1040114/af4e02867777502b684131c2f2acd500.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGJU3G85R1040114/debcf2d797003289e9e88a2e124da782.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGJU3G85R1040114/8662075176c474a6a69d1b01f73bee91.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGJU3G85R1040114/6c5b8d5af357920f55c0ad99f9bf4842.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGJU3G85R1040114/754a645c6eafd5fddb96818c78b53ae4.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGJU3G85R1040114/eb2875e07dc05c93160e4e0382daeea6.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGJU3G85R1040114/4910f70ef2a4633ca37421f298f99800.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGJU3G85R1040114/9974cb4cbca03d011c6e038b26f4b8b0.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGJU3G85R1040114/3c6b15f32e76bb62f36237a22faa6bbd.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGJU3G85R1040114/e460d8cfbdf5e659e614636aa6f38c58.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGJU3G85R1040114/dd26cf6d87ff773cc01217c573281b5b.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G83R1042847/d1ea0049ca3fa8ea9c88ffc9b0a8c524.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G83R1042847/db61a5909911a921d3648cf9f0ae773a.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G83R1042847/a559656202b4e3c507b2f40007167b41.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G83R1042847/3f3ef851528d4768b12c92c993dd2f3a.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G83R1042847/51e8b104bdd185ef9c5dcbea4b04455e.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G83R1042847/26c0626213827d90f84608e6806446c1.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G83R1042847/8405579f2f793ac80bc22e44d784dd55.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G83R1042847/9f38c47f099c11a853a31083d646dc00.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G83R1042847/5e058df2315c3b4a636469386b4e89e3.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G83R1042847/78bd9243a26aae64973852f94c314196.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G83R1042847/7a44ce9d8e130bfb7684e350cf856e3a.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G83R1042847/31d4826383c83da4f1c7d78f259b2cbb.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G83R1042847/6a92d3bf8192bf80e6aba811b1e66f8b.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G83R1042847/c59c29b5703ac5358f8abef53c8b59b0.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G83R1042847/f57953cbdc72fc272ea0c92b365bd077.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G83R1042847/364dd3520cdb1ecfab64f2c44fc97862.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G83R1042847/4d19ed79c91156f296764d84268520fe.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G83R1042847/c48b8d9bd2a4d6a719e598fbd660301c.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G83R1042847/ed7c657479e1feda804ca808fc4efc0f.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G83R1042847/f0d2552f7e3f4574230d3b6cadab998f.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G83R1042847/ff35ee8cfe248307294459f0b45e22f2.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G83R1042847/bf555086ab558283184485cf249ab483.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G83R1042847/de317a09395d6e0896b3ac4f3431d555.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G83R1042847/380616fd560257db85db41e2f97c1c7f.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G83R1042847/c10384d13850ec2322608ba795322882.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G83R1042847/3d748645ecf71ce87a137d0388596a3a.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G83R1042847/7851d2a51d8e5244ff8b13ac5c695e03.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G83R1042847/933b824fc18cf5a2cebd0c6f8f3a7e07.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G83R1042847/51b58d61a8381cad4735e2e42d9d5d55.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G83R1042847/c1c6fd05bad12d37cc37a7e15a927236.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G83R1042847/7de5f47a6205f390017d67b82eb02f0c.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G83R1042847/00120332d020fafb85ff6a004ba88ac6.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G83R1042847/c5d84ca1d320df9ee2f9a13c72f40bf7.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G83R1042847/e958d8cfca0d5c8fe9f7e3378bb87586.jpeg</image>
 			</images>
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
-		<max_discount>0</max_discount><priceWithDiscount>4749000</priceWithDiscount><sale_price>4749000</sale_price><url>https://auto-team.pro/cars/gac-gs8-ii-20-at-231-лс-4wd-gx-premium-черный-2024/</url></car>
+		<max_discount>0</max_discount><priceWithDiscount>4749000</priceWithDiscount><sale_price>4749000</sale_price><url>https://auto-team.pro/cars/gac-gs8-ii-20-at-231-лс-4wd-gx-premium-белый-2024/</url></car>
 		<car>
 			<unique_id>f8609de5d1abb2ccff354065d11e6186</unique_id>
 			<mark_id>GAC</mark_id>
@@ -4655,18 +4665,18 @@ GS8  —  флагманский большой внедорожник для с
 			</multiposting>
 		<max_discount>0</max_discount><priceWithDiscount>4749000</priceWithDiscount><sale_price>4749000</sale_price><url>https://auto-team.pro/cars/gac-gs8-ii-20-at-231-лс-4wd-gx-premium-серебряный-2024/</url></car>
 		<car>
-			<unique_id>47a59a73be4095630877ba7fd5e6f0c6</unique_id>
+			<unique_id>f5ea07e132c5650befd384053f1c88d7</unique_id>
 			<mark_id>GAC</mark_id>
 			<folder_id>GS8, II</folder_id>
 			<modification_id>2.0 AT (231 л.с.) 4WD</modification_id>
 			<complectation_name>GX Premium</complectation_name>
 			<body_type>Внедорожник 5 дв.</body_type>
 			<wheel>левый</wheel>
-			<color>Белый</color>
+			<color>Серый</color>
 			<metallic>нет</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
-			<run>13</run>
+			<run>7</run>
 			<year>2024</year>
 			<price>4749000</price>
 			<credit_discount>100000</credit_discount>
@@ -4674,7 +4684,7 @@ GS8  —  флагманский большой внедорожник для с
 			<tradein_discount>300000</tradein_discount>
 			<optional_discount>0</optional_discount>
 			<currency>RUR</currency>
-			<vin>LMGJU3G83R1042847</vin>
+			<vin>LMGJU3G85R1041120</vin>
 			<description>GS8  —  флагманский большой внедорожник для самых долгих путешествий 
 
 • Харизматичный экстерьер — хромированная решётка радиатора в симметричном v-образном дизайне, полностью светодиодные матричные фары «Взгляд победителя», кристальная текстура задних фар «Рубиновый бриллиант» делают его незабываемо привлекательным на дороге.
@@ -4706,45 +4716,110 @@ GS8  —  флагманский большой внедорожник для с
 
 *Подробности предложения у консультантов отдела продаж</description>
 			<images>
-				<image>https://photo.toyotasever.ru/LMGJU3G83R1042847/d1ea0049ca3fa8ea9c88ffc9b0a8c524.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGJU3G83R1042847/db61a5909911a921d3648cf9f0ae773a.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGJU3G83R1042847/a559656202b4e3c507b2f40007167b41.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGJU3G83R1042847/3f3ef851528d4768b12c92c993dd2f3a.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGJU3G83R1042847/51e8b104bdd185ef9c5dcbea4b04455e.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGJU3G83R1042847/26c0626213827d90f84608e6806446c1.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGJU3G83R1042847/8405579f2f793ac80bc22e44d784dd55.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGJU3G83R1042847/9f38c47f099c11a853a31083d646dc00.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGJU3G83R1042847/5e058df2315c3b4a636469386b4e89e3.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGJU3G83R1042847/78bd9243a26aae64973852f94c314196.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGJU3G83R1042847/7a44ce9d8e130bfb7684e350cf856e3a.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGJU3G83R1042847/31d4826383c83da4f1c7d78f259b2cbb.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGJU3G83R1042847/6a92d3bf8192bf80e6aba811b1e66f8b.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGJU3G83R1042847/c59c29b5703ac5358f8abef53c8b59b0.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGJU3G83R1042847/f57953cbdc72fc272ea0c92b365bd077.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGJU3G83R1042847/364dd3520cdb1ecfab64f2c44fc97862.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGJU3G83R1042847/4d19ed79c91156f296764d84268520fe.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGJU3G83R1042847/c48b8d9bd2a4d6a719e598fbd660301c.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGJU3G83R1042847/ed7c657479e1feda804ca808fc4efc0f.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGJU3G83R1042847/f0d2552f7e3f4574230d3b6cadab998f.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGJU3G83R1042847/ff35ee8cfe248307294459f0b45e22f2.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGJU3G83R1042847/bf555086ab558283184485cf249ab483.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGJU3G83R1042847/de317a09395d6e0896b3ac4f3431d555.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGJU3G83R1042847/380616fd560257db85db41e2f97c1c7f.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGJU3G83R1042847/c10384d13850ec2322608ba795322882.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGJU3G83R1042847/3d748645ecf71ce87a137d0388596a3a.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGJU3G83R1042847/7851d2a51d8e5244ff8b13ac5c695e03.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGJU3G83R1042847/933b824fc18cf5a2cebd0c6f8f3a7e07.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGJU3G83R1042847/51b58d61a8381cad4735e2e42d9d5d55.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGJU3G83R1042847/c1c6fd05bad12d37cc37a7e15a927236.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGJU3G83R1042847/7de5f47a6205f390017d67b82eb02f0c.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGJU3G83R1042847/00120332d020fafb85ff6a004ba88ac6.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGJU3G83R1042847/c5d84ca1d320df9ee2f9a13c72f40bf7.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGJU3G83R1042847/e958d8cfca0d5c8fe9f7e3378bb87586.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G85R1041120/8050f3fdffce4b6a7c727a4a3154d793.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G85R1041120/0c6b50f8feb7aeb040d3b1b492a1b8f4.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G85R1041120/ff6d150f8ee6c1ebf80d27520062362e.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G85R1041120/731bd5574f7e26173d485c7d70c92407.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G85R1041120/263e2652b102b39767599f35cfdaf789.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G85R1041120/79cb6b4c646a5dd368be582534d91e91.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G85R1041120/b9084b0093f0ed1a3feb8fe6878388f5.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G85R1041120/64f83eceda04f2d51ab8c09d2dbfd806.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G85R1041120/4acdb99b41266de0235363669adb49ea.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G85R1041120/19492b46269eb98ef7346b804fb3b6a8.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G85R1041120/596a8819b84317d4d018e75c45520c74.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G85R1041120/af9f56a12aa2b713071552d0760570ac.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G85R1041120/4fa92cc8b0611b81cd6a047ed8c167f8.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G85R1041120/5c345f3860fcee040bbc0906c53c89fa.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G85R1041120/d2da5d913f5ec2371f878711e4387cae.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G85R1041120/f8af5932f1c5ed04935763cfb6ff5cbe.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G85R1041120/2d46f6425662132fe61d9c6d900cdc53.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G85R1041120/8b391be212eca018223fb99e80e5f95d.jpeg</image>
 			</images>
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
-		<max_discount>0</max_discount><priceWithDiscount>4749000</priceWithDiscount><sale_price>4749000</sale_price><url>https://auto-team.pro/cars/gac-gs8-ii-20-at-231-лс-4wd-gx-premium-белый-2024/</url></car>
+		<max_discount>0</max_discount><priceWithDiscount>4749000</priceWithDiscount><sale_price>4749000</sale_price><url>https://auto-team.pro/cars/gac-gs8-ii-20-at-231-лс-4wd-gx-premium-серый-2024/</url></car>
+		<car>
+			<unique_id>7849394700b810b51ee0e9660250f23c</unique_id>
+			<mark_id>GAC</mark_id>
+			<folder_id>GS8, II</folder_id>
+			<modification_id>2.0 AT (231 л.с.) 4WD</modification_id>
+			<complectation_name>GX Premium</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>Черный</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>11</run>
+			<year>2024</year>
+			<price>4749000</price>
+			<credit_discount>100000</credit_discount>
+			<insurance_discount>50000</insurance_discount>
+			<tradein_discount>300000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<currency>RUR</currency>
+			<vin>LMGJU3G85R1040114</vin>
+			<description>Улучшим любое предложение на GAC GS8! Не верите? Звоните!
+
+Только до конца месяца для Вас:
+
+☑️ 6 технических обслуживаний всего за 1 рубль при покупке GS8*;
+☑️ 5 лет без сервисных забот*;
+☑️ 10 шинных отелей*.
+
+
+GS8  —  флагманский большой внедорожник для самых долгих путешествий 
+
+• Харизматичный экстерьер — хромированная решётка радиатора в симметричном v-образном дизайне, полностью светодиодные матричные фары «Взгляд победителя», кристальная текстура задних фар «Рубиновый бриллиант» делают его незабываемо привлекательным на дороге.
+
+• Мощный двигатель 2.0T (231 л.с., 380 Н•м) с 8-ступенчатой автоматической коробкой передач — уверенность в городе и на трассах в любых условиях.
+
+• Современные технологии — 12,3-дюймовая цифровая панель и передовые системы помощи водителю, включая адаптивный круиз-контроль, камеры 360° и систему удержания в полосе. 
+
+• Объёмный багажник  — до 1 859 литров, где легко разместятся все необходимые вещи.
+
+Преимущества покупки нового автомобиля GAC GS8 в GАС Центр Саратов:
+☑️ Большой выбор автомобилей в наличии
+☑️ Быстрая выдача автомобиля в день покупки
+☑️ Гарантия на автомобиль 5 лет или 150 000 км (в зависимости от того, что наступит раньше)
+☑️ НДС и уникальные условия покупки в лизинг
+☑️ Выгодные условия по обмену автомобиля
+☑️ Дополнительные бонусы при обмене автомобилей с пробегом премиальных брендов (Audi, BMW, Mercedes, Lexus, Porsche, Land Rover, Jaguar, Volvo, Infiniti)
+
+Программы по кредитованию и страхованию в GАС Центр Саратов:
+☑️ Дистанционная подача заявки на кредитование и страхование
+☑️ Возможность выбора выгодной программы кредитования из предложений разных банков
+☑️ Полное сопровождение сделки нашими специалистами
+
+⭐️Производитель: GAC Motor Corporation – один из крупнейших и уважаемых автопроизводителей Китая, сотрудничает с брендами мирового уровня, такими как Toyota, Honda и Mitsubishi.
+⭐️GАС Центр Саратов – это ваш индивидуальный подход к выбору идеального автомобиля.
+⭐️Выбирайте автомобиль, который соответствует вашему стилю жизни, в GАС Центр Саратов!
+
+Ждём вас в нашем дилерском центре: г. Саратов, ул. Усть-Курдюмская, д. 6.
+
+*Подробности предложения у консультантов отдела продаж</description>
+			<images>
+				<image>https://photo.toyotasever.ru/LMGJU3G85R1040114/9e43a795bfba0e0306147b9070d8539d.jpg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G85R1040114/82a4b978de12f81f569eaf009ff213b9.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G85R1040114/b811c84f86756904cc6a512ea6c4a210.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G85R1040114/825f7b306ee877f18dd1c1e2bb7dc7f7.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G85R1040114/af4e02867777502b684131c2f2acd500.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G85R1040114/debcf2d797003289e9e88a2e124da782.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G85R1040114/8662075176c474a6a69d1b01f73bee91.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G85R1040114/6c5b8d5af357920f55c0ad99f9bf4842.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G85R1040114/754a645c6eafd5fddb96818c78b53ae4.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G85R1040114/eb2875e07dc05c93160e4e0382daeea6.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G85R1040114/4910f70ef2a4633ca37421f298f99800.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G85R1040114/9974cb4cbca03d011c6e038b26f4b8b0.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G85R1040114/3c6b15f32e76bb62f36237a22faa6bbd.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G85R1040114/e460d8cfbdf5e659e614636aa6f38c58.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G85R1040114/dd26cf6d87ff773cc01217c573281b5b.jpeg</image>
+			</images>
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<max_discount>0</max_discount><priceWithDiscount>4749000</priceWithDiscount><sale_price>4749000</sale_price><url>https://auto-team.pro/cars/gac-gs8-ii-20-at-231-лс-4wd-gx-premium-черный-2024/</url></car>
 		<car>
 			<unique_id>d98d2def22862a42c9c0a718e80c965b</unique_id>
 			<mark_id>GAC</mark_id>
@@ -4995,37 +5070,43 @@ GS8  —  флагманский большой внедорожник для с
 			</multiposting>
 		<max_discount>0</max_discount><priceWithDiscount>4749000</priceWithDiscount><sale_price>4749000</sale_price><url>https://auto-team.pro/cars/gac-gs8-ii-20-at-231-лс-4wd-gx-premium-зеленый-2024/</url></car>
 		<car>
-			<unique_id>f5ea07e132c5650befd384053f1c88d7</unique_id>
+			<unique_id>c365370cce9390c7dd0da3370385dcf8</unique_id>
 			<mark_id>GAC</mark_id>
-			<folder_id>GS8, II</folder_id>
-			<modification_id>2.0 AT (231 л.с.) 4WD</modification_id>
-			<complectation_name>GX Premium</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
+			<folder_id>M8</folder_id>
+			<modification_id>2.0 AT (231 л.с.)</modification_id>
+			<complectation_name>GX</complectation_name>
+			<body_type>Минивэн</body_type>
 			<wheel>левый</wheel>
-			<color>Серый</color>
+			<color>Черный</color>
 			<metallic>нет</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
-			<run>7</run>
+			<run>12</run>
 			<year>2024</year>
-			<price>4749000</price>
+			<price>6299999</price>
 			<credit_discount>100000</credit_discount>
 			<insurance_discount>50000</insurance_discount>
 			<tradein_discount>300000</tradein_discount>
 			<optional_discount>0</optional_discount>
 			<currency>RUR</currency>
-			<vin>LMGJU3G85R1041120</vin>
-			<description>GS8  —  флагманский большой внедорожник для самых долгих путешествий 
+			<vin>LMGMU1G87R1236654</vin>
+			<description>Улучшим любое предложение на GAC М8! Не верите? Звоните!
 
-• Харизматичный экстерьер — хромированная решётка радиатора в симметричном v-образном дизайне, полностью светодиодные матричные фары «Взгляд победителя», кристальная текстура задних фар «Рубиновый бриллиант» делают его незабываемо привлекательным на дороге.
+Только до конца месяца для Вас:
 
-• Мощный двигатель 2.0T (231 л.с., 380 Н•м) с 8-ступенчатой автоматической коробкой передач — уверенность в городе и на трассах в любых условиях.
+☑️ 6 технических обслуживаний всего за 1 рубль при покупке М8*;
+☑️ 5 лет без сервисных забот*;
+☑️ 10 шинных отелей*.
 
-• Современные технологии — 12,3-дюймовая цифровая панель и передовые системы помощи водителю, включая адаптивный круиз-контроль, камеры 360° и систему удержания в полосе. 
+M8 — не просто премиум-минивэн, а автомобиль, оснащённый передовыми системами безопасности, которые обеспечат уверенность на дороге в любых условиях.
 
-• Объёмный багажник  — до 1 859 литров, где легко разместятся все необходимые вещи.
+Система автоматического управления L2 — адаптивный круиз-контроль, активное торможение и удержание в полосе обеспечат безопасное и комфортное вождение без лишних усилий.
 
-Преимущества покупки нового автомобиля GAC GS8 в GАС Центр Саратов:
+7 подушек безопасности, включая подушку безопасности заднего стекла и боковые шторки, созданы для всесторонней защиты пассажиров.
+
+Камеры кругового обзора и система помощи при парковке FAPA помогут вам легко маневрировать даже в самых тесных пространствах, а система предупреждения при открывании двери (DOW) снизит риск столкновений.
+
+Преимущества покупки нового автомобиля GAC M8 в GАС Центр Саратов:
 ☑️ Большой выбор автомобилей в наличии
 ☑️ Быстрая выдача автомобиля в день покупки
 ☑️ Гарантия на автомобиль 5 лет или 150 000 км (в зависимости от того, что наступит раньше)
@@ -5046,29 +5127,42 @@ GS8  —  флагманский большой внедорожник для с
 
 *Подробности предложения у консультантов отдела продаж</description>
 			<images>
-				<image>https://photo.toyotasever.ru/LMGJU3G85R1041120/8050f3fdffce4b6a7c727a4a3154d793.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGJU3G85R1041120/0c6b50f8feb7aeb040d3b1b492a1b8f4.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGJU3G85R1041120/ff6d150f8ee6c1ebf80d27520062362e.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGJU3G85R1041120/731bd5574f7e26173d485c7d70c92407.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGJU3G85R1041120/263e2652b102b39767599f35cfdaf789.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGJU3G85R1041120/79cb6b4c646a5dd368be582534d91e91.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGJU3G85R1041120/b9084b0093f0ed1a3feb8fe6878388f5.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGJU3G85R1041120/64f83eceda04f2d51ab8c09d2dbfd806.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGJU3G85R1041120/4acdb99b41266de0235363669adb49ea.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGJU3G85R1041120/19492b46269eb98ef7346b804fb3b6a8.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGJU3G85R1041120/596a8819b84317d4d018e75c45520c74.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGJU3G85R1041120/af9f56a12aa2b713071552d0760570ac.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGJU3G85R1041120/4fa92cc8b0611b81cd6a047ed8c167f8.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGJU3G85R1041120/5c345f3860fcee040bbc0906c53c89fa.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGJU3G85R1041120/d2da5d913f5ec2371f878711e4387cae.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGJU3G85R1041120/f8af5932f1c5ed04935763cfb6ff5cbe.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGJU3G85R1041120/2d46f6425662132fe61d9c6d900cdc53.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGJU3G85R1041120/8b391be212eca018223fb99e80e5f95d.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGMU1G87R1236654/e7a49c8d0884c15addcf0d045e24019d.jpg</image>
+				<image>https://photo.toyotasever.ru/LMGMU1G87R1236654/ad85f39a20f0331cfd9bb801702c707a.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGMU1G87R1236654/eb11c0c9c22976519c31fed2c1d0b039.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGMU1G87R1236654/8cd5ccb9f249621976c00450f6489590.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGMU1G87R1236654/36797f4a3fa2ff77a1b53eee1334ec49.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGMU1G87R1236654/db35a19bf74acd4bd1f02d230d5a5115.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGMU1G87R1236654/4812d0e07a31ce46298f1d23e3df930a.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGMU1G87R1236654/ffbc3323b8b77660557f814ac841346b.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGMU1G87R1236654/bf02492b1bb5c5f4ed221b8ddebe7faa.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGMU1G87R1236654/472cb486347cda9b66fbdab7da4cc5dc.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGMU1G87R1236654/82f62a41d0bffbf29a200c5cbdb1e9b6.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGMU1G87R1236654/26efed564f074c82f762d8bdec164de8.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGMU1G87R1236654/d4c9481865dff0480e3c94f8c5c032d1.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGMU1G87R1236654/3e39d2758428af0a4935ecd47ad8c90a.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGMU1G87R1236654/32d3b8c45485dc5cbe470824f9b2f676.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGMU1G87R1236654/cb262f57a3962cf4d726a9396c119de1.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGMU1G87R1236654/dd34d394f26a01e03cc1644dff139a9e.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGMU1G87R1236654/b2f70c22b458b26cb05b4d1d423a007a.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGMU1G87R1236654/30f7eda0b6d8f61aacc9f60d31408f8a.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGMU1G87R1236654/d22eb95712805df672cd22ec20de30a9.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGMU1G87R1236654/a177d8c6fb502a7f0f460b73afc1fe4f.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGMU1G87R1236654/53646f5d7af9d9ae5a3561dc380c5d89.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGMU1G87R1236654/4aec06e26a66e39e4b10988d0e9bb736.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGMU1G87R1236654/44b33561d3b297eda7face650958b55a.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGMU1G87R1236654/857466e574767efc40a81da77430712c.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGMU1G87R1236654/2ab9a5a7033750327dec25d1c1573493.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGMU1G87R1236654/922df43a8321d775a7e9913cbaab41a3.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGMU1G87R1236654/89374b523a9a3432a9bdbc32bdd4c069.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGMU1G87R1236654/2ff5f3d23b9b3878f0363acb8b9c293a.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGMU1G87R1236654/440f3bd17537b0ec4cc11abab9297d9b.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGMU1G87R1236654/db94712822a7e8b0590d50c90783f63b.jpeg</image>
 			</images>
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
-		<max_discount>0</max_discount><priceWithDiscount>4749000</priceWithDiscount><sale_price>4749000</sale_price><url>https://auto-team.pro/cars/gac-gs8-ii-20-at-231-лс-4wd-gx-premium-серый-2024/</url></car>
+		<max_discount>0</max_discount><priceWithDiscount>6299999</priceWithDiscount><sale_price>6299999</sale_price><url>https://auto-team.pro/cars/gac-m8-20-at-231-лс-gx-черный-2024/</url></car>
 		<car>
 			<unique_id>c68529c3ac1432af4825e55cb4e65401</unique_id>
 			<mark_id>GAC</mark_id>
@@ -5162,100 +5256,6 @@ M8 — не просто премиум-минивэн, а автомобиль,
 				<image>https://photo.toyotasever.ru/LMGMU1G81R1241753/4e8145deb36f51139cd707c9b1a6a749.jpeg</image>
 				<image>https://photo.toyotasever.ru/LMGMU1G81R1241753/0a351cd9b57f50700e6a34b35e57bd13.jpeg</image>
 				<image>https://photo.toyotasever.ru/LMGMU1G81R1241753/0b3c17696ff22b77597330ffb8cfba5d.jpeg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<max_discount>0</max_discount><priceWithDiscount>6299999</priceWithDiscount><sale_price>6299999</sale_price><url>https://auto-team.pro/cars/gac-m8-20-at-231-лс-gx-черный-2024/</url></car>
-		<car>
-			<unique_id>c365370cce9390c7dd0da3370385dcf8</unique_id>
-			<mark_id>GAC</mark_id>
-			<folder_id>M8</folder_id>
-			<modification_id>2.0 AT (231 л.с.)</modification_id>
-			<complectation_name>GX</complectation_name>
-			<body_type>Минивэн</body_type>
-			<wheel>левый</wheel>
-			<color>Черный</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>12</run>
-			<year>2024</year>
-			<price>6299999</price>
-			<credit_discount>100000</credit_discount>
-			<insurance_discount>50000</insurance_discount>
-			<tradein_discount>300000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<currency>RUR</currency>
-			<vin>LMGMU1G87R1236654</vin>
-			<description>Улучшим любое предложение на GAC М8! Не верите? Звоните!
-
-Только до конца месяца для Вас:
-
-☑️ 6 технических обслуживаний всего за 1 рубль при покупке М8*;
-☑️ 5 лет без сервисных забот*;
-☑️ 10 шинных отелей*.
-
-M8 — не просто премиум-минивэн, а автомобиль, оснащённый передовыми системами безопасности, которые обеспечат уверенность на дороге в любых условиях.
-
-Система автоматического управления L2 — адаптивный круиз-контроль, активное торможение и удержание в полосе обеспечат безопасное и комфортное вождение без лишних усилий.
-
-7 подушек безопасности, включая подушку безопасности заднего стекла и боковые шторки, созданы для всесторонней защиты пассажиров.
-
-Камеры кругового обзора и система помощи при парковке FAPA помогут вам легко маневрировать даже в самых тесных пространствах, а система предупреждения при открывании двери (DOW) снизит риск столкновений.
-
-Преимущества покупки нового автомобиля GAC M8 в GАС Центр Саратов:
-☑️ Большой выбор автомобилей в наличии
-☑️ Быстрая выдача автомобиля в день покупки
-☑️ Гарантия на автомобиль 5 лет или 150 000 км (в зависимости от того, что наступит раньше)
-☑️ НДС и уникальные условия покупки в лизинг
-☑️ Выгодные условия по обмену автомобиля
-☑️ Дополнительные бонусы при обмене автомобилей с пробегом премиальных брендов (Audi, BMW, Mercedes, Lexus, Porsche, Land Rover, Jaguar, Volvo, Infiniti)
-
-Программы по кредитованию и страхованию в GАС Центр Саратов:
-☑️ Дистанционная подача заявки на кредитование и страхование
-☑️ Возможность выбора выгодной программы кредитования из предложений разных банков
-☑️ Полное сопровождение сделки нашими специалистами
-
-⭐️Производитель: GAC Motor Corporation – один из крупнейших и уважаемых автопроизводителей Китая, сотрудничает с брендами мирового уровня, такими как Toyota, Honda и Mitsubishi.
-⭐️GАС Центр Саратов – это ваш индивидуальный подход к выбору идеального автомобиля.
-⭐️Выбирайте автомобиль, который соответствует вашему стилю жизни, в GАС Центр Саратов!
-
-Ждём вас в нашем дилерском центре: г. Саратов, ул. Усть-Курдюмская, д. 6.
-
-*Подробности предложения у консультантов отдела продаж</description>
-			<images>
-				<image>https://photo.toyotasever.ru/LMGMU1G87R1236654/e7a49c8d0884c15addcf0d045e24019d.jpg</image>
-				<image>https://photo.toyotasever.ru/LMGMU1G87R1236654/ad85f39a20f0331cfd9bb801702c707a.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGMU1G87R1236654/eb11c0c9c22976519c31fed2c1d0b039.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGMU1G87R1236654/8cd5ccb9f249621976c00450f6489590.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGMU1G87R1236654/36797f4a3fa2ff77a1b53eee1334ec49.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGMU1G87R1236654/db35a19bf74acd4bd1f02d230d5a5115.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGMU1G87R1236654/4812d0e07a31ce46298f1d23e3df930a.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGMU1G87R1236654/ffbc3323b8b77660557f814ac841346b.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGMU1G87R1236654/bf02492b1bb5c5f4ed221b8ddebe7faa.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGMU1G87R1236654/472cb486347cda9b66fbdab7da4cc5dc.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGMU1G87R1236654/82f62a41d0bffbf29a200c5cbdb1e9b6.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGMU1G87R1236654/26efed564f074c82f762d8bdec164de8.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGMU1G87R1236654/d4c9481865dff0480e3c94f8c5c032d1.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGMU1G87R1236654/3e39d2758428af0a4935ecd47ad8c90a.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGMU1G87R1236654/32d3b8c45485dc5cbe470824f9b2f676.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGMU1G87R1236654/cb262f57a3962cf4d726a9396c119de1.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGMU1G87R1236654/dd34d394f26a01e03cc1644dff139a9e.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGMU1G87R1236654/b2f70c22b458b26cb05b4d1d423a007a.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGMU1G87R1236654/30f7eda0b6d8f61aacc9f60d31408f8a.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGMU1G87R1236654/d22eb95712805df672cd22ec20de30a9.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGMU1G87R1236654/a177d8c6fb502a7f0f460b73afc1fe4f.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGMU1G87R1236654/53646f5d7af9d9ae5a3561dc380c5d89.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGMU1G87R1236654/4aec06e26a66e39e4b10988d0e9bb736.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGMU1G87R1236654/44b33561d3b297eda7face650958b55a.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGMU1G87R1236654/857466e574767efc40a81da77430712c.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGMU1G87R1236654/2ab9a5a7033750327dec25d1c1573493.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGMU1G87R1236654/922df43a8321d775a7e9913cbaab41a3.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGMU1G87R1236654/89374b523a9a3432a9bdbc32bdd4c069.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGMU1G87R1236654/2ff5f3d23b9b3878f0363acb8b9c293a.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGMU1G87R1236654/440f3bd17537b0ec4cc11abab9297d9b.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGMU1G87R1236654/db94712822a7e8b0590d50c90783f63b.jpeg</image>
 			</images>
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
