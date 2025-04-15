@@ -395,6 +395,8 @@
                 "Gray": "gray.webp",
                 "Серый": "gray.webp",
                 "Серый (magnetic grey)": "gray.webp",
+                "Blue": "blue.webp",
+                "Синий": "blue.webp",
                 "Red": "red.webp",
                 "Красный": "red.webp",
                 "Ярко-алый, красный (bright vermilion)": "red.webp",
@@ -453,6 +455,16 @@
                 "Графеновый серый": "grey-graphite.webp",
                 "Серебристый": "silver.webp",
                 "Серебряный": "silver.webp",
+                "Белый": "white.webp"
+            }
+        },
+        "GS4": {
+            "folder": "gs4",
+            "cyrillic": "ГС4",
+            "color": {
+                "Черный": "black.webp",
+                "Серый": "gray.webp",
+                "Серебристый": "silver.webp",
                 "Белый": "white.webp"
             }
         },
@@ -1285,6 +1297,18 @@
                 "Черный": "galactic-black.webp",
                 "Чёрный": "galactic-black.webp",
                 "Серый": "ashy-anthracite.webp",
+                "Белый": "noble-agate.webp",
+                "Оранжевый": "terracotta-sapphire.webp"
+            }
+        },
+        "H7, I": {
+            "folder": "h7",
+            "cyrillic": "H7",
+            "color": {
+                "Черный": "galactic-black.webp",
+                "Чёрный": "galactic-black.webp",
+                "Серый": "smoky-pearls.webp",
+                "Дымчатый жемчуг": "smoky-pearls.webp",
                 "Белый": "noble-agate.webp",
                 "Оранжевый": "terracotta-sapphire.webp"
             }
