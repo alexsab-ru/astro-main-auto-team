@@ -2488,97 +2488,6 @@ He упуcтитe cвой шанс!
 			</multiposting>
 		<max_discount>200000</max_discount><priceWithDiscount>2799000</priceWithDiscount><sale_price>2799000</sale_price><url>https://auto-team.pro/cars/gac-empow-15-amt-170-лс-gl-s-style-черный-2024/</url></car>
 		<car>
-			<unique_id>d184e00a25e3419a2d99925c5b93721f</unique_id>
-			<mark_id>GAC</mark_id>
-			<folder_id>GS3</folder_id>
-			<modification_id>1.5 AMT (170 л.с.)</modification_id>
-			<complectation_name>GB</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Синий</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>7</run>
-			<year>2024</year>
-			<price>2599000</price>
-			<credit_discount>230000</credit_discount>
-			<insurance_discount>50000</insurance_discount>
-			<tradein_discount>200000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<currency>RUR</currency>
-			<vin>LMGHT1L53R3089561</vin>
-			<description>Улучшим любое предложение на GAC GS3! Не верите? Звоните!
-
-Только до конца месяца для Вас:
-
-☑️ 6 технических обслуживаний всего за 1 рубль при покупке GS3*;
-☑️ 5 лет без сервисных забот*;
-☑️ 10 шинных отелей*.
-
-Мощь и надёжность под капотом GS3  
-
-• Двигатель 1.5TGDI — 170 л.с., 250 Н·м.
-• Расход топлива — всего 5,9 л/100 км.
-• Автоматическая коробка передач WDCT — плавное и быстрое переключение.
-
-Комфорт и пространство
-
-• Объём багажника до 1271 литра — место найдётся для всего.
-• Электронное управление багажником — удобство в каждой детали.
-
-Безопасность на уровне
-
-• 10 электронных ассистентов для вашей уверенности за рулём.
-• Камеры кругового обзора 360° исключают слепые зоны.
-Высокопрочная конструкция кузова для максимальной защиты.
-
-Преимущества покупки нового автомобиля GAC GS3 в GАС Центр Саратов:
-☑️ Большой выбор автомобилей в наличии
-☑️ Быстрая выдача автомобиля в день покупки
-☑️ Гарантия на автомобиль 5 лет или 150 000 км (в зависимости от того, что наступит раньше)
-☑️ НДС и уникальные условия покупки в лизинг
-☑️ Выгодные условия по обмену автомобиля
-☑️ Дополнительные бонусы при обмене автомобилей с пробегом премиальных брендов (Audi, BMW, Mercedes, Lexus, Porsche, Land Rover, Jaguar, Volvo, Infiniti)
-
-Программы по кредитованию и страхованию в GАС Центр Саратов:
-☑️ Дистанционная подача заявки на кредитование и страхование
-☑️ Возможность выбора выгодной программы кредитования из предложений разных банков
-☑️ Полное сопровождение сделки нашими специалистами
-
-⭐️Производитель: GAC Motor Corporation – один из крупнейших и уважаемых автопроизводителей Китая, сотрудничает с брендами мирового уровня, такими как Toyota, Honda и Mitsubishi.
-⭐️GАС Центр Саратов – это ваш индивидуальный подход к выбору идеального автомобиля.
-⭐️Выбирайте автомобиль, который соответствует вашему стилю жизни, в GАС Центр Саратов!
-
-Ждём вас в нашем дилерском центре: г. Саратов, ул. Усть-Курдюмская, д. 6.
-
-*Подробности предложения у консультантов отдела продаж</description>
-			<images>
-				<image>https://photo.toyotasever.ru/LMGHT1L53R3089561/2ecb84406abd31b12ccd75f944bf9146.jpg</image>
-				<image>https://photo.toyotasever.ru/LMGHT1L53R3089561/083144f933b5bc35181bf07551265af0.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGHT1L53R3089561/5a8314fa365c0ef05334511bfeb9d785.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGHT1L53R3089561/eebbde6409383b47b891401d98b01474.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGHT1L53R3089561/6f2ff1a0aaf73802fcd63357da1e3d6c.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGHT1L53R3089561/1aabd7d3440d1f5ebabc1aabbf923374.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGHT1L53R3089561/d0a35c8bddf902c8ad6ee89060b51916.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGHT1L53R3089561/aa1f09e738069164ac2e3e027acc9f1e.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGHT1L53R3089561/333d7d97c20c5baf18f5c89b864e50d1.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGHT1L53R3089561/e96673e2970649cd639360a0bd6e9138.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGHT1L53R3089561/11b945f78c1f0b00a857e63d164b00c5.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGHT1L53R3089561/440ac4478a3e6b01121a9f815da66476.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGHT1L53R3089561/f5286b36af55041a00623c162ad460f2.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGHT1L53R3089561/a80c4e8ccf23e7e09525ef14fcca32db.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGHT1L53R3089561/86255b2bf68038dd9987bac83ca74188.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGHT1L53R3089561/8a5627bfbcc8affe2386ed95667b3e07.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGHT1L53R3089561/f1f099a4447b1c8bcede04674b86ee3d.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGHT1L53R3089561/a8808ec64bdcc5eb1cf0ea48f8551e5e.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGHT1L53R3089561/ac4dd2345a498c56f80764a08a037c75.jpeg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<max_discount>480000</max_discount><priceWithDiscount>2119000</priceWithDiscount><sale_price>2119000</sale_price><url>https://auto-team.pro/cars/gac-gs3-15-amt-170-лс-gb-синий-2024/</url></car>
-		<car>
 			<unique_id>543addccd8f156dec40d75c004fe345d</unique_id>
 			<mark_id>GAC</mark_id>
 			<folder_id>GS3</folder_id>
@@ -2670,6 +2579,97 @@ He упуcтитe cвой шанс!
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
 		<max_discount>480000</max_discount><priceWithDiscount>2119000</priceWithDiscount><sale_price>2119000</sale_price><url>https://auto-team.pro/cars/gac-gs3-15-amt-170-лс-gb-серебряный-2024/</url></car>
+		<car>
+			<unique_id>d184e00a25e3419a2d99925c5b93721f</unique_id>
+			<mark_id>GAC</mark_id>
+			<folder_id>GS3</folder_id>
+			<modification_id>1.5 AMT (170 л.с.)</modification_id>
+			<complectation_name>GB</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>Синий</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>7</run>
+			<year>2024</year>
+			<price>2599000</price>
+			<credit_discount>230000</credit_discount>
+			<insurance_discount>50000</insurance_discount>
+			<tradein_discount>200000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<currency>RUR</currency>
+			<vin>LMGHT1L53R3089561</vin>
+			<description>Улучшим любое предложение на GAC GS3! Не верите? Звоните!
+
+Только до конца месяца для Вас:
+
+☑️ 6 технических обслуживаний всего за 1 рубль при покупке GS3*;
+☑️ 5 лет без сервисных забот*;
+☑️ 10 шинных отелей*.
+
+Мощь и надёжность под капотом GS3  
+
+• Двигатель 1.5TGDI — 170 л.с., 250 Н·м.
+• Расход топлива — всего 5,9 л/100 км.
+• Автоматическая коробка передач WDCT — плавное и быстрое переключение.
+
+Комфорт и пространство
+
+• Объём багажника до 1271 литра — место найдётся для всего.
+• Электронное управление багажником — удобство в каждой детали.
+
+Безопасность на уровне
+
+• 10 электронных ассистентов для вашей уверенности за рулём.
+• Камеры кругового обзора 360° исключают слепые зоны.
+Высокопрочная конструкция кузова для максимальной защиты.
+
+Преимущества покупки нового автомобиля GAC GS3 в GАС Центр Саратов:
+☑️ Большой выбор автомобилей в наличии
+☑️ Быстрая выдача автомобиля в день покупки
+☑️ Гарантия на автомобиль 5 лет или 150 000 км (в зависимости от того, что наступит раньше)
+☑️ НДС и уникальные условия покупки в лизинг
+☑️ Выгодные условия по обмену автомобиля
+☑️ Дополнительные бонусы при обмене автомобилей с пробегом премиальных брендов (Audi, BMW, Mercedes, Lexus, Porsche, Land Rover, Jaguar, Volvo, Infiniti)
+
+Программы по кредитованию и страхованию в GАС Центр Саратов:
+☑️ Дистанционная подача заявки на кредитование и страхование
+☑️ Возможность выбора выгодной программы кредитования из предложений разных банков
+☑️ Полное сопровождение сделки нашими специалистами
+
+⭐️Производитель: GAC Motor Corporation – один из крупнейших и уважаемых автопроизводителей Китая, сотрудничает с брендами мирового уровня, такими как Toyota, Honda и Mitsubishi.
+⭐️GАС Центр Саратов – это ваш индивидуальный подход к выбору идеального автомобиля.
+⭐️Выбирайте автомобиль, который соответствует вашему стилю жизни, в GАС Центр Саратов!
+
+Ждём вас в нашем дилерском центре: г. Саратов, ул. Усть-Курдюмская, д. 6.
+
+*Подробности предложения у консультантов отдела продаж</description>
+			<images>
+				<image>https://photo.toyotasever.ru/LMGHT1L53R3089561/2ecb84406abd31b12ccd75f944bf9146.jpg</image>
+				<image>https://photo.toyotasever.ru/LMGHT1L53R3089561/083144f933b5bc35181bf07551265af0.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGHT1L53R3089561/5a8314fa365c0ef05334511bfeb9d785.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGHT1L53R3089561/eebbde6409383b47b891401d98b01474.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGHT1L53R3089561/6f2ff1a0aaf73802fcd63357da1e3d6c.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGHT1L53R3089561/1aabd7d3440d1f5ebabc1aabbf923374.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGHT1L53R3089561/d0a35c8bddf902c8ad6ee89060b51916.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGHT1L53R3089561/aa1f09e738069164ac2e3e027acc9f1e.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGHT1L53R3089561/333d7d97c20c5baf18f5c89b864e50d1.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGHT1L53R3089561/e96673e2970649cd639360a0bd6e9138.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGHT1L53R3089561/11b945f78c1f0b00a857e63d164b00c5.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGHT1L53R3089561/440ac4478a3e6b01121a9f815da66476.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGHT1L53R3089561/f5286b36af55041a00623c162ad460f2.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGHT1L53R3089561/a80c4e8ccf23e7e09525ef14fcca32db.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGHT1L53R3089561/86255b2bf68038dd9987bac83ca74188.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGHT1L53R3089561/8a5627bfbcc8affe2386ed95667b3e07.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGHT1L53R3089561/f1f099a4447b1c8bcede04674b86ee3d.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGHT1L53R3089561/a8808ec64bdcc5eb1cf0ea48f8551e5e.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGHT1L53R3089561/ac4dd2345a498c56f80764a08a037c75.jpeg</image>
+			</images>
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<max_discount>480000</max_discount><priceWithDiscount>2119000</priceWithDiscount><sale_price>2119000</sale_price><url>https://auto-team.pro/cars/gac-gs3-15-amt-170-лс-gb-синий-2024/</url></car>
 		<car>
 			<unique_id>4ed2fd82e21a62926c70ddc74a5a8b42</unique_id>
 			<mark_id>GAC</mark_id>
