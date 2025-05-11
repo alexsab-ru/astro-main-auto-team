@@ -730,7 +730,7 @@ He упуcтитe cвой шанс!
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>120000</tradein_discount>
 			<currency>RUR</currency>
-			<vin>LS5A3DKR0SA973209</vin>
+			<vin>LS5A3DKR1RA032748</vin>
 			<description>Добро пожаловать в наш новый дилерский центр Чанган Центр Энгельс! 
 
 Mы гoтовы cдeлать Baм лучшee пpeдлoжение на пoкупку нoвoго автомoбиля Чангaн CS35PLUS NEW.
@@ -770,7 +770,7 @@ He упуcтитe cвой шанс!
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>120000</tradein_discount>
 			<currency>RUR</currency>
-			<vin>LS5A3DKR1RA032748</vin>
+			<vin>LS5A3DKR0SA973209</vin>
 			<description>Добро пожаловать в наш новый дилерский центр Чанган Центр Энгельс! 
 
 Mы гoтовы cдeлать Baм лучшee пpeдлoжение на пoкупку нoвoго автомoбиля Чангaн CS35PLUS NEW.
@@ -1895,46 +1895,6 @@ He упуcтитe cвой шанс!
 		<max_discount>330000</max_discount><priceWithDiscount>2629900</priceWithDiscount><sale_price>2629900</sale_price><url>https://auto-team.pro/cars/changan-cs55plus-i-рестайлинг-15-amt-181-лс-tech-серый-2024/</url></car>
 		<car>
 			<mark_id>Changan</mark_id>
-			<folder_id>CS55PLUS, I Рестайлинг</folder_id>
-			<modification_id>1.5 AMT (181 л.с.)</modification_id>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<complectation_name>Tech</complectation_name>
-			<wheel>левый</wheel>
-			<color>Черный</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<owners_number>Не было владельцев</owners_number>
-			<year>2024</year>
-			<price>2959900</price>
-			<credit_discount>100000</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>80000</tradein_discount>
-			<currency>RUR</currency>
-			<vin>LS4ASE2E5SA954651</vin>
-			<description>Добро пожаловать в наш новый дилерский центр Чанган Центр Энгельс! 
-
-Mы гoтовы cдeлать Baм лучшee пpeдлoжение на пoкупку нoвoго автомoбиля Чангaн UNI -S.
-
-He упуcтитe cвой шанс!
-
-Дaже если у Вас есть пpeдлoжениe, кoторое кaжется oптимaльным, позвоните нaм, и мы егo улучшим!!! 
-
-Нeт ничегo нeвoзмoжнoго вмecтe с СНАNGАN в Чанган Центр Энгельс!
-
-Мы приглашаем Вас пройти тест-драйв и оценить все преимущества автомобилей Changan. Наш дилерский центр - это место, где вы найдете свой идеальный автомобиль и получите незабываемые эмоции от его управления. 
-
-Мы ждем Вас!
-
-Встречайте Changan UNI -S — самый доступный и стильный кроссовер на российском рынке! Changan UNI -S — ваш надёжный спутник в мире автомобилей. Этот кроссовер создан для тех, кто ценит качество, комфорт и доступность. 
-Не упустите возможность стать обладателем Changan UNI -S и наслаждаться комфортом, стилем и надёжностью на дорогах!</description>
-			<images />
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<max_discount>330000</max_discount><priceWithDiscount>2629900</priceWithDiscount><sale_price>2629900</sale_price><url>https://auto-team.pro/cars/changan-cs55plus-i-рестайлинг-15-amt-181-лс-tech-черный-2024/</url></car>
-		<car>
-			<mark_id>Changan</mark_id>
 			<folder_id>UNI-T, I Рестайлинг</folder_id>
 			<modification_id>1.5 AMT (188 л.с.)</modification_id>
 			<body_type>Внедорожник 5 дв.</body_type>
@@ -2751,95 +2711,6 @@ He упуcтитe cвой шанс!
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
 		<max_discount>480000</max_discount><priceWithDiscount>2319000</priceWithDiscount><sale_price>2319000</sale_price><url>https://auto-team.pro/cars/gac-gs3-15-amt-170-лс-gl-серый-2024/</url></car>
-		<car>
-			<unique_id>70059045f6ac9df0bb2cc4a4d5980962</unique_id>
-			<mark_id>GAC</mark_id>
-			<folder_id>GS3</folder_id>
-			<modification_id>1.5 AMT (170 л.с.)</modification_id>
-			<complectation_name>GL</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Синий</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>8</run>
-			<year>2024</year>
-			<price>2799000</price>
-			<credit_discount>230000</credit_discount>
-			<insurance_discount>50000</insurance_discount>
-			<tradein_discount>200000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<currency>RUR</currency>
-			<vin>LMGHT1L88R3079053</vin>
-			<description>Улучшим любое предложение на GAC GS3! Не верите? Звоните!
-
-Только до конца месяца для Вас:
-
-☑️ 6 технических обслуживаний всего за 1 рубль при покупке GS3*;
-☑️ 5 лет без сервисных забот*;
-☑️ 10 шинных отелей*.
-
-Мощь и надёжность под капотом GS3  
-
-• Двигатель 1.5TGDI — 170 л.с., 250 Н·м.
-• Расход топлива — всего 5,9 л/100 км.
-• Автоматическая коробка передач WDCT — плавное и быстрое переключение.
-
-Комфорт и пространство
-
-• Объём багажника до 1271 литра — место найдётся для всего.
-• Электронное управление багажником — удобство в каждой детали.
-
-Безопасность на уровне
-
-• 10 электронных ассистентов для вашей уверенности за рулём.
-• Камеры кругового обзора 360° исключают слепые зоны.
-Высокопрочная конструкция кузова для максимальной защиты.
-
-Преимущества покупки нового автомобиля GAC GS3 в GАС Центр Саратов:
-☑️ Большой выбор автомобилей в наличии
-☑️ Быстрая выдача автомобиля в день покупки
-☑️ Гарантия на автомобиль 5 лет или 150 000 км (в зависимости от того, что наступит раньше)
-☑️ НДС и уникальные условия покупки в лизинг
-☑️ Выгодные условия по обмену автомобиля
-☑️ Дополнительные бонусы при обмене автомобилей с пробегом премиальных брендов (Audi, BMW, Mercedes, Lexus, Porsche, Land Rover, Jaguar, Volvo, Infiniti)
-
-Программы по кредитованию и страхованию в GАС Центр Саратов:
-☑️ Дистанционная подача заявки на кредитование и страхование
-☑️ Возможность выбора выгодной программы кредитования из предложений разных банков
-☑️ Полное сопровождение сделки нашими специалистами
-
-⭐️Производитель: GAC Motor Corporation – один из крупнейших и уважаемых автопроизводителей Китая, сотрудничает с брендами мирового уровня, такими как Toyota, Honda и Mitsubishi.
-⭐️GАС Центр Саратов – это ваш индивидуальный подход к выбору идеального автомобиля.
-⭐️Выбирайте автомобиль, который соответствует вашему стилю жизни, в GАС Центр Саратов!
-
-Ждём вас в нашем дилерском центре: г. Саратов, ул. Усть-Курдюмская, д. 6.
-
-*Подробности предложения у консультантов отдела продаж</description>
-			<images>
-				<image>https://photo.toyotasever.ru/LMGHT1L88R3079053/33e4a0a69dd743c9ff7cc0b249bddeff.jpg</image>
-				<image>https://photo.toyotasever.ru/LMGHT1L88R3079053/15a13b8c9fe4d61f84b78b0e1ceebccf.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGHT1L88R3079053/8596101f5e6a47d99916117e1b424fc6.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGHT1L88R3079053/e855f4d55647e9b82a8f09a8d520fe1c.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGHT1L88R3079053/838c464d5b50d4f077fc40ecad2f2674.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGHT1L88R3079053/d3bd944e7e8c766aeba911f55fc7b197.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGHT1L88R3079053/dea9fdc2685472d3fe9935049a25d0fb.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGHT1L88R3079053/9729be00e125496dbb36342b3a3f323a.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGHT1L88R3079053/7bb8091e65e244de27cf3b30a2b91430.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGHT1L88R3079053/b9594b067c80b9d906469985425aa817.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGHT1L88R3079053/f39868cab37ff29d84440ade3ca4780f.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGHT1L88R3079053/6f9a97cd5112f8307c921d4d1935d0c2.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGHT1L88R3079053/acff0b1c71bd8c36865767184214fb8b.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGHT1L88R3079053/10448fd26954d097ea4327b1fee4c120.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGHT1L88R3079053/0010306b235c851af038205774bdc185.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGHT1L88R3079053/7f0ff84005771be37c0f1527b07382fe.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGHT1L88R3079053/12e37528e77d83cfab638377d66dc6f1.jpeg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<max_discount>480000</max_discount><priceWithDiscount>2319000</priceWithDiscount><sale_price>2319000</sale_price><url>https://auto-team.pro/cars/gac-gs3-15-amt-170-лс-gl-синий-2024/</url></car>
 		<car>
 			<unique_id>df58e06062bb67cc88cc6d920c05cf80</unique_id>
 			<mark_id>GAC</mark_id>
@@ -3869,6 +3740,85 @@ GS8  —  флагманский большой внедорожник для с
 			</multiposting>
 		<max_discount>600000</max_discount><priceWithDiscount>4249000</priceWithDiscount><sale_price>4249000</sale_price><url>https://auto-team.pro/cars/gac-gs8-ii-20-at-231-лс-4wd-gx-premium-зеленый-2024/</url></car>
 		<car>
+			<unique_id>2f282b469d7c65d533921cbb750f6d82</unique_id>
+			<mark_id>GAC</mark_id>
+			<folder_id>GS8, II</folder_id>
+			<modification_id>2.0 AT (231 л.с.) 4WD</modification_id>
+			<complectation_name>GX Premium</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>Зеленый</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>8</run>
+			<year>2024</year>
+			<price>4849000</price>
+			<credit_discount>250000</credit_discount>
+			<insurance_discount>50000</insurance_discount>
+			<tradein_discount>300000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<currency>RUR</currency>
+			<vin>LMGJU3G86R1041272</vin>
+			<description>GS8  —  флагманский большой внедорожник для самых долгих путешествий 
+
+• Харизматичный экстерьер — хромированная решётка радиатора в симметричном v-образном дизайне, полностью светодиодные матричные фары «Взгляд победителя», кристальная текстура задних фар «Рубиновый бриллиант» делают его незабываемо привлекательным на дороге.
+
+• Мощный двигатель 2.0T (231 л.с., 380 Н•м) с 8-ступенчатой автоматической коробкой передач — уверенность в городе и на трассах в любых условиях.
+
+• Современные технологии — 12,3-дюймовая цифровая панель и передовые системы помощи водителю, включая адаптивный круиз-контроль, камеры 360° и систему удержания в полосе. 
+
+• Объёмный багажник  — до 1 859 литров, где легко разместятся все необходимые вещи.
+
+Преимущества покупки нового автомобиля GAC GS8 в GАС Центр Саратов:
+☑️ Большой выбор автомобилей в наличии
+☑️ Быстрая выдача автомобиля в день покупки
+☑️ Гарантия на автомобиль 5 лет или 150 000 км (в зависимости от того, что наступит раньше)
+☑️ НДС и уникальные условия покупки в лизинг
+☑️ Выгодные условия по обмену автомобиля
+☑️ Дополнительные бонусы при обмене автомобилей с пробегом премиальных брендов (Audi, BMW, Mercedes, Lexus, Porsche, Land Rover, Jaguar, Volvo, Infiniti)
+
+Программы по кредитованию и страхованию в GАС Центр Саратов:
+☑️ Дистанционная подача заявки на кредитование и страхование
+☑️ Возможность выбора выгодной программы кредитования из предложений разных банков
+☑️ Полное сопровождение сделки нашими специалистами
+
+⭐️Производитель: GAC Motor Corporation – один из крупнейших и уважаемых автопроизводителей Китая, сотрудничает с брендами мирового уровня, такими как Toyota, Honda и Mitsubishi.
+⭐️GАС Центр Саратов – это ваш индивидуальный подход к выбору идеального автомобиля.
+⭐️Выбирайте автомобиль, который соответствует вашему стилю жизни, в GАС Центр Саратов!
+
+Ждём вас в нашем дилерском центре: г. Саратов, ул. Усть-Курдюмская, д. 6.
+
+*Подробности предложения у консультантов отдела продаж</description>
+			<images>
+				<image>https://photo.toyotasever.ru/LMGJU3G86R1041272/11457904aa704c42983f00da61773f5d.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G86R1041272/9fca58ae6e39264dab94b7ead21fba07.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G86R1041272/801237ce2b8e2e6d9fc922be1eb170ec.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G86R1041272/05fd46ed93f000e1658a337976abe08d.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G86R1041272/74e2052ef68d0830ef9ea9414f64dc4d.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G86R1041272/f0408fd2e25567dd79065b8337e2dde6.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G86R1041272/6061ee5608fb5ce99d0bdb9241303c4a.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G86R1041272/92cc51c2e92999c5f912afe220eabcff.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G86R1041272/8d58a88920f0489144edba43b23604c7.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G86R1041272/3985b67151a6cd015c36a5df399b5072.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G86R1041272/f908430dc7b88e8ffc4e7d1fb8a05ef0.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G86R1041272/4f6bb6ae8ccf2ce929f3bc312885d59c.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G86R1041272/e67fdf1dc53c5ad58bbc5266fee3a623.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G86R1041272/c023427b7c3a7e3623316e1885c4c6ca.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G86R1041272/009ff64168d943819d715040f3a335c3.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G86R1041272/5f43dd4adadf59f7b52d5f5181f7adf8.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G86R1041272/af5fda08ac5d244dd1b7aefb3775529e.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G86R1041272/361e9787f7c540ec9e1141e6cc1ec524.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G86R1041272/6de6777a3e224be0d9f99393b93b7dbb.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G86R1041272/d8d1124c3f5ace23e33bf26311a4244b.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G86R1041272/d991f21f878ce781ed6315c27d53f65a.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G86R1041272/44c1038c97c24bfa4482e34cd29b98cc.jpeg</image>
+			</images>
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<max_discount>600000</max_discount><priceWithDiscount>4249000</priceWithDiscount><sale_price>4249000</sale_price><url>https://auto-team.pro/cars/gac-gs8-ii-20-at-231-лс-4wd-gx-premium-зеленый-2024/</url></car>
+		<car>
 			<unique_id>4994f52eb3d609dae8930fe23e2a24d6</unique_id>
 			<mark_id>GAC</mark_id>
 			<folder_id>GS8, II</folder_id>
@@ -3949,85 +3899,6 @@ GS8  —  флагманский большой внедорожник для с
 				<image>https://photo.toyotasever.ru/LMGJU3G85R1041229/904adc3697d79bebcd7d3e92f8789f7d.jpeg</image>
 				<image>https://photo.toyotasever.ru/LMGJU3G85R1041229/a898bb06937c2358261d7ade65e4a933.jpeg</image>
 				<image>https://photo.toyotasever.ru/LMGJU3G85R1041229/f8f83d53d94b378d348bc9a37ecb4e99.jpeg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<max_discount>600000</max_discount><priceWithDiscount>4249000</priceWithDiscount><sale_price>4249000</sale_price><url>https://auto-team.pro/cars/gac-gs8-ii-20-at-231-лс-4wd-gx-premium-зеленый-2024/</url></car>
-		<car>
-			<unique_id>2f282b469d7c65d533921cbb750f6d82</unique_id>
-			<mark_id>GAC</mark_id>
-			<folder_id>GS8, II</folder_id>
-			<modification_id>2.0 AT (231 л.с.) 4WD</modification_id>
-			<complectation_name>GX Premium</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Зеленый</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>8</run>
-			<year>2024</year>
-			<price>4849000</price>
-			<credit_discount>250000</credit_discount>
-			<insurance_discount>50000</insurance_discount>
-			<tradein_discount>300000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<currency>RUR</currency>
-			<vin>LMGJU3G86R1041272</vin>
-			<description>GS8  —  флагманский большой внедорожник для самых долгих путешествий 
-
-• Харизматичный экстерьер — хромированная решётка радиатора в симметричном v-образном дизайне, полностью светодиодные матричные фары «Взгляд победителя», кристальная текстура задних фар «Рубиновый бриллиант» делают его незабываемо привлекательным на дороге.
-
-• Мощный двигатель 2.0T (231 л.с., 380 Н•м) с 8-ступенчатой автоматической коробкой передач — уверенность в городе и на трассах в любых условиях.
-
-• Современные технологии — 12,3-дюймовая цифровая панель и передовые системы помощи водителю, включая адаптивный круиз-контроль, камеры 360° и систему удержания в полосе. 
-
-• Объёмный багажник  — до 1 859 литров, где легко разместятся все необходимые вещи.
-
-Преимущества покупки нового автомобиля GAC GS8 в GАС Центр Саратов:
-☑️ Большой выбор автомобилей в наличии
-☑️ Быстрая выдача автомобиля в день покупки
-☑️ Гарантия на автомобиль 5 лет или 150 000 км (в зависимости от того, что наступит раньше)
-☑️ НДС и уникальные условия покупки в лизинг
-☑️ Выгодные условия по обмену автомобиля
-☑️ Дополнительные бонусы при обмене автомобилей с пробегом премиальных брендов (Audi, BMW, Mercedes, Lexus, Porsche, Land Rover, Jaguar, Volvo, Infiniti)
-
-Программы по кредитованию и страхованию в GАС Центр Саратов:
-☑️ Дистанционная подача заявки на кредитование и страхование
-☑️ Возможность выбора выгодной программы кредитования из предложений разных банков
-☑️ Полное сопровождение сделки нашими специалистами
-
-⭐️Производитель: GAC Motor Corporation – один из крупнейших и уважаемых автопроизводителей Китая, сотрудничает с брендами мирового уровня, такими как Toyota, Honda и Mitsubishi.
-⭐️GАС Центр Саратов – это ваш индивидуальный подход к выбору идеального автомобиля.
-⭐️Выбирайте автомобиль, который соответствует вашему стилю жизни, в GАС Центр Саратов!
-
-Ждём вас в нашем дилерском центре: г. Саратов, ул. Усть-Курдюмская, д. 6.
-
-*Подробности предложения у консультантов отдела продаж</description>
-			<images>
-				<image>https://photo.toyotasever.ru/LMGJU3G86R1041272/11457904aa704c42983f00da61773f5d.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGJU3G86R1041272/9fca58ae6e39264dab94b7ead21fba07.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGJU3G86R1041272/801237ce2b8e2e6d9fc922be1eb170ec.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGJU3G86R1041272/05fd46ed93f000e1658a337976abe08d.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGJU3G86R1041272/74e2052ef68d0830ef9ea9414f64dc4d.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGJU3G86R1041272/f0408fd2e25567dd79065b8337e2dde6.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGJU3G86R1041272/6061ee5608fb5ce99d0bdb9241303c4a.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGJU3G86R1041272/92cc51c2e92999c5f912afe220eabcff.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGJU3G86R1041272/8d58a88920f0489144edba43b23604c7.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGJU3G86R1041272/3985b67151a6cd015c36a5df399b5072.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGJU3G86R1041272/f908430dc7b88e8ffc4e7d1fb8a05ef0.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGJU3G86R1041272/4f6bb6ae8ccf2ce929f3bc312885d59c.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGJU3G86R1041272/e67fdf1dc53c5ad58bbc5266fee3a623.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGJU3G86R1041272/c023427b7c3a7e3623316e1885c4c6ca.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGJU3G86R1041272/009ff64168d943819d715040f3a335c3.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGJU3G86R1041272/5f43dd4adadf59f7b52d5f5181f7adf8.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGJU3G86R1041272/af5fda08ac5d244dd1b7aefb3775529e.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGJU3G86R1041272/361e9787f7c540ec9e1141e6cc1ec524.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGJU3G86R1041272/6de6777a3e224be0d9f99393b93b7dbb.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGJU3G86R1041272/d8d1124c3f5ace23e33bf26311a4244b.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGJU3G86R1041272/d991f21f878ce781ed6315c27d53f65a.jpeg</image>
-				<image>https://photo.toyotasever.ru/LMGJU3G86R1041272/44c1038c97c24bfa4482e34cd29b98cc.jpeg</image>
 			</images>
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
@@ -4414,7 +4285,7 @@ M8 — не просто премиум-минивэн, а автомобиль,
 			<metallic>нет</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
-			<run>6</run>
+			<run>7</run>
 			<year>2024</year>
 			<price>2690190</price>
 			<credit_discount>389097</credit_discount>
@@ -4465,7 +4336,7 @@ M8 — не просто премиум-минивэн, а автомобиль,
 			<metallic>нет</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
-			<run>6</run>
+			<run>7</run>
 			<year>2024</year>
 			<price>2690190</price>
 			<credit_discount>389097</credit_discount>
@@ -4763,7 +4634,7 @@ M8 — не просто премиум-минивэн, а автомобиль,
 			<metallic>нет</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
-			<run>7</run>
+			<run>9</run>
 			<year>2025</year>
 			<price>2590190</price>
 			<credit_discount>521877</credit_discount>
@@ -4893,57 +4764,6 @@ M8 — не просто премиум-минивэн, а автомобиль,
 			</multiposting>
 		<max_discount>771877</max_discount><priceWithDiscount>1818313</priceWithDiscount><sale_price>1818313</sale_price><url>https://auto-team.pro/cars/belgee-x50-15-amt-150-лс-style-синий-2025/</url></car>
 		<car>
-			<unique_id>2e9e24a9654b985133ee3991830a9a93</unique_id>
-			<mark_id>BELGEE</mark_id>
-			<folder_id>X50</folder_id>
-			<modification_id>1.5 AMT (150 л.с.)</modification_id>
-			<complectation_name>Style</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Черный</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>7</run>
-			<year>2025</year>
-			<price>2590190</price>
-			<credit_discount>521877</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>250000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<currency>RUR</currency>
-			<vin>Y4K8622Z1SB906418</vin>
-			<description>⭐Открытие бренда Belgee в Партнер Авто Саратов!
-
-Рассрочка 0,01% на покупку Belgee теперь доступна в Партнер Авто Саратов!
-Склад более 300 новых авто. Предложение действует только в марте. He упустите!
-
-В нашем дилерском центре стартовали грандиозные акции в честь открытия нового бренда Belgee!
-
- Скидки дo 10% нa весь модельный ряд Belgee!
- Подарок при покупке: бесплатное дополнительное оборудование или сервисное обслуживание на первый год.
- Кредитные программы от партнёров банка: выгодные условия финансирования для вашего комфорта.
-
-Не упустите шанс стать владельцем современного автомобиля Belgee на самых привлекательных условиях.
-Спешите, количество предложений ограничено!
-
-Подробности акций уточняйте у наших менеджеров 
-
-*Рассрочка 0,01% - процентная ставка по программе кредитования «Dirесt Уникальный» для владельцев «Карта Халва» (далее – программа) по специальному продукту для новых автомобилей марки Belgee. Параметры программы: срок кредита – 12, 24, 36 мес.; сумма кредита - от 300 000 до 9 000 000 руб.; полная стоимость кредита на момент оформления Договора – 6,01% годовых, процентная ставка – 0,01% годовых, первоначальный взнос – от 40% от цены приобретаемого автомобиля. Процентные ставки по кредиту, установленные программой, действуют при совершении в каждом полном отчетном периоде по «Карта Халва» в течение действия кредитного договора от 5 операций на общую сумму от 10 000 руб. В случае несоблюдения условий акции - действующая процентная ставка увеличивается на 6 процентных пунктов. Срок акции – с 01.03.2025 г. по 31.03.2025г. Информация об организаторе акции, о правилах ее проведения, иные условия акции указаны в Паспорте акции «Автокредит с Халвой». При покупке автомобиля с использованием кредитных средств по программе приобретение КАСКО обязательно. Перечень страховых компаний ограничен, подробности уточняйте у официального дилерского центра «Belgee».</description>
-			<images>
-				<image>https://photo.toyotasever.ru/Y4K8622Z1SB906418/d37c7daf3d734de850a6345f270b449d.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z1SB906418/f206524a47ef6e19f4bee346abf2feda.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z1SB906418/89731d7827501847e5465b949d76127e.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z1SB906418/b7f62f56124f28a01b1f06c5f3ae4155.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z1SB906418/618eceec1307647b2d74009b984a295b.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z1SB906418/4ad8b8d78cc73fd34c703e2aeae0906c.jpg</image>
-				<image>https://photo.toyotasever.ru/Y4K8622Z1SB906418/0a18a7454c6200c5c27eb57acf966f52.jpg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<max_discount>771877</max_discount><priceWithDiscount>1818313</priceWithDiscount><sale_price>1818313</sale_price><url>https://auto-team.pro/cars/belgee-x50-15-amt-150-лс-style-черный-2025/</url></car>
-		<car>
 			<unique_id>8f31ffcd54f9ea9654ddf1eac4c53b7b</unique_id>
 			<mark_id>BELGEE</mark_id>
 			<folder_id>X50</folder_id>
@@ -4989,6 +4809,57 @@ M8 — не просто премиум-минивэн, а автомобиль,
 				<image>https://photo.toyotasever.ru/Y4K8622Z1SB906435/71f13d53ce0dbbfb332bd6eceb04ecc9.jpg</image>
 				<image>https://photo.toyotasever.ru/Y4K8622Z1SB906435/93dfbee308aaeff852fad6d0f7b2b31c.jpg</image>
 				<image>https://photo.toyotasever.ru/Y4K8622Z1SB906435/62028b18c6f3cb84926dfc10d75deee1.jpg</image>
+			</images>
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<max_discount>771877</max_discount><priceWithDiscount>1818313</priceWithDiscount><sale_price>1818313</sale_price><url>https://auto-team.pro/cars/belgee-x50-15-amt-150-лс-style-черный-2025/</url></car>
+		<car>
+			<unique_id>2e9e24a9654b985133ee3991830a9a93</unique_id>
+			<mark_id>BELGEE</mark_id>
+			<folder_id>X50</folder_id>
+			<modification_id>1.5 AMT (150 л.с.)</modification_id>
+			<complectation_name>Style</complectation_name>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<wheel>левый</wheel>
+			<color>Черный</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>7</run>
+			<year>2025</year>
+			<price>2590190</price>
+			<credit_discount>521877</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>250000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<currency>RUR</currency>
+			<vin>Y4K8622Z1SB906418</vin>
+			<description>⭐Открытие бренда Belgee в Партнер Авто Саратов!
+
+Рассрочка 0,01% на покупку Belgee теперь доступна в Партнер Авто Саратов!
+Склад более 300 новых авто. Предложение действует только в марте. He упустите!
+
+В нашем дилерском центре стартовали грандиозные акции в честь открытия нового бренда Belgee!
+
+ Скидки дo 10% нa весь модельный ряд Belgee!
+ Подарок при покупке: бесплатное дополнительное оборудование или сервисное обслуживание на первый год.
+ Кредитные программы от партнёров банка: выгодные условия финансирования для вашего комфорта.
+
+Не упустите шанс стать владельцем современного автомобиля Belgee на самых привлекательных условиях.
+Спешите, количество предложений ограничено!
+
+Подробности акций уточняйте у наших менеджеров 
+
+*Рассрочка 0,01% - процентная ставка по программе кредитования «Dirесt Уникальный» для владельцев «Карта Халва» (далее – программа) по специальному продукту для новых автомобилей марки Belgee. Параметры программы: срок кредита – 12, 24, 36 мес.; сумма кредита - от 300 000 до 9 000 000 руб.; полная стоимость кредита на момент оформления Договора – 6,01% годовых, процентная ставка – 0,01% годовых, первоначальный взнос – от 40% от цены приобретаемого автомобиля. Процентные ставки по кредиту, установленные программой, действуют при совершении в каждом полном отчетном периоде по «Карта Халва» в течение действия кредитного договора от 5 операций на общую сумму от 10 000 руб. В случае несоблюдения условий акции - действующая процентная ставка увеличивается на 6 процентных пунктов. Срок акции – с 01.03.2025 г. по 31.03.2025г. Информация об организаторе акции, о правилах ее проведения, иные условия акции указаны в Паспорте акции «Автокредит с Халвой». При покупке автомобиля с использованием кредитных средств по программе приобретение КАСКО обязательно. Перечень страховых компаний ограничен, подробности уточняйте у официального дилерского центра «Belgee».</description>
+			<images>
+				<image>https://photo.toyotasever.ru/Y4K8622Z1SB906418/d37c7daf3d734de850a6345f270b449d.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z1SB906418/f206524a47ef6e19f4bee346abf2feda.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z1SB906418/89731d7827501847e5465b949d76127e.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z1SB906418/b7f62f56124f28a01b1f06c5f3ae4155.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z1SB906418/618eceec1307647b2d74009b984a295b.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z1SB906418/4ad8b8d78cc73fd34c703e2aeae0906c.jpg</image>
+				<image>https://photo.toyotasever.ru/Y4K8622Z1SB906418/0a18a7454c6200c5c27eb57acf966f52.jpg</image>
 			</images>
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
@@ -5220,7 +5091,7 @@ M8 — не просто премиум-минивэн, а автомобиль,
 			<metallic>нет</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
-			<run>8</run>
+			<run>9</run>
 			<year>2025</year>
 			<price>2946190</price>
 			<credit_discount>629123</credit_discount>
