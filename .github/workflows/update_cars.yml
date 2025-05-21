@@ -7,13 +7,16 @@ on:
     paths:
       - '.github/scripts/sh/getAirStorage.sh'
       - '.github/scripts/sh/getDealerData.sh'
+      - '.github/scripts/sh/getDealerPrices.sh'
       - '.github/scripts/sh/getDealerStorage.sh'
+      - '.github/scripts/sh/getSortStorage.sh'
       - '.github/scripts/CarFeedProcessorCSV.py'
       - '.github/scripts/config_air_storage-friend.json'
       - '.github/scripts/config_air_storage.json'
       - '.github/scripts/config.py'
       - '.github/scripts/getOneXML.py'
       - '.github/scripts/GSheetFetcher.js'
+      - '.github/scripts/mergeCarPrices.js'
       - '.github/scripts/model_mapping.json'
       - '.github/scripts/update_cars_air_storage.py'
       - '.github/scripts/update_cars.py'
@@ -63,9 +66,13 @@ jobs:
 
     - name: Install dependencies
       run: |
-          npm install -g pnpm
-          pnpm install --no-frozen-lockfile
-
+        npm install -g pnpm
+        pnpm install --no-frozen-lockfile
+        pnpm download_json -f settings.json
+      env:
+        JSON_PATH: ${{ secrets.JSON_PATH }}
+        DOMAIN: ${{ vars.DOMAIN }}
+    
     - name: Set up Python
       uses: actions/setup-python@v5
       with:
@@ -76,6 +83,7 @@ jobs:
       run: |
         python -m pip install --upgrade pip
         pip install requests lxml pyyaml Pillow
+
 
     - name: Download CSV and generate cars.xml from csv
       if: ${{ vars.CSV_URL }}
@@ -93,13 +101,29 @@ jobs:
       env:
         CSV_URL: ${{ vars.AIR_STORAGE_CSV_URL }}
 
-    - name: Get Dealer JSON cars price
-      if: ${{ vars.DEALER_PRICE_CSV_URL }}
+    - name: Get sort storage
+      if: ${{ vars.SORT_STORAGE_CSV_URL }}
       run: |
-        pnpm run getDealerPrice
+        pnpm run getSortStorage
+      env:
+        CSV_URL: ${{ vars.SORT_STORAGE_CSV_URL }}
+
+    - name: Get Dealer JSON cars price
+      if: ${{ vars.DEALER_CARS_PRICE_CSV_URL }}
+      run: |
+        pnpm run getDealerCarsPrice
       continue-on-error: true
       env:
-        CSV_URL: ${{ vars.DEALER_PRICE_CSV_URL }}
+        CSV_URL: ${{ vars.DEALER_CARS_PRICE_CSV_URL }}
+
+    - name: Get XML from Avito to get dealer photos for cars
+      if: ${{ vars.DEALER_PHOTOS_FOR_CARS_AVITO_URL }}
+      run: |
+        python .github/scripts/getOneXML.py --output_path="dealer_photos_for_cars_avito.xml"
+      env:
+        DOMAIN: ${{ vars.DOMAIN }}
+        XML_URL: ${{ vars.DEALER_PHOTOS_FOR_CARS_AVITO_URL }}
+
 
     - name: Get Dealer cars Storage
       if: ${{ vars.DEALER_STORAGE_CSV_URL }}
