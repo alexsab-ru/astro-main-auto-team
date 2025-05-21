@@ -10,7 +10,8 @@ description: "Второй автомобиль GAC в вашу семью со 
 
 import Button from '@/components/Button/Button.astro';
 import SpecialSalonsInfo from '@/components/SpecialSalonsInfo.astro';
-import { SITE_NAME, PHONE } from '@/const';
+import settings from '@/data/settings.json';
+export const { site_name, phone_common, legal_city_where } = settings;
 import { phoneFormat } from '@/js/utils/numbers.format';
 import { FIRST_DAY, LAST_DAY, MONTH, YEAR } from '@/js/utils/date';
 

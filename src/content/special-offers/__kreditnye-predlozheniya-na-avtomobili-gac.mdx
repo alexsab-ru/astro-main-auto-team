@@ -11,7 +11,8 @@ export const DateFrom = "01.01.2024"
 export const DateTo = "31.01.2024"
 
 import Button from '@/components/Button/Button.astro';
-import { SITE_NAME, PHONE } from '@/const';
+import settings from '@/data/settings.json';
+export const { site_name, phone_common, legal_city_where } = settings;
 import { phoneFormat } from '@/js/utils/numbers.format';
 import { LAST_DAY, MONTH, YEAR } from '@/js/utils/date';
 
@@ -341,7 +342,7 @@ import { LAST_DAY, MONTH, YEAR } from '@/js/utils/date';
 	<img src="/img/specials/kreditnye-predlozheniya-na-avtomobili-gac/car_image.webp" class="w-full lg:w-1/2" alt="GAC" />
 </div>
 
-Подробности в отделе продаж по телефону: <a class="whitespace-nowrap" href={`tel:${phoneFormat(PHONE)}`}>{ PHONE }</a>
+Подробности в отделе продаж по телефону: <a class="whitespace-nowrap" href={`tel:${phoneFormat(phone_common)}`}>{ phone_common }</a>
 
 <div class="mt-10 mb-5">
 	<Button 
