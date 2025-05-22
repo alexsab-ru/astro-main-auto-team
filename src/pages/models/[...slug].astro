@@ -51,13 +51,13 @@ const salonsPhone = salons.map((salon: any) => salon.phone).filter(phone => phon
   description={`${model.mark_id} ${model.name} купить в ${legal_city_where}. Кредит, авторассрочка, скидки на все автомобили от розничной цены. Гарантия. Звонить по тел.: ${salonsPhone}`}
   image={model.image ?? model.thumb}
 >
-  <h1 class="sr-only">Автомобиль {brand} {model.name} в {legal_city_where}</h1>
+  <h1 class="sr-only">Автомобиль {model.mark_id} {model.name} в {legal_city_where}</h1>
 	<Model model={model} breadcrumb={[breadcrumb, {name: model.name, href: Astro.url.pathname}]} />
   {
     sections.length > 0 && sections.map(s => ( <UniversalSection section={s} /> ))
   }
   {
-    (model?.complectations !== undefined && model?.complectations.length) && <ModelComplectations title={`Подобрать комплектацию ${model?.mark_id} ${model.name}`} model={model} brand={brand} />
+    (model?.complectations !== undefined && model?.complectations.length) && <ModelComplectations title={`Подобрать комплектацию ${model?.mark_id} ${model.name}`} model={model} brand={model?.mark_id} />
   }
   <SeoText mdx={seoname} />
   <section>
