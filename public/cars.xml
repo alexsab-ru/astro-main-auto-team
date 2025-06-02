@@ -1654,33 +1654,6 @@ He упуcтитe cвой шанс!
 			</multiposting>
 		<max_discount>250000</max_discount><priceWithDiscount>2889900</priceWithDiscount><sale_price>2889900</sale_price><url>https://auto-team.pro/cars/changan-uni-v-15-amt-181-лс-dlx-белый-2024/</url></car>
 	<car>
-			<unique_id>54dba819f02aeff020223dd6a036932a</unique_id>
-			<mark_id>GAC</mark_id>
-			<folder_id>Empow</folder_id>
-			<modification_id>1.5 AMT (170 л.с.)</modification_id>
-			<complectation_name>GL S-style</complectation_name>
-			<body_type>Седан</body_type>
-			<wheel>левый</wheel>
-			<color>Черный</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>3</run>
-			<year>2024</year>
-			<price>2999000</price>
-			<credit_discount>100000</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>100000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<currency>RUR</currency>
-			<vin>LMGBB1L86S3142049</vin>
-			<description />
-			<images />
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<max_discount>200000</max_discount><priceWithDiscount>2799000</priceWithDiscount><sale_price>2799000</sale_price><url>https://auto-team.pro/cars/gac-empow-15-amt-170-лс-gl-s-style-черный-2024/</url></car>
-		<car>
 			<unique_id>79c6ab81d06e973ea98908f55240ff07</unique_id>
 			<mark_id>GAC</mark_id>
 			<folder_id>Empow</folder_id>
@@ -1707,6 +1680,33 @@ He упуcтитe cвой шанс!
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
 		<max_discount>200000</max_discount><priceWithDiscount>2799000</priceWithDiscount><sale_price>2799000</sale_price><url>https://auto-team.pro/cars/gac-empow-15-amt-170-лс-gl-s-style-белый-2024/</url></car>
+		<car>
+			<unique_id>54dba819f02aeff020223dd6a036932a</unique_id>
+			<mark_id>GAC</mark_id>
+			<folder_id>Empow</folder_id>
+			<modification_id>1.5 AMT (170 л.с.)</modification_id>
+			<complectation_name>GL S-style</complectation_name>
+			<body_type>Седан</body_type>
+			<wheel>левый</wheel>
+			<color>Черный</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<run>3</run>
+			<year>2024</year>
+			<price>2999000</price>
+			<credit_discount>100000</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>100000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<currency>RUR</currency>
+			<vin>LMGBB1L86S3142049</vin>
+			<description />
+			<images />
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<max_discount>200000</max_discount><priceWithDiscount>2799000</priceWithDiscount><sale_price>2799000</sale_price><url>https://auto-team.pro/cars/gac-empow-15-amt-170-лс-gl-s-style-черный-2024/</url></car>
 		<car>
 			<unique_id>543addccd8f156dec40d75c004fe345d</unique_id>
 			<mark_id>GAC</mark_id>
