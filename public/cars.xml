@@ -18,55 +18,6 @@
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>80000</tradein_discount>
 			<currency>RUR</currency>
-			<vin>LS5A2ASE4RD930063</vin>
-			<description>Добро пожаловать в наш новый дилерский центр Чанган Центр Энгельс! 
-
-Mы гoтовы cдeлать Baм лучшee пpeдлoжение на пoкупку нoвoго автомoбиля Чангaн Aлcвин.
-He упуcтитe cвой шанс!
-
-Дaже если у Вас есть пpeдлoжениe, кoторое кaжется oптимaльным, позвоните нaм, и мы егo улучшим!!! 
-
-Нeт ничегo нeвoзмoжнoго вмecтe с СНАNGАN в Чанган Центр Энгельс!
-
-Мы приглашаем Вас пройти тест-драйв и оценить все преимущества автомобилей Changan. Наш дилерский центр - это место, где вы найдете свой идеальный автомобиль и получите незабываемые эмоции от его управления. 
-
-Мы ждем Вас!
-
-Встречайте Changan Alsvin  — самый доступный и стильный седан на российском рынке! Changan Alsvin — ваш надёжный спутник в мире автомобилей. Этот седан создан для тех, кто ценит качество, комфорт и доступность. 
-Не упустите возможность стать обладателем Changan Alsvin и наслаждаться комфортом, стилем и надёжностью на дорогах!</description>
-			<images>
-				<image>https://photo.toyotasever.ru/LS5A2ASE4RD930063/7d2999430da4590ce02e4dc0073ed07c.jpg</image>
-				<image>https://photo.toyotasever.ru/LS5A2ASE4RD930063/1128f6522d40b5fdfb2765ef54add74d.jpg</image>
-				<image>https://photo.toyotasever.ru/LS5A2ASE4RD930063/4ea09a024bff864f4c40cf42db94c8c1.jpg</image>
-				<image>https://photo.toyotasever.ru/LS5A2ASE4RD930063/edf6ad59f6497859da43578f99fb3709.jpg</image>
-				<image>https://photo.toyotasever.ru/LS5A2ASE4RD930063/e7148584cf9e369945fd9aa52a909f37.jpg</image>
-				<image>https://photo.toyotasever.ru/LS5A2ASE4RD930063/b42a5e101bb5c53efdbc47e9b4dcd780.jpg</image>
-				<image>https://photo.toyotasever.ru/LS5A2ASE4RD930063/00675a80049826cb748c94487a92de1d.jpg</image>
-				<image>https://photo.toyotasever.ru/LS5A2ASE4RD930063/44125a9c34dd08c4b6bb5e8725481659.jpg</image>
-				<image>https://photo.toyotasever.ru/LS5A2ASE4RD930063/d8bf985f0834c63c0e9d6e1ed7755392.jpg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<max_discount>280000</max_discount><priceWithDiscount>1619900</priceWithDiscount><sale_price>1619900</sale_price><url>https://auto-team.pro/cars/changan-alsvin-15-amt-98-лс-dlx-белый-2024/</url></car>
-		<car>
-			<mark_id>Changan</mark_id>
-			<folder_id>Alsvin</folder_id>
-			<modification_id>1.5 AMT (98 л.с.)</modification_id>
-			<body_type>Седан</body_type>
-			<complectation_name>DLX</complectation_name>
-			<wheel>левый</wheel>
-			<color>Белый</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<owners_number>Не было владельцев</owners_number>
-			<year>2024</year>
-			<price>1899900</price>
-			<credit_discount>100000</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>80000</tradein_discount>
-			<currency>RUR</currency>
 			<vin>LS5A2ASE3RD930992</vin>
 			<description>Добро пожаловать в наш новый дилерский центр Чанган Центр Энгельс! 
 
@@ -116,7 +67,7 @@ He упуcтитe cвой шанс!
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>80000</tradein_discount>
 			<currency>RUR</currency>
-			<vin>LS5A2ASE7RD930364</vin>
+			<vin>LS5A2ASE4RD930063</vin>
 			<description>Добро пожаловать в наш новый дилерский центр Чанган Центр Энгельс! 
 
 Mы гoтовы cдeлать Baм лучшee пpeдлoжение на пoкупку нoвoго автомoбиля Чангaн Aлcвин.
@@ -133,15 +84,15 @@ He упуcтитe cвой шанс!
 Встречайте Changan Alsvin  — самый доступный и стильный седан на российском рынке! Changan Alsvin — ваш надёжный спутник в мире автомобилей. Этот седан создан для тех, кто ценит качество, комфорт и доступность. 
 Не упустите возможность стать обладателем Changan Alsvin и наслаждаться комфортом, стилем и надёжностью на дорогах!</description>
 			<images>
-				<image>https://photo.toyotasever.ru/LS5A2ASE7RD930364/a022ab4be2d02f6a44c43bed82363aaa.jpg</image>
-				<image>https://photo.toyotasever.ru/LS5A2ASE7RD930364/6eae62c44b6a704870a22371551a9a0b.jpg</image>
-				<image>https://photo.toyotasever.ru/LS5A2ASE7RD930364/f807fdf6d498af990b0772fe3e85d509.jpg</image>
-				<image>https://photo.toyotasever.ru/LS5A2ASE7RD930364/51cb3695fb6c9d9ae486a0b6de93a4da.jpg</image>
-				<image>https://photo.toyotasever.ru/LS5A2ASE7RD930364/d6589293db1ef1a79744c1dd6422e5ca.jpg</image>
-				<image>https://photo.toyotasever.ru/LS5A2ASE7RD930364/f654414d6869e285aa4b47943f5ff6ff.jpg</image>
-				<image>https://photo.toyotasever.ru/LS5A2ASE7RD930364/94d8f2551bfc579b2836c708d918acbd.jpg</image>
-				<image>https://photo.toyotasever.ru/LS5A2ASE7RD930364/2aa6651efc6adb7b540819cf7088c8f8.jpg</image>
-				<image>https://photo.toyotasever.ru/LS5A2ASE7RD930364/565ee9e235c77bf55833d7fb41523a88.jpg</image>
+				<image>https://photo.toyotasever.ru/LS5A2ASE4RD930063/7d2999430da4590ce02e4dc0073ed07c.jpg</image>
+				<image>https://photo.toyotasever.ru/LS5A2ASE4RD930063/1128f6522d40b5fdfb2765ef54add74d.jpg</image>
+				<image>https://photo.toyotasever.ru/LS5A2ASE4RD930063/4ea09a024bff864f4c40cf42db94c8c1.jpg</image>
+				<image>https://photo.toyotasever.ru/LS5A2ASE4RD930063/edf6ad59f6497859da43578f99fb3709.jpg</image>
+				<image>https://photo.toyotasever.ru/LS5A2ASE4RD930063/e7148584cf9e369945fd9aa52a909f37.jpg</image>
+				<image>https://photo.toyotasever.ru/LS5A2ASE4RD930063/b42a5e101bb5c53efdbc47e9b4dcd780.jpg</image>
+				<image>https://photo.toyotasever.ru/LS5A2ASE4RD930063/00675a80049826cb748c94487a92de1d.jpg</image>
+				<image>https://photo.toyotasever.ru/LS5A2ASE4RD930063/44125a9c34dd08c4b6bb5e8725481659.jpg</image>
+				<image>https://photo.toyotasever.ru/LS5A2ASE4RD930063/d8bf985f0834c63c0e9d6e1ed7755392.jpg</image>
 			</images>
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
@@ -191,6 +142,55 @@ He упуcтитe cвой шанс!
 				<image>https://photo.toyotasever.ru/LS5A2ASEXRD931718/4b947ef86a0ddc1e9b9c5bc9bdf643e1.jpg</image>
 				<image>https://photo.toyotasever.ru/LS5A2ASEXRD931718/48d72963089d00719d37aaa5eeaa7610.jpg</image>
 				<image>https://photo.toyotasever.ru/LS5A2ASEXRD931718/92fb0f55ab2b2caf203db14aa8a7644d.jpg</image>
+			</images>
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<max_discount>280000</max_discount><priceWithDiscount>1619900</priceWithDiscount><sale_price>1619900</sale_price><url>https://auto-team.pro/cars/changan-alsvin-15-amt-98-лс-dlx-белый-2024/</url></car>
+		<car>
+			<mark_id>Changan</mark_id>
+			<folder_id>Alsvin</folder_id>
+			<modification_id>1.5 AMT (98 л.с.)</modification_id>
+			<body_type>Седан</body_type>
+			<complectation_name>DLX</complectation_name>
+			<wheel>левый</wheel>
+			<color>Белый</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<owners_number>Не было владельцев</owners_number>
+			<year>2024</year>
+			<price>1899900</price>
+			<credit_discount>100000</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>80000</tradein_discount>
+			<currency>RUR</currency>
+			<vin>LS5A2ASE7RD930364</vin>
+			<description>Добро пожаловать в наш новый дилерский центр Чанган Центр Энгельс! 
+
+Mы гoтовы cдeлать Baм лучшee пpeдлoжение на пoкупку нoвoго автомoбиля Чангaн Aлcвин.
+He упуcтитe cвой шанс!
+
+Дaже если у Вас есть пpeдлoжениe, кoторое кaжется oптимaльным, позвоните нaм, и мы егo улучшим!!! 
+
+Нeт ничегo нeвoзмoжнoго вмecтe с СНАNGАN в Чанган Центр Энгельс!
+
+Мы приглашаем Вас пройти тест-драйв и оценить все преимущества автомобилей Changan. Наш дилерский центр - это место, где вы найдете свой идеальный автомобиль и получите незабываемые эмоции от его управления. 
+
+Мы ждем Вас!
+
+Встречайте Changan Alsvin  — самый доступный и стильный седан на российском рынке! Changan Alsvin — ваш надёжный спутник в мире автомобилей. Этот седан создан для тех, кто ценит качество, комфорт и доступность. 
+Не упустите возможность стать обладателем Changan Alsvin и наслаждаться комфортом, стилем и надёжностью на дорогах!</description>
+			<images>
+				<image>https://photo.toyotasever.ru/LS5A2ASE7RD930364/a022ab4be2d02f6a44c43bed82363aaa.jpg</image>
+				<image>https://photo.toyotasever.ru/LS5A2ASE7RD930364/6eae62c44b6a704870a22371551a9a0b.jpg</image>
+				<image>https://photo.toyotasever.ru/LS5A2ASE7RD930364/f807fdf6d498af990b0772fe3e85d509.jpg</image>
+				<image>https://photo.toyotasever.ru/LS5A2ASE7RD930364/51cb3695fb6c9d9ae486a0b6de93a4da.jpg</image>
+				<image>https://photo.toyotasever.ru/LS5A2ASE7RD930364/d6589293db1ef1a79744c1dd6422e5ca.jpg</image>
+				<image>https://photo.toyotasever.ru/LS5A2ASE7RD930364/f654414d6869e285aa4b47943f5ff6ff.jpg</image>
+				<image>https://photo.toyotasever.ru/LS5A2ASE7RD930364/94d8f2551bfc579b2836c708d918acbd.jpg</image>
+				<image>https://photo.toyotasever.ru/LS5A2ASE7RD930364/2aa6651efc6adb7b540819cf7088c8f8.jpg</image>
+				<image>https://photo.toyotasever.ru/LS5A2ASE7RD930364/565ee9e235c77bf55833d7fb41523a88.jpg</image>
 			</images>
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
@@ -610,7 +610,7 @@ He упуcтитe cвой шанс!
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>120000</tradein_discount>
 			<currency>RUR</currency>
-			<vin>LS5A3DKR1SA973963</vin>
+			<vin>LS5A3DKR1SA974014</vin>
 			<description>Добро пожаловать в наш новый дилерский центр Чанган Центр Энгельс! 
 
 Mы гoтовы cдeлать Baм лучшee пpeдлoжение на пoкупку нoвoго автомoбиля Чангaн CS35PLUS NEW.
@@ -650,7 +650,7 @@ He упуcтитe cвой шанс!
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>120000</tradein_discount>
 			<currency>RUR</currency>
-			<vin>LS5A3DKR1SA974014</vin>
+			<vin>LS5A3DKR1SA973963</vin>
 			<description>Добро пожаловать в наш новый дилерский центр Чанган Центр Энгельс! 
 
 Mы гoтовы cдeлать Baм лучшee пpeдлoжение на пoкупку нoвoго автомoбиля Чангaн CS35PLUS NEW.
@@ -672,46 +672,6 @@ He упуcтитe cвой шанс!
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
 		<max_discount>320000</max_discount><priceWithDiscount>2309900</priceWithDiscount><sale_price>2309900</sale_price><url>https://auto-team.pro/cars/changan-cs35plus-i-рестайлинг-14-amt-150-лс-tech-красный-2024/</url></car>
-		<car>
-			<mark_id>Changan</mark_id>
-			<folder_id>CS35PLUS, I Рестайлинг</folder_id>
-			<modification_id>1.4 AMT (150 л.с.)</modification_id>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<complectation_name>Tech</complectation_name>
-			<wheel>левый</wheel>
-			<color>Серый</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<owners_number>Не было владельцев</owners_number>
-			<year>2024</year>
-			<price>2629900</price>
-			<credit_discount>100000</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>120000</tradein_discount>
-			<currency>RUR</currency>
-			<vin>LS5A3DKR9RA025112</vin>
-			<description>Добро пожаловать в наш новый дилерский центр Чанган Центр Энгельс! 
-
-Mы гoтовы cдeлать Baм лучшee пpeдлoжение на пoкупку нoвoго автомoбиля Чангaн CS35PLUS NEW.
-
-He упуcтитe cвой шанс!
-
-Дaже если у Вас есть пpeдлoжениe, кoторое кaжется oптимaльным, позвоните нaм, и мы егo улучшим!!! 
-
-Нeт ничегo нeвoзмoжнoго вмecтe с СНАNGАN в Чанган Центр Энгельс!
-
-Мы приглашаем Вас пройти тест-драйв и оценить все преимущества автомобилей Changan. Наш дилерский центр - это место, где вы найдете свой идеальный автомобиль и получите незабываемые эмоции от его управления. 
-
-Мы ждем Вас!
-
-Встречайте Changan CS35PLUS NEW — самый доступный и стильный кроссовер на российском рынке! Changan CS35PLUS NEW — ваш надёжный спутник в мире автомобилей. Этот кроссовер создан для тех, кто ценит качество, комфорт и доступность. 
-Не упустите возможность стать обладателем Changan CS35PLUS NEW и наслаждаться комфортом, стилем и надёжностью на дорогах!</description>
-			<images />
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<max_discount>320000</max_discount><priceWithDiscount>2309900</priceWithDiscount><sale_price>2309900</sale_price><url>https://auto-team.pro/cars/changan-cs35plus-i-рестайлинг-14-amt-150-лс-tech-серый-2024/</url></car>
 		<car>
 			<mark_id>Changan</mark_id>
 			<folder_id>CS35PLUS, I Рестайлинг</folder_id>
@@ -771,6 +731,46 @@ He упуcтитe cвой шанс!
 			<tradein_discount>120000</tradein_discount>
 			<currency>RUR</currency>
 			<vin>LS5A3DKR9RA025109</vin>
+			<description>Добро пожаловать в наш новый дилерский центр Чанган Центр Энгельс! 
+
+Mы гoтовы cдeлать Baм лучшee пpeдлoжение на пoкупку нoвoго автомoбиля Чангaн CS35PLUS NEW.
+
+He упуcтитe cвой шанс!
+
+Дaже если у Вас есть пpeдлoжениe, кoторое кaжется oптимaльным, позвоните нaм, и мы егo улучшим!!! 
+
+Нeт ничегo нeвoзмoжнoго вмecтe с СНАNGАN в Чанган Центр Энгельс!
+
+Мы приглашаем Вас пройти тест-драйв и оценить все преимущества автомобилей Changan. Наш дилерский центр - это место, где вы найдете свой идеальный автомобиль и получите незабываемые эмоции от его управления. 
+
+Мы ждем Вас!
+
+Встречайте Changan CS35PLUS NEW — самый доступный и стильный кроссовер на российском рынке! Changan CS35PLUS NEW — ваш надёжный спутник в мире автомобилей. Этот кроссовер создан для тех, кто ценит качество, комфорт и доступность. 
+Не упустите возможность стать обладателем Changan CS35PLUS NEW и наслаждаться комфортом, стилем и надёжностью на дорогах!</description>
+			<images />
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<max_discount>320000</max_discount><priceWithDiscount>2309900</priceWithDiscount><sale_price>2309900</sale_price><url>https://auto-team.pro/cars/changan-cs35plus-i-рестайлинг-14-amt-150-лс-tech-серый-2024/</url></car>
+		<car>
+			<mark_id>Changan</mark_id>
+			<folder_id>CS35PLUS, I Рестайлинг</folder_id>
+			<modification_id>1.4 AMT (150 л.с.)</modification_id>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<complectation_name>Tech</complectation_name>
+			<wheel>левый</wheel>
+			<color>Серый</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<owners_number>Не было владельцев</owners_number>
+			<year>2024</year>
+			<price>2629900</price>
+			<credit_discount>100000</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>120000</tradein_discount>
+			<currency>RUR</currency>
+			<vin>LS5A3DKR9RA025112</vin>
 			<description>Добро пожаловать в наш новый дилерский центр Чанган Центр Энгельс! 
 
 Mы гoтовы cдeлать Baм лучшee пpeдлoжение на пoкупку нoвoго автомoбиля Чангaн CS35PLUS NEW.
@@ -1218,6 +1218,202 @@ He упуcтитe cвой шанс!
 			<body_type>Седан</body_type>
 			<complectation_name>Базовая</complectation_name>
 			<wheel>левый</wheel>
+			<color>Серый</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<owners_number>Не было владельцев</owners_number>
+			<year>2024</year>
+			<price>2869900</price>
+			<credit_discount>150000</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>100000</tradein_discount>
+			<currency>RUR</currency>
+			<vin>LS5A2DKE9RA002199</vin>
+			<description>Добро пожаловать в наш новый дилерский центр Чанган Центр Энгельс! 
+
+Mы гoтовы cдeлать Baм лучшee пpeдлoжение на пoкупку нoвoго автомoбиля Чангaн LAMORE.
+He упуcтитe cвой шанс!
+
+Дaже если у Вас есть пpeдлoжениe, кoторое кaжется oптимaльным, позвоните нaм, и мы егo улучшим!!! 
+
+Нeт ничегo нeвoзмoжнoго вмecтe с СНАNGАN в Чанган Центр Энгельс!
+
+Мы приглашаем Вас пройти тест-драйв и оценить все преимущества автомобилей Changan. Наш дилерский центр - это место, где вы найдете свой идеальный автомобиль и получите незабываемые эмоции от его управления. 
+
+Мы ждем Вас!
+
+Встречайте Changan LAMORE  — самый доступный и стильный седан на российском рынке! Changan LAMORE — ваш надёжный спутник в мире автомобилей. Этот седан создан для тех, кто ценит качество, комфорт и доступность. 
+Не упустите возможность стать обладателем Changan LAMORE и наслаждаться комфортом, стилем и надёжностью на дорогах!</description>
+			<images>
+				<image>https://photo.toyotasever.ru/LS5A2DKE9RA002199/09e3ab812c4154771a1baed72d24f141.jpg</image>
+				<image>https://photo.toyotasever.ru/LS5A2DKE9RA002199/6ab4b93839335b64c0c87c5f7cdc1ea6.jpg</image>
+				<image>https://photo.toyotasever.ru/LS5A2DKE9RA002199/cd5eb1cf4d884b2fa36c107b11df6cbc.jpg</image>
+				<image>https://photo.toyotasever.ru/LS5A2DKE9RA002199/a286b826b3d8b0ebdc3282a7cd201c8f.jpg</image>
+				<image>https://photo.toyotasever.ru/LS5A2DKE9RA002199/8756b3cee62065a79a0e5ce68cd663fe.jpg</image>
+				<image>https://photo.toyotasever.ru/LS5A2DKE9RA002199/120bfe4047e265f62d9d1678a633f7f7.jpg</image>
+				<image>https://photo.toyotasever.ru/LS5A2DKE9RA002199/e966091168534e4166f11105f63598b5.jpg</image>
+				<image>https://photo.toyotasever.ru/LS5A2DKE9RA002199/dd4a6042cd2d1483f1145e719c54bed2.jpg</image>
+				<image>https://photo.toyotasever.ru/LS5A2DKE9RA002199/190a12262c9b6c59c38639eaecc83b28.jpg</image>
+			</images>
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<max_discount>450000</max_discount><priceWithDiscount>2419900</priceWithDiscount><sale_price>2419900</sale_price><url>https://auto-team.pro/cars/changan-lamore-15-amt-180-лс-базовая-серый-2024/</url></car>
+		<car>
+			<mark_id>Changan</mark_id>
+			<folder_id>Lamore</folder_id>
+			<modification_id>1.5 AMT (180 л.с.)</modification_id>
+			<body_type>Седан</body_type>
+			<complectation_name>Базовая</complectation_name>
+			<wheel>левый</wheel>
+			<color>Серый</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<owners_number>Не было владельцев</owners_number>
+			<year>2024</year>
+			<price>2869900</price>
+			<credit_discount>150000</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>100000</tradein_discount>
+			<currency>RUR</currency>
+			<vin>LS5A2DKE3RA001954</vin>
+			<description>Добро пожаловать в наш новый дилерский центр Чанган Центр Энгельс! 
+
+Mы гoтовы cдeлать Baм лучшee пpeдлoжение на пoкупку нoвoго автомoбиля Чангaн LAMORE.
+He упуcтитe cвой шанс!
+
+Дaже если у Вас есть пpeдлoжениe, кoторое кaжется oптимaльным, позвоните нaм, и мы егo улучшим!!! 
+
+Нeт ничегo нeвoзмoжнoго вмecтe с СНАNGАN в Чанган Центр Энгельс!
+
+Мы приглашаем Вас пройти тест-драйв и оценить все преимущества автомобилей Changan. Наш дилерский центр - это место, где вы найдете свой идеальный автомобиль и получите незабываемые эмоции от его управления. 
+
+Мы ждем Вас!
+
+Встречайте Changan LAMORE  — самый доступный и стильный седан на российском рынке! Changan LAMORE — ваш надёжный спутник в мире автомобилей. Этот седан создан для тех, кто ценит качество, комфорт и доступность. 
+Не упустите возможность стать обладателем Changan LAMORE и наслаждаться комфортом, стилем и надёжностью на дорогах!</description>
+			<images>
+				<image>https://photo.toyotasever.ru/LS5A2DKE3RA001954/40f5cf9637af4bab652fb36873323d8b.jpg</image>
+				<image>https://photo.toyotasever.ru/LS5A2DKE3RA001954/b4c7a85dd44179f53ead1c1b96bc2104.jpg</image>
+				<image>https://photo.toyotasever.ru/LS5A2DKE3RA001954/38c8dc4e9e898f608f4ac1fee7f0b0e9.jpg</image>
+				<image>https://photo.toyotasever.ru/LS5A2DKE3RA001954/ad6f3ed2487c7dd60a2ed01e67a4b329.jpg</image>
+				<image>https://photo.toyotasever.ru/LS5A2DKE3RA001954/6e67718440430b36d928a41630d6f09c.jpg</image>
+				<image>https://photo.toyotasever.ru/LS5A2DKE3RA001954/6544b7085d1871a8d6dce7e3c9ab170e.jpg</image>
+				<image>https://photo.toyotasever.ru/LS5A2DKE3RA001954/20ebbac11cbfe83a99c56e92d037213e.jpg</image>
+				<image>https://photo.toyotasever.ru/LS5A2DKE3RA001954/813abc365492b0f2250af0ffafca37e6.jpg</image>
+				<image>https://photo.toyotasever.ru/LS5A2DKE3RA001954/1af08571982136e2f0ce5592e4ee1809.jpg</image>
+			</images>
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<max_discount>450000</max_discount><priceWithDiscount>2419900</priceWithDiscount><sale_price>2419900</sale_price><url>https://auto-team.pro/cars/changan-lamore-15-amt-180-лс-базовая-серый-2024/</url></car>
+		<car>
+			<mark_id>Changan</mark_id>
+			<folder_id>Lamore</folder_id>
+			<modification_id>1.5 AMT (180 л.с.)</modification_id>
+			<body_type>Седан</body_type>
+			<complectation_name>Базовая</complectation_name>
+			<wheel>левый</wheel>
+			<color>Серый</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<owners_number>Не было владельцев</owners_number>
+			<year>2024</year>
+			<price>2869900</price>
+			<credit_discount>150000</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>100000</tradein_discount>
+			<currency>RUR</currency>
+			<vin>LS5A2DKE0RA002589</vin>
+			<description>Добро пожаловать в наш новый дилерский центр Чанган Центр Энгельс! 
+
+Mы гoтовы cдeлать Baм лучшee пpeдлoжение на пoкупку нoвoго автомoбиля Чангaн LAMORE.
+He упуcтитe cвой шанс!
+
+Дaже если у Вас есть пpeдлoжениe, кoторое кaжется oптимaльным, позвоните нaм, и мы егo улучшим!!! 
+
+Нeт ничегo нeвoзмoжнoго вмecтe с СНАNGАN в Чанган Центр Энгельс!
+
+Мы приглашаем Вас пройти тест-драйв и оценить все преимущества автомобилей Changan. Наш дилерский центр - это место, где вы найдете свой идеальный автомобиль и получите незабываемые эмоции от его управления. 
+
+Мы ждем Вас!
+
+Встречайте Changan LAMORE  — самый доступный и стильный седан на российском рынке! Changan LAMORE — ваш надёжный спутник в мире автомобилей. Этот седан создан для тех, кто ценит качество, комфорт и доступность. 
+Не упустите возможность стать обладателем Changan LAMORE и наслаждаться комфортом, стилем и надёжностью на дорогах!</description>
+			<images>
+				<image>https://photo.toyotasever.ru/LS5A2DKE0RA002589/944019c65e7e45eb39e7b8b23ca6043c.jpg</image>
+				<image>https://photo.toyotasever.ru/LS5A2DKE0RA002589/57f398f309bd852bfcf4f6fa54651595.jpg</image>
+				<image>https://photo.toyotasever.ru/LS5A2DKE0RA002589/b46271808ab9fdd50d36a7ab92dcd182.jpg</image>
+				<image>https://photo.toyotasever.ru/LS5A2DKE0RA002589/d760970679a3a16f7a0fb9a373999abf.jpg</image>
+				<image>https://photo.toyotasever.ru/LS5A2DKE0RA002589/ab67428ed47c8ecedf7293c0f127ffd6.jpg</image>
+				<image>https://photo.toyotasever.ru/LS5A2DKE0RA002589/12ca41b3c039bdf3937f7ebe2ec858ce.jpg</image>
+				<image>https://photo.toyotasever.ru/LS5A2DKE0RA002589/526d18d0a6d622ddfb9342505c73f3ce.jpg</image>
+				<image>https://photo.toyotasever.ru/LS5A2DKE0RA002589/e3e40164f821d4a10f17c2df8064acb2.jpg</image>
+				<image>https://photo.toyotasever.ru/LS5A2DKE0RA002589/b78cf8eb41c46b42e05e03f990725d46.jpg</image>
+			</images>
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<max_discount>450000</max_discount><priceWithDiscount>2419900</priceWithDiscount><sale_price>2419900</sale_price><url>https://auto-team.pro/cars/changan-lamore-15-amt-180-лс-базовая-серый-2024/</url></car>
+		<car>
+			<mark_id>Changan</mark_id>
+			<folder_id>Lamore</folder_id>
+			<modification_id>1.5 AMT (180 л.с.)</modification_id>
+			<body_type>Седан</body_type>
+			<complectation_name>Базовая</complectation_name>
+			<wheel>левый</wheel>
+			<color>Белый</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<owners_number>Не было владельцев</owners_number>
+			<year>2024</year>
+			<price>2869900</price>
+			<credit_discount>150000</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>100000</tradein_discount>
+			<currency>RUR</currency>
+			<vin>LS5A2DKE3RA003381</vin>
+			<description>Добро пожаловать в наш новый дилерский центр Чанган Центр Энгельс! 
+
+Mы гoтовы cдeлать Baм лучшee пpeдлoжение на пoкупку нoвoго автомoбиля Чангaн LAMORE.
+He упуcтитe cвой шанс!
+
+Дaже если у Вас есть пpeдлoжениe, кoторое кaжется oптимaльным, позвоните нaм, и мы егo улучшим!!! 
+
+Нeт ничегo нeвoзмoжнoго вмecтe с СНАNGАN в Чанган Центр Энгельс!
+
+Мы приглашаем Вас пройти тест-драйв и оценить все преимущества автомобилей Changan. Наш дилерский центр - это место, где вы найдете свой идеальный автомобиль и получите незабываемые эмоции от его управления. 
+
+Мы ждем Вас!
+
+Встречайте Changan LAMORE  — самый доступный и стильный седан на российском рынке! Changan LAMORE — ваш надёжный спутник в мире автомобилей. Этот седан создан для тех, кто ценит качество, комфорт и доступность. 
+Не упустите возможность стать обладателем Changan LAMORE и наслаждаться комфортом, стилем и надёжностью на дорогах!</description>
+			<images>
+				<image>https://photo.toyotasever.ru/LS5A2DKE3RA003381/f127519c59331c8ecf263bef9462d513.jpg</image>
+				<image>https://photo.toyotasever.ru/LS5A2DKE3RA003381/35c58160ed535240d62a42fbb69cee51.jpg</image>
+				<image>https://photo.toyotasever.ru/LS5A2DKE3RA003381/cc5024625fecd1cd49688259bebfff2e.jpg</image>
+				<image>https://photo.toyotasever.ru/LS5A2DKE3RA003381/79e12554edf042d8c37ffb997c2200be.jpg</image>
+				<image>https://photo.toyotasever.ru/LS5A2DKE3RA003381/fa00973e6d1d1578f573fb25b0e31426.jpg</image>
+				<image>https://photo.toyotasever.ru/LS5A2DKE3RA003381/bc142ee034429f5651973233b9929d79.jpg</image>
+				<image>https://photo.toyotasever.ru/LS5A2DKE3RA003381/a8879edc5fb375152ed7da116b98a4f8.jpg</image>
+				<image>https://photo.toyotasever.ru/LS5A2DKE3RA003381/ea06498fcadbe058fbadcca02d7b6971.jpg</image>
+				<image>https://photo.toyotasever.ru/LS5A2DKE3RA003381/2b2d34880f0ab9ba5e124e3dc0242e8d.jpg</image>
+			</images>
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<max_discount>450000</max_discount><priceWithDiscount>2419900</priceWithDiscount><sale_price>2419900</sale_price><url>https://auto-team.pro/cars/changan-lamore-15-amt-180-лс-базовая-белый-2024/</url></car>
+		<car>
+			<mark_id>Changan</mark_id>
+			<folder_id>Lamore</folder_id>
+			<modification_id>1.5 AMT (180 л.с.)</modification_id>
+			<body_type>Седан</body_type>
+			<complectation_name>Базовая</complectation_name>
+			<wheel>левый</wheel>
 			<color>Белый</color>
 			<metallic>нет</metallic>
 			<availability>в наличии</availability>
@@ -1353,202 +1549,6 @@ He упуcтитe cвой шанс!
 				<image>https://photo.toyotasever.ru/LS5A2DKE2RA004313/2c9180b34227ceedb2407f8b5ef8480e.jpg</image>
 				<image>https://photo.toyotasever.ru/LS5A2DKE2RA004313/40fb6f1b0df7a7b83fff39785652e882.jpg</image>
 				<image>https://photo.toyotasever.ru/LS5A2DKE2RA004313/f5cd7c968802ce3005764ca94f4e1318.jpg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<max_discount>450000</max_discount><priceWithDiscount>2419900</priceWithDiscount><sale_price>2419900</sale_price><url>https://auto-team.pro/cars/changan-lamore-15-amt-180-лс-базовая-серый-2024/</url></car>
-		<car>
-			<mark_id>Changan</mark_id>
-			<folder_id>Lamore</folder_id>
-			<modification_id>1.5 AMT (180 л.с.)</modification_id>
-			<body_type>Седан</body_type>
-			<complectation_name>Базовая</complectation_name>
-			<wheel>левый</wheel>
-			<color>Серый</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<owners_number>Не было владельцев</owners_number>
-			<year>2024</year>
-			<price>2869900</price>
-			<credit_discount>150000</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>100000</tradein_discount>
-			<currency>RUR</currency>
-			<vin>LS5A2DKE9RA002199</vin>
-			<description>Добро пожаловать в наш новый дилерский центр Чанган Центр Энгельс! 
-
-Mы гoтовы cдeлать Baм лучшee пpeдлoжение на пoкупку нoвoго автомoбиля Чангaн LAMORE.
-He упуcтитe cвой шанс!
-
-Дaже если у Вас есть пpeдлoжениe, кoторое кaжется oптимaльным, позвоните нaм, и мы егo улучшим!!! 
-
-Нeт ничегo нeвoзмoжнoго вмecтe с СНАNGАN в Чанган Центр Энгельс!
-
-Мы приглашаем Вас пройти тест-драйв и оценить все преимущества автомобилей Changan. Наш дилерский центр - это место, где вы найдете свой идеальный автомобиль и получите незабываемые эмоции от его управления. 
-
-Мы ждем Вас!
-
-Встречайте Changan LAMORE  — самый доступный и стильный седан на российском рынке! Changan LAMORE — ваш надёжный спутник в мире автомобилей. Этот седан создан для тех, кто ценит качество, комфорт и доступность. 
-Не упустите возможность стать обладателем Changan LAMORE и наслаждаться комфортом, стилем и надёжностью на дорогах!</description>
-			<images>
-				<image>https://photo.toyotasever.ru/LS5A2DKE9RA002199/09e3ab812c4154771a1baed72d24f141.jpg</image>
-				<image>https://photo.toyotasever.ru/LS5A2DKE9RA002199/6ab4b93839335b64c0c87c5f7cdc1ea6.jpg</image>
-				<image>https://photo.toyotasever.ru/LS5A2DKE9RA002199/cd5eb1cf4d884b2fa36c107b11df6cbc.jpg</image>
-				<image>https://photo.toyotasever.ru/LS5A2DKE9RA002199/a286b826b3d8b0ebdc3282a7cd201c8f.jpg</image>
-				<image>https://photo.toyotasever.ru/LS5A2DKE9RA002199/8756b3cee62065a79a0e5ce68cd663fe.jpg</image>
-				<image>https://photo.toyotasever.ru/LS5A2DKE9RA002199/120bfe4047e265f62d9d1678a633f7f7.jpg</image>
-				<image>https://photo.toyotasever.ru/LS5A2DKE9RA002199/e966091168534e4166f11105f63598b5.jpg</image>
-				<image>https://photo.toyotasever.ru/LS5A2DKE9RA002199/dd4a6042cd2d1483f1145e719c54bed2.jpg</image>
-				<image>https://photo.toyotasever.ru/LS5A2DKE9RA002199/190a12262c9b6c59c38639eaecc83b28.jpg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<max_discount>450000</max_discount><priceWithDiscount>2419900</priceWithDiscount><sale_price>2419900</sale_price><url>https://auto-team.pro/cars/changan-lamore-15-amt-180-лс-базовая-серый-2024/</url></car>
-		<car>
-			<mark_id>Changan</mark_id>
-			<folder_id>Lamore</folder_id>
-			<modification_id>1.5 AMT (180 л.с.)</modification_id>
-			<body_type>Седан</body_type>
-			<complectation_name>Базовая</complectation_name>
-			<wheel>левый</wheel>
-			<color>Белый</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<owners_number>Не было владельцев</owners_number>
-			<year>2024</year>
-			<price>2869900</price>
-			<credit_discount>150000</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>100000</tradein_discount>
-			<currency>RUR</currency>
-			<vin>LS5A2DKE3RA003381</vin>
-			<description>Добро пожаловать в наш новый дилерский центр Чанган Центр Энгельс! 
-
-Mы гoтовы cдeлать Baм лучшee пpeдлoжение на пoкупку нoвoго автомoбиля Чангaн LAMORE.
-He упуcтитe cвой шанс!
-
-Дaже если у Вас есть пpeдлoжениe, кoторое кaжется oптимaльным, позвоните нaм, и мы егo улучшим!!! 
-
-Нeт ничегo нeвoзмoжнoго вмecтe с СНАNGАN в Чанган Центр Энгельс!
-
-Мы приглашаем Вас пройти тест-драйв и оценить все преимущества автомобилей Changan. Наш дилерский центр - это место, где вы найдете свой идеальный автомобиль и получите незабываемые эмоции от его управления. 
-
-Мы ждем Вас!
-
-Встречайте Changan LAMORE  — самый доступный и стильный седан на российском рынке! Changan LAMORE — ваш надёжный спутник в мире автомобилей. Этот седан создан для тех, кто ценит качество, комфорт и доступность. 
-Не упустите возможность стать обладателем Changan LAMORE и наслаждаться комфортом, стилем и надёжностью на дорогах!</description>
-			<images>
-				<image>https://photo.toyotasever.ru/LS5A2DKE3RA003381/f127519c59331c8ecf263bef9462d513.jpg</image>
-				<image>https://photo.toyotasever.ru/LS5A2DKE3RA003381/35c58160ed535240d62a42fbb69cee51.jpg</image>
-				<image>https://photo.toyotasever.ru/LS5A2DKE3RA003381/cc5024625fecd1cd49688259bebfff2e.jpg</image>
-				<image>https://photo.toyotasever.ru/LS5A2DKE3RA003381/79e12554edf042d8c37ffb997c2200be.jpg</image>
-				<image>https://photo.toyotasever.ru/LS5A2DKE3RA003381/fa00973e6d1d1578f573fb25b0e31426.jpg</image>
-				<image>https://photo.toyotasever.ru/LS5A2DKE3RA003381/bc142ee034429f5651973233b9929d79.jpg</image>
-				<image>https://photo.toyotasever.ru/LS5A2DKE3RA003381/a8879edc5fb375152ed7da116b98a4f8.jpg</image>
-				<image>https://photo.toyotasever.ru/LS5A2DKE3RA003381/ea06498fcadbe058fbadcca02d7b6971.jpg</image>
-				<image>https://photo.toyotasever.ru/LS5A2DKE3RA003381/2b2d34880f0ab9ba5e124e3dc0242e8d.jpg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<max_discount>450000</max_discount><priceWithDiscount>2419900</priceWithDiscount><sale_price>2419900</sale_price><url>https://auto-team.pro/cars/changan-lamore-15-amt-180-лс-базовая-белый-2024/</url></car>
-		<car>
-			<mark_id>Changan</mark_id>
-			<folder_id>Lamore</folder_id>
-			<modification_id>1.5 AMT (180 л.с.)</modification_id>
-			<body_type>Седан</body_type>
-			<complectation_name>Базовая</complectation_name>
-			<wheel>левый</wheel>
-			<color>Серый</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<owners_number>Не было владельцев</owners_number>
-			<year>2024</year>
-			<price>2869900</price>
-			<credit_discount>150000</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>100000</tradein_discount>
-			<currency>RUR</currency>
-			<vin>LS5A2DKE0RA002589</vin>
-			<description>Добро пожаловать в наш новый дилерский центр Чанган Центр Энгельс! 
-
-Mы гoтовы cдeлать Baм лучшee пpeдлoжение на пoкупку нoвoго автомoбиля Чангaн LAMORE.
-He упуcтитe cвой шанс!
-
-Дaже если у Вас есть пpeдлoжениe, кoторое кaжется oптимaльным, позвоните нaм, и мы егo улучшим!!! 
-
-Нeт ничегo нeвoзмoжнoго вмecтe с СНАNGАN в Чанган Центр Энгельс!
-
-Мы приглашаем Вас пройти тест-драйв и оценить все преимущества автомобилей Changan. Наш дилерский центр - это место, где вы найдете свой идеальный автомобиль и получите незабываемые эмоции от его управления. 
-
-Мы ждем Вас!
-
-Встречайте Changan LAMORE  — самый доступный и стильный седан на российском рынке! Changan LAMORE — ваш надёжный спутник в мире автомобилей. Этот седан создан для тех, кто ценит качество, комфорт и доступность. 
-Не упустите возможность стать обладателем Changan LAMORE и наслаждаться комфортом, стилем и надёжностью на дорогах!</description>
-			<images>
-				<image>https://photo.toyotasever.ru/LS5A2DKE0RA002589/944019c65e7e45eb39e7b8b23ca6043c.jpg</image>
-				<image>https://photo.toyotasever.ru/LS5A2DKE0RA002589/57f398f309bd852bfcf4f6fa54651595.jpg</image>
-				<image>https://photo.toyotasever.ru/LS5A2DKE0RA002589/b46271808ab9fdd50d36a7ab92dcd182.jpg</image>
-				<image>https://photo.toyotasever.ru/LS5A2DKE0RA002589/d760970679a3a16f7a0fb9a373999abf.jpg</image>
-				<image>https://photo.toyotasever.ru/LS5A2DKE0RA002589/ab67428ed47c8ecedf7293c0f127ffd6.jpg</image>
-				<image>https://photo.toyotasever.ru/LS5A2DKE0RA002589/12ca41b3c039bdf3937f7ebe2ec858ce.jpg</image>
-				<image>https://photo.toyotasever.ru/LS5A2DKE0RA002589/526d18d0a6d622ddfb9342505c73f3ce.jpg</image>
-				<image>https://photo.toyotasever.ru/LS5A2DKE0RA002589/e3e40164f821d4a10f17c2df8064acb2.jpg</image>
-				<image>https://photo.toyotasever.ru/LS5A2DKE0RA002589/b78cf8eb41c46b42e05e03f990725d46.jpg</image>
-			</images>
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<max_discount>450000</max_discount><priceWithDiscount>2419900</priceWithDiscount><sale_price>2419900</sale_price><url>https://auto-team.pro/cars/changan-lamore-15-amt-180-лс-базовая-серый-2024/</url></car>
-		<car>
-			<mark_id>Changan</mark_id>
-			<folder_id>Lamore</folder_id>
-			<modification_id>1.5 AMT (180 л.с.)</modification_id>
-			<body_type>Седан</body_type>
-			<complectation_name>Базовая</complectation_name>
-			<wheel>левый</wheel>
-			<color>Серый</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<owners_number>Не было владельцев</owners_number>
-			<year>2024</year>
-			<price>2869900</price>
-			<credit_discount>150000</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>100000</tradein_discount>
-			<currency>RUR</currency>
-			<vin>LS5A2DKE3RA001954</vin>
-			<description>Добро пожаловать в наш новый дилерский центр Чанган Центр Энгельс! 
-
-Mы гoтовы cдeлать Baм лучшee пpeдлoжение на пoкупку нoвoго автомoбиля Чангaн LAMORE.
-He упуcтитe cвой шанс!
-
-Дaже если у Вас есть пpeдлoжениe, кoторое кaжется oптимaльным, позвоните нaм, и мы егo улучшим!!! 
-
-Нeт ничегo нeвoзмoжнoго вмecтe с СНАNGАN в Чанган Центр Энгельс!
-
-Мы приглашаем Вас пройти тест-драйв и оценить все преимущества автомобилей Changan. Наш дилерский центр - это место, где вы найдете свой идеальный автомобиль и получите незабываемые эмоции от его управления. 
-
-Мы ждем Вас!
-
-Встречайте Changan LAMORE  — самый доступный и стильный седан на российском рынке! Changan LAMORE — ваш надёжный спутник в мире автомобилей. Этот седан создан для тех, кто ценит качество, комфорт и доступность. 
-Не упустите возможность стать обладателем Changan LAMORE и наслаждаться комфортом, стилем и надёжностью на дорогах!</description>
-			<images>
-				<image>https://photo.toyotasever.ru/LS5A2DKE3RA001954/40f5cf9637af4bab652fb36873323d8b.jpg</image>
-				<image>https://photo.toyotasever.ru/LS5A2DKE3RA001954/b4c7a85dd44179f53ead1c1b96bc2104.jpg</image>
-				<image>https://photo.toyotasever.ru/LS5A2DKE3RA001954/38c8dc4e9e898f608f4ac1fee7f0b0e9.jpg</image>
-				<image>https://photo.toyotasever.ru/LS5A2DKE3RA001954/ad6f3ed2487c7dd60a2ed01e67a4b329.jpg</image>
-				<image>https://photo.toyotasever.ru/LS5A2DKE3RA001954/6e67718440430b36d928a41630d6f09c.jpg</image>
-				<image>https://photo.toyotasever.ru/LS5A2DKE3RA001954/6544b7085d1871a8d6dce7e3c9ab170e.jpg</image>
-				<image>https://photo.toyotasever.ru/LS5A2DKE3RA001954/20ebbac11cbfe83a99c56e92d037213e.jpg</image>
-				<image>https://photo.toyotasever.ru/LS5A2DKE3RA001954/813abc365492b0f2250af0ffafca37e6.jpg</image>
-				<image>https://photo.toyotasever.ru/LS5A2DKE3RA001954/1af08571982136e2f0ce5592e4ee1809.jpg</image>
 			</images>
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
@@ -1692,7 +1692,7 @@ He упуcтитe cвой шанс!
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>80000</tradein_discount>
 			<currency>RUR</currency>
-			<vin>LS4ASE2E7SA953243</vin>
+			<vin>LS4ASE2E0SA921282</vin>
 			<description>Добро пожаловать в наш новый дилерский центр Чанган Центр Энгельс! 
 
 Mы гoтовы cдeлать Baм лучшee пpeдлoжение на пoкупку нoвoго автомoбиля Чангaн UNI -S.
@@ -1801,7 +1801,7 @@ He упуcтитe cвой шанс!
 			<body_type>Внедорожник 5 дв.</body_type>
 			<complectation_name>Tech</complectation_name>
 			<wheel>левый</wheel>
-			<color>Серый</color>
+			<color>Красный</color>
 			<metallic>нет</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
@@ -1812,7 +1812,7 @@ He упуcтитe cвой шанс!
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>80000</tradein_discount>
 			<currency>RUR</currency>
-			<vin>LS4ASE2EXSA920897</vin>
+			<vin>LS4ASE2E7SA953243</vin>
 			<description>Добро пожаловать в наш новый дилерский центр Чанган Центр Энгельс! 
 
 Mы гoтовы cдeлать Baм лучшee пpeдлoжение на пoкупку нoвoго автомoбиля Чангaн UNI -S.
@@ -1833,7 +1833,7 @@ He упуcтитe cвой шанс!
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
-		<max_discount>330000</max_discount><priceWithDiscount>2629900</priceWithDiscount><sale_price>2629900</sale_price><url>https://auto-team.pro/cars/changan-cs55plus-i-рестайлинг-15-amt-181-лс-tech-серый-2024/</url></car>
+		<max_discount>330000</max_discount><priceWithDiscount>2629900</priceWithDiscount><sale_price>2629900</sale_price><url>https://auto-team.pro/cars/changan-cs55plus-i-рестайлинг-15-amt-181-лс-tech-красный-2024/</url></car>
 		<car>
 			<mark_id>Changan</mark_id>
 			<folder_id>CS55PLUS, I Рестайлинг</folder_id>
@@ -1874,6 +1874,126 @@ He упуcтитe cвой шанс!
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
 		<max_discount>330000</max_discount><priceWithDiscount>2629900</priceWithDiscount><sale_price>2629900</sale_price><url>https://auto-team.pro/cars/changan-cs55plus-i-рестайлинг-15-amt-181-лс-tech-серый-2024/</url></car>
+		<car>
+			<mark_id>Changan</mark_id>
+			<folder_id>CS55PLUS, I Рестайлинг</folder_id>
+			<modification_id>1.5 AMT (181 л.с.)</modification_id>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<complectation_name>Tech</complectation_name>
+			<wheel>левый</wheel>
+			<color>Черный</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<owners_number>Не было владельцев</owners_number>
+			<year>2024</year>
+			<price>2959900</price>
+			<credit_discount>100000</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>80000</tradein_discount>
+			<currency>RUR</currency>
+			<vin>LS4ASE2E6SA923599</vin>
+			<description>Добро пожаловать в наш новый дилерский центр Чанган Центр Энгельс! 
+
+Mы гoтовы cдeлать Baм лучшee пpeдлoжение на пoкупку нoвoго автомoбиля Чангaн UNI -S.
+
+He упуcтитe cвой шанс!
+
+Дaже если у Вас есть пpeдлoжениe, кoторое кaжется oптимaльным, позвоните нaм, и мы егo улучшим!!! 
+
+Нeт ничегo нeвoзмoжнoго вмecтe с СНАNGАN в Чанган Центр Энгельс!
+
+Мы приглашаем Вас пройти тест-драйв и оценить все преимущества автомобилей Changan. Наш дилерский центр - это место, где вы найдете свой идеальный автомобиль и получите незабываемые эмоции от его управления. 
+
+Мы ждем Вас!
+
+Встречайте Changan UNI -S — самый доступный и стильный кроссовер на российском рынке! Changan UNI -S — ваш надёжный спутник в мире автомобилей. Этот кроссовер создан для тех, кто ценит качество, комфорт и доступность. 
+Не упустите возможность стать обладателем Changan UNI -S и наслаждаться комфортом, стилем и надёжностью на дорогах!</description>
+			<images />
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<max_discount>330000</max_discount><priceWithDiscount>2629900</priceWithDiscount><sale_price>2629900</sale_price><url>https://auto-team.pro/cars/changan-cs55plus-i-рестайлинг-15-amt-181-лс-tech-черный-2024/</url></car>
+		<car>
+			<mark_id>Changan</mark_id>
+			<folder_id>CS55PLUS, I Рестайлинг</folder_id>
+			<modification_id>1.5 AMT (181 л.с.)</modification_id>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<complectation_name>Tech</complectation_name>
+			<wheel>левый</wheel>
+			<color>Черный</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<owners_number>Не было владельцев</owners_number>
+			<year>2024</year>
+			<price>2959900</price>
+			<credit_discount>100000</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>80000</tradein_discount>
+			<currency>RUR</currency>
+			<vin>LS4ASE2E6SA923585</vin>
+			<description>Добро пожаловать в наш новый дилерский центр Чанган Центр Энгельс! 
+
+Mы гoтовы cдeлать Baм лучшee пpeдлoжение на пoкупку нoвoго автомoбиля Чангaн UNI -S.
+
+He упуcтитe cвой шанс!
+
+Дaже если у Вас есть пpeдлoжениe, кoторое кaжется oптимaльным, позвоните нaм, и мы егo улучшим!!! 
+
+Нeт ничегo нeвoзмoжнoго вмecтe с СНАNGАN в Чанган Центр Энгельс!
+
+Мы приглашаем Вас пройти тест-драйв и оценить все преимущества автомобилей Changan. Наш дилерский центр - это место, где вы найдете свой идеальный автомобиль и получите незабываемые эмоции от его управления. 
+
+Мы ждем Вас!
+
+Встречайте Changan UNI -S — самый доступный и стильный кроссовер на российском рынке! Changan UNI -S — ваш надёжный спутник в мире автомобилей. Этот кроссовер создан для тех, кто ценит качество, комфорт и доступность. 
+Не упустите возможность стать обладателем Changan UNI -S и наслаждаться комфортом, стилем и надёжностью на дорогах!</description>
+			<images />
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<max_discount>330000</max_discount><priceWithDiscount>2629900</priceWithDiscount><sale_price>2629900</sale_price><url>https://auto-team.pro/cars/changan-cs55plus-i-рестайлинг-15-amt-181-лс-tech-черный-2024/</url></car>
+		<car>
+			<mark_id>Changan</mark_id>
+			<folder_id>CS55PLUS, I Рестайлинг</folder_id>
+			<modification_id>1.5 AMT (181 л.с.)</modification_id>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<complectation_name>Tech</complectation_name>
+			<wheel>левый</wheel>
+			<color>Черный</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<owners_number>Не было владельцев</owners_number>
+			<year>2024</year>
+			<price>2959900</price>
+			<credit_discount>100000</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>80000</tradein_discount>
+			<currency>RUR</currency>
+			<vin>LS4ASE2E6SA923537</vin>
+			<description>Добро пожаловать в наш новый дилерский центр Чанган Центр Энгельс! 
+
+Mы гoтовы cдeлать Baм лучшee пpeдлoжение на пoкупку нoвoго автомoбиля Чангaн UNI -S.
+
+He упуcтитe cвой шанс!
+
+Дaже если у Вас есть пpeдлoжениe, кoторое кaжется oптимaльным, позвоните нaм, и мы егo улучшим!!! 
+
+Нeт ничегo нeвoзмoжнoго вмecтe с СНАNGАN в Чанган Центр Энгельс!
+
+Мы приглашаем Вас пройти тест-драйв и оценить все преимущества автомобилей Changan. Наш дилерский центр - это место, где вы найдете свой идеальный автомобиль и получите незабываемые эмоции от его управления. 
+
+Мы ждем Вас!
+
+Встречайте Changan UNI -S — самый доступный и стильный кроссовер на российском рынке! Changan UNI -S — ваш надёжный спутник в мире автомобилей. Этот кроссовер создан для тех, кто ценит качество, комфорт и доступность. 
+Не упустите возможность стать обладателем Changan UNI -S и наслаждаться комфортом, стилем и надёжностью на дорогах!</description>
+			<images />
+			<multiposting>
+				<classifieds>autoru,avito</classifieds>
+			</multiposting>
+		<max_discount>330000</max_discount><priceWithDiscount>2629900</priceWithDiscount><sale_price>2629900</sale_price><url>https://auto-team.pro/cars/changan-cs55plus-i-рестайлинг-15-amt-181-лс-tech-черный-2024/</url></car>
 		<car>
 			<mark_id>Changan</mark_id>
 			<folder_id>CS55PLUS, I Рестайлинг</folder_id>
@@ -1972,86 +2092,6 @@ He упуcтитe cвой шанс!
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>80000</tradein_discount>
 			<currency>RUR</currency>
-			<vin>LS4ASE2E6SA923585</vin>
-			<description>Добро пожаловать в наш новый дилерский центр Чанган Центр Энгельс! 
-
-Mы гoтовы cдeлать Baм лучшee пpeдлoжение на пoкупку нoвoго автомoбиля Чангaн UNI -S.
-
-He упуcтитe cвой шанс!
-
-Дaже если у Вас есть пpeдлoжениe, кoторое кaжется oптимaльным, позвоните нaм, и мы егo улучшим!!! 
-
-Нeт ничегo нeвoзмoжнoго вмecтe с СНАNGАN в Чанган Центр Энгельс!
-
-Мы приглашаем Вас пройти тест-драйв и оценить все преимущества автомобилей Changan. Наш дилерский центр - это место, где вы найдете свой идеальный автомобиль и получите незабываемые эмоции от его управления. 
-
-Мы ждем Вас!
-
-Встречайте Changan UNI -S — самый доступный и стильный кроссовер на российском рынке! Changan UNI -S — ваш надёжный спутник в мире автомобилей. Этот кроссовер создан для тех, кто ценит качество, комфорт и доступность. 
-Не упустите возможность стать обладателем Changan UNI -S и наслаждаться комфортом, стилем и надёжностью на дорогах!</description>
-			<images />
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<max_discount>330000</max_discount><priceWithDiscount>2629900</priceWithDiscount><sale_price>2629900</sale_price><url>https://auto-team.pro/cars/changan-cs55plus-i-рестайлинг-15-amt-181-лс-tech-черный-2024/</url></car>
-		<car>
-			<mark_id>Changan</mark_id>
-			<folder_id>CS55PLUS, I Рестайлинг</folder_id>
-			<modification_id>1.5 AMT (181 л.с.)</modification_id>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<complectation_name>Tech</complectation_name>
-			<wheel>левый</wheel>
-			<color>Черный</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<owners_number>Не было владельцев</owners_number>
-			<year>2024</year>
-			<price>2959900</price>
-			<credit_discount>100000</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>80000</tradein_discount>
-			<currency>RUR</currency>
-			<vin>LS4ASE2E6SA923599</vin>
-			<description>Добро пожаловать в наш новый дилерский центр Чанган Центр Энгельс! 
-
-Mы гoтовы cдeлать Baм лучшee пpeдлoжение на пoкупку нoвoго автомoбиля Чангaн UNI -S.
-
-He упуcтитe cвой шанс!
-
-Дaже если у Вас есть пpeдлoжениe, кoторое кaжется oптимaльным, позвоните нaм, и мы егo улучшим!!! 
-
-Нeт ничегo нeвoзмoжнoго вмecтe с СНАNGАN в Чанган Центр Энгельс!
-
-Мы приглашаем Вас пройти тест-драйв и оценить все преимущества автомобилей Changan. Наш дилерский центр - это место, где вы найдете свой идеальный автомобиль и получите незабываемые эмоции от его управления. 
-
-Мы ждем Вас!
-
-Встречайте Changan UNI -S — самый доступный и стильный кроссовер на российском рынке! Changan UNI -S — ваш надёжный спутник в мире автомобилей. Этот кроссовер создан для тех, кто ценит качество, комфорт и доступность. 
-Не упустите возможность стать обладателем Changan UNI -S и наслаждаться комфортом, стилем и надёжностью на дорогах!</description>
-			<images />
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<max_discount>330000</max_discount><priceWithDiscount>2629900</priceWithDiscount><sale_price>2629900</sale_price><url>https://auto-team.pro/cars/changan-cs55plus-i-рестайлинг-15-amt-181-лс-tech-черный-2024/</url></car>
-		<car>
-			<mark_id>Changan</mark_id>
-			<folder_id>CS55PLUS, I Рестайлинг</folder_id>
-			<modification_id>1.5 AMT (181 л.с.)</modification_id>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<complectation_name>Tech</complectation_name>
-			<wheel>левый</wheel>
-			<color>Черный</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<owners_number>Не было владельцев</owners_number>
-			<year>2024</year>
-			<price>2959900</price>
-			<credit_discount>100000</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>80000</tradein_discount>
-			<currency>RUR</currency>
 			<vin>LS4ASE2E1RA271369</vin>
 			<description>Добро пожаловать в наш новый дилерский центр Чанган Центр Энгельс! 
 
@@ -2074,86 +2114,6 @@ He упуcтитe cвой шанс!
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
 		<max_discount>330000</max_discount><priceWithDiscount>2629900</priceWithDiscount><sale_price>2629900</sale_price><url>https://auto-team.pro/cars/changan-cs55plus-i-рестайлинг-15-amt-181-лс-tech-черный-2024/</url></car>
-		<car>
-			<mark_id>Changan</mark_id>
-			<folder_id>CS55PLUS, I Рестайлинг</folder_id>
-			<modification_id>1.5 AMT (181 л.с.)</modification_id>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<complectation_name>Tech</complectation_name>
-			<wheel>левый</wheel>
-			<color>Черный</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<owners_number>Не было владельцев</owners_number>
-			<year>2024</year>
-			<price>2959900</price>
-			<credit_discount>100000</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>80000</tradein_discount>
-			<currency>RUR</currency>
-			<vin>LS4ASE2E6SA923537</vin>
-			<description>Добро пожаловать в наш новый дилерский центр Чанган Центр Энгельс! 
-
-Mы гoтовы cдeлать Baм лучшee пpeдлoжение на пoкупку нoвoго автомoбиля Чангaн UNI -S.
-
-He упуcтитe cвой шанс!
-
-Дaже если у Вас есть пpeдлoжениe, кoторое кaжется oптимaльным, позвоните нaм, и мы егo улучшим!!! 
-
-Нeт ничегo нeвoзмoжнoго вмecтe с СНАNGАN в Чанган Центр Энгельс!
-
-Мы приглашаем Вас пройти тест-драйв и оценить все преимущества автомобилей Changan. Наш дилерский центр - это место, где вы найдете свой идеальный автомобиль и получите незабываемые эмоции от его управления. 
-
-Мы ждем Вас!
-
-Встречайте Changan UNI -S — самый доступный и стильный кроссовер на российском рынке! Changan UNI -S — ваш надёжный спутник в мире автомобилей. Этот кроссовер создан для тех, кто ценит качество, комфорт и доступность. 
-Не упустите возможность стать обладателем Changan UNI -S и наслаждаться комфортом, стилем и надёжностью на дорогах!</description>
-			<images />
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<max_discount>330000</max_discount><priceWithDiscount>2629900</priceWithDiscount><sale_price>2629900</sale_price><url>https://auto-team.pro/cars/changan-cs55plus-i-рестайлинг-15-amt-181-лс-tech-черный-2024/</url></car>
-		<car>
-			<mark_id>Changan</mark_id>
-			<folder_id>CS55PLUS, I Рестайлинг</folder_id>
-			<modification_id>1.5 AMT (181 л.с.)</modification_id>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<complectation_name>Tech</complectation_name>
-			<wheel>левый</wheel>
-			<color>Красный</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<owners_number>Не было владельцев</owners_number>
-			<year>2024</year>
-			<price>2959900</price>
-			<credit_discount>100000</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>80000</tradein_discount>
-			<currency>RUR</currency>
-			<vin>LS4ASE2E0SA921282</vin>
-			<description>Добро пожаловать в наш новый дилерский центр Чанган Центр Энгельс! 
-
-Mы гoтовы cдeлать Baм лучшee пpeдлoжение на пoкупку нoвoго автомoбиля Чангaн UNI -S.
-
-He упуcтитe cвой шанс!
-
-Дaже если у Вас есть пpeдлoжениe, кoторое кaжется oптимaльным, позвоните нaм, и мы егo улучшим!!! 
-
-Нeт ничегo нeвoзмoжнoго вмecтe с СНАNGАN в Чанган Центр Энгельс!
-
-Мы приглашаем Вас пройти тест-драйв и оценить все преимущества автомобилей Changan. Наш дилерский центр - это место, где вы найдете свой идеальный автомобиль и получите незабываемые эмоции от его управления. 
-
-Мы ждем Вас!
-
-Встречайте Changan UNI -S — самый доступный и стильный кроссовер на российском рынке! Changan UNI -S — ваш надёжный спутник в мире автомобилей. Этот кроссовер создан для тех, кто ценит качество, комфорт и доступность. 
-Не упустите возможность стать обладателем Changan UNI -S и наслаждаться комфортом, стилем и надёжностью на дорогах!</description>
-			<images />
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<max_discount>330000</max_discount><priceWithDiscount>2629900</priceWithDiscount><sale_price>2629900</sale_price><url>https://auto-team.pro/cars/changan-cs55plus-i-рестайлинг-15-amt-181-лс-tech-красный-2024/</url></car>
 		<car>
 			<mark_id>Changan</mark_id>
 			<folder_id>UNI-T, I Рестайлинг</folder_id>
@@ -3157,70 +3117,6 @@ GS4 это:
 			</multiposting>
 		<max_discount>300000</max_discount><priceWithDiscount>2699000</priceWithDiscount><sale_price>2699000</sale_price><url>https://auto-team.pro/cars/gac-gs4-15-amt-170-лс-gb-белый-2024/</url></car>
 		<car>
-			<unique_id>dc1da100c14bdecea58be6a70814126e</unique_id>
-			<mark_id>GAC</mark_id>
-			<folder_id>GS8, II</folder_id>
-			<modification_id>2.0 AT (231 л.с.) 4WD</modification_id>
-			<complectation_name>GL</complectation_name>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<wheel>левый</wheel>
-			<color>Черный</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<run>5</run>
-			<year>2024</year>
-			<price>4099000</price>
-			<credit_discount>100000</credit_discount>
-			<insurance_discount>50000</insurance_discount>
-			<tradein_discount>300000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<currency>RUR</currency>
-			<vin>LMGJU3G55R1045545</vin>
-			<description>Улучшим любое предложение на GAC GS8! Не верите? Звоните!
-
-GAC GS8 – это идеальное сочетание брутальности и современного стиля! Его цвет подчёркивает динамичный дизайн кузова, делая автомобиль не только практичным, но и невероятно стильным. В данной комплектации автомобиль становится воплощением технологий и комфорта, а салон с вставками из кожи добавляет интерьеру премиальности.
-
-Преимущества данного автомобиля GAC GS8:
-
-- Мощный и экономичный двигатель объёмом 2 литра (231 л.с.), который идеально подходит как для городской езды, так и для поездок за город
-- Инновационная мультимедийная система с сенсорным экраном, которая позволяет легко управлять всеми функциями автомобиля
-- Камера заднего вида и точная геометрия кузова обеспечивают удобную и безопасную парковку
-- Круиз-контроль, который добавляет удобства и комфорта во время длительных поездок
-- Стильная решётка радиатора и эффектные светодиодные фары подчёркивают элегантный, но мощный образ автомобиля
-- Продвинутая система полного привода
-- Классический автомат на 8 ступеней AISIN
-
-Интерьер:
-
-- Качественная отделка интерьера обеспечивает максимальный комфорт, а акценты делают интерьер выразительным и стильным
-
-Преимущества покупки нового автомобиля GAC GS8 в GАС Центр Саратов: 
-☑️ Большой выбор автомобилей в наличии 
-☑️ Быстрая выдача автомобиля в день покупки 
-☑️ Гарантия на автомобиль 5 лет или 150 000 км (в зависимости от того, что наступит раньше) 
-☑️ НДС и уникальные условия покупки в лизинг 
-☑️ Выгодные условия по обмену автомобиля 
-☑️ Дополнительные бонусы при обмене автомобилей с пробегом премиальных брендов (Audi, BMW, Mercedes, Lexus, Porsche, Land Rover, Jaguar, Volvo, Infiniti)
-
-Программы по кредитованию и страхованию в GАС Центр Саратов: 
-☑️ Дистанционная подача заявки на кредитование и страхование 
-☑️ Возможность выбора выгодной программы кредитования из предложений разных банков 
-☑️ Полное сопровождение сделки нашими специалистами
-
-⭐️Производитель: GAC Motor Corporation – один из крупнейших и уважаемых автопроизводителей Китая, сотрудничает с брендами мирового уровня, такими как Toyota, Honda и Mitsubishi. 
-⭐️GАС Центр Саратов – это ваш индивидуальный подход к выбору идеального автомобиля. 
-⭐️Выбирайте автомобиль, который соответствует вашему стилю жизни, в GАС Центр Саратов!
-
-Ждём вас в нашем дилерском центре: г. Саратов, ул. Усть-Курдюмская, д. 6. 
-
-*Подробности предложения у консультантов отдела продаж</description>
-			<images />
-			<multiposting>
-				<classifieds>autoru,avito</classifieds>
-			</multiposting>
-		<max_discount>450000</max_discount><priceWithDiscount>3649000</priceWithDiscount><sale_price>3649000</sale_price><url>https://auto-team.pro/cars/gac-gs8-ii-20-at-231-лс-4wd-gl-черный-2024/</url></car>
-		<car>
 			<unique_id>60ff536f62c27ca2b12ac62d70a5e7ae</unique_id>
 			<mark_id>GAC</mark_id>
 			<folder_id>GS8, II</folder_id>
@@ -3271,7 +3167,36 @@ GAC GS8 – это идеальное сочетание брутальност�
 Ждём вас в нашем дилерском центре: г. Саратов, ул. Усть-Курдюмская, д. 6.
 
 *Подробности предложения у консультантов отдела продаж</description>
-			<images />
+			<images>
+				<image>https://photo.toyotasever.ru/LMGJU3G84R1039374/a1472645748c098ee31c0df6d46cac52.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G84R1039374/5fdcf47a7b3050773b49fd10fa481519.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G84R1039374/29f4b042eb51a967ff925fd530580f6e.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G84R1039374/de39c7efe1076ed33ba76baf993f668f.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G84R1039374/a02ee0e234700f7e43d790000c9208ef.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G84R1039374/bdcd5af5bcf061ab95328d140f839679.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G84R1039374/df62f0de6f50167a1850fbdb55b655fe.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G84R1039374/c3145b34a76909581faff717f70f97a6.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G84R1039374/53180acacb816e77e842464e4ff1f882.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G84R1039374/d01b504cfcad3e0d9367d295cbb636e9.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G84R1039374/0046acfa0aa3d489f7d41fdd50777dd9.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G84R1039374/faf9d38615493756244b14429c84adec.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G84R1039374/e10663b9dbd6d2c59987008fca06998a.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G84R1039374/000c91ef422314c7e5e756a53c3fc7b5.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G84R1039374/0208811a93c13b8ba2a93d0456d765ac.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G84R1039374/d815b3e90c095e2a87396556d1633c68.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G84R1039374/8f8037b32ee3ddb47b142a5958afa049.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G84R1039374/ad768e6658b44af1fe0783b9658663f8.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G84R1039374/b241dc31af6101264c492e85b9f948fc.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G84R1039374/7b676245f037e90e515634addd53dd5d.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G84R1039374/21e6896edf3a190a8e735d5c42d849c4.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G84R1039374/bdfc6973acedf9addb1284ad2f19f969.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G84R1039374/9f0f073232e1f44217332d8958bee315.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G84R1039374/67bb8c58a5ed66080fee089a26fa9091.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G84R1039374/d3fa2002f6782c34e46966bd7a737219.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G84R1039374/7a90fdbb98c67a22c8734865769076af.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G84R1039374/9a2cacd7750ff894484682af731b3b14.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G84R1039374/909a30a4f39a8e47f3e4603c7e533e06.jpeg</image>
+			</images>
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
@@ -3497,7 +3422,47 @@ GS8  —  флагманский большой внедорожник для с
 Ждём вас в нашем дилерском центре: г. Саратов, ул. Усть-Курдюмская, д. 6.
 
 *Подробности предложения у консультантов отдела продаж</description>
-			<images />
+			<images>
+				<image>https://photo.toyotasever.ru/LMGJU3G84R1042193/84da2dcb70f8020500c20ed5a6a9ece1.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G84R1042193/629c6a4af321ce02bb81d50d9edc7da1.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G84R1042193/75aa2740c363e8fbeffe7b97ecec4842.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G84R1042193/67fdc0c567ebdd124d2f4711c793d40e.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G84R1042193/dd5447dcba5111f09803c944dd4465bb.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G84R1042193/7d51ca3666c2ab14097c84e17fbcec14.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G84R1042193/92443273eb6974a30d9c6bd01b199af3.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G84R1042193/fe29b3c0eb446db8b4ded2f4100b8398.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G84R1042193/7d47271dd55b812234eac731e82a0e92.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G84R1042193/03f95ff0cf61813b837ec6ddf1c4a35c.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G84R1042193/a25735867c0b66b5f776ca3527d7aeb4.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G84R1042193/f345c945f02b44372f33e1b8529c67aa.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G84R1042193/59b97391f3260ba6f4825f16b1fcf509.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G84R1042193/b2ccf70cad05cee3ec31a4b0a1f1e643.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G84R1042193/cd9c04cb12069dec98c64b22d3e1f638.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G84R1042193/2e3d60651ef86ab17fb068be00c4789a.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G84R1042193/72f5e8a2088f1c384e92122fa75477e3.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G84R1042193/98e2e06ba6a4cad986355946553a9237.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G84R1042193/9e97422cb49be3e0b21179d6ddd74eb3.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G84R1042193/e6c6f0e9382d6e182ec3bb6a39bcfc27.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G84R1042193/8ebb3f4e2999103a11cf599848d58a4a.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G84R1042193/c506adbd40ef1d3743170334ffd347ab.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G84R1042193/72892892af68136a195f61b9e3be78b3.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G84R1042193/d8cbf7136f6cf73a2ece28485ce97be5.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G84R1042193/45c97d6bac9bd818a62b3d5cb9042987.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G84R1042193/7e52727d413647d55d3790781deb068e.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G84R1042193/2e66c367864e23daa4229964f50451da.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G84R1042193/0968dbf5861fe131eaaa10d2d6bea43a.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G84R1042193/3f95ccc92b1968586c1d6c37e041eb86.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G84R1042193/394fe692c5b12a38712deadce7ccb776.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G84R1042193/2f660fc62ca2a39bf665fc83e5e71e00.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G84R1042193/e786440be9766b20c01a668e8dc1afb0.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G84R1042193/dec79b627430bd6e89ed9c6ab2149855.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G84R1042193/03a951d995c903891349f942f90fb83b.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G84R1042193/17b1ed84926e0d4830edc08f4f6503ff.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G84R1042193/111cc780e768a766f32a9200e71e10f9.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G84R1042193/d818b8f048cc43472cbe3c833793ef29.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G84R1042193/222e37f6be23c1f557ac8ca9c83243cc.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G84R1042193/fa19d640d5ed6892b1c827838e69f5af.jpeg</image>
+			</images>
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
@@ -3914,7 +3879,42 @@ GAC GS8 – это идеальное сочетание брутальност�
 Ждём вас в нашем дилерском центре: г. Саратов, ул. Усть-Курдюмская, д. 6. 
 
 *Подробности предложения у консультантов отдела продаж</description>
-			<images />
+			<images>
+				<image>https://photo.toyotasever.ru/LMGJU3G80S1046182/f13f2d1a019deef129ba4a38f3b59d68.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G80S1046182/e1d06553cc9cc11d38019a401b1e61d8.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G80S1046182/d52d8bfe75c67e48eb50a54b7386c5f0.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G80S1046182/92861bc3fe8a5de93712a48022119b8a.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G80S1046182/0a3f6fd9e3bce6670c61f069a1c2b73c.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G80S1046182/bec1163ae9a62fa1d5319bd88192072c.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G80S1046182/b7f0c8adef27fe36dc5633237e766f88.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G80S1046182/1c34c246570553e39e29ab7f989f096f.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G80S1046182/f97f5c66d4f6cc4b75927d83ba8395f4.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G80S1046182/8f6ef3a7909eed7093dfd08495e24bb2.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G80S1046182/c09413d6100f0f869f374ed83242a78c.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G80S1046182/1a35550fa44db9956e1abf5376892f6c.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G80S1046182/7e809295b2b0357b6980df47440c98e4.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G80S1046182/61fdafc5a9676d4ae4731409e17d3fe3.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G80S1046182/4ab723b5bc5c383934d9d7a47afb2660.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G80S1046182/5b0386dce7b4ab99c944bf98e0a309bb.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G80S1046182/f2da4ac79d1e49a4354d2396b2d49464.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G80S1046182/fe598b5bb381cd59a7be9d635789b85b.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G80S1046182/740215344d2efb4d5622b9c9b677693e.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G80S1046182/74a8c44a2b1f87d7688c79c19540df2b.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G80S1046182/a70954436965ee62153421cb4ccfbee7.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G80S1046182/16e5f767cd5650806288a05b6b629673.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G80S1046182/58b9029cf7fc913a6ccfec0743357d4d.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G80S1046182/3bf4c6ad1d707916f9a33a8d118aa759.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G80S1046182/24cf98648d168f826687e0b9f4a82617.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G80S1046182/82d6012c0bbaac05814712306f42d9f8.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G80S1046182/ecec346d628f48aafbe1d9615e03345e.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G80S1046182/c274a07d4631f5dbe25623b2916ad3b7.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G80S1046182/01266a878ecb1ecf506967e24e5942fe.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G80S1046182/3c42960863a5e630ccc5cf3a025705cb.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G80S1046182/ff93372f5374407a874fc973d3c8a676.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G80S1046182/6dda441725f8aa61a0a4d858f3de1a5b.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G80S1046182/10ad8abbc54a95e12e5a11e976588645.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G80S1046182/18f253fa92566208de35e2397dc288de.jpeg</image>
+			</images>
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
