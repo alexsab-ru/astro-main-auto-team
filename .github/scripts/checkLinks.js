@@ -5,7 +5,7 @@ import dotenv from 'dotenv';
 dotenv.config();
 
 const domain = process.env.DOMAIN;
-const outputPath = './.github/scripts/broken_links.txt';
+const outputPath = './broken_links.txt';
 
 async function checkLinks() {
   console.log('🔍 Начинаю проверку ссылок...');
@@ -27,7 +27,7 @@ async function checkLinks() {
 
   if (brokenLinks.length) {
     let message = `<b>На сайте ${domain} обнаружены битые ссылки. Всего: ${brokenLinks.length}</b>\n\n`;
-    message += brokenLinks.map(item => `<b>Ссылка</b>: ${item.url}\n<b>Родитель</b>: ${item.parent}\n---------`).join('\n');
+    message += brokenLinks.map(item => `<b>Ссылка</b>: ${item.url}\n<b>Родитель</b>: ${item.parent}`).join('\n\n');
     fs.writeFileSync(outputPath, message, 'utf8');
     console.log(`❌ Найдено ${brokenLinks.length} битых ссылок. Результаты сохранены в ${outputPath}`);
   } else {
