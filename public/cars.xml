@@ -3162,7 +3162,7 @@ GS4 это:
 			</multiposting>
 		<max_discount>300000</max_discount><priceWithDiscount>2699000</priceWithDiscount><sale_price>2699000</sale_price><url>https://auto-team.pro/cars/gac-gs4-15-amt-170-лс-gb-черный-2025/</url></car>
 		<car>
-			<unique_id>3fdebf14a1d80035d993fbbd0d18a5a2</unique_id>
+			<unique_id>60ff536f62c27ca2b12ac62d70a5e7ae</unique_id>
 			<mark_id>GAC</mark_id>
 			<folder_id>GS8, II</folder_id>
 			<modification_id>2.0 AT (231 л.с.) 4WD</modification_id>
@@ -3173,7 +3173,7 @@ GS4 это:
 			<metallic>нет</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
-			<run>3</run>
+			<run>15</run>
 			<year>2024</year>
 			<price>4499000</price>
 			<credit_discount>300000</credit_discount>
@@ -3181,7 +3181,7 @@ GS4 это:
 			<tradein_discount>300000</tradein_discount>
 			<optional_discount>0</optional_discount>
 			<currency>RUR</currency>
-			<vin>LMGJU3G87R1039594</vin>
+			<vin>LMGJU3G84R1039374</vin>
 			<description>GS8  —  флагманский большой внедорожник для самых долгих путешествий 
 
 • Харизматичный экстерьер — хромированная решётка радиатора в симметричном v-образном дизайне, полностью светодиодные матричные фары «Взгляд победителя», кристальная текстура задних фар «Рубиновый бриллиант» делают его незабываемо привлекательным на дороге.
@@ -3212,7 +3212,36 @@ GS4 это:
 Ждём вас в нашем дилерском центре: г. Саратов, ул. Усть-Курдюмская, д. 6.
 
 *Подробности предложения у консультантов отдела продаж</description>
-			<images />
+			<images>
+				<image>https://photo.toyotasever.ru/LMGJU3G84R1039374/a1472645748c098ee31c0df6d46cac52.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G84R1039374/5fdcf47a7b3050773b49fd10fa481519.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G84R1039374/29f4b042eb51a967ff925fd530580f6e.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G84R1039374/de39c7efe1076ed33ba76baf993f668f.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G84R1039374/a02ee0e234700f7e43d790000c9208ef.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G84R1039374/bdcd5af5bcf061ab95328d140f839679.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G84R1039374/df62f0de6f50167a1850fbdb55b655fe.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G84R1039374/c3145b34a76909581faff717f70f97a6.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G84R1039374/53180acacb816e77e842464e4ff1f882.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G84R1039374/d01b504cfcad3e0d9367d295cbb636e9.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G84R1039374/0046acfa0aa3d489f7d41fdd50777dd9.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G84R1039374/faf9d38615493756244b14429c84adec.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G84R1039374/e10663b9dbd6d2c59987008fca06998a.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G84R1039374/000c91ef422314c7e5e756a53c3fc7b5.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G84R1039374/0208811a93c13b8ba2a93d0456d765ac.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G84R1039374/d815b3e90c095e2a87396556d1633c68.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G84R1039374/8f8037b32ee3ddb47b142a5958afa049.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G84R1039374/ad768e6658b44af1fe0783b9658663f8.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G84R1039374/b241dc31af6101264c492e85b9f948fc.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G84R1039374/7b676245f037e90e515634addd53dd5d.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G84R1039374/21e6896edf3a190a8e735d5c42d849c4.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G84R1039374/bdfc6973acedf9addb1284ad2f19f969.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G84R1039374/9f0f073232e1f44217332d8958bee315.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G84R1039374/67bb8c58a5ed66080fee089a26fa9091.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G84R1039374/d3fa2002f6782c34e46966bd7a737219.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G84R1039374/7a90fdbb98c67a22c8734865769076af.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G84R1039374/9a2cacd7750ff894484682af731b3b14.jpeg</image>
+				<image>https://photo.toyotasever.ru/LMGJU3G84R1039374/909a30a4f39a8e47f3e4603c7e533e06.jpeg</image>
+			</images>
 			<multiposting>
 				<classifieds>autoru,avito</classifieds>
 			</multiposting>
