@@ -3,13 +3,12 @@ h1: Трейд-ин Belgee
 title: Программа Трейд-ин Belgee
 breadcrumb: Трейд-ин Belgee
 pubDate: 2024-07-01
-image: /img/specials/belgee-trade-in/thumb_600x338.webp
-description: "Благодаря услуге трейд-ин Belgee вы можете получить выгоду при покупке автомобиля Belgee, сдав свой текущий автомобиль. Оценить имеющийся автомобиль вы можете в Belgee Самара."
+image: https://cdn.alexsab.ru/specials/belgee/trade-in/thumb_600x338.webp
+description: "Благодаря услуге трейд-ин Belgee вы можете получить выгоду при покупке автомобиля Belgee, сдав свой текущий автомобиль."
 ---
 import Button from '@/components/Button/Button.astro';
-import SpecialSalonsInfo from '@/components/SpecialSalonsInfo.astro';
 import settings from '@/data/settings.json';
-export const { site_name, phone_common, legal_city_where } = settings;
+export const { site_name, phone_common } = settings;
 import { phoneFormat } from '@/js/utils/numbers.format';
 import { LAST_DAY, MONTH, YEAR } from '@/js/utils/date';
 
@@ -17,9 +16,9 @@ export const from = '01.07.2024';
 export const to = `${LAST_DAY}.${MONTH}.${YEAR}`;
 
 <picture>
-    <source media="(min-width: 942px)" srcset="/img/specials/belgee-trade-in/banner_1920x1080.webp" />
-    <source media="(min-width: 320px)" srcset="/img/specials/belgee-trade-in/banner_1080.webp" />
-    <img src="/img/specials/belgee-trade-in/banner_1920x1080.webp" class="w-full mb-10" alt="Выгода на автомобили Белджи" />
+    <source media="(min-width: 942px)" srcset="https://cdn.alexsab.ru/specials/belgee/trade-in/banner_1920x1080.webp" />
+    <source media="(min-width: 320px)" srcset="https://cdn.alexsab.ru/specials/belgee/trade-in/banner_1080.webp" />
+    <img src="https://cdn.alexsab.ru/specials/belgee/trade-in/banner_1920x1080.webp" class="w-full mb-10" alt="Выгода на автомобили Белджи" width="1496" height="810" />
 </picture>
 
 Услуга трейд-ин позволяет вам приобрести новый автомобиль на выгодных условиях. При ее использовании вы имеете возможность стать обладателем нового автомобиля, оплачивая только разницу между стоимостью имеющегося автомобиля с пробегом и приобретаемого автомобиля Belgee.
@@ -97,6 +96,16 @@ export const to = `${LAST_DAY}.${MONTH}.${YEAR}`;
 
 <strong>Обычный трейд-ин</strong> — это единовременная и разовая скидка по программе Трейд-ин предоставляется дилером покупателю от розничной цены автомобиля, приобретаемого по Программе, при сдаче в Трейд-ин автомобилей иных марок. Информацию о брендах и моделях, участвующих в программе, уточняйте у официальных дилеров.
 
+<div class="flex justify-center mt-10 mb-5">
+    <Button 
+        classes="popup-link block !px-4 xl:!px-8 !py-2 xl:!py-3 !text-white !no-underline" 
+        url="#common-modal" 
+        title="Заявка на трейд-ин"
+        dataTitle="Заявка на Трейд-ин Belgee"
+        dataFormName="Заявка на трейд-ин"
+    />
+</div>
+
 **Условия участия в программе трейд-ин:**
 
 Для оценки вашего автомобиля и получения подробной информации о перечне необходимых документов и условиях обращайтесь к специалистам дилерского центра **{site_name}**.
@@ -121,8 +130,14 @@ export const to = `${LAST_DAY}.${MONTH}.${YEAR}`;
 
 Помните о том, что наличие полного комплекта резины, дооснащение, кожаная обивка салона и автоматическая КПП могут увеличивать оценочную стоимость автомобиля. Но в то же время оценочную стоимость могут снизить серьёзные повреждения кузова, механическая неисправность, большой возраст и пробег.
 
-<SpecialSalonsInfo 
-    title="Получить предложение"
-    dataTitle="Получить предложение на Трейд-ин Belgee"
-    dataFormName="Получить предложение. Трейд-ин Belgee"
-/>
+Подробности в нашем дилерском центре по тел.: <a href={`tel:${phoneFormat(phone_common)}`}>{phone_common}</a>
+
+<div class="flex justify-center mt-10 mb-5">
+    <Button 
+        classes="popup-link block !px-4 xl:!px-8 !py-2 xl:!py-3 !text-white !no-underline" 
+        url="#common-modal" 
+        title="Получить предложение"
+        dataTitle="Получить предложение на Трейд-ин Belgee"
+        dataFormName="Получить предложение. Трейд-ин Belgee"
+    />
+</div>

@@ -1,19 +1,18 @@
 ---
-h1: Ознакомьтесь с&nbsp;кредитными программами для приобретения автомобилей Belgee<sup>*</sup>. 
+h1: Ознакомьтесь с кредитными программами для приобретения автомобилей Belgee *. 
 title: Кредитные предложения на автомобили Белджи
 breadcrumb: Кредитные предложения на автомобили Белджи
 pubDate: 2024-06-24
-image: /img/specials/belgee-kreditnye-predlozheniya-na-avtomobili-belgee/thumb.webp
-description: "Ознакомьтесь с кредитными предложениями и отправьте запрос официальному дилеру Белджи Самара."
+image: https://cdn.alexsab.ru/specials/belgee/kreditnye-predlozheniya-na-avtomobili-belgee/thumb.webp
+description: "Ознакомьтесь с кредитными предложениями и отправьте запрос официальному дилеру."
 ---
 import Button from '@/components/Button/Button.astro';
-import SpecialSalonsInfo from '@/components/SpecialSalonsInfo.astro';
 import settings from '@/data/settings.json';
-export const { site_name, phone_common, legal_city_where } = settings;
+export const { site_name, phone_common } = settings;
 import { phoneFormat } from '@/js/utils/numbers.format';
 import { LAST_DAY, MONTH, YEAR } from '@/js/utils/date';
 
-export const from = '01.07.2024';
+export const from = `01.${MONTH}.${YEAR}`;
 export const to = `${LAST_DAY}.${MONTH}.${YEAR}`;
 
 import AdvantagesList from '@/components/Advantages/List.astro';
@@ -24,9 +23,9 @@ export const advantages = [
 ];
 
 <picture>
-	<source media="(min-width: 1024px)" srcset="/img/specials/belgee-kreditnye-predlozheniya-na-avtomobili-belgee/x70_desktop.webp" />
-	<source media="(min-width: 768px)" srcset="/img/specials/belgee-kreditnye-predlozheniya-na-avtomobili-belgee/x70_tablet.webp" />
-	<img src="/img/specials/belgee-kreditnye-predlozheniya-na-avtomobili-belgee/thumb.webp" class="w-full mb-20" alt="Выгода на автомобили Белджи" />
+	<source media="(min-width: 1024px)" srcset="https://cdn.alexsab.ru/specials/belgee/kreditnye-predlozheniya-na-avtomobili-belgee/x70_desktop.webp" />
+	<source media="(min-width: 768px)" srcset="https://cdn.alexsab.ru/specials/belgee/kreditnye-predlozheniya-na-avtomobili-belgee/x70_tablet.webp" />
+	<img src="https://cdn.alexsab.ru/specials/belgee/kreditnye-predlozheniya-na-avtomobili-belgee/thumb.webp" class="w-full mb-20" alt="Выгода на автомобили Белджи" width="1496" height="998" />
 </picture>
 
 ## ПРЕИМУЩЕСТВА BELGEE BROKER FINANCE
@@ -999,12 +998,18 @@ export const advantages = [
 
 > <sup>*</sup> для всех моделей Belgee, приобретаемых у уполномоченных дилеров
 
+<br />
+Подробности в нашем дилерском центре по тел.: <a href={`tel:${phoneFormat(phone_common)}`}>{phone_common}</a>
 
-<SpecialSalonsInfo 
-	title="Получить предложение"
-	dataTitle="Кредитные предложения на автомобили Белджи"
-	dataFormName="Получить предложение. Кредитные предложения на автомобили Белджи"
-/>
+<div class="flex justify-center mt-10 mb-5">
+	<Button 
+		classes="popup-link block !px-4 xl:!px-8 !py-2 xl:!py-3 !text-white !no-underline" 
+		url="#common-modal" 
+		title="Получить предложение"
+		dataTitle="Получить предложение по кредиту"
+		dataFormName="Получить предложение по кредиту"
+	/>
+</div>
 
 > <sup>*</sup> Программы представлены для автомобилей, приобретаемых у уполномоченных дилеров.
 
@@ -1020,4 +1025,4 @@ export const advantages = [
 
 > Кредит предоставляется банками-партнерами: ПАО Сбербанк, ИНН: 7707083893, ОГРН 1027700132195, место нахождения: Россия, Москва, 117312, ул. Вавилова, д. 19, Лицензия Банка России № 1481 от 11.08.2015., сайт https://www.sberbank.com/ru; АО «ТБанк» ИНН 7710140679, ОГРН 1027739642281, место нахождения: 127287, г. Москва, ул. Хуторская 2-я, д. 38А, стр. 26, Лицензия Банка России № 2673 от 24.03.2015, сайт https://www.tbank.ru; ПАО «Совкомбанк» ИНН 4401116480, ОГРН 1144400000425, место нахождения: 156000, Костромская Область, г. Кострома, пр-кт Текстильщиков, д. 46. Лицензия Банка России № 963 от 05.12.2014, сайт https://sovcombank.ru; АО «АЛЬФА-БАНК» ИНН 7728168971, ОГРН 1027700067328, 107078, место нахождения: г. Москва, ул. Каланчевская, д. 27. Лицензия Банка России №1326 от 16.01.2015., сайт https://alfabank.ru; Банк ВТБ (ПАО), ИНН 7702070139, ОГРН 1027739609391, Адрес местонахождения: 191144, г. Санкт-Петербург, Дегтярный переулок, д. 11, лит. А, сайт https://www.vtb.ru/.
 
-> <sup>***</sup>Требования, предъявляемые к заемщикам банком, можно уточнить у кредитного специалиста дилерского центра.  
+> <sup>***</sup>Требования, предъявляемые к заемщикам банком, можно уточнить у кредитного специалиста дилерского центра.
