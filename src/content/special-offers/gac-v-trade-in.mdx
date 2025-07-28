@@ -1,61 +1,72 @@
 ---
 pubDate: 2024-06-06
-caption:  Выгода до 200 000 рублей по программе GAC Трейд-ин
-image: /img/specials/gac-v-trade-in/thumb.webp
+caption:  Выгода до 300 000 рублей по программе GAC Трейд-ин
+image: https://cdn.alexsab.ru/b/gac/img/special-offers/gac-v-trade-in/thumb.webp
 title: GAC в Trade-in
-description: "GAC Trade-In – обменяйте автомобиль с пробегом на новый GAC с помощью программы трейд-ин. Выгода по программе трейд-ин достигает до 200 000 рублей и суммируется с выгодой по кредитным программам"
+description: "GAC Trade-In – обменяйте автомобиль с пробегом на новый GAC с помощью программы трейд-ин. Выгода по программе трейд-ин достигает до 300 000 рублей и суммируется с выгодой по кредитным программам"
 breadcrumb: GAC в Trade-in
 h1: Меняйтесь. Это выгодно
 ---
-export const DateFrom = "01.01.2024"
-export const DateTo = "31.01.2024"
+import {FIRST_DAY, LAST_DAY, MONTH, YEAR} from '@/js/utils/date';
+export const DateFrom = `${FIRST_DAY}.${MONTH}.${YEAR}г.`;
+export const DateTo = `${LAST_DAY}.${MONTH}.${YEAR}г.`;
 
+import InfoSectionWithImage from '@/components/InfoSectionWithImage/InfoSectionWithImage.astro';
 import Button from '@/components/Button/Button.astro';
-import SpecialSalonsInfo from '@/components/SpecialSalonsInfo.astro';
 import settings from '@/data/settings.json';
-export const { site_name, phone_common, legal_city_where } = settings;
+export const { site_name, phone_common } = settings;
 import { phoneFormat } from '@/js/utils/numbers.format';
-
+ 
 <picture>
-	<source media="(min-width: 768px)" srcset="/img/specials/gac-v-trade-in/banner.webp" />
-	<source media="(min-width: 320px)" srcset="/img/specials/gac-v-trade-in/thumb.webp" />
-	<img src="/img/specials/gac-v-trade-in/banner.webp" class="" alt="GAC в Trade-in" />
+	<source media="(min-width: 768px)" srcset="https://cdn.alexsab.ru/b/gac/img/special-offers/gac-v-trade-in/banner.webp" />
+	<source media="(min-width: 320px)" srcset="https://cdn.alexsab.ru/b/gac/img/special-offers/gac-v-trade-in/thumb.webp" />
+	<img src="https://cdn.alexsab.ru/b/gac/img/special-offers/gac-v-trade-in/banner.webp" class="" alt="GAC в Trade-in" />
 </picture>
 
-<h3 class="font-bold uppercase text-center text-2xl sm:text-3xl my-10 lg:my-20">Выгода до 200 000 рублей по программе трейд-ин</h3>
+<h2 class="text-center mt-14">Выгода до 300 000 рублей по программе трейд-ин</h2>
 
-<div class="flex flex-col lg:flex-row mb-14 sm:mb-20">
-	<img src="/img/specials/gac-v-trade-in/1.webp" class="w-full lg:w-1/2" alt="Трейд-ин GAC" />
-	<div class="w-full lg:w-1/2 lg:pl-10 xl:pl-20 py-10">	
-		<div class="text-xl sm:text-3xl xl:text-4xl font-bold mb-7">Обменяйте автомобиль с пробегом на новый GAC с помощью программы трейд-ин</div>
-		<ol class="list-decimal space-y-6 pl-5 *:text-base *:sm:text-xl !mb-6 sm:!mb-10">
-			<li>Трейд-ин в официальном дилерском центре GAC.</li>
-			<li>Обмен автомобиля проводится в дилерском центре, что гарантирует ее юридическую чистоту.</li>
-			<li>Выгода по программе трейд-ин достигает до 200 000 рублей и суммируется с выгодой по кредитным программам.</li>
-		</ol>
-		<Button 
-			classes="popup-link w-fit inline-block !px-4 xl:!px-8 !py-2 xl:!py-3 !text-white !no-underline" 
-			url="#common-modal" 
-			title="Получить предложение"
-			dataTitle="Получить предложение по программе трейд-ин"
-			dataFormName={`Получить предложение. Трейд-ин GAC`}
-		/>
-	</div>
-</div>
+<InfoSectionWithImage 
+	image={ {desktop: 'https://cdn.alexsab.ru/b/gac/img/special-offers/gac-v-trade-in/1.webp',} } direction="left">
+	<div class="text-xl sm:text-2xl xl:text-3xl font-bold mb-7">Обменяйте автомобиль с&nbsp;пробегом на&nbsp;новый GAC с&nbsp;помощью программы трейд-ин</div>
+	<ol class="list-decimal space-y-6 pl-5 *:text-base *:sm:text-xl !mb-6 sm:!mb-10">
+		<li>Трейд-ин в официальном дилерском центре GAC.</li>
+		<li>Обмен автомобиля проводится в дилерском центре, что гарантирует ее юридическую чистоту.</li>
+		<li>Выгода по программе трейд-ин достигает до 300 000 рублей и суммируется с выгодой по кредитным программам.</li>
+	</ol>
+	<Button 
+		classes="popup-link w-fit inline-block !px-4 xl:!px-8 !py-2 xl:!py-3 !text-white !no-underline" 
+		url="#common-modal" 
+		title="Получить предложение"
+		dataTitle="Получить предложение по программе трейд-ин"
+		dataFormName={`Получить предложение. Трейд-ин GAC`}
+	/>
+</InfoSectionWithImage>
 
-<div class="flex flex-col md:flex-row justify-center mb-10 sm:mb-20">
-	<div class="text-center">	
-		<img src="/img/specials/gac-v-trade-in/gs8.webp" class="max-w-full" alt="GAC GS8" />
-		<p class="font-medium">Выгода до <span class="text-accent-500">200 000 ₽</span></p>
+<div class="flex flex-row flex-wrap justify-center mb-10 sm:mb-20 gap-x-5 gap-y-7">
+	<div class="text-center flex-[0_0_auto] max-w-[283px] w-full">	
+		<img src="https://cdn.alexsab.ru/b/gac/img/special-offers/gac-v-trade-in/gs3.webp" class="max-w-full" alt="GAC GS5" />
+		<p class="font-medium">Выгода до <span class="text-accent-500">200 000 ₽</span> <sup>1</sup></p>
 	</div>
-	<div class="text-center">	
-		<img src="/img/specials/gac-v-trade-in/gs5.webp" class="max-w-full" alt="GAC GS5" />
-		<p class="font-medium">Выгода до <span class="text-accent-500">200 000 ₽</span></p>
+	<div class="text-center flex-[0_0_auto] max-w-[283px] w-full">	
+		<img src="https://cdn.alexsab.ru/b/gac/img/special-offers/gac-v-trade-in/gs4.webp" class="max-w-full" alt="GAC GS5" />
+		<p class="font-medium">Выгода до <span class="text-accent-500">200 000 ₽</span> <sup>2</sup></p>
+	</div>
+	<div class="text-center flex-[0_0_auto] max-w-[283px] w-full">	
+		<img src="https://cdn.alexsab.ru/b/gac/img/special-offers/gac-v-trade-in/gs8.webp" class="max-w-full" alt="GAC GS8" />
+		<p class="font-medium">Выгода до <span class="text-accent-500">300 000 ₽</span> <sup>3</sup></p>
+	</div>
+	<div class="text-center flex-[0_0_auto] max-w-[283px] w-full">	
+		<img src="https://cdn.alexsab.ru/b/gac/img/special-offers/gac-v-trade-in/m8.webp" class="max-w-full" alt="GAC GS8" />
+		<p class="font-medium">Выгода до <span class="text-accent-500">300 000 ₽</span> <sup>4</sup></p>
+	</div>
+	<div class="text-center flex-[0_0_auto] max-w-[283px] w-full">	
+		<img src="https://cdn.alexsab.ru/b/gac/img/special-offers/gac-v-trade-in/empow.webp" class="max-w-full" alt="GAC GS8" />
+		<p class="font-medium">Выгода до <span class="text-accent-500">200 000 ₽</span> <sup>5</sup></p>
 	</div>
 </div>
 
 <div class="flex flex-col md:flex-row mb-10 sm:mb-20 gap-10">
-	<div class="flex items-center justify-between p-10 bg-gray-100 flex-1">
+	<div class="flex items-center justify-between p-4 sm:p-10 bg-gray-100 flex-1">
 		<div class="text-xs sm:text-xl font-bold">Калькулятор Trade-in</div>
 		<Button 
 			classes="popup-link inline-block w-fit !px-4 xl:!px-8 !py-2 xl:!py-3 !mb-0 !text-white !no-underline !text-xs sm:!text-base" 
@@ -65,7 +76,7 @@ import { phoneFormat } from '@/js/utils/numbers.format';
 			dataFormName={`Оценить автомобиль. Trade-in GAC`}
 		/>
 	</div>
-	<div class="flex items-center justify-between p-10 bg-gray-100 flex-1">
+	<div class="flex items-center justify-between p-4 sm:p-10 bg-gray-100 flex-1">
 		<div class="text-xs sm:text-xl font-bold">Кредитный калькулятор</div>
 		<Button 
 			classes="popup-link inline-block w-fit !px-4 xl:!px-8 !py-2 xl:!py-3 !mb-0 !text-white !no-underline !text-xs sm:!text-base" 
@@ -77,21 +88,35 @@ import { phoneFormat } from '@/js/utils/numbers.format';
 	</div>
 </div>
 
-<div class="flex flex-col-reverse lg:flex-row mt-10 mb-0 sm:mb-20">
-	<div class="w-full lg:w-1/2 lg:pr-10 xl:pr-20 py-10">	
-		<div class="text-xl sm:text-3xl xl:text-4xl font-bold mb-7">Документы, которые потребуются для приобретения автомобиля по программе трейд-ин</div>
-		<ol class="list-decimal space-y-6 pl-5 *:text-base *:sm:text-xl">
-			<li>Паспорт РФ.</li>
-			<li>Копия ЭПТС.</li>
-			<li>Свидетельство о регистрации автомобиля.</li>
-			<li>Сервисная книжка и руководство по эксплуатации.</li>
-		</ol>
-	</div>
-	<img src="/img/specials/gac-v-trade-in/2.webp" class="w-full lg:w-1/2" alt="Trade-in GAC" />
+<InfoSectionWithImage 
+	image={ {desktop: 'https://cdn.alexsab.ru/b/gac/img/special-offers/gac-v-trade-in/2.webp',} } direction="left">
+	<div class="text-xl sm:text-2xl xl:text-3xl font-bold mb-7">Документы, которые потребуются для приобретения автомобиля по программе трейд-ин</div>
+	<ol class="list-decimal space-y-6 pl-5 *:text-base *:sm:text-xl">
+		<li>Паспорт РФ.</li>
+		<li>Копия ЭПТС.</li>
+		<li>Свидетельство о регистрации автомобиля.</li>
+		<li>Сервисная книжка и руководство по эксплуатации.</li>
+	</ol>
+</InfoSectionWithImage>
+
+Подробности в отделе продаж по телефону: <a class="whitespace-nowrap" href={`tel:${phoneFormat(phone_common)}`}>{ phone_common }</a>
+
+<div class="my-10">
+	<Button 
+		classes="popup-link block w-fit !px-4 xl:!px-8 !py-2 xl:!py-3 !text-white !no-underline" 
+		url="#common-modal" 
+		title="Подробнее"
+		dataTitle="Заказать обратный звонок"
+		dataFormName={`Подробнее. Трейд-ин GAC`}
+	/>
 </div>
 
-<SpecialSalonsInfo 
-	title="Подробнее"
-	dataTitle="Трейд-ин GAC"
-	dataFormName="Подробнее. Трейд-ин GAC"
-/>
+> <sup>1</sup> Выгода по программе «Трейд-ин» – это единовременная и разовая скидка на модель GS3 2024 г. в. в размере 200 000 ₽, предоставлямая дилером покупателю при сдаче автомобиля с пробегом в трейд-ин. Предложение действительно в период с {DateFrom} по {DateTo}
+
+> <sup>2</sup> Выгода по программе «Трейд-ин» – это единовременная и разовая скидка на модель GS4 2024 и 2025 г. в. в размере 200 000 ₽, предоставляемая дилером покупателю при сдаче автомобиля с пробегом в трейд-ин. Предложение действительно в период с {DateFrom} по {DateTo}
+
+> <sup>3</sup> Выгода по программе «Трейд-ин» – это единовременная и разовая скидка на модель GS8 2024 и 2025 г. в. в размере 300 000 ₽, предоставляемая дилером покупателю при сдаче автомобиля с пробегом в трейд-ин. Предложение действительно в период с {DateFrom} по {DateTo}
+
+> <sup>4</sup> Выгода по программе «Трейд-ин» – это единовременная и разовая скидка на модель M8 2023 и 2024 г. в. в размере 300 000 ₽, предоставляемая дилером покупателю при сдаче в трейд-ин автомобиля с пробегом, либо автомобиля с пробегом сегмента минивэн (Программа "VAN-to-VAN трейд-ин"). Предложение действительно в период с {DateFrom} по {DateTo}
+
+> <sup>5</sup> Выгода по программе «Трейд-ин» – это единовременная и разовая скидка на модель Empow 2025 г. в. в размере 200 000 ₽, предоставляемая дилером покупателю при сдаче автомобиля с пробегом в трейд-ин. Предложение действительно в период с {DateFrom} по {DateTo}

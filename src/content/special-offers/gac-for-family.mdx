@@ -1,80 +1,67 @@
 ---
-h1: "Специальное предложение на GAC для комфорта вашей семьи"
-title: "Специальное предложение на GAC для комфорта вашей семьи"
-caption: "Специальное предложение на GAC для комфорта вашей семьи"
-breadcrumb: "Специальное предложение на GAC для комфорта вашей семьи"
-pubDate: 2024-12-01
-image: /img/specials/for-family/thumb.webp
-description: "Второй автомобиль GAC в вашу семью со скидкой 10%!"
+pubDate: 2025-03-27
+caption:  Специальное предложение на GAC для комфорта вашей семьи
+image: https://cdn.alexsab.ru/b/gac/img/special-offers/for-family/thumb.webp
+title: Специальное предложение на GAC для комфорта вашей семьи
+description: "Программа «GAC M8 – комфорт бизнес-класса для вашей семьи»"
+breadcrumb: Специальное предложение на GAC для комфорта вашей семьи
+h1: Специальное предложение на GAC для комфорта вашей семьи
 ---
 
 import Button from '@/components/Button/Button.astro';
-import SpecialSalonsInfo from '@/components/SpecialSalonsInfo.astro';
+import Timer from '@/components/Timer/Timer.astro';
+import CardMedia from '@/components/CardMedia/CardMedia.astro';
+import FeedbackForm from '@/components/FeedbackForm/FeedbackForm.astro';
 import settings from '@/data/settings.json';
-export const { site_name, phone_common, legal_city_where } = settings;
+export const { site_name, phone_common } = settings;
 import { phoneFormat } from '@/js/utils/numbers.format';
 import { FIRST_DAY, LAST_DAY, MONTH, YEAR } from '@/js/utils/date';
 
-export const from = `${FIRST_DAY}.${MONTH}.${YEAR}`;
-export const to = `${LAST_DAY}.${MONTH}.${YEAR}`;
+export const DateFrom = `${FIRST_DAY}.${MONTH}.${YEAR}`;
+export const DateTo = `${LAST_DAY}.${MONTH}.${YEAR}`;
 
 <picture>
-	<source media="(min-width: 768px)" srcset="/img/specials/for-family/banner.webp" />
-	<source media="(min-width: 320px)" srcset="/img/specials/for-family/thumb.webp" />
-	<img src="/img/specials/for-family/banner.webp" class="mb-10" alt="Специальное предложение на GAC" />
+	<source media="(min-width: 768px)" srcset="https://cdn.alexsab.ru/b/gac/img/special-offers/for-family/banner.webp" />
+	<source media="(min-width: 320px)" srcset="https://cdn.alexsab.ru/b/gac/img/special-offers/for-family/thumb.webp" />
+	<img src="https://cdn.alexsab.ru/b/gac/img/special-offers/for-family/banner.webp" class="" alt="Специальное предложение для комфорта вашей семьи" />
 </picture>
 
-<div class="flex flex-col lg:flex-row mb-14 lg:mb-20">
-	<img src="/img/specials/for-family/gac.webp" class="h-auto object-cover object-center w-full lg:w-1/2" alt="GAC" />
-	<div class="w-full lg:w-1/2 lg:pl-10 xl:pl-20 py-10">	
-		<div class="text-xl sm:text-3xl xl:text-4xl font-bold mb-7">Программа «Второй автомобиль GAC – специальное семейное предложение»</div>
-		<p><b>Второй автомобиль GAC  в вашу семью со скидкой 10%!<sup>1</sup></b></p>
-		<p>Специальное предложение действует для физических лиц и их родственников первой линии родства (родители, дети, супруги, родные братья и сестры). Скидка работает единоразово при условии, что вы или ваш родственник приобретаете второй автомобиль GAC в течение одного календарного года у официального дилера с целью личного использования минимум в течение 12 месяцев с момента покупки!</p>
-		<p>Для получения скидки необходимо предоставить документы:</p>
-		<ol class="list-decimal space-y-6 pl-5 *:text-base *:sm:text-xl !mb-6 sm:!mb-10">
-			<li>Свидетельство о регистрации транспортного средства на первый автомобиль GAC. Первый автомобиль должен быть приобретен у официального дилера GAC на территории России.</li>
-			<li>Документы, подтверждающие родство, в случае приобретения второго автомобиля GAC родственником первой линии.</li>
-		</ol>
-		<p><b>До {to} года</b></p>
-		<div class="flex gap-4 mt-10">
-			<Button 
-				classes="popup-link w-fit inline-block !px-4 xl:!px-8 !py-2 xl:!py-3 !text-white !no-underline !mb-0" 
-				url="#common-modal" 
-				title="Получить предложение"
-				dataTitle="Второй автомобиль GAC в вашу семью со скидкой 10%"
-				dataFormName={`Получить предложение. Второй автомобиль GAC в вашу семью со скидкой 10%`}
-			/>
-		</div>
-	</div>
-</div>
+<Timer subtitle='До конца акции' btnName='Получить предложение' endtime='2025-03-31T23:59:59+04:00'/>
 
-<div class="flex flex-col lg:flex-row-reverse mb-14 lg:mb-20">
-	<img src="/img/specials/for-family/gac-m8.webp" class="h-auto object-cover object-center w-full lg:w-1/2" alt="GAC M8" />
-	<div class="w-full lg:w-1/2 lg:pr-10 xl:pr-20 py-10">	
-		<div class="text-xl sm:text-3xl xl:text-4xl font-bold mb-7">Программа «GAC M8 – комфорт бизнес-класса для вашей семьи»</div>
-		<p><b>Программа «GAC M8 – комфорт бизнес-класса  для вашей семьи»<sup>2</sup></b></p>
-		<p>Вместительный GAC M8 – комфорт первого класса  для вашей семьи!</p>
-		<p>В рамках Года Семьи в России GAC MOTOR предлагает специальные условия на приобретение минивэна GAC M8 для многодетных семей.</p>
-		<p>Получите скидку в размере 10% при покупке GAC M8 с целью самостоятельного использования не менее 12 месяцев с момента приобретения. Скидка предоставляется единоразово в течение одного календарного года  физическим лицам, имеющим трех и более несовершеннолетних детей.</p>
-		<p>Для получения скидки необходимо предоставить официальному дилеру GAC:</p>
-		<ol class="list-decimal space-y-6 pl-5 *:text-base *:sm:text-xl !mb-6 sm:!mb-10">
-			<li>Удостоверение многодетной семьи или паспорт РФ со страницами «дети» или свидетельства о рождении детей.</li>
-		</ol>
-		<p><b>До {to} года</b></p>
-		<div class="flex gap-4 mt-10">
-			<Button 
-				classes="popup-link w-fit inline-block !px-4 xl:!px-8 !py-2 xl:!py-3 !text-white !no-underline !mb-0" 
-				url="#common-modal" 
-				title="Получить предложение"
-				dataTitle="Программа «GAC M8 – комфорт бизнес-класса для вашей семьи»"
-				dataFormName={`Получить предложение. Программа «GAC M8 – комфорт бизнес-класса для вашей семьи»`}
-			/>
-		</div>
-	</div>
-</div>
+<section>
+  <CardMedia imgPlacement="right">
+		<img slot="card-image" class="max-w-48" src="https://cdn.alexsab.ru/b/gac/img/special-offers/for-family/m8.webp" alt="M8" />
+		<Fragment slot="card-content">
+			<h2 class="!m-0 !p-0 before:hidden !text-2xl lg:!text-4xl">Программа «GAC M8 – комфорт бизнес-класса для вашей семьи»</h2>
+      <div>
+        <p class="font-bold">Программа «GAC M8 – комфорт бизнес-класса  для вашей семьи» <sup>1</sup></p>
+        <p>Вместительный GAC M8 – комфорт первого класса  для вашей семьи!</p>
+        <p>Получите скидку в размере 12% при покупке GAC M8 с целью самостоятельного использования не менее 12 месяцев с момента приобретения. Скидка предоставляется единоразово в течение одного календарного года  физическим лицам, имеющим трех и более несовершеннолетних детей.</p>
+        <p>Для получения скидки необходимо предоставить официальному дилеру GAC:</p>
+        <ul>
+          <li>Удостоверение многодетной семьи или паспорт РФ со страницами «дети» или свидетельства о рождении детей.</li>
+        </ul>
+        <p><strong>C {DateFrom} по {DateTo}.</strong></p>
+      </div>
+			<div class="flex gap-3">
+				<Button 
+          classes="popup-link w-fit inline-block !px-4 xl:!px-8 !py-2 xl:!py-3 !text-white !no-underline" 
+          url="#common-modal" 
+          title="Получить предложение"
+          dataTitle="Получить предложение"
+          dataFormName="Программа «GAC M8 – комфорт бизнес-класса  для вашей семьи»"
+        />
+			</div>
+		</Fragment>
+	</CardMedia>
+</section>
 
-<SpecialSalonsInfo dataFormName="Специальное предложение на GAC для комфорта вашей семьи" />
+<section>
+  <h2>Подробная информация</h2>
+  <p class="!text-sm"><sup>1</sup> Программа «<strong>GAC M8 – комфорт бизнес-класса для вашей семьи</strong>» суммируется с выгодами по иным действующим акциям, если в условиях акций не указано иное.</p>
+</section>
 
-> <sup>1</sup> Программа «Второй автомобиль GAC – специальное семейное предложение» суммируется с выгодами по иным действующим акциям, если иное не указано дополнительно.
+<section>
+  <FeedbackForm title="Получить предложение" subtitle="Заполните онлайн-заявку на сайте. Менеджер свяжется с вами в ближайшее время" imageUrl="https://cdn.alexsab.ru/b/gac/img/special-offers/for-family/feedback.webp" />
+</section>
 
-> <sup>2</sup> Программа «GAC M8 – комфорт бизнес-класса  для вашей семьи» суммируется с выгодами по иным действующим акциям, если в условиях акций не указано иное.

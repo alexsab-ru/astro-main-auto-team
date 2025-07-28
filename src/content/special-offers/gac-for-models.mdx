@@ -3,161 +3,194 @@ h1: "Специальные предложения на автомобили GAC
 title: "Лучшие условия на GAC GS8, GS3 и M8: кредит от 0,01% и новые стартовые цены"
 caption: "Кредитные предложения на автомобили GAC"
 breadcrumb: "Специальные предложения на GAC GS8, GS3 и M8"
-pubDate: 2024-12-01
-image: /img/specials/for-models/thumb.webp
+pubDate: 2025-03-27
+image: https://cdn.alexsab.ru/b/gac/img/special-offers/for-models/thumb.webp
 description: "Воспользуйтесь уникальными предложениями на автомобили GAC! Получите кредит от 0,01% на модели GS8, GS3 и M8. Успейте приобрести превосходные автомобили по новым стартовым ценам!"
 ---
 
 import Button from '@/components/Button/Button.astro';
-import SpecialSalonsInfo from '@/components/SpecialSalonsInfo.astro';
+import Timer from '@/components/Timer/Timer.astro';
+import CardMedia from '@/components/CardMedia/CardMedia.astro';
+import FeedbackForm from '@/components/FeedbackForm/FeedbackForm.astro';
 import settings from '@/data/settings.json';
-export const { site_name, phone_common, legal_city_where } = settings;
+export const { site_name, phone_common } = settings;
 import { phoneFormat } from '@/js/utils/numbers.format';
 import { FIRST_DAY, LAST_DAY, MONTH, YEAR } from '@/js/utils/date';
 
-export const from = `${FIRST_DAY}.${MONTH}.${YEAR}`;
-export const to = `${LAST_DAY}.${MONTH}.${YEAR}`;
+export const DateFrom = `${FIRST_DAY}.${MONTH}.${YEAR}`;
+export const DateTo = `${LAST_DAY}.${MONTH}.${YEAR}`;
 
 <picture>
-	<source media="(min-width: 768px)" srcset="/img/specials/for-models/banner.webp" />
-	<source media="(min-width: 320px)" srcset="/img/specials/for-models/thumb.webp" />
-	<img src="/img/specials/for-models/banner.webp" class="mb-10" alt="Кредитные предложения на автомобили GAC" />
+	<source media="(min-width: 768px)" srcset="https://cdn.alexsab.ru/b/gac/img/special-offers/for-models/banner.webp" />
+	<source media="(min-width: 320px)" srcset="https://cdn.alexsab.ru/b/gac/img/special-offers/for-models/thumb.webp" />
+	<img src="https://cdn.alexsab.ru/b/gac/img/special-offers/for-models/banner.webp" class="" alt="Специальные предложения для моделей GS8, GS3 и M8" />
 </picture>
 
-<h3 class="font-bold uppercase text-center !text-xl sm:!text-2xl lg:!text-3xl !mb-10 lg:!mb-20">Превосходные условия на превосходные автомобили: <br class="hidden lg:block" />кредит от 0,01% на GAC GS8, GAC GS3 и GAC M8, <br class="hidden lg:block" />а также новые стартовые цены</h3>
-
-<div class="grid lg:grid-cols-3 gap-y-10 mb-14 sm:mb-20">
-	<div class="text-center">
-		<div class="text-xl sm:text-3xl font-bold sm:mb-4">От 0,01%</div>
-		<div>Процентная ставка<sup>1</sup></div>
-	</div>
-	<div class="text-center">
-		<div class="text-xl sm:text-3xl font-bold sm:mb-4">До 96 месяцев</div>
-		<div>Срок кредитования</div>
-	</div>
-	<div class="text-center">
-		<div class="text-xl sm:text-3xl font-bold sm:mb-4">Больше преимущества</div>
-		<div>Суммируются с выгодой по трейд-ин</div>
-	</div>
+<h2 class="mt-12">Превосходные условия на превосходные автомобили: кредит от 0,01% на GAC GS8, GAC GS3 и GAC M8, а также новые стартовые цены</h2>
+<div class="flex flex-col justify-center items-center gap-5 text-center sm:flex-row md:!gap-12">
+  <div>
+	<p class="!text-xl !m-0"><strong>От 0,01%</strong></p>
+	<p class="!m-0 text-gray-500">Процентная ставка<sup>1</sup></p>
+  </div>
+  <div>
+	<p class="!text-xl !m-0"><strong>До 96 месяцев</strong></p>
+	<p class="!m-0 text-gray-500">Срок кредитования</p>
+  </div>
+  <div>
+	<p class="!text-xl !m-0"><strong>Больше преимущества</strong></p>
+	<p class="!m-0 text-gray-500">Суммируются с выгодой по трейд-ин</p>
+  </div>
 </div>
 
-<div class="flex flex-col lg:flex-row mb-14 lg:mb-20">
-	<img src="/img/specials/for-models/gs8.webp" class="h-auto object-cover object-center w-full lg:w-1/2" alt="GAC GS8" />
-	<div class="w-full lg:w-1/2 lg:pl-10 xl:pl-20 py-10">	
-		<div class="text-xl sm:text-3xl xl:text-4xl font-bold mb-7">GS8</div>
-		<p>Комфортный и технологичный кроссовер GAC GS8 <b>от 3 599 000 рублей</b>, с кредитом<sup>1</sup> от 0,01%. Для покупателей действуют преимущества:</p>
-		<ol class="list-decimal space-y-6 pl-5 *:text-base *:sm:text-xl !mb-6 sm:!mb-10">
-			<li>300 000 рублей по программе трейд-ин<sup>2</sup>;</li>
-			<li>100 000 рублей прямая скидка<sup>3</sup> на комплектацию GL.</li>
-		</ol>
+<Timer subtitle='До конца акции' btnName='Получить предложение' endtime='2025-03-31T23:59:59+04:00'/>
+
+<section>
+  <CardMedia>
+		<img slot="card-image" class="max-w-48" src="https://cdn.alexsab.ru/b/gac/img/special-offers/for-models/gs8.webp" alt="GS8" />
+		<Fragment slot="card-content">
+			<h2 class="!m-0 !p-0 before:hidden !text-2xl lg:!text-4xl">GS8</h2>
+	  <div>
+		<p>Комфортный и технологичный кроссовер GAC GS8 от 3 799 000 ₽. Для покупателей действуют преимущества:</p>
+		<ul>
+		  <li>300 000 ₽ по программе «Премиальный трейд-ин». <sup>2</sup></li>
+		</ul>
 		<p>Не упустите своё преимущество — рассчитайте кредит прямо сейчас!</p>
-		<p><b>С {from} по {to} года</b></p>
-		<div class="flex gap-4 mt-10">
-			<Button 
-				classes="popup-link w-fit inline-block !px-4 xl:!px-8 !py-2 xl:!py-3 !text-white !no-underline !mb-0" 
-				url="#common-modal" 
-				title="Рассчитать кредит"
-				dataTitle="Получить предложение по кредиту на GAC GS8"
-				dataFormName={`Рассчитать кредит. Получить предложение по кредиту на GAC GS8`}
-			/>
-			<Button 
-				classes="popup-link btn black btn-o w-fit inline-block !px-4 xl:!px-8 !py-2 xl:!py-3 !no-underline !mb-0" 
-				url="#common-modal" 
-				title="Записаться на тест-драйв"
-				dataTitle="Записаться на тест-драйв. GAC GS8"
-				dataFormName={`Записаться на тест-драйв. GAC GS8`}
-			/>
-		</div>
+		<p><strong>C {DateFrom} по {DateTo}.</strong></p>
+	  </div>
+			<div class="flex gap-3">
+				<Button 
+		  classes="popup-link w-fit inline-block !px-4 xl:!px-8 !py-2 xl:!py-3 !text-white !no-underline" 
+		  url="#common-modal" 
+		  title="Получить предложение"
+		  dataTitle="Получить предложение"
+		  dataFormName="Премиальный трейд-ин GS8"
+		/>
+
+		<Button 
+		  classes="popup-link w-fit inline-block !px-4 xl:!px-8 !py-2 xl:!py-3 !no-underline !bg-transparent !text-black" 
+		  url="#common-modal" 
+		  title="Записаться на тест-драйв"
+		  dataTitle="Записаться на тест-драйв"
+		  dataFormName="Записаться на тест-драйв GS8"
+		/>
+			</div>
+		</Fragment>
+	</CardMedia>
+</section>
+
+<section>
+  <CardMedia imgPlacement="right">
+		<img slot="card-image" class="max-w-48" src="https://cdn.alexsab.ru/b/gac/img/special-offers/for-models/m8.webp" alt="M8" />
+		<Fragment slot="card-content">
+			<h2 class="!m-0 !p-0 before:hidden !text-2xl lg:!text-4xl">M8</h2>
+			<div>
+				<p>Комфортный и безопасный GAC M8 от 5 199 999 ₽ в кредит 1 под 0,01%. Доступные преимущества:</p>
+				<ul>
+				<li>300 000 ₽ по программе «Премиальный трейд-ин». <sup>2</sup></li>
+				</ul>
+				<p>Не упустите своё преимущество — рассчитайте кредит прямо сейчас!</p>
+				<p><strong>C {DateFrom} по {DateTo}.</strong></p>
+			</div>
+			<div class="flex gap-3">
+				<Button 
+					classes="popup-link w-fit inline-block !px-4 xl:!px-8 !py-2 xl:!py-3 !text-white !no-underline" 
+					url="#common-modal" 
+					title="Получить предложение"
+					dataTitle="Получить предложение"
+					dataFormName="Премиальный трейд-ин M8"
+				/>
+
+				<Button 
+					classes="popup-link w-fit inline-block !px-4 xl:!px-8 !py-2 xl:!py-3 !no-underline !bg-transparent !text-black" 
+					url="#common-modal" 
+					title="Записаться на тест-драйв"
+					dataTitle="Записаться на тест-драйв"
+					dataFormName="Записаться на тест-драйв M8"
+				/>
+			</div>
+		</Fragment>
+	</CardMedia>
+</section>
+
+<section>
+  <CardMedia>
+		<img slot="card-image" class="max-w-48" src="https://cdn.alexsab.ru/b/gac/img/special-offers/for-models/gs3.webp" alt="GS3" />
+		<Fragment slot="card-content">
+			<h2 class="!m-0 !p-0 before:hidden !text-2xl lg:!text-4xl">GS3</h2>
+			<div>
+				<p>Стильный и футуристичный GAC GS3 от 2 249 000 ₽ в кредит 1 под 0,01%. Доступные преимущества:</p>
+				<ul>
+					<li>200 000 ₽ по программе «Премиальный трейд-ин». <sup>2</sup></li>
+				</ul>
+				<p>Не упустите своё преимущество — рассчитайте кредит прямо сейчас!</p>
+				<p><strong>C {DateFrom} по {DateTo}.</strong></p>
+			</div>
+			<div class="flex gap-3">
+				<Button 
+					classes="popup-link w-fit inline-block !px-4 xl:!px-8 !py-2 xl:!py-3 !text-white !no-underline" 
+					url="#common-modal" 
+					title="Получить предложение"
+					dataTitle="Получить предложение"
+					dataFormName="Премиальный трейд-ин GS3"
+				/>
+
+				<Button 
+					classes="popup-link w-fit inline-block !px-4 xl:!px-8 !py-2 xl:!py-3 !no-underline !bg-transparent !text-black" 
+					url="#common-modal" 
+					title="Записаться на тест-драйв"
+					dataTitle="Записаться на тест-драйв"
+					dataFormName="Записаться на тест-драйв GS3"
+				/>
+			</div>
+		</Fragment>
+	</CardMedia>
+</section>
+
+<section>
+	<h2>Банки-партнеры</h2>
+	<div class="flex flex-col gap-5 justify-center items-center sm:flex-row">
+		<div><img src="https://cdn.alexsab.ru/logo/banks/alfabank-horizontal.svg" alt="Альфа Банк" /></div>
+		<div><img src="https://cdn.alexsab.ru/logo/banks/rosbank.svg" alt="Альфа Банк" /></div>
 	</div>
-</div>
+</section>
 
-<div class="flex flex-col lg:flex-row-reverse mb-14 lg:mb-20">
-	<img src="/img/specials/for-models/m8.webp" class="h-auto object-cover object-center w-full lg:w-1/2" alt="GAC M8" />
-	<div class="w-full lg:w-1/2 lg:pr-10 xl:pr-20 py-10">	
-		<div class="text-xl sm:text-3xl xl:text-4xl font-bold mb-7">M8</div>
-		<p>Комфортный и безопасный GAC M8 <b>от 4 999 999 рублей</b> в кредит<sup>1</sup> от 0,01%. Доступные преимущества:</p>
-		<ol class="list-decimal space-y-6 pl-5 *:text-base *:sm:text-xl !mb-6 sm:!mb-10">
-			<li>300 000 рублей по программе трейд-ин<sup>2</sup>;</li>
-			<li>200 000 рублей прямая скидка<sup>3</sup> на комплектацию GL.</li>
-		</ol>
-		<p>Не упустите своё преимущество - пройдите тест-драйв уже сейчас!</p>
-		<p><b>С {from} по {to} года</b></p>
-		<div class="flex gap-4 mt-10">
-			<Button 
-				classes="popup-link w-fit inline-block !px-4 xl:!px-8 !py-2 xl:!py-3 !text-white !no-underline !mb-0" 
-				url="#common-modal" 
-				title="Рассчитать кредит"
-				dataTitle="Получить предложение по кредиту на GAC M8"
-				dataFormName={`Рассчитать кредит. Получить предложение по кредиту на GAC M8`}
-			/>
-			<Button 
-				classes="popup-link btn black btn-o w-fit inline-block !px-4 xl:!px-8 !py-2 xl:!py-3 !no-underline !mb-0" 
-				url="#common-modal" 
-				title="Записаться на тест-драйв"
-				dataTitle="Записаться на тест-драйв. GAC M8"
-				dataFormName={`Записаться на тест-драйв. GAC M8`}
-			/>
-		</div>
-	</div>
-</div>
+<section>
+	<h2>Подробная информация</h2>
+	<p class="!text-sm"><sup>1</sup> Условия по кредиту и тарифы могут быть изменены Банком в одностороннем порядке. Банк вправе отказать в выдаче автокредита. Условия кредитования актуальны с 19.01.2024. Более подробную информацию уточняйте в официальных дилерских центрах GAC.</p>
+	<p class="!text-sm"><sup>2</sup> Трейд-ин:</p>
+	<h3 class="font-bold">GS3</h3>
+	<p class="!text-sm"><sup>1</sup> Выгода по программе «Премиальный трейд-ин» – это единовременная и разовая скидка на модель GS3 2024 г. в. в размере 200 000 ₽, предоставляется дилером покупателю при сдаче автомобиля с пробегом в трейд-ин. Предложение действительно в период с {DateFrom} по {DateTo}.</p>
+	<h3 class="font-bold">GS8</h3>
+	<p class="!text-sm"><sup>2</sup> Выгода по программе «Премиальный трейд-ин» – это единовременная и разовая скидка на модель GS8 2024 и 2025 г. в. в размере 300 000 ₽, предоставляется дилером покупателю при сдаче автомобиля с пробегом в трейд-ин. Предложение действительно в период с {DateFrom} по {DateTo}.</p>
+	<h3 class="font-bold">М8</h3>
+	<p class="!text-sm"><sup>3</sup> Выгода по программе «Премиальный трейд-ин» – это единовременная и разовая скидка на модель M8 2023 и 2024 г. в. в размере 300 000 ₽, предоставляется дилером покупателю при сдаче в трейд-ин автомобиля с пробегом, либо автомобиля с пробегом сегмента минивэн (Программа "VAN-to-VAN трейд-ин"). Предложение действительно в период с {DateFrom} по {DateTo}.</p>
+	<h3 class="font-bold">* Программа «VAN-to-VAN трейд-ин»</h3>
+	<p class="!text-sm">Список автомобилей сегмента минивэн: Trumpchi GN8, Trumpchi M8, Buick GL8, Chrysler Pacifica, Citroen SpaceTourer, Denza D9, FAW Bestune M9, Forthing Yacht, Hongqi HQ9, Wey 80, Hyundai Custo, Hyundai Grand Starex, Hyundai H-1, Hyundai Staria, KIA Carnival, Lexus LM, Mercedes Benz EQV, Mercedes Benz Viano, Mercedes Benz Vito, Mercedes Benz V-klasse, Opel Zafira Life, Peugeot Traveller, Toyota Alphard, Toyota Granvia, Toyota Hiace, Toyota Sienna, Volkswagen California, Volkswagen Caravelle, Volkswagen Multivan, Volkswagen Viloran, Voyah Dream, Zeekr 009.</p>
+</section>
 
-<div class="flex flex-col lg:flex-row mb-14 lg:mb-20">
-	<img src="/img/specials/for-models/gs3.webp" class="h-auto object-cover object-center w-full lg:w-1/2" alt="GAC GS3" />
-	<div class="w-full lg:w-1/2 lg:pl-10 xl:pl-20 py-10">	
-		<div class="text-xl sm:text-3xl xl:text-4xl font-bold mb-7">GS3</div>
-		<p>Стильный и футуристичный GAC GS3 <b>от 2 099 000 рублей</b> в кредит<sup>1</sup> от 0,01%. Доступные преимущества:</p>
-		<ol class="list-decimal space-y-6 pl-5 *:text-base *:sm:text-xl !mb-6 sm:!mb-10">
-			<li>200 000 рублей по программе трейд-ин<sup>2</sup>;</li>
-			<li>100 000 рублей прямая скидка<sup>3</sup> на комплектацию GL.</li>
-		</ol>
-		<p>Не упустите своё преимущество — рассчитайте кредит прямо сейчас!</p>
-		<p><b>До {to} года</b></p>
-		<div class="flex gap-4 mt-10">
-			<Button 
-				classes="popup-link w-fit inline-block !px-4 xl:!px-8 !py-2 xl:!py-3 !text-white !no-underline !mb-0" 
-				url="#common-modal" 
-				title="Рассчитать кредит"
-				dataTitle="Получить предложение по кредиту на GAC GS3"
-				dataFormName={`Рассчитать кредит. Получить предложение по кредиту на GAC GS3`}
-			/>
-			<Button 
-				classes="popup-link btn black btn-o w-fit inline-block !px-4 xl:!px-8 !py-2 xl:!py-3 !no-underline !mb-0" 
-				url="#common-modal" 
-				title="Записаться на тест-драйв"
-				dataTitle="Записаться на тест-драйв. GAC GS3"
-				dataFormName={`Записаться на тест-драйв. GAC GS3`}
-			/>
-		</div>
-	</div>
-</div>
+<section>
+  <CardMedia>
+		<img slot="card-image" class="max-w-48" src="https://cdn.alexsab.ru/b/gac/img/special-offers/for-models/trade-in.webp" alt="Trade-in" />
+		<Fragment slot="card-content">
+			<h2 class="!m-0 !p-0 before:hidden !text-2xl lg:!text-4xl">Обменяйте автомобиль с пробегом на новый GAC с помощью программы трейд-ин</h2>
+		<ul>
+		  <li>Трейд-ин в официальном дилерском центре GAC</li>
+		  <li>Обмен автомобиля проводится в дилерском центре, что гарантирует ее юридическую чистоту</li>
+		  <li>Выгода по программе трейд-ин достигает до 300 000 рублейи суммируется с выгодой по кредитным программам</li>
+		</ul>
+			<div class="flex gap-3">
+				<Button 
+					classes="popup-link w-fit inline-block !px-4 xl:!px-8 !py-2 xl:!py-3 !text-white !no-underline" 
+					url="#common-modal" 
+					title="Оценить автомобиль"
+					dataTitle="Оценить автомобиль"
+					dataFormName="Оценить автомобиль"
+				/> 
+			</div>
+		</Fragment>
+	</CardMedia>
+</section>
 
-<h3 class="font-bold uppercase text-center !text-2xl sm:!text-3xl !mb-10 lg:!mb-20">Банки-партнеры</h3>
-
-<div class="grid lg:grid-cols-3 gap-y-10 mb-14 sm:mb-20">
-	<div class="text-center">
-		<img src="/img/banks/alfabank-logo.svg" alt="alfabank-logo" />
-	</div>
-	<div class="text-center">
-		<img src="/img/banks/rosbank-avto.png" alt="rosbank-avto-logo" />
-	</div>
-	<div class="text-center">
-		<img src="/img/banks/drive-click.png" alt="drive-click-logo" />
-	</div>
-</div>
-
-<SpecialSalonsInfo dataFormName="Узнать подробнее. Кредитные предложения на автомобили GAC" />
-
-> <sup>1</sup> Условия по кредиту и тарифы могут быть изменены Банком в одностороннем порядке. Банк вправе отказать в выдаче автокредита. Условия кредитования актуальны с 19.01.2024г. Более подробную информацию уточняйте в официальных дилерских центрах GAC. Со списком официальных дилерских центров GAC можно ознакомиться на странице https://gac.ru/purchase.
-
-> <sup>2</sup> Трейд-ин:
-<br/><b><small>GS3</small></b> Выгода по программе «Трейд-ин»  – это единовременная и разовая скидка на модель GS3  в размере 200 000 руб, предоставляется дилером покупателю при сдаче автомобиля с пробегом в трейд-ин. Предложение действительно в период с {from} по {to} года.
-<br/><b><small>GS8</small></b> Выгода по программе «Трейд-ин»  – это единовременная и разовая скидка на модель GS8  в размере 300 000 руб, предоставляется дилером покупателю при сдаче автомобиля с пробегом в трейд-ин. Предложение действительно в период с {from} по {to} года.
-<br/><b><small>M8</small></b> Выгода по программе «Трейд-ин»  – это единовременная и разовая скидка на модель М8  в размере 300 000 руб, предоставляется дилером покупателю при сдаче в трейд-ин автомобиля с пробегом, либо автомобиля с пробегом сегмента минивэн (программа «VAN-to-VAN трейд-ин»)*. Предложение действительно в период с {from} по {to} года.
-
-> <sup>*</sup> <b><small>Программа «VAN-to-VAN трейд-ин»</small></b>
-<br/>Список автомобилей сегмента минивэн: Trumpchi GN8, Trumpchi M8, Buick GL8, Chrysler Pacifica, Citroen SpaceTourer, Denza D9, FAW Bestune M9, Forthing Yacht, Hongqi HQ9, Wey 80, Hyundai Custo, Hyundai Grand Starex, Hyundai H-1, Hyundai Staria, KIA Carnival, Lexus LM, Mercedes Benz EQV, Mercedes Benz Viano, Mercedes Benz Vito, Mercedes Benz V-klasse, Opel Zafira Life, Peugeot Traveller, Toyota Alphard, Toyota Granvia, Toyota Hiace, Toyota Sienna, Volkswagen California, Volkswagen Caravelle, Volkswagen Multivan, Volkswagen Viloran, Voyah Dream, Zeekr 009.
-
-> <sup>3</sup> Прямая скидка:
-<br/><b><small>GS3</small></b> Выгода по программе «Прямая Скидка» - это единовременная и разовая скидка на модель GS3 в комплектации GS в размере 100 000 руб, предоставляется дилером покупателю. Предложение действительно в период с {from} по {to} года.
-<br/><b><small>GS8</small></b> Выгода по программе «Прямая Скидка» - это единовременная и разовая скидка на модель GS8 в комплектации GL в размере 100 000 руб, предоставляется дилером покупателю. Предложение действительно в период с {from} по {to} года.
-<br/><b><small>M8</small></b> Выгода по программе «Прямая Скидка» - это единовременная и разовая скидка на модель М8 в комплектации GL в размере 200 000 руб, предоставляется дилером покупателю. Предложение действительно в период с {from} по {to} года.
+<section>
+  <FeedbackForm title="Получить предложение" subtitle="Заполните онлайн-заявку на сайте. Менеджер свяжется с вами в ближайшее время" imageUrl="https://cdn.alexsab.ru/b/gac/img/special-offers/for-models/feedback.webp" />
+</section>
