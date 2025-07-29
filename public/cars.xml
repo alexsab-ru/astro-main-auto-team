@@ -2428,7 +2428,7 @@ M8 — не просто премиум-минивэн, а автомобиль,
 			</multiposting>
 		<max_discount>450000</max_discount><priceWithDiscount>5849999</priceWithDiscount><sale_price>5849999</sale_price><url>https://auto-team.pro/cars/gac-m8-20-at-231-лс-gx-черный-2024/</url></car>
 	<car>
-			<unique_id>51c2e9469f9b3844777ef07a5315195b</unique_id>
+			<unique_id>c9219ab41917b228954f4b2265747007</unique_id>
 			<mark_id>BELGEE</mark_id>
 			<folder_id>X50</folder_id>
 			<modification_id>1.5 AMT (150 л.с.)</modification_id>
@@ -2439,7 +2439,7 @@ M8 — не просто премиум-минивэн, а автомобиль,
 			<metallic>нет</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
-			<run>8</run>
+			<run>9</run>
 			<year>2025</year>
 			<price>2690190</price>
 			<credit_discount>389097</credit_discount>
@@ -2447,7 +2447,7 @@ M8 — не просто премиум-минивэн, а автомобиль,
 			<tradein_discount>350000</tradein_discount>
 			<optional_discount>0</optional_discount>
 			<currency>RUR</currency>
-			<vin>Y4K8622ZXSB907129</vin>
+			<vin>Y4K8622Z5SB907099</vin>
 			<description>Партнер Авто в Саратове!
 
 Рассрочка 0,01% на покупку Belgee теперь доступна в Партнер Авто Саратов!
@@ -2471,7 +2471,7 @@ M8 — не просто премиум-минивэн, а автомобиль,
 			</multiposting>
 		<max_discount>739097</max_discount><priceWithDiscount>1951093</priceWithDiscount><sale_price>1951093</sale_price><url>https://auto-team.pro/cars/belgee-x50-15-amt-150-лс-prestige-белый-2025/</url></car>
 		<car>
-			<unique_id>c9219ab41917b228954f4b2265747007</unique_id>
+			<unique_id>51c2e9469f9b3844777ef07a5315195b</unique_id>
 			<mark_id>BELGEE</mark_id>
 			<folder_id>X50</folder_id>
 			<modification_id>1.5 AMT (150 л.с.)</modification_id>
@@ -2482,7 +2482,7 @@ M8 — не просто премиум-минивэн, а автомобиль,
 			<metallic>нет</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
-			<run>9</run>
+			<run>8</run>
 			<year>2025</year>
 			<price>2690190</price>
 			<credit_discount>389097</credit_discount>
@@ -2490,7 +2490,7 @@ M8 — не просто премиум-минивэн, а автомобиль,
 			<tradein_discount>350000</tradein_discount>
 			<optional_discount>0</optional_discount>
 			<currency>RUR</currency>
-			<vin>Y4K8622Z5SB907099</vin>
+			<vin>Y4K8622ZXSB907129</vin>
 			<description>Партнер Авто в Саратове!
 
 Рассрочка 0,01% на покупку Belgee теперь доступна в Партнер Авто Саратов!
@@ -3146,7 +3146,7 @@ M8 — не просто премиум-минивэн, а автомобиль,
 			</multiposting>
 		<max_discount>880911</max_discount><priceWithDiscount>2065279</priceWithDiscount><sale_price>2065279</sale_price><url>https://auto-team.pro/cars/belgee-x70-15-at-150-лс-style-черный-2025/</url></car>
 		<car>
-			<unique_id>cfb9d927cd5783791bebfbd8f5e13295</unique_id>
+			<unique_id>e531ac15964fa1aaf4931c92bd64fadc</unique_id>
 			<mark_id>BELGEE</mark_id>
 			<folder_id>X70</folder_id>
 			<modification_id>1.5 AT (150 л.с.)</modification_id>
@@ -3165,7 +3165,7 @@ M8 — не просто премиум-минивэн, а автомобиль,
 			<tradein_discount>250000</tradein_discount>
 			<optional_discount>0</optional_discount>
 			<currency>RUR</currency>
-			<vin>Y4K8722Z8SB313538</vin>
+			<vin>Y4K8722Z0SB313534</vin>
 			<description>Партнер Авто в Саратове!
 
 Рассрочка 0,01% на покупку Belgee теперь доступна в Партнер Авто Саратов!
@@ -3189,7 +3189,7 @@ M8 — не просто премиум-минивэн, а автомобиль,
 			</multiposting>
 		<max_discount>880911</max_discount><priceWithDiscount>2065279</priceWithDiscount><sale_price>2065279</sale_price><url>https://auto-team.pro/cars/belgee-x70-15-at-150-лс-style-черный-2025/</url></car>
 		<car>
-			<unique_id>e531ac15964fa1aaf4931c92bd64fadc</unique_id>
+			<unique_id>cfb9d927cd5783791bebfbd8f5e13295</unique_id>
 			<mark_id>BELGEE</mark_id>
 			<folder_id>X70</folder_id>
 			<modification_id>1.5 AT (150 л.с.)</modification_id>
@@ -3208,7 +3208,7 @@ M8 — не просто премиум-минивэн, а автомобиль,
 			<tradein_discount>250000</tradein_discount>
 			<optional_discount>0</optional_discount>
 			<currency>RUR</currency>
-			<vin>Y4K8722Z0SB313534</vin>
+			<vin>Y4K8722Z8SB313538</vin>
 			<description>Партнер Авто в Саратове!
 
 Рассрочка 0,01% на покупку Belgee теперь доступна в Партнер Авто Саратов!
