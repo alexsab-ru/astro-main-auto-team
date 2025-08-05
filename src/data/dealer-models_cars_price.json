@@ -61,6 +61,12 @@
   },
   {
     "brand": "GAC",
+    "model": "GS3",
+    "price": 2068000,
+    "benefit": 481000
+  },
+  {
+    "brand": "GAC",
     "model": "GS4",
     "price": 2699000,
     "benefit": 300000
