@@ -25,6 +25,12 @@
   },
   {
     "brand": "Changan",
+    "model": "CS95",
+    "price": 4359900,
+    "benefit": 250000
+  },
+  {
+    "brand": "Changan",
     "model": "HUNTERplus",
     "price": 3489900,
     "benefit": 250000
