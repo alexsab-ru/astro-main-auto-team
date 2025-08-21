@@ -13,6 +13,12 @@
   },
   {
     "brand": "Changan",
+    "model": "ALSVIN",
+    "price": 1619900,
+    "benefit": 280000
+  },
+  {
+    "brand": "Changan",
     "model": "CS35PLUS NEW",
     "price": 2199900,
     "benefit": 370000
