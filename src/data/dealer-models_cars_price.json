@@ -64,5 +64,11 @@
     "model": "GS8 II",
     "price": 4249000,
     "benefit": 600000
+  },
+  {
+    "brand": "GAC",
+    "model": "M8",
+    "price": 6499999,
+    "benefit": 0
   }
 ]
