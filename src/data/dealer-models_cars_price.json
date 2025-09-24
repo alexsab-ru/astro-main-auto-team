@@ -50,14 +50,14 @@
   {
     "brand": "GAC",
     "model": "GS3",
-    "price": 1888000,
-    "benefit": 661000
+    "price": 1999000,
+    "benefit": 550000
   },
   {
     "brand": "GAC",
     "model": "GS4",
-    "price": 2449000,
-    "benefit": 550000
+    "price": 2349000,
+    "benefit": 650000
   },
   {
     "brand": "GAC",
@@ -68,7 +68,7 @@
   {
     "brand": "GAC",
     "model": "M8",
-    "price": 6499999,
-    "benefit": 0
+    "price": 5629999,
+    "benefit": 870000
   }
 ]
