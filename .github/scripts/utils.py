@@ -330,6 +330,7 @@ def convert_to_string(element):
 
 
 def avitoColor(color):
+    # Обязательно приводим к нижнему регистру, чтобы не было ошибок при сравнении
     mapping = {
         'бежевый': 'бежевый',
         'бордовый': 'бордовый',
@@ -362,6 +363,7 @@ def avitoColor(color):
         'черный': 'черный',
         'чёрный': 'черный',
         'черный/черный': 'черный',
+        'черный/черно-зеленый': 'черный',
     }
 
     # Приводим ключ к нижнему регистру для проверки
@@ -370,7 +372,7 @@ def avitoColor(color):
         return mapping[normalized_color].capitalize()
     else:
         # Логирование ошибки в файл
-        error_text = f"Не удается обработать цвет для Avito: {color}"
+        error_text = f"Не удается обработать цвет для Avito: <code>{color}</code>"
         with open('output.txt', 'a') as file:
             file.write(f"{error_text}\n")
         return color  # Возвращаем оригинальный ключ, если он не найден
