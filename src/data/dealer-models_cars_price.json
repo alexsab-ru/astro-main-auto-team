@@ -25,6 +25,12 @@
   },
   {
     "brand": "Changan",
+    "model": "HUNTERplus",
+    "price": 3489900,
+    "benefit": 250000
+  },
+  {
+    "brand": "Changan",
     "model": "Lamore",
     "price": 2419900,
     "benefit": 450000
