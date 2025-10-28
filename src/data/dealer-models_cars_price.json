@@ -2,7 +2,7 @@
   {
     "brand": "BELGEE",
     "model": "S50",
-    "price": 2119990,
+    "price": 1939990,
     "benefit": 150000
   },
   {
@@ -64,5 +64,11 @@
     "model": "M8",
     "price": 5629999,
     "benefit": 870000
+  },
+  {
+    "brand": "Geely",
+    "model": "Preface",
+    "price": 2568190,
+    "benefit": 999000
   }
 ]
