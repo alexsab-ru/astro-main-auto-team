@@ -40,48 +40,55 @@ import FaqItem from '@/components/Faq/Item.astro';
 import { type TFaqItem } from '@/components/Faq/types';
 import Table from '@/components/Table/Table.astro';
 import fs from 'node:fs';
+import path from 'node:path';
 
-// Парсим CSV и готовим данные для заголовков аккордеона + таблиц
-// Саму папку с таблицами можно скачать командой pnpm run get_table_services_csv
-const csvPath = new URL('../../data/tables/services.csv', import.meta.url);
-let faqBlocks: { item: TFaqItem; rows: { name: string; price: string; }[] }[] = [];
+// Парсим JSON и готовим данные для заголовков аккордеона + таблиц
+// Получить файл с таблицей можно командой pnpm run get_table_services_json
+// Используем путь от корня проекта (работает и в dev, и в build)
+const jsonPath = path.resolve(process.cwd(), 'src/data/tables/services.json');
 
-try {
-	const csv = fs.readFileSync(csvPath, 'utf-8');
-	const lines = csv.trim().split('\n');
-	// Новый формат CSV: все значения в двойных кавычках.
-	// Снимаем ТОЛЬКО внешние кавычки у каждой ячейки и подрезаем пробелы.
-	// Внутренние символы не трогаем, запятые внутри значений не используются.
-	const cleanCell = (value: string) => {
-		// Берём безопасно строку
-		const v = (value ?? '').trim();
-		// Удаляем внешние кавычки, если они есть ("..." -> ...)
-		const unquoted = v.replace(/^"(.*)"$/, '$1');
-		return unquoted.trim();
-	};
-	// Разбиваем по запятым и чистим каждую ячейку
-	const rows = lines.map((line) => line.split(',').map(cleanCell));
-	if (rows.length > 0) {
-		const header = rows[0];
-		// Заголовки идут парами: [Название, "цена от"], [Название2, "цена от"], ...
-		for (let col = 0, id = 1; col < header.length; col += 2, id += 1) {
-			const groupTitle = (header[col] || '').trim();
-			if (!groupTitle) continue;
-			const data = rows.slice(1)
-				.map((r) => ({ name: (r[col] || '').trim(), price: (r[col + 1] || '').trim() }))
-				// Пропускаем позиции без цены
-				.filter((r) => r.name && r.price);
-			if (data.length === 0) continue;
-			const item: TFaqItem = {
-				id,
-				question: groupTitle,
-				answer: '',
-				open: false
-			};
-			faqBlocks.push({ item, rows: data });
+// Проверяем существование файла и создаем faqBlocks
+// Если файл отсутствует - компонент работает без таблицы услуг
+let faqBlocks = [];
+
+if (fs.existsSync(jsonPath)) {
+	// Читаем JSON файл с услугами
+	const servicesJsonData = JSON.parse(fs.readFileSync(jsonPath, 'utf-8'));
+
+	// Группируем услуги по типу
+	const servicesGrouped: Record<string, any[]> = {};
+	servicesJsonData.forEach((service: any) => {
+		const type = service['Тип'];
+		if (!servicesGrouped[type]) {
+			servicesGrouped[type] = [];
 		}
-	}
-} catch {}
+		servicesGrouped[type].push(service);
+	});
+
+	// Создаем faqBlocks для использования в компоненте FaqItem + Table
+	faqBlocks = Object.entries(servicesGrouped).map(([type, services], index) => {
+		// Создаем item для FaqItem (заголовок аккордеона)
+		const item: TFaqItem = {
+			id: index,
+			question: type,  // Название типа услуги (например, "Диагностика")
+			answer: '',  // Не используется, т.к. контент будет таблицей
+			open: false  // По умолчанию аккордеон закрыт
+		};
+		
+		// Создаем rows для Table (данные таблицы)
+		// Фильтруем услуги: показываем только те, у которых есть цена
+		const rows = services
+			.filter(service => service['цена от'] !== null)  // Исключаем услуги без цены
+			.map(service => ({
+				name: service['Работы'],  // Наименование работы
+				price: service['цена от'].toLocaleString('ru-RU')  // Форматируем цену по российским стандартам (456 000)
+		}));
+		
+		return { item, rows };
+	})
+	.filter(({ rows }) => rows.length > 0);  // Исключаем группы без услуг с ценами
+}
+
 ---
 
 <Layout title=`Купить ${brand} у официального дилера ${site_name}` description=`Забронируйте свой автомобиль прямо сейчас у официального дилера ${brand} в ${legal_city_where}! ☎️ ${salonsPhone}`>
