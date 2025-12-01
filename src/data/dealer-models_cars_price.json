@@ -2,8 +2,20 @@
   {
     "brand": "BELGEE",
     "model": "S50",
-    "price": 2119990,
+    "price": 1939990,
     "benefit": 150000
+  },
+  {
+    "brand": "BELGEE",
+    "model": "X50",
+    "price": 1740893,
+    "benefit": 739097
+  },
+  {
+    "brand": "BELGEE",
+    "model": "X70",
+    "price": 2515990,
+    "benefit": 80000
   },
   {
     "brand": "Changan",
