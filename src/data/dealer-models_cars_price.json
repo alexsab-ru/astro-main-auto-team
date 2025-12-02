@@ -1,18 +1,18 @@
 [
   {
-    "brand": "BELGEE",
+    "brand": "Belgee",
     "model": "S50",
     "price": 1939990,
     "benefit": 150000
   },
   {
-    "brand": "BELGEE",
+    "brand": "Belgee",
     "model": "X50",
     "price": 1740893,
     "benefit": 739097
   },
   {
-    "brand": "BELGEE",
+    "brand": "Belgee",
     "model": "X70",
     "price": 2515990,
     "benefit": 80000
@@ -48,25 +48,25 @@
     "benefit": 540000
   },
   {
-    "brand": "GAC",
+    "brand": "Gac",
     "model": "Empow",
     "price": 2869000,
     "benefit": 350000
   },
   {
-    "brand": "GAC",
+    "brand": "Gac",
     "model": "GS3",
     "price": 2419000,
     "benefit": 480000
   },
   {
-    "brand": "GAC",
+    "brand": "Gac",
     "model": "GS4",
     "price": 3849000,
     "benefit": 0
   },
   {
-    "brand": "GAC",
+    "brand": "Gac",
     "model": "GS8",
     "price": 3649000,
     "benefit": 650000
