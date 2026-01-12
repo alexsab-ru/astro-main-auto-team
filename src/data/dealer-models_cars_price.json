@@ -1,1 +1,44 @@
-[]
+[
+  {
+    "brand": "Changan",
+    "model": "CS35PLUS NEW",
+    "price": 2389900,
+    "benefit": 320000
+  },
+  {
+    "brand": "Changan",
+    "model": "CS55PLUS",
+    "price": 2729900,
+    "benefit": 330000
+  },
+  {
+    "brand": "Changan",
+    "model": "HUNTERplus",
+    "price": 3719900,
+    "benefit": 250000
+  },
+  {
+    "brand": "Changan",
+    "model": "UNI-K",
+    "price": 4159900,
+    "benefit": 540000
+  },
+  {
+    "brand": "Gac",
+    "model": "Empow",
+    "price": 2869000,
+    "benefit": 350000
+  },
+  {
+    "brand": "Gac",
+    "model": "GS4",
+    "price": 3649000,
+    "benefit": 300000
+  },
+  {
+    "brand": "Gac",
+    "model": "GS8",
+    "price": 3649000,
+    "benefit": 600000
+  }
+]
