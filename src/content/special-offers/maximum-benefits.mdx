@@ -12,8 +12,8 @@ export const { site_name, brand, phone_common, legal_city_where } = settings;
 import { phoneFormat } from '@/js/utils/numbers.format';
 import { FIRST_DAY, LAST_DAY, MONTH, YEAR } from '@/js/utils/date';
 
-export const from = `${FIRST_DAY}.${MONTH}.${YEAR}`;
-export const to = `${LAST_DAY}.${MONTH}.${YEAR}`;
+export const dateFrom = `${FIRST_DAY}.${MONTH}.${YEAR}`;
+export const dateTo = `${LAST_DAY}.${MONTH}.${YEAR}`;
 
 <picture>
     <source media="(max-width: 768px)" srcset="https://cdn.alexsab.ru/specials/belgee/maximum-benefits/banner-900x1200.webp" />
@@ -33,61 +33,48 @@ export const to = `${LAST_DAY}.${MONTH}.${YEAR}`;
 При приобретении автомобиля с использованием банковского кредита по условиям программы Belgee Finance вы можете получить выгоду от розничной цены на сумму, указанную в таблице
 
 <div class="overflow-auto min-w-full my-14 -mx-5">
-    <table class="inline-block min-w-full w-auto px-5">
+    <table class="web_block_table__content">
         <thead>
             <tr>
-                <th class="bg-accent-500 text-white">Модель нового автомобиля</th>
-                <th class="bg-accent-500 text-white">Комплектация нового автомобиля</th>
-                <th class="bg-accent-500 text-white">Специальная выгода¹, руб.</th>
-                <th class="bg-accent-500 text-white">Выгода по программе Трейд-ин², руб.</th>
-                <th class="bg-accent-500 text-white">Максимальная выгода до, руб.</th>
+                <th>Модель нового автомобиля</th>
+                <th>Выгода по программе Трейд-ин, руб.</th>
+                <th>Специальная выгода, руб.</th>
+                <th>Максимальная выгода до, руб.</th>
             </tr>
         </thead>
         <tbody class="main-text ">
             <tr>
-                <td>X50</td>
-                <td>Active</td>
-                <td>290 000</td>
+                <td>Х50 комплектация Active</td>
                 <td>250 000</td>
-                <td>540 000<sup>*</sup></td>
-            </tr>
-            <tr>
-                <td>X50</td>
-                <td>Style и Prestige</td>
-                <td>290 000</td>
-                <td>140 000</td>
-                <td>430 000<sup>*</sup></td>
-            </tr>
-            <tr>
-                <td>X70</td>
-                <td>Active</td>
-                <td>350 000</td>
-                <td>200 000</td>
-                <td>550 000<sup>*</sup></td>
-            </tr>
-            <tr>
-                <td>X70</td>
-                <td>Style 2WD</td>
-                <td>350 000</td>
-                <td>170 000</td>
-                <td>520 000<sup>*</sup></td>
-            </tr>
-            <tr>
-                <td>X70</td>
-                <td>Style 4WD</td>
-                <td>410 000</td>
-                <td>170 000</td>
-                <td>580 000<sup>*</sup></td>
-            </tr>
-            <tr>
-                <td>X70</td>
-                <td>Prestige и Prestige+ 4WD</td>
+                <td>150 000</td>
                 <td>400 000</td>
-                <td>170 000</td>
-                <td>570 000<sup>*</sup></td>
+            </tr>
+            <tr>
+                <td>Х50 комплектации Style и Prestige</td>
+                <td>140 000</td>
+                <td>125 000</td>
+                <td>265 000</td>
+            </tr>
+            <tr>
+                <td>Обновленный X70 все комплектации</td>
+                <td>80 000</td>
+                <td>−</td>
+                <td>80 000</td>
+            </tr>
+            <tr>
+                <td>Новый S50 комплектация Active 5MT</td>
+                <td>200 000</td>
+                <td>−</td>
+                <td>200 000</td>
+            </tr>
+            <tr>
+                <td>Новый S50 комплектации Active 6AT, Style, Prestige</td>
+                <td>120 000</td>
+                <td>−</td>
+                <td>120 000</td>
             </tr>
         </tbody>
-</table>
+    </table>
 </div>
 
 Подробности в нашем дилерском центре по тел.: <a href={`tel:${phoneFormat(phone_common)}`}>{phone_common}</a>
@@ -102,16 +89,8 @@ export const to = `${LAST_DAY}.${MONTH}.${YEAR}`;
     />
 </div>
 
-> Представленные на изображениях автомобили могут отличаться от серийных моделей. Цвет, технические характеристики и комплектация автомобилей Belgee X70 и X50 могут быть изменены в одностороннем порядке.
+> Представленные на изображениях автомобили могут отличаться от серийных моделей. Цвет, технические характеристики и комплектация автомобилей Обновленного Belgee X70, Нового Belgee S50, Belgee X70 и Belgee X50 могут быть изменены в одностороннем порядке.
 
-> ООО «ДЖИЛИ-МОТОРС» вправе изменить сроки и условия Программ. Подробные условия уточняйте  в дилерских центрах «Belgee», либо по тел. <a href={`tel:${phoneFormat(phone_common)}`}>{phone_common}</a>.
+> ООО «ДЖИЛИ-МОТОРС» вправе изменить сроки и условия Программ. Подробные условия уточняйте в дилерском центре «Belgee» {site_name} в {legal_city_where}, либо по тел. <a href={`tel:${phoneFormat(phone_common)}`}>{phone_common}</a>.
 
-> Максимальная цена перепродажи носит информационный характер и не является публичной офертой. Программа действует с {from}г. по {to}г.
-
-> <sup>*</sup> Максимальная цена перепродажи с учетом применимых выгод состоит из выгоды, применяемой к цене автомобиля1 и выгоды по программе «Трейд-ин»2. Настоящее предложение, включая любые сведения о предоставляемой выгоде, носит исключительно информационный характер, не является офертой, подробности уточняйте  в дилерских центрах «Belgee». Предложение действительно с {from}г. по {to}г.
-
-> <sup>1</sup> Выгода, применяемая к цене автомобиля, предоставляется Дилером покупателю от розничной цены автомобиля. Программа действует с {from}г. по {to}г.
-
-> <sup>2</sup> Выгода по программе «Трейд-ин» — это единовременная и разовая скидка, предоставляется Дилером покупателю от розничной цены автомобиля, приобретаемого по Программе, при сдаче в трейд-ин автомобиля с пробегом. Программа действует с {from}г. по {to}г.
-
-> Реклама. ООО «ДЖИЛИ-МОТОРС». Не оферта. ООО «ДЖИЛИ-МОТОРС» вправе изменить сроки и условия Программы. Подробные условия уточняйте  в дилерских центрах «Belgee», либо по тел. <a href={`tel:${phoneFormat(phone_common)}`}>{phone_common}</a>.
+> <sup>*</sup> Настоящее предложение, включая любые сведения о предоставляемой выгоде, носит исключительно информационный характер, не является офертой, подробности у официального дилера «Belgee». Предложение действительно с {dateFrom} по {dateTo} г.
