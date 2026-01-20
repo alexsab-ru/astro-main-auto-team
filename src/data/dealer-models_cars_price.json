@@ -6,12 +6,6 @@
     "benefit": 150000
   },
   {
-    "brand": "Belgee",
-    "model": "X50",
-    "price": 1951893,
-    "benefit": 739097
-  },
-  {
     "brand": "Changan",
     "model": "CS35PLUS NEW",
     "price": 2389900,
@@ -50,7 +44,7 @@
   {
     "brand": "Gac",
     "model": "GS8",
-    "price": 3299000,
-    "benefit": 800000
+    "price": 3899000,
+    "benefit": 700000
   }
 ]
