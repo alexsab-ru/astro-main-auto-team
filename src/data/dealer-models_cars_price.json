@@ -8,8 +8,8 @@
   {
     "brand": "Belgee",
     "model": "X50",
-    "price": 2050990,
-    "benefit": 640000
+    "price": 1819113,
+    "benefit": 771877
   },
   {
     "brand": "Changan",
@@ -50,13 +50,13 @@
   {
     "brand": "Gac",
     "model": "GS4",
-    "price": 2699000,
-    "benefit": 500000
+    "price": 2499000,
+    "benefit": 700000
   },
   {
     "brand": "Gac",
     "model": "GS8",
-    "price": 3899000,
-    "benefit": 700000
+    "price": 3599000,
+    "benefit": 800000
   }
 ]
