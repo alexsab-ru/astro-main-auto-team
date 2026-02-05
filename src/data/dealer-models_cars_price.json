@@ -52,5 +52,41 @@
     "model": "GS8",
     "price": 3599000,
     "benefit": 800000
+  },
+  {
+    "brand": "Geely",
+    "model": "Atlas",
+    "price": 3000990,
+    "benefit": 765000
+  },
+  {
+    "brand": "Geely",
+    "model": "Cityray",
+    "price": 2284990,
+    "benefit": 930000
+  },
+  {
+    "brand": "Geely",
+    "model": "Monjaro",
+    "price": 4209990,
+    "benefit": 690000
+  },
+  {
+    "brand": "Geely",
+    "model": "OKAVANGO",
+    "price": 3100990,
+    "benefit": 808000
+  },
+  {
+    "brand": "Geely",
+    "model": "Preface",
+    "price": 2919190,
+    "benefit": 648000
+  },
+  {
+    "brand": "Knewstar",
+    "model": "001",
+    "price": 3402990,
+    "benefit": 1167000
   }
 ]
