@@ -6,6 +6,7 @@
 .header-child-link{
 	@apply lg:!block pl-8 lg:pl-5;
 }
+
 .cols-0 {
 	@apply columns-auto;
 }
