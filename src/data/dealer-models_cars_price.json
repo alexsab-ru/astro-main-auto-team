@@ -1,9 +1,21 @@
 [
   {
     "brand": "Belgee",
+    "model": "S50",
+    "price": 2009990,
+    "benefit": 300000
+  },
+  {
+    "brand": "Belgee",
     "model": "X50",
     "price": 1844990,
-    "benefit": 635000
+    "benefit": 780000
+  },
+  {
+    "brand": "Belgee",
+    "model": "X70",
+    "price": 2330990,
+    "benefit": 380000
   },
   {
     "brand": "Changan",
@@ -55,9 +67,21 @@
   },
   {
     "brand": "Geely",
+    "model": "Atlas",
+    "price": 3055990,
+    "benefit": 915000
+  },
+  {
+    "brand": "Geely",
     "model": "Cityray",
     "price": 2249990,
     "benefit": 965000
+  },
+  {
+    "brand": "Geely",
+    "model": "Monjaro",
+    "price": 4209990,
+    "benefit": 690000
   },
   {
     "brand": "Geely",
