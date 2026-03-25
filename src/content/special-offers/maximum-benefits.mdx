@@ -1,38 +1,33 @@
 ---
-h1: Максимальная выгода на автомобили Белджи
-title: Максимальная выгода на автомобили Белджи
-breadcrumb: Максимальная выгода на автомобили Белджи
-pubDate: 2025-07-01
-image: https://cdn.alexsab.ru/specials/belgee/maximum-benefits/thumb.webp
-description: "Воспользуйтесь специальным предложением при приобретении автомобиля Belgee с использованием кредитных средств, программ Трейд-ин и программы Белджи Финанс для покупки авто"
+h1: "Актуальные спецпредложения на покупку автомобилей Belgee"
+title: "Актуальные спецпредложения на покупку автомобилей Belgee в {{legal_city_where}}"
+caption: "Только до конца {{monthGenitive}} актуальные спецпредложения на покупку автомобилей Belgee"
+breadcrumb: "Спецпредложения на покупку автомобилей Belgee"
+# pubDate: "2025-08-01"
+pubDate: "{{year}}-{{month}}-01"
+image: https://cdn.alexsab.ru/specials/belgee/maximum-benefits/x50-thumb.webp
+description: "Воспользуйтесь специальным предложением с 01 по {{lastDay}} {{monthGenitive}} при приобретении автомобиля Белджи в {{legal_city_where}}"
 ---
 import Button from '@/components/Button/Button.astro';
+import SpecialSalonsInfo from '@/components/SpecialSalonsInfo.astro';
 import settings from '@/data/settings.json';
 export const { site_name, brand, phone_common, legal_city_where } = settings;
 import { phoneFormat } from '@/js/utils/numbers.format';
-import { FIRST_DAY, LAST_DAY, MONTH, YEAR } from '@/js/utils/date';
+import { FIRST_DAY, LAST_DAY, MONTH, MONTH_NOMINATIVE, MONTH_GENITIVE, MONTH_PREPOSITIONAL, YEAR } from '@/js/utils/date';
 
 export const dateFrom = `${FIRST_DAY}.${MONTH}.${YEAR}`;
 export const dateTo = `${LAST_DAY}.${MONTH}.${YEAR}`;
+export const dateToGenitive = `${LAST_DAY} ${MONTH_GENITIVE} ${YEAR}`;
+export const dateToPrepositional = `${MONTH_PREPOSITIONAL} ${YEAR}`;
 
 <picture>
-    <source media="(max-width: 768px)" srcset="https://cdn.alexsab.ru/specials/belgee/maximum-benefits/banner-900x1200.webp" />
-    <img src="https://cdn.alexsab.ru/specials/belgee/maximum-benefits/banner-1920x1040.webp" class="w-full mb-10" alt="Выгода на автомобили Белджи" width="1496" height="810" />
+	<source media="(min-width: 640px)" srcset="https://cdn.alexsab.ru/specials/belgee/maximum-benefits/x70-desktop-1920x1280.webp" />
+	<img src="https://cdn.alexsab.ru/specials/belgee/maximum-benefits/x70-mobile-450x450.webp" class="w-full mb-10" alt="Выгода на автомобили Белджи" />
 </picture>
 
-### **Специальная выгода:**
+При приобретении нового автомобиля Belgee вы можете получить специальную выгоду от розничной цены на сумму, указанную в таблице.
 
-При приобретении нового автомобиля Belgee вы можете получить специальную выгоду от розничной цены на сумму, указанную в таблице. 
-
-### **Программа Трейд-ин с дополнительной выгодой от Belgee:**
-
-Обменяйте свой автомобиль с пробегом на новый с помощью программы Трейд-ин с дополнительной выгодой от Belgee. В официальном дилерском центре <strong>{brand} {site_name}</strong> это можно сделать максимально быстро. Специалисты оценят ваш автомобиль по рыночной стоимости, и вам не придется искать покупателя. Также стоимость вашего автомобиля можно будет внести как первый взнос по кредиту на новый автомобиль Belgee. 
-
-### **Программа Belgee Finance:**
-
-При приобретении автомобиля с использованием банковского кредита по условиям программы Belgee Finance вы можете получить выгоду от розничной цены на сумму, указанную в таблице
-
-<div class="overflow-auto min-w-full my-14 -mx-5">
+<div class="overflow-auto min-w-full my-14 -mx-5 sm:mx-0">
     <table class="web_block_table__content">
         <thead>
             <tr>
@@ -42,33 +37,39 @@ export const dateTo = `${LAST_DAY}.${MONTH}.${YEAR}`;
                 <th>Максимальная выгода до, руб.</th>
             </tr>
         </thead>
-        <tbody class="main-text ">
+        <tbody>
             <tr>
-                <td>Х50 комплектация Active</td>
+                <td>X50+ все комплектации</td>
+                <td>100 000</td>
+                <td>−</td>
+                <td>100 000</td>
+            </tr>
+            <tr>
+                <td>Х50 комплектация Актив</td>
                 <td>250 000</td>
                 <td>150 000</td>
                 <td>400 000</td>
             </tr>
             <tr>
-                <td>Х50 комплектации Style и Prestige</td>
+                <td>Х50 комплектации Стиль и Престиж</td>
                 <td>140 000</td>
                 <td>125 000</td>
                 <td>265 000</td>
             </tr>
             <tr>
-                <td>Обновленный X70 все комплектации</td>
+                <td>X70 все комплектации</td>
                 <td>80 000</td>
                 <td>−</td>
                 <td>80 000</td>
             </tr>
             <tr>
-                <td>Новый S50 комплектация Active 5MT</td>
+                <td>S50 комплектация Актив 5МКП</td>
                 <td>200 000</td>
                 <td>−</td>
                 <td>200 000</td>
             </tr>
             <tr>
-                <td>Новый S50 комплектации Active 6AT, Style, Prestige</td>
+                <td>S50 комплектации Актив 6АКП, Стиль, Престиж</td>
                 <td>120 000</td>
                 <td>−</td>
                 <td>120 000</td>
@@ -77,19 +78,17 @@ export const dateTo = `${LAST_DAY}.${MONTH}.${YEAR}`;
     </table>
 </div>
 
-Подробности в нашем дилерском центре по тел.: <a href={`tel:${phoneFormat(phone_common)}`}>{phone_common}</a>
+<p><strong>Программа Трейд-ин с дополнительной выгодой от Belgee:</strong></p>
 
-<div class="flex justify-center mt-10 mb-5">
-    <Button 
-        classes="popup-link block !px-4 xl:!px-8 !py-2 xl:!py-3 !text-white !no-underline" 
-        url="#common-modal" 
-        title="Получить предложение"
-        dataTitle="Получить максимальную выгоду"
-        dataFormName="Получить предложение. Максимальная выгода"
-    />
-</div>
+Обменяйте свой автомобиль с пробегом на новый с помощью программы Трейд-ин с дополнительной выгодой от Belgee. В официальном дилерском центре это можно сделать максимально быстро. Специалисты оценят Ваш автомобиль по рыночной стоимости, и вам не придется искать покупателя. Также стоимость вашего автомобиля можно будет внести как первый взнос по кредиту на новый автомобиль Belgee.
 
-> Представленные на изображениях автомобили могут отличаться от серийных моделей. Цвет, технические характеристики и комплектация автомобилей Обновленного Belgee X70, Нового Belgee S50, Belgee X70 и Belgee X50 могут быть изменены в одностороннем порядке.
+<p><strong>Программа Belgee Финанс:</strong></p>
+
+При приобретении автомобиля с использованием банковского кредита по условиям программы Belgee Финанс Вы можете получить выгоду от розничной цены на сумму, указанную в таблице
+
+<SpecialSalonsInfo dataFormName="Узнать подробнее. Спецпредложения на покупку автомобилей Belgee" />
+
+> Представленные на изображениях автомобили могут отличаться от серийных моделей. Цвет, технические характеристики и комплектация автомобилей Belgee X50+, Belgee X70, Belgee S50 и Belgee X50 могут быть изменены в одностороннем порядке.
 
 > ООО «ДЖИЛИ-МОТОРС» вправе изменить сроки и условия Программ. Подробные условия уточняйте в дилерском центре «Belgee» {site_name} в {legal_city_where}, либо по тел. <a href={`tel:${phoneFormat(phone_common)}`}>{phone_common}</a>.
 
