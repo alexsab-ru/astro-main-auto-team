@@ -1,6 +1,12 @@
 [
   {
     "brand": "Belgee",
+    "model": "S50",
+    "price": 2009990,
+    "benefit": 300000
+  },
+  {
+    "brand": "Belgee",
     "model": "X70",
     "price": 2199990,
     "benefit": 505000
@@ -62,7 +68,7 @@
   {
     "brand": "Geely",
     "model": "Cityray",
-    "price": 2324990,
+    "price": 2290990,
     "benefit": 930000
   },
   {
