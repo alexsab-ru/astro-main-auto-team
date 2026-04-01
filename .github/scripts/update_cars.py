@@ -482,7 +482,12 @@ class CarProcessor:
                 color_rus = self.localize_value(raw_color)
 
             if not color_eng:
-                color_eng = process_friendly_url(str(raw_color).strip())
+                color_eng = process_friendly_url(str(raw_color).strip(),
+                    mark_id=car_data.get('mark_id'),
+                    folder_id=car_data.get('folder_id'),
+                    vin=car_data.get('vin'),
+                    log_warnings=False,
+                )
 
             car_data['color_rus'] = color_rus
             car_data['color_eng'] = color_eng
@@ -863,10 +868,15 @@ class CarProcessor:
         Returns:
             str: Объединенная строка
         """
+        mark_id = car_data.get('mark_id')
+        folder_id = car_data.get('folder_id')
+        vin = car_data.get('vin')
+        log_warnings = self.config.get('category_type') != 'used'
         parts = []
         for field in fields:
             if field in car_data and car_data[field]:
                 value = str(car_data[field]).strip()
+                value = translate_field_for_url(value, field, mark_id, folder_id, vin, log_warnings)
                 parts.append(value)
         return " ".join(parts)
 
@@ -894,6 +904,7 @@ class CarProcessor:
             mark_id=car_data.get('mark_id'),
             folder_id=car_data.get('folder_id'),
             vin=car_data.get('vin'),
+            log_warnings=config.get('category_type') != 'used',
         )
         print(f"\n\n🆔 Уникальный идентификатор: {friendly_url}")
         
@@ -940,10 +951,11 @@ class CarProcessor:
         # Группировка и агрегация данных сразу в готовом формате
         brand = car_data.get('mark_id', '')
         model_full = car_data.get('folder_id', '')
-        model = get_model_info(brand, model_full, 'name', None, car_data.get('vin', ''))
+        log_errors = config.get('category_type') != 'used'
+        model = get_model_info(brand, model_full, 'name', None, car_data.get('vin', ''), log_errors=log_errors)
         if not model is None:
             car_data['model_name'] = model
-            car_data['model_id'] = get_model_info(brand, model_full, 'id', None, car_data.get('vin', ''))
+            car_data['model_id'] = get_model_info(brand, model_full, 'id', None, car_data.get('vin', ''), log_errors=log_errors)
             key = (brand, model)
             
             if key in self.cars_price_data:
@@ -1258,6 +1270,7 @@ def main():
             current_config['move_vin_id_up'] = source_config['move_vin_id_up']
             current_config['new_address'] = source_config['new_address']
             current_config['new_phone'] = source_config['new_phone']
+            current_config['category_type'] = category_type
                         
             # Инициализация XML
             root = get_xml_content(xml_file_path, args.xml_url)

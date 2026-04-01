@@ -74,6 +74,56 @@ def _has_cyrillic(text):
     return bool(re.search(r'[а-яёА-ЯЁ]', text))
 
 
+def _lookup_complectation_name(value, mark_id=None, folder_id=None):
+    """Ищет английское название комплектации по точному совпадению с русской частью caption.
+
+    Порядок поиска:
+    1. Комплектации конкретной модели (mark_id + folder_id) — точное совпадение
+    2. Глобальный словарь всех комплектаций (_complectation_map) — точное совпадение
+    """
+    value_lower = value.strip().lower()
+
+    # 1. Точный поиск в комплектациях конкретной модели
+    if mark_id and folder_id:
+        brand_bucket = all_models_index_by_brand.get(mark_id.lower(), {})
+        model_obj = brand_bucket.get(folder_id.lower())
+        if model_obj:
+            for comp in model_obj.get('complectations', []):
+                caption = comp.get('caption', '')
+                name = comp.get('name', '')
+                if not caption or not name:
+                    continue
+                for sep in (' / ', ' - '):
+                    if sep in caption:
+                        rus_part = caption.split(sep, 1)[0].strip().lower()
+                        if rus_part == value_lower:
+                            return name
+                        break
+
+    # 2. Глобальный словарь (все модели)
+    return _complectation_map.get(value_lower)
+
+
+def translate_field_for_url(value, field_name, mark_id=None, folder_id=None, vin=None, log_warnings=True):
+    """Переводит значение отдельного поля для использования в URL.
+
+    Для complectation_name — точный поиск в справочнике комплектаций.
+    Для остальных полей — общая трансляция (аббревиатуры + транслитерация).
+    """
+    if not value:
+        return value
+    value = str(value)
+    if not _has_cyrillic(value):
+        return value
+
+    if field_name == 'complectation_name':
+        result = _lookup_complectation_name(value, mark_id, folder_id)
+        if result:
+            return result
+
+    return _translate_russian_in_url(value, mark_id, folder_id, vin, log_warnings)
+
+
 def _transliterate(text):
     """Транслитерация кириллицы в латиницу."""
     result = []
@@ -127,12 +177,12 @@ def _get_brand_model_overrides(mark_id, folder_id):
     return overrides
 
 
-def _translate_russian_in_url(text, mark_id=None, folder_id=None, vin=None):
+def _translate_russian_in_url(text, mark_id=None, folder_id=None, vin=None, log_warnings=True):
     """Переводит русские слова в строке для URL на английский.
 
     Порядок:
     1. Замена «Nх» на «Nx» (например, «4х4» → «4x4», «2х4» → «2x4»)
-    1.1. Замена «л.с.» → «h.p.» (точки потом удалятся → hp)
+    1.1. Замена «л.с.» / «л.с)» → «h.p.» / «h.p.)» (потом удалятся → hp)
     2. Бренд/модель-специфичные переопределения из settings-common.json
     3. Комплектации из all-models.json
     4. Аббревиатуры из url_translations (settings-common.json)
@@ -145,8 +195,8 @@ def _translate_russian_in_url(text, mark_id=None, folder_id=None, vin=None):
     # 1. Паттерн «цифраХцифра» — русская Х → латинская x
     text = re.sub(r'(\d)[хХ](\d)', r'\1x\2', text)
 
-    # 1.1. «л.с.» → «h.p.» (точки потом удалятся → hp)
-    text = re.sub(r'л\.с\.', 'h.p.', text, flags=re.IGNORECASE)
+    # 1.1. «л.с.» / «л.с)» → «h.p.» / «h.p.)» (точки/скобки потом удалятся → hp)
+    text = re.sub(r'л\.с([.)])', r'h.p\1', text, flags=re.IGNORECASE)
 
     # 2. Бренд/модель переопределения (высший приоритет)
     brand_overrides = _get_brand_model_overrides(mark_id, folder_id)
@@ -178,12 +228,10 @@ def _translate_russian_in_url(text, mark_id=None, folder_id=None, vin=None):
         text = ' '.join(words)
 
     # 5. Логируем, если после всех замен остались кириллические слова
-    if _has_cyrillic(text):
+    if log_warnings and _has_cyrillic(text):
         cyrillic_words = [w for w in text.split() if _has_cyrillic(w)]
-        vin_label = process_vin_hidden(vin) if vin else "?"
-        brand_label = f"{mark_id}/{folder_id}" if mark_id else "?"
         print_message(
-            f"\nvin: <code>{vin_label}</code>\n"
+            f"\nvin: <code>{vin}</code>\n"
             f"<b>Не найден перевод для URL</b>: <code>{', '.join(cyrillic_words)}</code> "
             f"модели <code>{folder_id or '?'}</code> бренда <code>{mark_id or '?'}</code>",
             'warning',
@@ -196,9 +244,9 @@ def _translate_russian_in_url(text, mark_id=None, folder_id=None, vin=None):
     return text
 
 
-def process_friendly_url(friendly_url, replace="-", mark_id=None, folder_id=None, vin=None):
+def process_friendly_url(friendly_url, replace="-", mark_id=None, folder_id=None, vin=None, log_warnings=True):
     # Перевод кириллицы на английский / латиницу
-    friendly_url = _translate_russian_in_url(friendly_url, mark_id, folder_id, vin)
+    # friendly_url = _translate_russian_in_url(friendly_url, mark_id, folder_id, vin, log_warnings)
 
     # Удаление специальных символов
     processed_id = re.sub(r'[\/\\?%*:|"<>.,;\'\[\]()&]', '', friendly_url)
@@ -446,12 +494,20 @@ def join_car_data(car, *elements):
     Returns:
         str: The string containing extracted elements (joined by spaces).
     """
-    car_parts = []
+    mark_id_el = car.find('mark_id')
+    folder_id_el = car.find('folder_id')
+    mark_id = mark_id_el.text.strip() if mark_id_el is not None and mark_id_el.text else None
+    folder_id = folder_id_el.text.strip() if folder_id_el is not None and folder_id_el.text else None
+    vin = car.find('vin').text.strip() if car.find('vin') is not None and car.find('vin').text else None
+    log_warnings = True
 
+    car_parts = []
     for element_name in elements:
         element = car.find(element_name)
         if element is not None and element.text is not None:
-            car_parts.append(element.text.strip())
+            value = element.text.strip()
+            value = translate_field_for_url(value, element_name, mark_id, folder_id, vin, log_warnings)
+            car_parts.append(value)
 
     return " ".join(car_parts)
 
