@@ -68,14 +68,14 @@
   {
     "brand": "Geely",
     "model": "Atlas",
-    "price": 2869990,
+    "price": 2799990,
     "benefit": 900000
   },
   {
     "brand": "Geely",
     "model": "Cityray",
-    "price": 2324990,
-    "benefit": 930000
+    "price": 2624990,
+    "benefit": 630000
   },
   {
     "brand": "Geely",
@@ -92,8 +92,8 @@
   {
     "brand": "Geely",
     "model": "Preface",
-    "price": 3329990,
-    "benefit": 0
+    "price": 3079990,
+    "benefit": 250000
   },
   {
     "brand": "Knewstar",
