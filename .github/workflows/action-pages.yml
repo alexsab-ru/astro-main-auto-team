@@ -36,6 +36,17 @@ on:
       - '.github/workflows/update_cars.yml'
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
+    inputs:
+      send_english_words:
+        description: 'Отправить отчёт по английским словам в Telegram (TELEGRAM_TO_SPECIAL)'
+        required: false
+        type: boolean
+        default: false
+      send_rassrochka:
+        description: 'Отправить уведомление о Рассрочке в Telegram (TELEGRAM_TO_SPECIAL_MARKETING)'
+        required: false
+        type: boolean
+        default: false
   # Allows this workflow to be called by other workflows
   workflow_call:
 
@@ -244,6 +255,18 @@ jobs:
         env:
           DOMAIN: ${{ vars.DOMAIN }}
 
+      - name: Send English Words TSV to Telegram
+        if: ${{ github.event.inputs.send_english_words == 'true' }}
+        run: |
+          source .github/scripts/sh/utils.sh
+          source .github/scripts/sh/send_telegram.sh
+          TSV_FILE=$(ls notifications/english-words-*.tsv 2>/dev/null | head -1)
+          if [ -n "$TSV_FILE" ]; then
+            send_telegram_file "${{ secrets.TELEGRAM_TOKEN }}" "${{ secrets.TELEGRAM_TO_SPECIAL }}" "$TSV_FILE"
+          else
+            echo "TSV-файл не найден, пропускаем отправку"
+          fi
+
       - name: Set output
         id: set_output
         if: steps.check_changes.outputs.changes == 'true'
@@ -265,6 +288,9 @@ jobs:
           if [ -s notifications/rassrochka.txt ]; then
             echo "specials_rassrochka=$(base64 -w 0 notifications/rassrochka.txt)" >> $GITHUB_OUTPUT
           fi
+          if [ -s notifications/rassrochka-marketing.txt ]; then
+            echo "specials_rassrochka_marketing=$(base64 -w 0 notifications/rassrochka-marketing.txt)" >> $GITHUB_OUTPUT
+          fi
 
       - name: Upload artifact
         if: steps.check_changes.outputs.changes == 'true'
@@ -283,6 +309,7 @@ jobs:
       specials: ${{ steps.check_specials.outputs.specials }}
       specials_marketing: ${{ steps.check_specials.outputs.specials_marketing }}
       specials_rassrochka: ${{ steps.check_specials.outputs.specials_rassrochka }}
+      specials_rassrochka_marketing: ${{ steps.check_specials.outputs.specials_rassrochka_marketing }}
       after_deploy: ${{ steps.after_deploy.outputs.text }}
 
   # Deployment job
@@ -335,7 +362,7 @@ jobs:
 
   check_marketing_secret:
     needs: [build]
-    if: needs.build.outputs.specials_marketing != '' || needs.build.outputs.specials_rassrochka != ''
+    if: needs.build.outputs.specials_marketing != '' || needs.build.outputs.specials_rassrochka_marketing != ''
     runs-on: ubuntu-latest
     outputs:
       secret_exists: ${{ steps.check.outputs.exists }}
@@ -366,13 +393,13 @@ jobs:
 
   notify_telegram_about_rassrochka:
     needs: [build, check_marketing_secret]
-    if: ${{ needs.check_marketing_secret.outputs.secret_exists == 'true' && needs.build.outputs.specials_rassrochka != '' && (github.event_name == 'schedule' || github.event_name == 'workflow_dispatch') }}
+    if: ${{ needs.check_marketing_secret.outputs.secret_exists == 'true' && needs.build.outputs.specials_rassrochka_marketing != '' && (github.event_name == 'schedule' || (github.event_name == 'workflow_dispatch' && github.event.inputs.send_rassrochka == 'true')) }}
     uses: ./.github/workflows/github-telegram.yml
     with:
       caller-id: 'rassrochka'
       include-header: false
       additional-text: |
-        ${{ needs.build.outputs.specials_rassrochka }}
+        ${{ needs.build.outputs.specials_rassrochka_marketing }}
     secrets:
       TELEGRAM_TO: ${{ secrets.TELEGRAM_TO_SPECIAL_MARKETING }}
       TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
