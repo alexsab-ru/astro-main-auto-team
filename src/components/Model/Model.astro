@@ -13,6 +13,7 @@ import {Icon} from 'astro-icon/components';
 import Breadcrumbs from '@/components/Breadcrumbs/Breadcrumbs.astro';
 import { currencyFormat } from '@/js/utils/numbers.format';
 import { createDisclaimerIcon } from '@/js/utils/disclaimer';
+import { getModelBadgeData } from '@/js/utils/modelBadge.utils';
 const photoSlides = !model.photos
 ? []
 : [].concat(
@@ -30,11 +31,12 @@ const labelBtn = status === 'preorder' || status === 'comminsoon' ? 'Предз�
 // В шаблонах используем caption как приоритетное отображаемое имя модели.
 // Это позволяет хранить технический name отдельно и не ломает старые данные.
 const modelTitle = model?.caption || model?.name;
+const { image: badgeImage, alt: badgeAlt } = getModelBadgeData(model, 'model_page', modelTitle || '');
 ---
 
 <section class="model model-section relative" id={model?.id} data-dir={model?.id}>
-	{model?.badge && (
-		<img src={model?.badge?.imgModelPage || model?.badge.img} alt={model?.badge.alt} class="absolute right-4 top-4 xs:h-10 h-16 sm:h-24 w-auto z-10" height="96" loading="lazy" />
+	{badgeImage && (
+		<img src={badgeImage} alt={badgeAlt} class="absolute right-4 top-4 xs:h-10 h-16 md:h-24 w-auto xs:max-w-[100px] max-w-[120px] md:max-w-[150px] lg:max-w-[200px] z-10" loading="lazy" />
 	)}
 	<div
 		class="model__info"

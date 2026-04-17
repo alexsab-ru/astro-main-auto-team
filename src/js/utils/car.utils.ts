@@ -16,58 +16,6 @@ export function findModelByCarData(carData: any) {
 }
 
 /**
- * Собирает данные бейджа модели одним проходом.
- * Раньше мы возвращали только изображение, теперь сразу отдаем и картинку, и alt.
- * Это избавляет нас от повторных вызовов findModelByCarData в разных вспомогательных функциях.
- * @param carData - данные автомобиля
- * @returns объект с изображением бейджа и alt текстом
- */
-export function getModelBadgeData(carData: any) {
-  const model = findModelByCarData(carData);
-  const badge = model?.badge;
-
-  // Если бейджа нет, все равно возвращаем alt с названием модели, чтобы было что показать.
-  if (!badge) {
-    return {
-      image: null,
-      alt: model?.caption || model?.name || '',
-    };
-  }
-
-  // Когда badge строка, это готовый URL. Alt берем из имени модели.
-  if (typeof badge === 'string') {
-    return {
-      image: badge,
-      alt: model?.caption || model?.name || '',
-    };
-  }
-
-  // Для объектного badge отдаем vertical вариант и alt из данных, подстрахуемся именем.
-  return {
-    image: badge.vertical || null,
-    alt: badge.alt || model?.caption || model?.name || '',
-  };
-}
-
-/**
- * Обертка, чтобы старый код мог получать только изображение через новый общий расчёт.
- * @param carData - данные автомобиля
- * @returns URL изображения бейджа или null
- */
-export function getModelBadgeImage(carData: any) {
-  return getModelBadgeData(carData).image;
-}
-
-/**
- * Обертка, чтобы старый код мог получать только alt через новый общий расчёт.
- * @param carData - данные автомобиля
- * @returns alt текст или название модели
- */
-export function getModelBadgeAlt(carData: any) {
-  return getModelBadgeData(carData).alt;
-}
-
-/**
  * Рассчитывает цену автомобиля с учетом скидки
  * @param carData - данные автомобиля
  * @returns рассчитанная цена
