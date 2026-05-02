@@ -3,6 +3,7 @@ import os
 import re
 import copy
 import string
+import hashlib
 import yaml
 import json
 import shutil
@@ -376,6 +377,210 @@ def process_description(desc_text):
     return result_html
 
 
+THUMB_REQUEST_TIMEOUT = (5, 15)
+DEFAULT_CAR_IMAGE = "https://cdn.alexsab.ru/errors/404.webp"
+
+
+def _normalize_header_value(value):
+    if value is None:
+        return None
+
+    value = value.strip()
+    return value or None
+
+
+def _is_http_url(value):
+    parsed = urllib.parse.urlparse(str(value))
+    return parsed.scheme in ("http", "https") and bool(parsed.netloc)
+
+
+@lru_cache(maxsize=2048)
+def _inspect_remote_image(img_url):
+    last_error = None
+    accessible_result = None
+
+    for method in ("HEAD", "GET"):
+        response = None
+
+        try:
+            if method == "HEAD":
+                response = requests.head(
+                    img_url,
+                    allow_redirects=True,
+                    timeout=THUMB_REQUEST_TIMEOUT,
+                )
+            else:
+                response = requests.get(
+                    img_url,
+                    allow_redirects=True,
+                    timeout=THUMB_REQUEST_TIMEOUT,
+                    stream=True,
+                )
+
+            if response.status_code >= 400:
+                if method == "HEAD":
+                    continue
+                response.raise_for_status()
+
+            accessible_result = {
+                "accessible": True,
+                "status_code": response.status_code,
+                "etag": _normalize_header_value(response.headers.get("ETag")),
+                "last_modified": _normalize_header_value(response.headers.get("Last-Modified")),
+                "content_length": _normalize_header_value(response.headers.get("Content-Length")),
+                "error": None,
+            }
+
+            # Некоторые CDN почти ничего полезного не отдают на HEAD, но отдают на GET.
+            if method == "HEAD" and not accessible_result["etag"] and not accessible_result["last_modified"]:
+                continue
+
+            return accessible_result
+        except requests.RequestException as e:
+            last_error = e
+        finally:
+            if response is not None:
+                response.close()
+
+    if accessible_result is not None:
+        return accessible_result
+
+    return {
+        "accessible": False,
+        "status_code": None,
+        "etag": None,
+        "last_modified": None,
+        "content_length": None,
+        "error": str(last_error) if last_error is not None else "Не удалось получить изображение",
+    }
+
+
+def _fetch_remote_image_headers(img_url):
+    inspection = _inspect_remote_image(img_url)
+
+    return {
+        "etag": inspection["etag"],
+        "last_modified": inspection["last_modified"],
+        "content_length": inspection["content_length"],
+    }
+
+
+def _log_invalid_feed_image(img_url, vin, error):
+    details = [f"<b>Удалено недоступное изображение из feed</b>", f"<pre>{img_url}</pre>"]
+
+    if vin:
+        details.insert(0, f"vin: <code>{vin}</code>")
+
+    if error:
+        details.append(f"<code>{error}</code>")
+
+    print_message("\n".join(details), "warning")
+
+
+def _filter_valid_image_urls(image_urls, vin=None):
+    valid_urls = []
+
+    for img_url in image_urls:
+        if img_url is None:
+            continue
+
+        img_url = str(img_url).strip()
+        if not img_url or img_url in valid_urls:
+            continue
+
+        if not _is_http_url(img_url):
+            valid_urls.append(img_url)
+            continue
+
+        inspection = _inspect_remote_image(img_url)
+        if inspection["accessible"]:
+            valid_urls.append(img_url)
+            continue
+
+        _log_invalid_feed_image(img_url, vin, inspection["error"])
+
+    return valid_urls
+
+
+def _get_thumb_version_token(img_url):
+    headers = _fetch_remote_image_headers(img_url)
+    etag = headers["etag"]
+    last_modified = headers["last_modified"]
+    content_length = headers["content_length"]
+
+    if etag:
+        version_source = f"etag:{etag}"
+    elif last_modified:
+        version_source = f"last-modified:{last_modified}|content-length:{content_length or ''}"
+    else:
+        return None
+
+    return hashlib.sha1(version_source.encode("utf-8")).hexdigest()[:12]
+
+
+def _get_color_fallback_image(brand, model, color, vin, skip_check_thumb):
+    if skip_check_thumb:
+        return DEFAULT_CAR_IMAGE
+
+    color_image = get_color_filename(brand, model, color, vin, log_errors=False)
+    if not color_image:
+        return DEFAULT_CAR_IMAGE
+
+    if not _is_http_url(color_image):
+        return color_image
+
+    inspection = _inspect_remote_image(color_image)
+    if inspection["accessible"]:
+        return color_image
+
+    error_text = (
+        f"\nvin: <code>{vin}</code>\n"
+        f"<b>Не удалось найти заглушку цвета модели</b>\n"
+        f"<pre>{color_image}</pre>\n"
+        f"<code>{inspection['error']}</code>"
+    )
+    print_message(error_text, "error")
+    return DEFAULT_CAR_IMAGE
+
+
+def _merge_and_validate_car_images(existing_images, new_images, vin):
+    merged_images = []
+
+    for img in list(existing_images or []) + list(new_images or []):
+        if img is None:
+            continue
+
+        img = str(img).strip()
+        if img and img not in merged_images:
+            merged_images.append(img)
+
+    return _filter_valid_image_urls(merged_images, vin)
+
+
+def _apply_car_images_to_data(data, incoming_images, friendly_url, current_thumbs, config, vin, brand=None, model=None, color=None):
+    data['images'] = _merge_and_validate_car_images(data.get('images', []), incoming_images, vin)
+    data['image'] = data['images'][0] if data['images'] else _get_color_fallback_image(
+        data.get('mark_id', brand or ''),
+        data.get('folder_id', model or ''),
+        data.get('color', color or ''),
+        vin,
+        config['skip_check_thumb'],
+    )
+
+    if data['images']:
+        data['thumbs'] = createThumbs(
+            data['images'],
+            friendly_url,
+            current_thumbs,
+            config['thumbs_dir'],
+            config['temp_thumbs_dir'],
+            config['skip_thumbs'],
+            config['count_thumbs'],
+        )
+    else:
+        data['thumbs'] = []
+
+
 def createThumbs(image_urls, friendly_url, current_thumbs, thumbs_dir, temp_thumbs_dir, skip_thumbs=False, count_thumbs=5):
     # Ensure count_thumbs is an integer
     # Convert string or other types to integer, with fallback to default value
@@ -407,27 +612,37 @@ def createThumbs(image_urls, friendly_url, current_thumbs, thumbs_dir, temp_thum
             
             # Получение последних 5 символов имени файла (без расширения)
             last_5_chars = filename_without_extension[-5:]
+
+            version_token = _get_thumb_version_token(img_url)
+            version_suffix = f"_{version_token}" if version_token else ""
             
             # Формирование имени файла с учетом последних 5 символов
-            output_filename = f"thumb_{friendly_url}_{last_5_chars}_{index}.webp"
+            output_filename = f"thumb_{friendly_url}_{last_5_chars}_{index}{version_suffix}.webp"
             output_path = os.path.join(thumbs_dir, output_filename)
-            temp_output_path = os.path.join(temp_thumbs_dir, output_filename)
             relative_output_path = os.path.join(relative_thumbs_dir, output_filename)
 
             # print(f"   📁 Путь к превью: {output_path}")
 
-            # Проверка существования файла
-            if not os.path.exists(output_path) and not skip_thumbs:
-                # print(f"   ⬇️ Загружаю изображение...")
-                # Загрузка и обработка изображения, если файла нет
-                response = requests.get(img_url)
+            file_exists = os.path.exists(output_path)
+
+            # Без ETag/Last-Modified не можем доверять имени файла и перегенерируем превью.
+            should_generate = not skip_thumbs and (
+                version_token is None or not file_exists
+            )
+
+            if should_generate:
+                response = requests.get(img_url, timeout=THUMB_REQUEST_TIMEOUT)
+                response.raise_for_status()
                 image = Image.open(BytesIO(response.content))
                 aspect_ratio = image.width / image.height
                 new_width = 360
                 new_height = int(new_width / aspect_ratio)
                 resized_image = image.resize((new_width, new_height), Image.Resampling.LANCZOS)
                 resized_image.save(output_path, "WEBP")
-                print(f"   ✅ Создано превью: {relative_output_path}")
+                if version_token is None and file_exists:
+                    print(f"   ♻️ Обновлено превью без HTTP-валидаторов: {relative_output_path}")
+                else:
+                    print(f"   ✅ Создано превью: {relative_output_path}")
             else:
                 print(f"   ⚠️ Файл уже существует: {relative_output_path} или пропущен флагом skip_thumbs: {skip_thumbs}")
 
@@ -926,11 +1141,11 @@ def check_local_files(brand, model, color, vin):
             else:
                 errorText = f"\nvin: <code>{vin}</code>\n<b>Не найден локальный файл</b>\n<pre>{color_image}</pre>\n<code>public/{thumb_path}</code>\n<code>public/{thumb_brand_path}</code>"
                 print_message(errorText)
-                return "https://cdn.alexsab.ru/errors/404.webp"
+                return DEFAULT_CAR_IMAGE
         else:
-            return "https://cdn.alexsab.ru/errors/404.webp"
+            return DEFAULT_CAR_IMAGE
     else:
-        return "https://cdn.alexsab.ru/errors/404.webp"
+        return DEFAULT_CAR_IMAGE
 
 
 def create_file(car_data, filename, friendly_url, current_thumbs, sort_storage_data, dealer_photos_for_cars_avito, config, existing_files):
@@ -951,45 +1166,6 @@ def create_file(car_data, filename, friendly_url, current_thumbs, sort_storage_d
     brand = car_data.get('mark_id', '')
     run = car_data.get('run', 0)
 
-    # Сначала получаем изображения из car_data
-    images = car_data.get('images', [])
-    # Добавляем фото дилера, если есть
-    if vin in dealer_photos_for_cars_avito:
-        new_images = [img for img in dealer_photos_for_cars_avito[vin]['images'] if img not in images]
-        images.extend(new_images)
-    
-    # Проверяем, есть ли у машины свои превью
-    has_own_images = len(images) > 0
-
-    thumb = "https://cdn.alexsab.ru/errors/404.webp"
-    
-    # Логика выбора изображения для thumb:
-    # 1. Если у машины есть свои превью - используем первое из них
-    # 2. Если нет своих превью - ищем заглушку по цвету модели на CDN
-    # 3. Если заглушка на CDN не найдена - выводим ошибку
-    
-    if has_own_images:
-        # У машины есть свои превью - используем первое изображение
-        thumb = images[0]
-    elif not config['skip_check_thumb']:
-        # Своих превью нет - ищем заглушку по цвету модели на CDN
-        color_image = get_color_filename(brand, model, color, vin, log_errors=False)
-        
-        if color_image:
-            cdn_path = f"{color_image}"
-            try:
-                response = requests.head(cdn_path)
-                if response.status_code == 200:
-                    thumb = cdn_path
-                else:
-                    # Заглушка на CDN не найдена - выводим ошибку
-                    errorText = f"\n<b>Не удалось найти файл на CDN</b>. Статус <b>{response.status_code}</b>\n<pre>{color_image}</pre>\n<a href='{cdn_path}'>{cdn_path}</a>"
-                    print_message(errorText, 'error')
-            except requests.RequestException as e:
-                # Ошибка при проверке CDN
-                errorText = f"\nОшибка при проверке CDN: {str(e)}"
-                print_message(errorText, 'error')
-
     data = dict(car_data)  # Копируем все поля из car_data
     # Определяем порядок (order)
     if vin in sort_storage_data:
@@ -1001,7 +1177,6 @@ def create_file(car_data, filename, friendly_url, current_thumbs, sort_storage_d
     data['vin_list'] = vin
     data['vin_hidden'] = vin_hidden
     data['color'] = color
-    data['image'] = thumb
     data['run'] = run
 
     # Корректно формируем total
@@ -1026,10 +1201,15 @@ def create_file(car_data, filename, friendly_url, current_thumbs, sort_storage_d
     if vin in dealer_photos_for_cars_avito and dealer_photos_for_cars_avito[vin]['description'] and not description_for_content:
         description_for_content = dealer_photos_for_cars_avito[vin]['description']
 
+    # Сначала получаем изображения из car_data
+    images = list(car_data.get('images', []))
+    # Добавляем фото дилера, если есть
+    if vin in dealer_photos_for_cars_avito:
+        new_images = [img for img in dealer_photos_for_cars_avito[vin]['images'] if img not in images]
+        images.extend(new_images)
+
     # Обработка изображений (images уже получены и обработаны выше)
-    data['images'] = images
-    thumbs_files = createThumbs(images, friendly_url, current_thumbs, config['thumbs_dir'], config['temp_thumbs_dir'], config['skip_thumbs'], config['count_thumbs'])
-    data['thumbs'] = thumbs_files
+    _apply_car_images_to_data(data, images, friendly_url, current_thumbs, config, vin, brand=brand, model=model, color=color)
 
     # Приводим определённые числовые поля к int, если они есть
     for key in ["max_discount", "price", "priceWithDiscount", "run", "sale_price", "year", "credit_discount", "optional_discount", "insurance_discount", "tradein_discount"]:
@@ -1091,11 +1271,31 @@ def update_yaml(car_data, filename, friendly_url, current_thumbs, sort_storage_d
     vin = car_data.get('vin')
     # Проверка: если vin уже есть в vin_list, не обновляем файл (логика на dict)
     if vin and 'vin_list' in data and vin in [v.strip() for v in data['vin_list'].split(',')]:
-        for thumb in data.get('thumbs', []):
-            if thumb not in current_thumbs:
-                current_thumbs.append(f"public{thumb}")
+        images = list(car_data.get('images', []))
+        if vin in dealer_photos_for_cars_avito:
+            new_images = [img for img in dealer_photos_for_cars_avito[vin]['images'] if img not in images]
+            images.extend(new_images)
+
+        _apply_car_images_to_data(
+            data,
+            images,
+            friendly_url,
+            current_thumbs,
+            config,
+            vin,
+            brand=data.get('mark_id', car_data.get('mark_id', '')),
+            model=data.get('folder_id', car_data.get('folder_id', '')),
+            color=data.get('color', str(car_data.get('color', '')).capitalize()),
+        )
+
+        updated_yaml_block = yaml.safe_dump(data, default_flow_style=False, allow_unicode=True)
+        updated_content = yaml_delimiter.join([parts[0], updated_yaml_block, yaml_delimiter.join(parts[2:])])
+
+        with open(filename, "w", encoding="utf-8") as f:
+            f.write(updated_content)
+
         existing_files.add(filename)
-        print(f"Такой VIN {vin} уже есть в файле")
+        print(f"Такой VIN {vin} уже есть в файле, обновлены только изображения")
         return filename
     if vin:
         data['vin_list'] += ", " + vin
@@ -1165,17 +1365,21 @@ def update_yaml(car_data, filename, friendly_url, current_thumbs, sort_storage_d
             order = sort_storage_data['order']
         data['order'] = order
 
-    images = car_data.get('images', [])
+    images = list(car_data.get('images', []))
     if vin in dealer_photos_for_cars_avito:
         new_images = [img for img in dealer_photos_for_cars_avito[vin]['images'] if img not in images]
         images.extend(new_images)
-    if images:
-        existing_images = data.get('images', [])
-        unique_images = list(dict.fromkeys(existing_images + images))
-        data['images'] = unique_images
-        if 'thumbs' not in data or (len(data['thumbs']) < 5):
-            thumbs_files = createThumbs(images, friendly_url, current_thumbs, config['thumbs_dir'], config['temp_thumbs_dir'], config['skip_thumbs'], config['count_thumbs'])
-            data.setdefault('thumbs', []).extend(thumbs_files)
+    _apply_car_images_to_data(
+        data,
+        images,
+        friendly_url,
+        current_thumbs,
+        config,
+        vin,
+        brand=data.get('mark_id', car_data.get('mark_id', '')),
+        model=data.get('folder_id', car_data.get('folder_id', '')),
+        color=data.get('color', str(car_data.get('color', '')).capitalize()),
+    )
     updated_yaml_block = yaml.safe_dump(data, default_flow_style=False, allow_unicode=True)
 
     # Reassemble the content with the updated YAML block
@@ -1317,7 +1521,11 @@ def load_env_config(source_type: str, default_config) -> Dict[str, Any]:
         f"{prefix}ELEMENTS_TO_LOCALIZE": "elements_to_localize",
         f"{prefix}REMOVE_CARS_AFTER_DUPLICATE": "remove_cars_after_duplicate",
         f"{prefix}REMOVE_MARK_IDS": "remove_mark_ids",
-        f"{prefix}REMOVE_FOLDER_IDS": "remove_folder_ids"
+        f"{prefix}REMOVE_FOLDER_IDS": "remove_folder_ids",
+        f"{prefix}H1_TEMPLATE": "h1_template",
+        f"{prefix}BREADCRUMB_TEMPLATE": "breadcrumb_template",
+        f"{prefix}TITLE_TEMPLATE": "title_template",
+        f"{prefix}DESCRIPTION_TEMPLATE": "description_template",
     }
 
     env_json_data = _load_env_json()
