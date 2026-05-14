@@ -947,7 +947,11 @@ class CarProcessor:
         self.register_deferred_color_error(car_data, file_path, friendly_url, ignore_feed_images=config.get('skip_thumbs', False))
 
         # Обновляем цены и скидки на основе car_data
-        update_car_prices(car_data, self.prices_data)
+        update_car_prices(
+            car_data,
+            self.prices_data,
+            config.get('dealer_cars_price_override', False),
+        )
 
         # --- Формирование данных для JSON с ценами и скидками из фида ---
         # Группировка и агрегация данных сразу в готовом формате
@@ -962,15 +966,15 @@ class CarProcessor:
             
             if key in self.cars_price_data:
                 # Обновляем минимальную цену и максимальную скидку
-                self.cars_price_data[key]['price'] = min(self.cars_price_data[key]['price'], sale_price)
-                self.cars_price_data[key]['benefit'] = max(self.cars_price_data[key]['benefit'], max_discount)
+                self.cars_price_data[key]['price'] = min(self.cars_price_data[key]['price'], car_data['sale_price'])
+                self.cars_price_data[key]['benefit'] = max(self.cars_price_data[key]['benefit'], car_data['max_discount'])
             else:
                 # Создаем новый объект в готовом для JSON формате
                 self.cars_price_data[key] = {
                     'brand': brand,
                     'model': model,
-                    'price': sale_price,
-                    'benefit': max_discount
+                    'price': car_data['sale_price'],
+                    'benefit': car_data['max_discount']
                 }
         # --- конец блока ---
 
@@ -1183,7 +1187,8 @@ def main():
         "h1_template": "",
         "breadcrumb_template": "",
         "title_template": "",
-        "description_template": ""
+        "description_template": "",
+        "dealer_cars_price_override": False,
     }
 
     # Определяем режим работы
@@ -1295,6 +1300,7 @@ def main():
             current_config['move_vin_id_up'] = source_config['move_vin_id_up']
             current_config['new_address'] = source_config['new_address']
             current_config['new_phone'] = source_config['new_phone']
+            current_config['dealer_cars_price_override'] = source_config.get('dealer_cars_price_override', False)
             current_config['category_type'] = category_type
                         
             # Инициализация XML
@@ -1409,6 +1415,7 @@ def main():
         config['move_vin_id_up'] = source_config['move_vin_id_up']
         config['new_address'] = source_config['new_address']
         config['new_phone'] = source_config['new_phone']
+        config['dealer_cars_price_override'] = source_config.get('dealer_cars_price_override', False)
         config['category_type'] = 'used' if config.get('path_car_page') == '/used_cars/' else 'new'
 
         # Инициализация процессора для конкретного источника

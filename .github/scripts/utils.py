@@ -1075,13 +1075,14 @@ def load_price_data(file_path: str = "./src/data/site/dealer-cars_price.json") -
         return {}
 
 
-def update_car_prices(car_data: dict, prices_data: Dict[str, Dict[str, int]]) -> None:
+def update_car_prices(car_data: dict, prices_data: Dict[str, Dict[str, int]], override_price: bool = False) -> None:
     """
     Обновляет цены в словаре данных автомобиля (car_data).
     
     Args:
         car_data: Словарь с данными автомобиля (ключи: vin, priceWithDiscount, sale_price, max_discount, price)
         prices_data: Данные о ценах из JSON (ключи: VIN, значения: словарь с ценами)
+        override_price: Если True, перезаписывает цену из dealer-cars_price.json даже когда она выше текущей
     """
     # Получаем VIN из словаря
     vin = car_data.get('vin')
@@ -1109,9 +1110,9 @@ def update_car_prices(car_data: dict, prices_data: Dict[str, Dict[str, int]]) ->
         return
 
     final_price = car_prices["Конечная цена"]
-    if final_price <= current_sale_price:
+    if override_price or final_price <= current_sale_price:
         discount = car_prices["Скидка"]
-        rrp = car_prices["РРЦ"]
+        rrp = car_prices["РРЦ"] or final_price + discount
         # Обновляем значения в словаре car_data
         car_data['priceWithDiscount'] = final_price
         car_data['sale_price'] = final_price
@@ -1609,6 +1610,7 @@ def load_env_config(source_type: str, default_config) -> Dict[str, Any]:
 
     # Маппинг переменных окружения на ключи конфигурации
     env_mapping = {
+        "DEALER_CARS_PRICE_OVERRIDE": "dealer_cars_price_override",
         f"{prefix}MOVE_VIN_ID_UP": "move_vin_id_up",
         f"{prefix}NEW_ADDRESS": "new_address",
         f"{prefix}NEW_PHONE": "new_phone",

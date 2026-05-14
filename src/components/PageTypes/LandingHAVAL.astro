@@ -34,8 +34,8 @@ const infoItems = [
 ];
 
 import CarsList from '@/components/Cars/List.astro';
-import { getCollection } from "astro:content";
-const cars = await getCollection("cars");
+import { getSafeCollection } from '@/js/utils/safeContent';
+const cars = await getSafeCollection("cars");
 
 import reviews from '@/data/site/reviews.json';
 import Reviews from '@/components/Reviews/Index.astro';

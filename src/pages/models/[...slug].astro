@@ -54,8 +54,8 @@ const lastViewedModelForStore = {
 };
 const lastViewedModelJSON = JSON.stringify(lastViewedModelForStore);
 
-import { getCollection, type DataEntryMap } from "astro:content";
-const rawCars = await getCollection("cars" as keyof DataEntryMap);
+import { getSafeCollection } from '@/js/utils/safeContent';
+const rawCars = await getSafeCollection("cars");
 const cars = rawCars && rawCars.length ? rawCars
   .filter(car => !(typeof car.id === 'string' && car.id.startsWith('__')))
   .filter((car) => {
