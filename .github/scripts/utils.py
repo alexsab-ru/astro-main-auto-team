@@ -1075,6 +1075,13 @@ def load_price_data(file_path: str = "./src/data/site/dealer-cars_price.json") -
         return {}
 
 
+def _to_int(value, default: int = 0) -> int:
+    try:
+        return int(str(value or default).replace(" ", "").replace("\u00a0", ""))
+    except (TypeError, ValueError):
+        return default
+
+
 def update_car_prices(car_data: dict, prices_data: Dict[str, Dict[str, int]], override_price: bool = False) -> None:
     """
     Обновляет цены в словаре данных автомобиля (car_data).
@@ -1093,7 +1100,7 @@ def update_car_prices(car_data: dict, prices_data: Dict[str, Dict[str, int]], ov
 
     # Получаем текущую цену со скидкой
     try:
-        current_sale_price = int(car_data.get('priceWithDiscount', 0) or 0)
+        current_sale_price = _to_int(car_data.get('priceWithDiscount'))
     except ValueError:
         print(f"Не удалось преобразовать 'priceWithDiscount' в число для VIN: {vin}")
         return
@@ -1109,10 +1116,10 @@ def update_car_prices(car_data: dict, prices_data: Dict[str, Dict[str, int]], ov
         print(f"Отсутствуют необходимые ключи в данных о ценах для VIN: {vin}")
         return
 
-    final_price = car_prices["Конечная цена"]
+    final_price = _to_int(car_prices["Конечная цена"])
     if override_price or final_price <= current_sale_price:
-        discount = car_prices["Скидка"]
-        rrp = car_prices["РРЦ"] or final_price + discount
+        discount = _to_int(car_prices["Скидка"])
+        rrp = _to_int(car_prices["РРЦ"], final_price + discount)
         # Обновляем значения в словаре car_data
         car_data['priceWithDiscount'] = final_price
         car_data['sale_price'] = final_price
@@ -1273,7 +1280,7 @@ def create_file(car_data, filename, friendly_url, current_thumbs, sort_storage_d
     data['run'] = run
 
     # Корректно формируем total
-    data['total'] = int(car_data.get('total', 1))
+    data['total'] = _to_int(car_data.get('total'), 1)
 
     # Обработка extras
     if 'extras' in car_data and car_data['extras']:
@@ -1309,7 +1316,7 @@ def create_file(car_data, filename, friendly_url, current_thumbs, sort_storage_d
     for key in ["max_discount", "price", "priceWithDiscount", "run", "sale_price", "year", "credit_discount", "optional_discount", "insurance_discount", "tradein_discount"]:
         if key in data and data[key] is not None:
             try:
-                data[key] = int(str(data[key]).replace(" ", "").replace("\u00a0", ""))
+                data[key] = _to_int(data[key])
             except Exception:
                 pass  # Если не удалось привести к числу, оставляем как есть
 
@@ -1409,8 +1416,8 @@ def update_yaml(car_data, filename, friendly_url, current_thumbs, sort_storage_d
 
     if 'total' in data and 'total' in car_data:
         try:
-            car_total_value = int(car_data['total'])
-            data_total_value = int(data['total'])
+            car_total_value = _to_int(car_data['total'])
+            data_total_value = _to_int(data['total'])
             data['total'] = data_total_value + car_total_value
         except ValueError:
             pass  # Если не удается преобразовать значения в int, оставляем текущее значение
@@ -1419,8 +1426,8 @@ def update_yaml(car_data, filename, friendly_url, current_thumbs, sort_storage_d
 
     if 'run' in data and 'run' in car_data:
         try:
-            car_run_value = int(car_data['run'])
-            data_run_value = int(data['run'])
+            car_run_value = _to_int(car_data['run'])
+            data_run_value = _to_int(data['run'])
             data['run'] = min(data_run_value, car_run_value)
         except ValueError:
             pass
@@ -1429,8 +1436,8 @@ def update_yaml(car_data, filename, friendly_url, current_thumbs, sort_storage_d
 
     if 'priceWithDiscount' in data and 'priceWithDiscount' in car_data:
         try:
-            car_priceWithDiscount_value = int(car_data['priceWithDiscount'])
-            data_priceWithDiscount_value = int(data['priceWithDiscount'])
+            car_priceWithDiscount_value = _to_int(car_data['priceWithDiscount'])
+            data_priceWithDiscount_value = _to_int(data['priceWithDiscount'])
             data['priceWithDiscount'] = min(data_priceWithDiscount_value, car_priceWithDiscount_value)
             data['sale_price'] = min(data_priceWithDiscount_value, car_priceWithDiscount_value)
             # Используем get_description для генерации description
@@ -1440,8 +1447,8 @@ def update_yaml(car_data, filename, friendly_url, current_thumbs, sort_storage_d
 
     if 'max_discount' in data and 'max_discount' in car_data:
         try:
-            car_max_discount_value = int(car_data['max_discount'])
-            data_max_discount_value = int(data['max_discount'])
+            car_max_discount_value = _to_int(car_data['max_discount'])
+            data_max_discount_value = _to_int(data['max_discount'])
             data['max_discount'] = max(data_max_discount_value, car_max_discount_value)
         except ValueError:
             pass

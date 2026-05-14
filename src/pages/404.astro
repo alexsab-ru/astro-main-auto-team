@@ -7,10 +7,11 @@ const title = 'Ошибка 404';
 const description = '404. Такая страница не найдена';
 const h1 = '404. Такая страница не найдена';
 import { getSafeCollection } from '@/js/utils/safeContent';
+import { filterVisibleCars } from '@/js/utils/car';
 // Фильтруем записи коллекций на 404, чтобы исключить тестовые/черновые/просроченные
 import { sortingAndFilteringPosts } from '@/js/utils/sortingAndFilteringPosts';
 const rawCars = await getSafeCollection('cars');
-const cars = rawCars?.filter((car: any) => !(typeof car?.id === 'string' && car.id.startsWith('__'))) || [];
+const cars = filterVisibleCars(rawCars);
 // Получаем все записи спецпредложений и применяем единую фильтрацию
 const specialAll = await getSafeCollection('special-offers');
 const special = sortingAndFilteringPosts(specialAll);

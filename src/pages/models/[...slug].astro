@@ -55,9 +55,9 @@ const lastViewedModelForStore = {
 const lastViewedModelJSON = JSON.stringify(lastViewedModelForStore);
 
 import { getSafeCollection } from '@/js/utils/safeContent';
+import { filterVisibleCars } from '@/js/utils/car';
 const rawCars = await getSafeCollection("cars");
-const cars = rawCars && rawCars.length ? rawCars
-  .filter(car => !(typeof car.id === 'string' && car.id.startsWith('__')))
+const cars = rawCars && rawCars.length ? filterVisibleCars(rawCars)
   .filter((car) => {
     const carMark = car.data.mark_id.toLowerCase();
     const carFolder = normalizeModelId(car.data.folder_id);
