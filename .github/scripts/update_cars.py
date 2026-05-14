@@ -801,11 +801,11 @@ class CarProcessor:
     def calculate_max_discount(self, car_data: Dict[str, any]) -> int:
         """Расчёт максимальной скидки в зависимости от типа источника"""
         if self.source_type in ['catalog_vehicles_vehicle', 'vehicles_vehicle', 'data_cars_car']:
-            credit_discount = _to_int(car_data.get('credit_discount'))
-            tradein_discount = _to_int(car_data.get('tradein_discount'))
+            credit_discount = to_int(car_data.get('credit_discount'))
+            tradein_discount = to_int(car_data.get('tradein_discount'))
             return credit_discount + tradein_discount
         else:
-            return _to_int(car_data.get('max_discount'))
+            return to_int(car_data.get('max_discount'))
 
     def create_car_element(self, car_data: Dict[str, any]) -> ET.Element:
         """
@@ -909,25 +909,32 @@ class CarProcessor:
         print(f"\n\n🆔 Уникальный идентификатор: {friendly_url}")
         
         # Получаем цену из car_data, если она есть, иначе используем 0
-        price = _to_int(car_data.get('price'))
+        price = to_int(car_data.get('price'))
 
         # Если max_discount уже есть в car_data, не пересчитываем, иначе считаем
         if 'max_discount' not in car_data:
             max_discount = self.calculate_max_discount(car_data)
             car_data['max_discount'] = max_discount
         else:
-            max_discount = _to_int(car_data['max_discount'])
+            max_discount = to_int(car_data['max_discount'])
 
         # Если priceWithDiscount уже есть, не пересчитываем, иначе считаем
         if 'priceWithDiscount' not in car_data:
             sale_price = price - max_discount
             car_data['priceWithDiscount'] = sale_price
         else:
-            sale_price = _to_int(car_data['priceWithDiscount'])
+            sale_price = to_int(car_data['priceWithDiscount'])
 
         # Если sale_price уже есть, не пересчитываем, иначе присваиваем sale_price
         if 'sale_price' not in car_data:
             car_data['sale_price'] = sale_price
+        else:
+            sale_price = to_int(car_data['sale_price'])
+
+        car_data['price'] = price
+        car_data['max_discount'] = max_discount
+        car_data['priceWithDiscount'] = sale_price
+        car_data['sale_price'] = sale_price
 
         car_data['currency'] = "RUR"
 
