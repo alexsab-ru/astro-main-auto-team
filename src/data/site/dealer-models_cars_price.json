@@ -3,90 +3,90 @@
     "brand": "Belgee",
     "model": "S50",
     "price": 1554990,
-    "benefit": "575000"
+    "benefit": 575000
   },
   {
     "brand": "Belgee",
     "model": "X70",
     "price": 2626990,
-    "benefit": "180000"
+    "benefit": 180000
   },
   {
     "brand": "Changan",
     "model": "CS35 PLUS",
     "price": 2519900,
-    "benefit": "320000"
+    "benefit": 320000
   },
   {
     "brand": "Changan",
     "model": "CS75PLUS",
     "price": 3669900,
-    "benefit": "0"
+    "benefit": 0
   },
   {
     "brand": "Changan",
     "model": "CS95",
     "price": 4779900,
-    "benefit": "0"
+    "benefit": 0
   },
   {
     "brand": "Changan",
     "model": "UNI-K",
     "price": 3719900,
-    "benefit": "540000"
+    "benefit": 540000
   },
   {
     "brand": "Changan",
     "model": "UNI-S",
     "price": 2729900,
-    "benefit": "330000"
+    "benefit": 330000
   },
   {
     "brand": "Gac",
     "model": "Empow",
     "price": 2769000,
-    "benefit": "550000"
+    "benefit": 550000
   },
   {
     "brand": "Gac",
     "model": "ДжиЭс 4 / GS4",
     "price": 2499000,
-    "benefit": "700000"
+    "benefit": 700000
   },
   {
     "brand": "Gac",
     "model": "ДжиЭс 8 / GS8",
     "price": 4049000,
-    "benefit": "850000"
+    "benefit": 850000
   },
   {
     "brand": "Geely",
     "model": "Atlas",
     "price": 2869990,
-    "benefit": "900000"
+    "benefit": 900000
   },
   {
     "brand": "Geely",
     "model": "Cityray",
     "price": 2624990,
-    "benefit": "630000"
+    "benefit": 630000
   },
   {
     "brand": "Geely",
     "model": "Monjaro",
     "price": 4099990,
-    "benefit": "800000"
+    "benefit": 800000
   },
   {
     "brand": "Geely",
     "model": "OKAVANGO",
     "price": 2958990,
-    "benefit": "950000"
+    "benefit": 950000
   },
   {
     "brand": "Geely",
     "model": "Preface",
     "price": 2729990,
-    "benefit": "700000"
+    "benefit": 700000
   }
 ]
