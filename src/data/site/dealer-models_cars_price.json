@@ -1,6 +1,12 @@
 [
   {
     "brand": "Belgee",
+    "model": "S50",
+    "price": 2009990,
+    "benefit": 300000
+  },
+  {
+    "brand": "Belgee",
     "model": "X70",
     "price": 2205990,
     "benefit": 505000
@@ -50,8 +56,14 @@
   {
     "brand": "Gac",
     "model": "ДжиЭс 8 / GS8",
-    "price": 4049000,
+    "price": 4149000,
     "benefit": 850000
+  },
+  {
+    "brand": "Geely",
+    "model": "Atlas",
+    "price": 2869990,
+    "benefit": 580000
   },
   {
     "brand": "Geely",
