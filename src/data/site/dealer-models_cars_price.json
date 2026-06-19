@@ -56,8 +56,8 @@
   {
     "brand": "Geely",
     "model": "Atlas",
-    "price": 2869990,
-    "benefit": 580000
+    "price": 2639990,
+    "benefit": 810000
   },
   {
     "brand": "Geely",
@@ -68,8 +68,8 @@
   {
     "brand": "Geely",
     "model": "Monjaro",
-    "price": 4099990,
-    "benefit": 800000
+    "price": 4049990,
+    "benefit": 850000
   },
   {
     "brand": "Geely",
@@ -80,7 +80,7 @@
   {
     "brand": "Geely",
     "model": "Preface",
-    "price": 2729990,
+    "price": 2629990,
     "benefit": 700000
   }
 ]
