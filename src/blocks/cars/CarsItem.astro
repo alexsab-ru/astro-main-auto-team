@@ -4,15 +4,18 @@ interface Props {
 	path?: string;
 	slug?: string;
 	totalShow?: boolean;
+	class?: string;
 }
-const {car = {}, path = '/cars/', slug, totalShow = true, ...rest} = Astro.props;
+// class — доп. классы корня карточки (напр. фикс-ширина для flex-раскладки в CarsGrid).
+// По умолчанию пусто → в CSS-гридах (CarsList, catalog, 404) карточка заполняет ячейку.
+const {car = {}, path = '/cars/', slug, totalShow = true, class: className = '', ...rest} = Astro.props;
 // Формируем URL по приоритету: переданный slug | внутренний путь по id
 const url = slug ? slug : `${path}${car.id}/`;
 
 import { calculateCarPrice, findModelByCarData } from '@/js/utils/car';
 import { getModelBadgeData } from '@/js/utils/modelBadge';
 const carModel = findModelByCarData(car.data);
-const { image: badgeImage, alt: badgeAlt } = getModelBadgeData(carModel, 'carList');
+const { image: badgeImage, alt: badgeAlt, classes: badgeClasses } = getModelBadgeData(carModel, 'carList');
 const price = calculateCarPrice(car.data);
 
 import { declOfNums, currencyFormat } from '@/js/utils/numbers.format';
@@ -28,7 +31,7 @@ const creditEnabled = isCreditEnabled(settings);
 ---
 
 <div
-	class="car-item flex flex-col justify-between bg-white shadow-2xl pb-3 xl:pb-4 relative"
+	class={`car-item w-[calc(50%-2px)] sm:w-[calc(33%-4px)] lg:w-[calc(24%-1px)] flex flex-col bg-white shadow-lg hover:shadow-md border border-gray-100 hover:border-gray-200 pb-3 xl:pb-4 relative ${className}`}
 	data-price={ price }
 	data-brand={ car.data.mark_id.replace(',', '') }
 	data-model={ car.data.folder_id.replace(',', '') }
@@ -58,7 +61,7 @@ const creditEnabled = isCreditEnabled(settings);
 			{car.data.run ? <Fragment set:html={`&nbsp;/&nbsp;${car.data.run}&nbsp;км`} /> : ''}
 		</div></noindex>
 		{(car.data.total && totalShow) && (<div class="text-xs sm:text-sm md:text-base mt-0.5 sm:mt-1 text-gray-900">{ car.data.total } {declOfNums(car.data.total)}</div>)}
-		{badgeImage && (<img src={badgeImage} class="absolute right-3 top-3 xs:right-1 xs:top-1 z-10 h-auto w-[50px]! xl:w-[90px]! object-contain" alt={badgeAlt} />)}
+		{badgeImage && (<img src={badgeImage} class={`absolute right-3 top-3 xs:right-1 xs:top-1 z-10 h-auto object-contain ${badgeClasses}`} alt={badgeAlt} />)}
 	</div>
 	<div class="px-3 xl:px-4 flex flex-wrap justify-between gap-y-2 sm:gap-y-3">
 		<Button
