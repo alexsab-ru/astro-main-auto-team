@@ -17,12 +17,12 @@ const noPriceText = (model?.status && (model.status === 'preorder' || model.stat
 const modelTitle = getModelTitle(model);
 const brandDisplayName = getModelBrandDisplayName(model);
 const resolvedModelPath = modelPath || `/models/${setPrefixModelUrl(model, IS_MODEL_PREFIX_URL)}/`;
-const { image: badgeImage, alt: badgeAlt } = getModelBadgeData(model, 'model_list', modelTitle || '');
+const { image: badgeImage, alt: badgeAlt } = getModelBadgeData(model, 'modelList', modelTitle || '');
 ---
 
 <a
 	href={resolvedModelPath}
-	class="mb-[4%] lg:mb-0 w-[48%] lg:w-[calc(33.33%-calc(40px/3))] xl:w-[calc(25%-calc(60px/4))] flex flex-col border p-3 sm:pt-10 sm:pb-4 sm:px-5 overflow-hidden shadow-xl transition-all duration-500 in-expo group hover:border-gray-400 hover:shadow-md no-underline!"
+	class="w-[calc(50%-2px)] sm:w-[290px] xl:w-[360px] flex flex-col bg-white border border-gray-100 p-3 sm:pt-6 sm:pb-6 sm:px-5 overflow-hidden shadow-lg transition-all duration-500 in-expo group hover:border-gray-200 hover:shadow-md no-underline!"
 >
 	<div>
 	<HeadingTag
@@ -77,10 +77,10 @@ const { image: badgeImage, alt: badgeAlt } = getModelBadgeData(model, 'model_lis
 		)
 	}
 	</div>
-	<div class="flex flex-col sm:flex-row sm:mt-10 sm:divide-x">
+	<div class="flex flex-col sm:flex-row sm:mt-10 justify-around w-full">
 		{
 			Object.keys(model.chars).map((key) => (
-				<div class="flex-1 py-1.5 sm:py-0 sm:p-4 flex sm:flex-col items-center gap-0.5 sm:gap-2">
+				<div class="py-1.5 sm:py-0 sm:p-2 flex sm:flex-col items-center gap-0.5 sm:gap-1">
 					<Icon
 						name={
 							key === 'seats'
