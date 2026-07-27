@@ -1575,6 +1575,73 @@ def increment_str(str, increment):
     new_str_value = str_value + increment  # Увеличиваем на заданное значение
     return base36_to_str(new_str_value, len(str))  # Преобразуем обратно в строку
 
+def increment_unique_id(unique_id, increment):
+    """
+    Увеличивает ID подходящим для его формата способом.
+
+    Старый алгоритм остаётся отдельной веткой. Это сохраняет результаты,
+    которые уже формировались для строчных ID из букв и цифр.
+    """
+    # Нулевой или отрицательный сдвиг не является увеличением.
+    # Ранний отказ также не позволяет mixed-radix циклу работать с отрицательным переносом.
+    if increment <= 0:
+        raise ValueError('increment должен быть положительным числом')
+
+    # Полностью цифровой ASCII ID безопасно увеличивается как обычное число.
+    # zfill сохраняет ведущие нули, пока результат помещается в прежнюю длину.
+    if re.fullmatch(r'[0-9]+', unique_id):
+        return str(int(unique_id) + increment).zfill(len(unique_id))
+
+    # Эта проверка намеренно стоит раньше проверки числового окончания.
+    # Например, abc129 должен продолжить использовать старый алгоритм.
+    if re.fullmatch(r'[a-z0-9]+', unique_id):
+        return increment_str(unique_id, increment)
+
+    # У любого non-legacy ID с ASCII-числом справа меняется только этот суффикс.
+    # Например, Z9 становится Z10 и не переходит в mixed-radix ветку.
+    numeric_suffix = re.search(r'[0-9]+$', unique_id)
+    if numeric_suffix:
+        suffix = numeric_suffix.group()
+        updated_suffix = str(int(suffix) + increment).zfill(len(suffix))
+        return unique_id[:numeric_suffix.start()] + updated_suffix
+
+    # В смешанном ID перенос идёт справа налево только через буквы и цифры.
+    # Разделители остаются на прежних местах и не входят в алфавит.
+    updated_id = list(unique_id)
+    carry = increment
+    leftmost_alphabet = None
+
+    for index in range(len(updated_id) - 1, -1, -1):
+        char = updated_id[index]
+        if char in string.digits:
+            alphabet = string.digits
+        elif char in string.ascii_uppercase:
+            alphabet = string.ascii_uppercase
+        elif char in string.ascii_lowercase:
+            alphabet = string.ascii_lowercase
+        else:
+            continue
+
+        leftmost_alphabet = alphabet
+        total = alphabet.index(char) + carry
+        updated_id[index] = alphabet[total % len(alphabet)]
+        carry = total // len(alphabet)
+
+        if carry == 0:
+            return ''.join(updated_id)
+
+    if leftmost_alphabet is None:
+        raise ValueError(f"ID '{unique_id}' не содержит ASCII-букв или цифр")
+
+    # Большой сдвиг может перенести значение за левую границу исходного ID.
+    # Новые позиции используют класс крайнего левого изменяемого символа.
+    prefix = []
+    while carry:
+        prefix.append(leftmost_alphabet[carry % len(leftmost_alphabet)])
+        carry //= len(leftmost_alphabet)
+
+    return ''.join(reversed(prefix)) + ''.join(updated_id)
+
 def duplicate_car(car, config, n, status="в пути", offset=0):
     """Функция для дублирования элемента 'car' N раз с изменением vin."""
     duplicates = []
@@ -1602,7 +1669,8 @@ def duplicate_car(car, config, n, status="в пути", offset=0):
             unique_id_element = new_car.find(config['unique_id_tag'])
             if unique_id_element is not None:
                 unique_id = unique_id_element.text
-                new_unique_id = increment_str(unique_id, offset + i + 1)  # Изменяем последний символ на i
+                # Выбираем алгоритм по формату ID, сохраняя старое поведение для старых кодов.
+                new_unique_id = increment_unique_id(unique_id, offset + i + 1)
                 unique_id_element.text = new_unique_id  # Меняем текст unique_id
                 print(vin, new_vin, unique_id, new_unique_id)
             else:
