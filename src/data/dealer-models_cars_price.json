@@ -61,6 +61,12 @@
   },
   {
     "brand": "Gac",
+    "model": "Эс 7 / S7",
+    "price": 5499000,
+    "benefit": 750000
+  },
+  {
+    "brand": "Gac",
     "model": "Эс 9 / S9",
     "price": 6159000,
     "benefit": 790000
@@ -74,8 +80,8 @@
   {
     "brand": "Geely",
     "model": "Cityray",
-    "price": 2269990,
-    "benefit": 780000
+    "price": 2036000,
+    "benefit": 1063990
   },
   {
     "brand": "Geely",
