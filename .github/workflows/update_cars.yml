@@ -2,7 +2,7 @@ name: Generate Astro Files from XML
 
 on:
   schedule:
-    - cron: '0 3-17 * * *'  # Запускается каждый час с 3 до 17 (UTC) — 06:00 до 20:00 по МСК
+    - cron: '17 3-17 * * *'  # Каждый час с 3:17 до 17:17 (UTC) — 06:17–20:17 МСК; :17 вместо :00 снижает очередь cron на GitHub
   push:
     paths:
       - '.github/scripts/sh/getAirStorage.sh'
@@ -597,7 +597,9 @@ jobs:
     - name: Trigger Pages deploy
       if: env.changes == 'true'
       run: |
-        payload=$(printf '{"ref":"%s"}' "$GITHUB_REF_NAME")
+        deploy_sha=$(git rev-parse HEAD)
+        echo "Triggering Pages deploy for $GITHUB_REF_NAME at $deploy_sha"
+        payload=$(printf '{"ref":"%s","inputs":{"deploy_sha":"%s"}}' "$GITHUB_REF_NAME" "$deploy_sha")
         curl -L \
           --fail-with-body \
           -X POST \
