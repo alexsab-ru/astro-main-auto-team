@@ -4,5 +4,5 @@ const site = String(scripts_json.site ?? '').trim();
 ---
 <script is:inline> if (location.href.split("#")[0].slice(-1) === '?') { location.replace(location.pathname + location.hash); } </script>
 { site !== "" && (
-<script is:inline define:vars={{ site }}> if (location.host.startsWith('alexsab')) { location.href = "https://" + site; } </script>
+<script is:inline define:vars={{ site }}> if (location.host.startsWith('alexsab') || location.host.includes('yandexcloud')) { location.replace("https://" + site); } </script>
 ) }
