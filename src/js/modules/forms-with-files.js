@@ -20,6 +20,7 @@ import {
 } from '@alexsab-ru/scripts/calltouch';
 import FormsValidation from './FormsValidation';
 import { getCalltouchGoalPayload } from '@/js/utils/calltouchLeadDecision';
+import { emitFormError, emitFormRequired } from '@/js/utils/formGoalContext';
 
 const defaultProps = {
 	validation: FormsValidation,
@@ -62,10 +63,16 @@ const runValidation = async (form, validation) => {
 		}
 		if (typeof result === 'boolean') return { isValid: result };
 		if (result && typeof result === 'object' && 'isValid' in result) {
-			return { isValid: Boolean(result.isValid) };
+			return {
+				isValid: Boolean(result.isValid),
+				invalidFields: result.invalidFields || instance?.invalidFields || [],
+			};
 		}
 		if (instance && typeof instance.isValid !== 'undefined') {
-			return { isValid: Boolean(instance.isValid) };
+			return {
+				isValid: Boolean(instance.isValid),
+				invalidFields: instance.invalidFields || [],
+			};
 		}
 		return { isValid: false };
 	} catch (err) {
@@ -99,19 +106,32 @@ const submitFormWithFiles = async (form, url, props) => {
 
 	let validate = await runValidation(form, props.validation);
 	if (!props.validation) {
-		if (!phoneChecker(phone)) return;
+		if (!phoneChecker(phone)) {
+			emitFormRequired({ formID: form.id, invalidFields: ['phone'] });
+			return;
+		}
 		if (dealer && dealer.hasAttribute('required') && !dealer.value) {
 			showErrorMes(form, '.dealer', 'Выберите дилерский центр');
+			emitFormRequired({ formID: form.id, invalidFields: ['dealer'] });
 			return;
 		}
 		if (!agree || !agree.checked) {
 			showErrorMes(form, `.${props.agreeSelector}`, 'Чтобы продолжить, установите флажок');
+			emitFormRequired({ formID: form.id, invalidFields: [props.agreeSelector] });
 			return;
 		}
 		validate = { isValid: true };
 	}
 
-	if (!validate.isValid) return;
+	if (!validate.isValid) {
+		emitFormRequired({
+			formID: form.id,
+			invalidFields: validate.invalidFields?.length
+				? validate.invalidFields
+				: ['form'],
+		});
+		return;
+	}
 	if (agree && agree.checked) setAgreeCookie(90);
 
 	stateBtn(btn, 'Отправляем...', true);
@@ -170,27 +190,54 @@ const submitFormWithFiles = async (form, url, props) => {
 		formDataObj.siteId = calltouchResult.siteId;
 	}
 
+	let errorContext = {
+		errorSource: 'network',
+		errorStage: 'lead_request',
+	};
 	try {
 		const res = await fetch(url, {
 			method: 'POST',
 			body: formData,
 		});
+		errorContext = {
+			errorSource: 'network',
+			errorStage: 'response_read',
+			httpStatus: res.status,
+		};
 		const text = await res.text();
 		let data;
 		try {
+			errorContext = {
+				errorSource: 'server',
+				errorStage: 'response_parse',
+				httpStatus: res.status,
+			};
 			data = JSON.parse(text);
 		} catch (e) {
 			throw new Error('Ошибка обработки данных');
 		}
+		errorContext = {
+			errorSource: 'client',
+			errorStage: 'success_handler',
+		};
 		stateBtn(btn, btnText);
 		if (data.answer === 'required') {
-			reachGoal('form_required');
+			emitFormRequired({
+				formID: form.id,
+				validationSource: 'server',
+				invalidFields: [data.field],
+			});
 			showErrorMes(form, data.field, data.message);
 			return;
 		}
 		if (data.answer === 'error') {
-			reachGoal('form_error');
-			showMessageModal(messageModal, errorIcon, errorText + '<br>' + data.error);
+			emitFormError({
+				formID: form.id,
+				errorSource: 'server',
+				errorStage: 'lead_response',
+				httpStatus: res.status,
+			});
+			showMessageModal(messageModal, errorIcon, errorText, data.error);
 			return;
 		}
 		// Сервер вернул attention:true — заявка похожа на спам, success не шлём.
@@ -211,10 +258,10 @@ const submitFormWithFiles = async (form, url, props) => {
 		form.reset();
 		resetDropzones();
 	} catch (error) {
-		reachGoal('form_error');
+		emitFormError({ formID: form.id, ...errorContext });
 		console.error('Ошибка отправки данных формы: ' + error);
 		deleteCookie(sendMailCookie);
-		showMessageModal(messageModal, errorIcon, errorText + '<br>' + error);
+		showMessageModal(messageModal, errorIcon, errorText, error);
 		stateBtn(btn, btnText);
 	}
 };

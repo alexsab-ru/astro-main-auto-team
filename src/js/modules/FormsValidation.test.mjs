@@ -95,7 +95,9 @@ test('corrected phone can be validated after an invalid submit attempt', () => {
 
 	validation.validate();
 	assert.equal(validation.isValid, false);
+	assert.deepEqual(validation.invalidFields, ['phone']);
 	assert.equal(phone.validity.customError, true);
+	assert.equal(errorField.innerText, 'Укажите номер телефона в формате +7 999 999-99-99');
 	assert.equal(errorField.classList.contains('hidden'), false);
 
 	phone.value = '+7 927 749-94-77';
@@ -107,6 +109,7 @@ test('corrected phone can be validated after an invalid submit attempt', () => {
 
 	validation.validate();
 	assert.equal(validation.isValid, true);
+	assert.deepEqual(validation.invalidFields, []);
 	assert.equal(phone.validity.customError, false);
 });
 

@@ -134,15 +134,15 @@ function AvtoInfoForm({
 	}, [models, years, generations, bodyConfigurations, modifications, engineType, driveType, gearboxType]);
 
 	const onSubmit = async (data, e) => {
-		const isFormCorrect = await trigger();
-		if (!isFormCorrect) return;
 		// Динамический импорт: модуль содержит browser-only код (window.*), SSR его не должен трогать
 		const [
 			{ reachGoal, setCookie, deleteCookie },
 			{ appendCalltouchResultToFormData, attemptCalltouchCallback },
+			{ emitFormError },
 		] = await Promise.all([
 			import('@alexsab-ru/scripts'),
 			import('@alexsab-ru/scripts/calltouch'),
+			import('@/js/utils/formGoalContext'),
 		]);
 		reachGoal("form_submit");
 		showLoader();
@@ -253,7 +253,12 @@ function AvtoInfoForm({
 				.catch(function (error) {
 					if (window.location.hostname == "localhost")
 						console.log('Ошибка отправки письма', error);
-					reachGoal("form_error");
+					emitFormError({
+						formID: 'trade-in-info-form',
+						errorSource: error?.response ? 'server' : 'network',
+						errorStage: error?.response ? 'lead_response' : 'lead_request',
+						httpStatus: error?.response?.status,
+					});
 					deleteCookie(SEND_MAIL_COOKIE);
 					setError();
 					scroll('trade-in-calc');
@@ -262,7 +267,12 @@ function AvtoInfoForm({
 			}else{
 				if (window.location.hostname == "localhost")
 					console.log('Error fetch express', res);
-				reachGoal("form_error");
+				emitFormError({
+					formID: 'trade-in-info-form',
+					errorSource: 'server',
+					errorStage: 'maxposter_response',
+					httpStatus: res?.status,
+				});
 				setError();
 				hideLoader();
 				scroll('trade-in-calc');
@@ -270,18 +280,31 @@ function AvtoInfoForm({
 		}, (error) => {
 			if (window.location.hostname == "localhost")
 				console.log('Error fetch express', error);
-			reachGoal("form_error");
+			emitFormError({
+				formID: 'trade-in-info-form',
+				errorSource: error?.response ? 'server' : 'network',
+				errorStage: error?.response ? 'maxposter_response' : 'maxposter_request',
+				httpStatus: error?.response?.status,
+			});
 			setError();
 			hideLoader();
 			scroll('trade-in-calc');
 		});
 	}
 
+	const onInvalid = async (validationErrors) => {
+		const { emitFormRequired } = await import('@/js/utils/formGoalContext');
+		emitFormRequired({
+			formID: 'trade-in-info-form',
+			invalidFields: Object.keys(validationErrors),
+		});
+	};
+
 	return (
 		<div className="w-full lg:w-2/3 lg:pl-10 py-8 lg:py-16">
 			<h3 className="text-xl font-weight-bold mb-2">Характеристики вашего авто</h3>
 			<p className="mb-4">Параметры, необходимые для оценки автомобиля</p>
-			<form className="vue-form grid grid-cols-6 gap-x-5 gap-y-6" onSubmit={handleSubmit(onSubmit)}>
+			<form id="trade-in-info-form" className="vue-form grid grid-cols-6 gap-x-5 gap-y-6" onSubmit={handleSubmit(onSubmit, onInvalid)}>
 				<input type="hidden" name="form" value="Онлайн-оценка автомобиля" />
 				<input type="hidden" name="email" tabIndex="-1" placeholder="mail@example.com" />
 				<input type="hidden" name="VIN" value={vinState} />
