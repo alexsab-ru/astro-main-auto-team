@@ -1,16 +1,9 @@
 import { useCallback, useState } from 'react';
 import type { QuizQuestion } from '../types';
+import { sendChatGoal } from '../utils';
 
 type GoalParams = Record<string, string>;
 const EMPTY_QUESTIONS: readonly QuizQuestion[] = [];
-
-function sendChatGoal(goal: string, params: GoalParams = {}) {
-  void import('@alexsab-ru/scripts')
-    .then(({ reachGoal }) => reachGoal(goal, params))
-    .catch((error) => {
-      console.error(`Chat analytics goal ${goal} was not sent`, error);
-    });
-}
 
 /**
  * Отправляет цели воронки чат-лендинга и защищает каждый этап от дублей.

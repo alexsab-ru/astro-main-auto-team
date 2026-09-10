@@ -41,3 +41,21 @@ export const maskPhone = (value: string): string => {
 
   return num.join("");
 };
+
+/**
+ * Отправляет цель через reachGoal из @alexsab-ru/scripts.
+ * Пакет грузится динамически, чтобы не тянуть его в бандл острова.
+ *
+ * @param goal - идентификатор цели
+ * @param params - дополнительные параметры цели
+ */
+export function sendChatGoal(
+  goal: string,
+  params: Record<string, string> = {},
+) {
+  void import("@alexsab-ru/scripts")
+    .then(({ reachGoal }) => reachGoal(goal, params))
+    .catch((error) => {
+      console.error(`Chat analytics goal ${goal} was not sent`, error);
+    });
+}

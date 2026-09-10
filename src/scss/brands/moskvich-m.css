@@ -1,0 +1,53 @@
+/* Moskvich M theme overrides for Tailwind v4.
+   Source: https://moskvich-m.ru/ — Dembrandt and official CSS, 2026-09-07.
+   Fonts are served from the project CDN with cross-origin access enabled. */
+
+@font-face {
+	font-family: 'TT Hoves Pro';
+	src: url('https://cdn.alexsab.ru/fonts/TTHovesPro/tt-hoves-pro-regular.woff2') format('woff2');
+	font-weight: 400;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'TT Hoves Pro';
+	src: url('https://cdn.alexsab.ru/fonts/TTHovesPro/tt-hoves-pro-bold.woff2') format('woff2');
+	font-weight: 700;
+	font-style: normal;
+	font-display: swap;
+}
+
+@theme {
+	/* Official palette; the shared template uses accent-400 for hover. */
+	--color-accent-red: #e71d36;
+	--color-accent-tomato: #b9172b;
+	--color-accent-400: var(--color-accent-red);
+	--color-accent-500: #070a12;
+	--color-accent-600: var(--color-accent-tomato);
+	--color-black: #070a12;
+	--color-grey-light: #f5f5f6;
+	--color-grey-neutral: #cbcccd;
+	--color-grey-medium: #c3c4c6;
+	--color-border: var(--color-grey-medium);
+	--color-background: var(--color-grey-light);
+
+	--color-header-bg: var(--color-grey-light);
+	--color-submenu-bg: var(--color-grey-light);
+	--color-header-border: color-mix(in srgb, var(--color-black) 10%, transparent);
+	--transparent-bg-color: #070a12;
+	--footer-bg: #070a12;
+	--color-footer-phone-hover: var(--color-accent-red);
+
+	--font-sans: 'TT Hoves Pro', ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Arial, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';
+	--font-heading: inherit;
+	--font-weight-heading-weight: 400;
+	--font-weight-medium: 400;
+	--radius-btn: 3px;
+}
+
+@layer base {
+	body {
+		background-color: var(--color-background);
+	}
+}

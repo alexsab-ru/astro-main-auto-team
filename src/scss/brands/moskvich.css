@@ -1,0 +1,52 @@
+/* Moskvich theme overrides for Tailwind v4.
+   Source: https://moskvich.ru/ — Dembrandt extraction and official CSS, 2026-09-07.
+   Montserrat is reused from the existing project CDN. */
+
+@font-face {
+	font-family: 'Montserrat';
+	src: url('https://cdn.alexsab.ru/fonts/Montserrat/Montserrat-Regular.woff2') format('woff2');
+	font-weight: 400;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Montserrat';
+	src: url('https://cdn.alexsab.ru/fonts/Montserrat/Montserrat-Medium.woff2') format('woff2');
+	font-weight: 500;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Montserrat';
+	src: url('https://cdn.alexsab.ru/fonts/Montserrat/Montserrat-SemiBold.woff2') format('woff2');
+	font-weight: 600;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Montserrat';
+	src: url('https://cdn.alexsab.ru/fonts/Montserrat/Montserrat-Bold.woff2') format('woff2');
+	font-weight: 700;
+	font-style: normal;
+	font-display: swap;
+}
+
+@theme {
+	/* The shared theme uses accent-400 for hover, accent-500 for rest. */
+	--color-accent-400: #ad0017;
+	--color-accent-500: #d5001c;
+	--color-accent-600: #ad0017;
+	--color-black: #241e20;
+	--color-border: #e4e5e7;
+	--footer-bg: #241e20;
+
+	--font-sans: 'Montserrat', ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Arial, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';
+	--font-heading: inherit;
+	--font-weight-heading-weight: 500;
+
+	/* The official .btn has square corners. */
+	--radius-btn: 0px;
+}

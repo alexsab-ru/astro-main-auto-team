@@ -1,9 +1,10 @@
 // ──────────────── Компонент поля ввода с чекбоксом согласия ────────────────
 
 import { motion } from "motion/react";
+import { useEffect, useRef } from "react";
 import { Send } from "lucide-react";
 import settings from "@/data/site/settings.json";
-import { maskPhone } from "../utils";
+import { maskPhone, sendChatGoal } from "../utils";
 import type { InputFieldConfig } from "../types";
 
 const { agree_label } = settings;
@@ -51,6 +52,33 @@ export function InputField({
   isTyping,
   onSubmit,
 }: InputFieldProps) {
+  const containerRef = useRef<HTMLDivElement>(null);
+
+  useEffect(() => {
+    const container = containerRef.current;
+    if (!container) return;
+
+    // Слушаем нативный change, а не React onChange: у React это input,
+    // он бы срабатывал на каждое нажатие. Значения полей не отправляем.
+    const trackInputEvent = (event: Event) => {
+      if (!(event.target instanceof HTMLInputElement)) return;
+
+      const isClick = event.type === "click";
+      sendChatGoal(isClick ? "form_click" : "form_change", {
+        title: isClick
+          ? "Клик в поле любой формы"
+          : "Изменения полей любой формы",
+      });
+    };
+
+    container.addEventListener("click", trackInputEvent);
+    container.addEventListener("change", trackInputEvent);
+    return () => {
+      container.removeEventListener("click", trackInputEvent);
+      container.removeEventListener("change", trackInputEvent);
+    };
+  }, []);
+
   const handleChange = (e: React.ChangeEvent<HTMLInputElement>) => {
     if (currentStep === "phone") {
       const masked = maskPhone(e.target.value);
@@ -78,6 +106,7 @@ export function InputField({
 
   return (
     <motion.div
+      ref={containerRef}
       initial={{ opacity: 0, y: 16 }}
       animate={{ opacity: 1, y: 0 }}
       className="px-4 sm:px-5 py-3 bg-white border-t shrink-0"
