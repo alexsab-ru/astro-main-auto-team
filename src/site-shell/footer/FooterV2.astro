@@ -4,7 +4,7 @@ import settings from '@/data/site/settings.json';
 const { site_name, legal_entity, legal_inn, brand, logo_header, logo_footer, logo_dealer_header, logo_dealer_footer, phone_common, footer_disclaimer, footer_info } = settings;
 const logo_dealer = logo_dealer_footer || logo_dealer_header || '';
 import { getMenu } from '@/const';
-const links = getMenu('footer');
+const links = Astro.props.navigationLinks ?? getMenu('footer');
 const legalLinks = getMenu('footer_legal');
 import Brands from '@/blocks/brands/Brands.astro';
 import { YEAR } from '@/js/utils/date';
@@ -13,7 +13,8 @@ import { phoneFormat } from '@/js/utils/numbers.format';
 const url = `https://alexsab.ru?utm_source=client&utm_medium=${brand}&utm_compaing=${scripts_json.site}`;
 import salonsData from '@/data/site/salons.json';
 import type { ISalon } from '@/types/ISalon';
-const salons = salonsData.filter((salon: ISalon) => {
+import { scopeSalons } from '@/js/utils/pageScope';
+const salons = scopeSalons(salonsData, Astro.locals.pageDealer).filter((salon: ISalon) => {
     if (salon?.hidden_in?.includes('footer')) return false;
     if (salon?.type && salon.type.length) return salon.type.includes('footer');
     return true;
@@ -23,6 +24,7 @@ import DisclaimerCollapse from '@/ui/disclaimer-collapse/DisclaimerCollapse.astr
 
 interface Props {
 	showSiteLinks?: boolean;
+	navigationLinks?: any[];
 	logoNoLink?: boolean;
 }
 const { showSiteLinks = true, logoNoLink = false } = Astro.props;
@@ -67,7 +69,7 @@ const LEGAL_SALONS_INFO =
                 <ul class="space-y-2">
                 {
                     links.map(link => (
-                        <li><a href={link.url} class={`transition hover:underline ${path === link.url ? 'font-weight-bold' : ''}`}>{link.name}</a></li>
+                        <li><a href={link.url} class={`${link.url.startsWith('#') ? 'js-scroll-link ' : ''}transition hover:underline ${path === link.url ? 'font-weight-bold' : ''}`}>{link.name}</a></li>
                     ))
                 }
                 </ul>

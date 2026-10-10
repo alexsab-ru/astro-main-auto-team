@@ -21,6 +21,12 @@ show_help() {
     echo "  --skip_check_thumb               - Skip thumbnail existence check"
     echo "  --dev                            - Start dev server after processing (for auto and test)"
     echo
+    echo "Car image mode (MIRROR_CAR_IMAGES, environment > .env > src/data/site/env.json):"
+    echo "  true                            - Mirror car images to CDN"
+    echo "  thumbs_local                    - Generate local thumbnails, keep original image URLs"
+    echo "  false, empty or unset           - Skip feed images and thumbnail generation"
+    echo "  Explicit --skip_thumbs / --mirror_images override this setting"
+    echo
     echo "Environment Variable Options for 'getone':"
     echo "  AVITO_XML_URL"
     echo "  AVITO_XML_URL_DATA_CARS_CAR"
@@ -422,6 +428,10 @@ handle_test() {
             handle_getone "XML_URL_CARCOPY_OFFERS_OFFER"
             handle_update "carcopy_offers_offer"
             ;;
+        "yml_catalog_shop_offers_offer")
+            handle_getone "XML_URL_YML_CATALOG_SHOP_OFFERS_OFFER" "./tmp/feeds/new/yml_catalog_shop_offers_offer/cars.xml" || return $?
+            handle_update "yml_catalog_shop_offers_offer" || return $?
+            ;;
         "used_cars_data_cars_car")
             handle_getone "USED_CARS_DATA_CARS_CAR"
             handle_update "used_cars_data_cars_car"
@@ -441,6 +451,10 @@ handle_test() {
         "used_cars_carcopy_offers_offer")
             handle_getone "USED_CARS_CARCOPY_OFFERS_OFFER"
             handle_update "used_cars_carcopy_offers_offer"
+            ;;
+        "used_cars_yml_catalog_shop_offers_offer")
+            handle_getone "USED_CARS_YML_CATALOG_SHOP_OFFERS_OFFER" "./tmp/feeds/used_cars/yml_catalog_shop_offers_offer/cars.xml" || return $?
+            handle_update "used_cars_yml_catalog_shop_offers_offer" || return $?
             ;;
         *)
             echo -e "${BGRED}Error: Unknown test type: $type${Color_Off}"
@@ -508,6 +522,9 @@ handle_update() {
         "carcopy_offers_offer")
             "$PYTHON_BIN" .github/scripts/update_cars.py --input_file "./tmp/feeds/new/carcopy_offers_offer/cars.xml" --source_type carcopy_offers_offer --domain="$DOMAIN" $THUMB_ARGS
             ;;
+        "yml_catalog_shop_offers_offer")
+            "$PYTHON_BIN" .github/scripts/update_cars.py --input_file "./tmp/feeds/new/yml_catalog_shop_offers_offer/cars.xml" --source_type yml_catalog_shop_offers_offer --domain="$DOMAIN" $THUMB_ARGS
+            ;;
         "used_cars_data_cars_car")
             "$PYTHON_BIN" .github/scripts/update_cars.py --input_file "./tmp/feeds/used_cars/data_cars_car/cars.xml" --source_type data_cars_car --domain="$DOMAIN" --cars_dir="src/content/used_cars" --output_path="./public/used_cars.xml" --thumbs_dir="public/img/thumbs_used/" --path_car_page="/used_cars/" $THUMB_ARGS
             ;;
@@ -522,6 +539,9 @@ handle_update() {
             ;;
         "used_cars_carcopy_offers_offer")
             "$PYTHON_BIN" .github/scripts/update_cars.py --input_file "./tmp/feeds/used_cars/carcopy_offers_offer/cars.xml" --source_type carcopy_offers_offer --domain="$DOMAIN" --cars_dir="src/content/used_cars" --output_path="./public/used_cars.xml" --thumbs_dir="public/img/thumbs_used/" --path_car_page="/used_cars/" $THUMB_ARGS
+            ;;
+        "used_cars_yml_catalog_shop_offers_offer")
+            "$PYTHON_BIN" .github/scripts/update_cars.py --input_file "./tmp/feeds/used_cars/yml_catalog_shop_offers_offer/cars.xml" --source_type yml_catalog_shop_offers_offer --domain="$DOMAIN" --cars_dir="src/content/used_cars" --temp_cars_dir="tmp/content/used_cars" --output_path="./public/used_cars.xml" --thumbs_dir="public/img/thumbs_used/" --temp_thumbs_dir="tmp/img/thumbs_used/" --path_car_page="/used_cars/" $THUMB_ARGS
             ;;
         *)
             echo -e "${BGRED}Error: Unknown update type: $type${Color_Off}"
