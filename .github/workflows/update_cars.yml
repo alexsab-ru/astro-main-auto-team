@@ -16,6 +16,8 @@ on:
       - '.github/scripts/config_air_storage-friend.json'
       - '.github/scripts/config_air_storage.json'
       - '.github/scripts/config.py'
+      - '.github/scripts/car_feed_exports.json'
+      - '.github/scripts/car_feed_exports.py'
       - '.github/scripts/getOneXML.py'
       - '.github/scripts/GSheetFetcher.js'
       - '.github/scripts/mergeCarPrices.js'
@@ -43,7 +45,63 @@ jobs:
     runs-on: ubuntu-latest
     outputs:
       env_name: ${{ steps.set_env.outputs.env_name }}
+      should_run: ${{ steps.check_recent_update.outputs.should_run }}
     steps:
+      - name: Skip scheduled update after a recent successful update
+        id: check_recent_update
+        uses: actions/github-script@v9
+        with:
+          script: |
+            core.setOutput('should_run', 'true');
+            if (context.eventName !== 'schedule') {
+              core.info('Push and manual updates always run.');
+              return;
+            }
+
+            // Count workflow launches in this branch during the last 30 minutes.
+            const cutoff = Date.now() - 30 * 60 * 1000;
+            const branch = process.env.GITHUB_REF_NAME;
+            try {
+              const runs = await github.paginate(github.rest.actions.listWorkflowRuns, {
+                ...context.repo,
+                workflow_id: 'update_cars.yml',
+                branch,
+                status: 'success',
+                created: `>=${new Date(cutoff).toISOString()}`,
+                per_page: 100,
+              });
+
+              for (const run of runs) {
+                if (run.id === context.runId || run.head_branch !== branch ||
+                    run.conclusion !== 'success' || !(Date.parse(run.created_at) > cutoff)) {
+                  continue;
+                }
+
+                // A cooldown-only run is also successful: require actual generation.
+                const jobs = await github.paginate(github.rest.actions.listJobsForWorkflowRun, {
+                  ...context.repo,
+                  run_id: run.id,
+                  filter: 'latest',
+                  per_page: 100,
+                });
+                if (!jobs.some(job => job.name === 'build' && job.conclusion === 'success')) {
+                  continue;
+                }
+
+                core.setOutput('should_run', 'false');
+                const message = `Skipping scheduled car update: successful update ${run.html_url} was launched less than 30 minutes ago.`;
+                core.info(message);
+                await core.summary.addRaw(message).write();
+                return;
+              }
+
+              core.info('No successful car update launched in this branch during the last 30 minutes.');
+            } catch (error) {
+              // An unavailable history API must not prevent inventory updates.
+              core.setOutput('should_run', 'true');
+              core.warning(`Could not check recent car updates; continuing: ${error.message}`);
+            }
+
       - id: set_env
         run: |
           PROD_BRANCHES=("main" "master" "brand" "dealer") # Bash array
@@ -63,6 +121,7 @@ jobs:
 
   build:
     needs: determine_env
+    if: ${{ needs.determine_env.outputs.should_run == 'true' }}
     runs-on: ubuntu-latest
 
     # Указываете окружение и его переменные
@@ -601,6 +660,10 @@ jobs:
           if [[ -f src/data/dealer-models_cars_price.json ]]; then git add src/data/dealer-models_cars_price.json --force; fi
         fi
         if [[ -f public/cars.xml ]]; then git add public/cars.xml; fi
+        # Stage all configured destination exports, including new formats added later.
+        python .github/scripts/export_car_feeds.py --list-outputs | while IFS= read -r feed_path; do
+          if [[ -f "$feed_path" ]]; then git add -- "$feed_path"; fi
+        done
         if [[ -f public/used_cars.xml ]]; then git add public/used_cars.xml; fi
         if [[ -f public/autoru.xml ]]; then git add public/autoru.xml; fi
         if [[ -f public/avito.xml ]]; then git add public/avito.xml; fi

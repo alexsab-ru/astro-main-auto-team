@@ -9,12 +9,13 @@ import re
 from decimal import Decimal, InvalidOperation
 from pathlib import Path
 from utils import *
+from car_feed_exports import export_for_source
 import xml.etree.ElementTree as ET
 from typing import Dict, List, Optional, Tuple
 import requests
 
 TRUTHY_ENV_VALUES = {'1', 'true', 'yes', 'on'}
-AVAILABLE_CAR_VALUE = 'в наличии'
+AVAILABLE_CAR_VALUE = 'В наличии'
 
 
 def configure_car_image_mode(config: Dict[str, Any]) -> None:
@@ -586,7 +587,7 @@ class CarProcessor:
             car_data['vin'] = self.get_yml_identifier(car)
             car_data['offer_id'] = (car.get('id') or '').strip()
             car_data['availability'] = (
-                AVAILABLE_CAR_VALUE if self.get_yml_availability(car) else 'нет в наличии'
+                AVAILABLE_CAR_VALUE if self.get_yml_availability(car) else 'Нет в наличии'
             )
             if 'run' not in car_data and (car.findtext('typePrefix') or '').strip() == 'Новый автомобиль':
                 car_data['run'] = '0'
@@ -1531,6 +1532,7 @@ def main():
                 tree = ET.ElementTree(data_root)
                 tree.write(output_path, encoding='utf-8', xml_declaration=True)
                 print(f"✅ Сохранен объединенный XML для категории {category_type}: {output_path}")
+                export_for_source(Path(output_path))
                 
                 # Очистка превью для категории
                 cleanup_unused_thumbs(processor.current_thumbs, thumbs_dir)
@@ -1657,6 +1659,7 @@ def main():
         convert_to_string(data_root)
         tree = ET.ElementTree(data_root)
         tree.write(args.output_path, encoding='utf-8', xml_declaration=True)
+        export_for_source(Path(args.output_path))
         
         # Очистка превью
         cleanup_unused_thumbs(processor.current_thumbs, config['thumbs_dir'])

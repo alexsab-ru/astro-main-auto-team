@@ -17,6 +17,10 @@
     "getDealerStorage": "bash ./.github/scripts/sh/getDealerStorage.sh",
     "getSortStorage": "bash ./.github/scripts/sh/getSortStorage.sh",
     "cars": "bash ./.github/scripts/sh/process_xml.sh",
+    "export:car-feeds": "pnpm cars export",
+    "export:cars:vk": "pnpm cars export vk_data_cars_car vk_channel_item",
+    "export:cars:vk:channel": "pnpm cars export vk_channel_item",
+    "test:car-feed-exports": "python3 -m unittest discover -s .github/scripts -p test_car_feed_exports.py",
     "\n# Get XML for air storage commands:": "",
     "getOne_AVITO_XML_URL": "pnpm run cars getone AVITO_XML_URL",
     "getOne_AVITO_XML_URL_DATA_CARS_CAR": "pnpm run cars getone AVITO_XML_URL_DATA_CARS_CAR",
@@ -139,7 +143,7 @@
     "\n# https://alexsab.ru": ""
   },
   "dependencies": {
-    "@alexsab-ru/scripts": "^0.20.0",
+    "@alexsab-ru/scripts": "^0.20.1",
     "@astrojs/alpinejs": "^0.4.9",
     "@astrojs/mdx": "^4.3.13",
     "@astrojs/react": "^4.4.2",
