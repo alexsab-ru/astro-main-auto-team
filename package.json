@@ -98,16 +98,16 @@
     "ddol": "pnpm downloadCommonRepo --local -cd && pnpm dev",
     "ddolcd": "pnpm downloadCommonRepo --local -cd && pnpm dev",
     "ddolcdln": "pnpm downloadCommonRepo --local -cd && pnpm linkJson && pnpm dev",
-    "ddcars": "export IGNORE_ERRORS=1 && pnpm downloadCommonRepo && pnpm getDealerPrices && pnpm getDealerServicePrices && pnpm mergeCarPrices && pnpm replacePlaceholdersAndSearchDates && pnpm getAll && pnpm cars auto --skip_thumbs && pnpm dev",
-    "ddlcars": "export IGNORE_ERRORS=1 && pnpm downloadCommonRepo --local -cd && pnpm getDealerPrices && pnpm getDealerServicePrices && pnpm mergeCarPrices && pnpm replacePlaceholdersAndSearchDates && pnpm getAll && pnpm cars auto --skip_thumbs && pnpm dev",
-    "ddlcarsl": "export IGNORE_ERRORS=1 && pnpm downloadCommonRepo --local -cd && pnpm getDealerPrices && pnpm getDealerServicePrices && pnpm mergeCarPrices && pnpm replacePlaceholdersAndSearchDates && pnpm copyRepoCars && pnpm dev",
+    "ddcars": "export IGNORE_ERRORS=1 && pnpm downloadCommonRepo && pnpm getDealerPrices && pnpm getDealerServicePrices && pnpm getAll && pnpm cars auto --skip_thumbs && pnpm mergeCarPrices && pnpm replacePlaceholdersAndSearchDates && pnpm dev",
+    "ddlcars": "export IGNORE_ERRORS=1 && pnpm downloadCommonRepo --local -cd && pnpm getDealerPrices && pnpm getDealerServicePrices && pnpm getAll && pnpm cars auto --skip_thumbs && pnpm mergeCarPrices && pnpm replacePlaceholdersAndSearchDates && pnpm dev",
+    "ddlcarsl": "export IGNORE_ERRORS=1 && pnpm downloadCommonRepo --local -cd && pnpm getDealerPrices && pnpm getDealerServicePrices && pnpm copyRepoCars && pnpm mergeCarPrices && pnpm replacePlaceholdersAndSearchDates && pnpm dev",
     "\n# Verify commands (terminate — same prep as dd*, but build instead of dev):": "",
     "verify": "pnpm downloadCommonRepo --local -cd && pnpm build",
     "verifycd": "pnpm downloadCommonRepo --local -cd && pnpm build",
     "verifyl": "export IGNORE_ERRORS=1 && pnpm downloadCommonRepo --local -cd && pnpm getDealerPrices && pnpm getDealerServicePrices && pnpm mergeCarPrices && pnpm replacePlaceholdersAndSearchDates && pnpm build",
-    "verifycars": "export IGNORE_ERRORS=1 && pnpm downloadCommonRepo --local -cd && pnpm getDealerPrices && pnpm getDealerServicePrices && pnpm mergeCarPrices && pnpm replacePlaceholdersAndSearchDates && pnpm getAll && pnpm cars auto --skip_thumbs && pnpm build",
+    "verifycars": "export IGNORE_ERRORS=1 && pnpm downloadCommonRepo --local -cd && pnpm getDealerPrices && pnpm getDealerServicePrices && pnpm getAll && pnpm cars auto --skip_thumbs && pnpm mergeCarPrices && pnpm replacePlaceholdersAndSearchDates && pnpm build",
     "verifyr": "export IGNORE_ERRORS=1 && pnpm downloadCommonRepo -cd && pnpm getDealerPrices && pnpm getDealerServicePrices && pnpm mergeCarPrices && pnpm replacePlaceholdersAndSearchDates && pnpm build",
-    "verifyrcars": "export IGNORE_ERRORS=1 && pnpm downloadCommonRepo -cd && pnpm getDealerPrices && pnpm getDealerServicePrices && pnpm mergeCarPrices && pnpm replacePlaceholdersAndSearchDates && pnpm getAll && pnpm cars auto --skip_thumbs && pnpm build",
+    "verifyrcars": "export IGNORE_ERRORS=1 && pnpm downloadCommonRepo -cd && pnpm getDealerPrices && pnpm getDealerServicePrices && pnpm getAll && pnpm cars auto --skip_thumbs && pnpm mergeCarPrices && pnpm replacePlaceholdersAndSearchDates && pnpm build",
     "test_links_local": "bash .github/scripts/sh/checkLinksLocal.sh",
     "test_links_production": "node .github/scripts/checkLinks/checkLinks.js",
     "interlink_map": "node .github/scripts/interlinkMap/interlinkMap.js",
@@ -158,7 +158,7 @@
     "astro": "^5.16.6",
     "astro-icon": "^1.1.5",
     "astro-robots": "^2.3.1",
-    "axios": "^1.13.2",
+    "axios": "^1.20.0",
     "csv-parse": "^6.1.0",
     "dotenv": "^17.2.3",
     "dropzone": "6.0.0-beta.2",
@@ -170,7 +170,7 @@
     "react-dom": "^19.2.3",
     "react-hook-form": "^7.68.0",
     "svgo": "4.0.0",
-    "swiper": "^12.0.3",
+    "swiper": "^12.2.0",
     "tailwindcss": "^4.3.1",
     "yup": "^1.7.1",
     "zustand": "5.0.9"
@@ -178,7 +178,7 @@
   "devDependencies": {
     "@rollup/plugin-yaml": "^4.1.2",
     "sass": "^1.97.0",
-    "vite": "^7.3.0"
+    "vite": "^7.3.7"
   },
   "packageManager": "pnpm@10.17.0+sha512.fce8a3dd29a4ed2ec566fb53efbb04d8c44a0f05bc6f24a73046910fb9c3ce7afa35a0980500668fa3573345bd644644fa98338fa168235c80f4aa17aa17fbef"
 }
