@@ -1,11 +1,5 @@
 [
   {
-    "brand": "Belgee",
-    "model": "X70",
-    "price": 2415990,
-    "benefit": 330000
-  },
-  {
     "brand": "Changan",
     "model": "CS35 PLUS",
     "price": 2519900,
@@ -38,55 +32,37 @@
   {
     "brand": "Gac",
     "model": "Empow",
-    "price": 2599000,
-    "benefit": 720000
+    "price": 2637100,
+    "benefit": 681900
   },
   {
     "brand": "Gac",
     "model": "ДжиЭс 4 / GS4",
-    "price": 3059000,
-    "benefit": 790000
+    "price": 3049000,
+    "benefit": 850000
   },
   {
     "brand": "Gac",
-    "model": "ДжиЭс 8 / GS8",
-    "price": 3909000,
-    "benefit": 1040000
+    "model": "Обновленный ДжиЭс 8 / GS8",
+    "price": 3849000,
+    "benefit": 1100000
   },
   {
     "brand": "Gac",
     "model": "Эм 8 / M8",
-    "price": 5929000,
-    "benefit": 820000
+    "price": 6074000,
+    "benefit": 675000
+  },
+  {
+    "brand": "Gac",
+    "model": "Эс 7 / S7",
+    "price": 5799000,
+    "benefit": 450000
   },
   {
     "brand": "Gac",
     "model": "Эс 9 / S9",
-    "price": 6359000,
-    "benefit": 590000
-  },
-  {
-    "brand": "Geely",
-    "model": "Cityray",
-    "price": 2276000,
-    "benefit": 898990
-  },
-  {
-    "brand": "Geely",
-    "model": "Monjaro",
-    "price": 4104990,
-    "benefit": 850000
-  },
-  {
-    "brand": "Geely",
-    "model": "OKAVANGO",
-    "price": 3075990,
-    "benefit": 950000
-  },
-  {
-    "brand": "Geely",
-    "model": "Preface",
-    "price": 2879990,
-    "benefit": 450000
+    "price": 6649000,
+    "benefit": 300000
   }
 ]
