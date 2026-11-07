@@ -1202,54 +1202,6 @@
     <vehicle_type>car_truck</vehicle_type>
   </item>
   <item>
-    <id>Y4K8622Z4TB946252</id>
-    <link>https://auto-team.pro/cars/belgee-i-2026—2026-15-amt-147-hp-style-white-2026/</link>
-    <brand>Belgee</brand>
-    <model>I (2026—2026)</model>
-    <year>2026</year>
-    <title>Belgee I (2026—2026) Стиль 2026</title>
-    <image_link>https://img.upspace.ru/cars/auto-team.pro/new/Y4K8622Z4TB946252/0/full.webp?v=24b5278ec14b</image_link>
-    <price>2509990 RUB</price>
-    <sale_price>2219990 RUB</sale_price>
-    <min_price>2219990 RUB</min_price>
-    <max_price>2509990 RUB</max_price>
-    <state_of_vehicle>new</state_of_vehicle>
-    <description>Автомобиль Belgee I (2026—2026), Стиль, 1.5 AMT (147 л.с.), 2026 г.</description>
-    <exterior_color>Белый</exterior_color>
-    <mileage>
-      <value>1</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>suv</body_style>
-    <vin>Y4K8622Z4TB946252</vin>
-    <availability>в наличии</availability>
-    <vehicle_type>car_truck</vehicle_type>
-  </item>
-  <item>
-    <id>Y4K8622Z6TB936225</id>
-    <link>https://auto-team.pro/cars/belgee-i-2026—2026-15-amt-147-hp-style-white-2026/</link>
-    <brand>Belgee</brand>
-    <model>I (2026—2026)</model>
-    <year>2026</year>
-    <title>Belgee I (2026—2026) Стиль 2026</title>
-    <image_link>https://img.upspace.ru/cars/auto-team.pro/new/Y4K8622Z6TB936225/0/full.webp?v=8b48f9753d44</image_link>
-    <price>2509990 RUB</price>
-    <sale_price>2219990 RUB</sale_price>
-    <min_price>2219990 RUB</min_price>
-    <max_price>2509990 RUB</max_price>
-    <state_of_vehicle>new</state_of_vehicle>
-    <description>Автомобиль Belgee I (2026—2026), Стиль, 1.5 AMT (147 л.с.), 2026 г.</description>
-    <exterior_color>Белый</exterior_color>
-    <mileage>
-      <value>4</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>suv</body_style>
-    <vin>Y4K8622Z6TB936225</vin>
-    <availability>в наличии</availability>
-    <vehicle_type>car_truck</vehicle_type>
-  </item>
-  <item>
     <id>Y4K8622Z7TB940882</id>
     <link>https://auto-team.pro/cars/belgee-i-2026—2026-15-amt-147-hp-onyx-black-2026/</link>
     <brand>Belgee</brand>
