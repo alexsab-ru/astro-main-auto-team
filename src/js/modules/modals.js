@@ -1,4 +1,5 @@
 import { reachGoal } from '@alexsab-ru/scripts';
+import { syncFormDepartments } from '../utils/formDepartments';
 
 document.querySelectorAll(".popup-link").forEach(
 	(link) =>
@@ -48,51 +49,32 @@ document.querySelectorAll(".popup-link").forEach(
 			if (commentText && commentInput) {
 				commentInput.value = commentText;
 			}
-			const chooseDepartment = link.dataset.choose_department;
-			// Если выбор отдела не разрешён (choose_department !== 'true') —
-			// 1) устанавливаем по умолчанию "Отдел продаж"
-			// 2) блокируем радио-инпуты, чтобы пользователь не менял
-			// 3) скрываем весь блок выбора отдела для визуальной чистоты
-			// Если разрешён — возвращаем блок в исходное состояние
-			const departamentBlock = targetModal.querySelector('[data-departament-block]');
-			const departamentRadios = targetModal.querySelectorAll('input[name="departament"]');
-			const isChooseDeptEnabled = String(chooseDepartment).toLowerCase() === 'true';
-			if (departamentBlock && departamentRadios && departamentRadios.length) {
-				if (!isChooseDeptEnabled) {
-					// Выбираем по умолчанию "Отдел продаж"
-					departamentRadios.forEach((radio) => {
-						if (radio.value === 'Отдел продаж') {
-							radio.checked = true;
-						}
-						// Блокируем возможность изменения
-						radio.disabled = true;
-					});
-					// Скрываем сам блок
-					departamentBlock.classList.add('hidden');
-				} else {
-					// Разрешён выбор отдела — показываем блок и разблокируем радио
-					departamentBlock.classList.remove('hidden');
-					departamentRadios.forEach((radio) => {
-						radio.disabled = false;
-					});
-				}
-			}
+			syncFormDepartments(targetModal, link.dataset.choose_department);
 
 			const params = new URLSearchParams(document.location.search);
 			const brandParams = params.get("brand");
 			const root = document.documentElement;
 			const dataBrand = root.dataset.brand || brandParams || link.dataset.filtering;
 			
-			if(dataBrand){
+			const dealerName = link.dataset.dealerName;
+			if(dataBrand || dealerName){
 				let salonsStore = Alpine.store('salonsStore');
-				const sorting = link.dataset.sorting;
+				const sorting = link.dataset.sorting || dealerName;
 				if(sorting){
 					salonsStore.sortingData(dataBrand);
 				}else{
 					salonsStore.filterData(dataBrand);
 				}
 			}
-			
+			if (dealerName) {
+				// Дожидаемся обновления списка и сброса после сортировки по марке.
+				Alpine.nextTick(() => {
+					targetModal.dispatchEvent(new CustomEvent('select-dealer', {
+						bubbles: true,
+						detail: { name: dealerName },
+					}));
+				});
+			}
 
 			targetModal.classList.remove("hidden");
 			document.body.classList.add("overflow-hidden");
