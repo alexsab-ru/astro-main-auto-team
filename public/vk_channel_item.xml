@@ -290,37 +290,13 @@
     <vehicle_type>car_truck</vehicle_type>
   </item>
   <item>
-    <id>LMGJU3G53T1068121</id>
-    <link>https://auto-team.pro/cars/gac-gs8-ii-20-at-231-hp-4wd-gl-white-2026/</link>
-    <brand>Gac</brand>
-    <model>GS8, II</model>
-    <year>2026</year>
-    <title>Gac GS8, II GL 2026</title>
-    <image_link>https://img.upspace.ru/cars/auto-team.pro/new/LMGJU3G53T1068121/0/full.webp?v=079a1d282e91</image_link>
-    <price>4649000 RUB</price>
-    <sale_price>3999000 RUB</sale_price>
-    <min_price>3999000 RUB</min_price>
-    <max_price>4649000 RUB</max_price>
-    <state_of_vehicle>new</state_of_vehicle>
-    <description>Автомобиль Gac GS8, II, GL, 2.0 AT (231 л.с.) 4WD, 2026 г.</description>
-    <exterior_color>Белый</exterior_color>
-    <mileage>
-      <value>8</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>suv</body_style>
-    <vin>LMGJU3G53T1068121</vin>
-    <availability>в наличии</availability>
-    <vehicle_type>car_truck</vehicle_type>
-  </item>
-  <item>
     <id>LMGJU3G5XT1067810</id>
     <link>https://auto-team.pro/cars/gac-gs8-ii-20-at-231-hp-4wd-gl-black-2026/</link>
     <brand>Gac</brand>
     <model>GS8, II</model>
     <year>2026</year>
     <title>Gac GS8, II GL 2026</title>
-    <image_link>https://img.upspace.ru/cars/auto-team.pro/new/LMGJU3G5XT1067810/0/full.webp?v=d426e37463e3</image_link>
+    <image_link>https://img.upspace.ru/cars/auto-team.pro/new/LMGJU3G5XT1067810/0/full.webp?v=83d0bbbaceee</image_link>
     <price>4649000 RUB</price>
     <sale_price>3999000 RUB</sale_price>
     <min_price>3999000 RUB</min_price>
@@ -344,7 +320,7 @@
     <model>GS8, II</model>
     <year>2026</year>
     <title>Gac GS8, II GX Premium 2026</title>
-    <image_link>https://img.upspace.ru/cars/auto-team.pro/new/LMGJU3G82T1061591/0/full.webp?v=7060c2b261bf</image_link>
+    <image_link>https://img.upspace.ru/cars/auto-team.pro/new/LMGJU3G82T1061591/0/full.webp?v=0447e16f68c1</image_link>
     <price>5349000 RUB</price>
     <sale_price>4249000 RUB</sale_price>
     <min_price>4249000 RUB</min_price>
@@ -368,7 +344,7 @@
     <model>GS8, II</model>
     <year>2026</year>
     <title>Gac GS8, II GT 2026</title>
-    <image_link>https://img.upspace.ru/cars/auto-team.pro/new/LMGJU3G83T1064628/0/full.webp?v=6bb09639b39a</image_link>
+    <image_link>https://img.upspace.ru/cars/auto-team.pro/new/LMGJU3G83T1064628/0/full.webp?v=edabee6d569b</image_link>
     <price>4949000 RUB</price>
     <sale_price>3849000 RUB</sale_price>
     <min_price>3849000 RUB</min_price>
@@ -392,7 +368,7 @@
     <model>GS8, II</model>
     <year>2026</year>
     <title>Gac GS8, II GT 2026</title>
-    <image_link>https://img.upspace.ru/cars/auto-team.pro/new/LMGJU3G85T1063688/0/full.webp?v=e8a3e020066e</image_link>
+    <image_link>https://img.upspace.ru/cars/auto-team.pro/new/LMGJU3G85T1063688/0/full.webp?v=ac5ed14fa1eb</image_link>
     <price>4949000 RUB</price>
     <sale_price>3849000 RUB</sale_price>
     <min_price>3849000 RUB</min_price>
@@ -416,7 +392,7 @@
     <model>GS8, II</model>
     <year>2026</year>
     <title>Gac GS8, II GT 2026</title>
-    <image_link>https://img.upspace.ru/cars/auto-team.pro/new/LMGJU3G85T1064808/0/full.webp?v=62d8a000781c</image_link>
+    <image_link>https://img.upspace.ru/cars/auto-team.pro/new/LMGJU3G85T1064808/0/full.webp?v=f4ae77468cdf</image_link>
     <price>4949000 RUB</price>
     <sale_price>3849000 RUB</sale_price>
     <min_price>3849000 RUB</min_price>
@@ -440,7 +416,7 @@
     <model>GS8, II</model>
     <year>2026</year>
     <title>Gac GS8, II GX Premium 2026</title>
-    <image_link>https://img.upspace.ru/cars/auto-team.pro/new/LMGJU3G86T1065417/0/full.webp?v=92cf2032b5a8</image_link>
+    <image_link>https://img.upspace.ru/cars/auto-team.pro/new/LMGJU3G86T1065417/0/full.webp?v=87c79c66aad3</image_link>
     <price>5349000 RUB</price>
     <sale_price>4249000 RUB</sale_price>
     <min_price>4249000 RUB</min_price>
@@ -464,7 +440,7 @@
     <model>GS8, II</model>
     <year>2026</year>
     <title>Gac GS8, II GX Premium 2026</title>
-    <image_link>https://img.upspace.ru/cars/auto-team.pro/new/LMGJU3G88T1061384/0/full.webp?v=dd8b97c9d9f1</image_link>
+    <image_link>https://img.upspace.ru/cars/auto-team.pro/new/LMGJU3G88T1061384/0/full.webp?v=d65666011834</image_link>
     <price>5349000 RUB</price>
     <sale_price>4249000 RUB</sale_price>
     <min_price>4249000 RUB</min_price>
@@ -488,7 +464,7 @@
     <model>GS8, II</model>
     <year>2026</year>
     <title>Gac GS8, II GX Premium 2026</title>
-    <image_link>https://img.upspace.ru/cars/auto-team.pro/new/LMGJU3G88T1065998/0/full.webp?v=5bf004db7099</image_link>
+    <image_link>https://img.upspace.ru/cars/auto-team.pro/new/LMGJU3G88T1065998/0/full.webp?v=0310fa535669</image_link>
     <price>5349000 RUB</price>
     <sale_price>4249000 RUB</sale_price>
     <min_price>4249000 RUB</min_price>
@@ -512,7 +488,7 @@
     <model>GS8, II</model>
     <year>2026</year>
     <title>Gac GS8, II GX Premium 2026</title>
-    <image_link>https://img.upspace.ru/cars/auto-team.pro/new/LMGJU3G89T1066285/0/full.webp?v=143f59b16e65</image_link>
+    <image_link>https://img.upspace.ru/cars/auto-team.pro/new/LMGJU3G89T1066285/0/full.webp?v=8c4494f9d5ef</image_link>
     <price>5349000 RUB</price>
     <sale_price>4249000 RUB</sale_price>
     <min_price>4249000 RUB</min_price>
@@ -536,7 +512,7 @@
     <model>GS8, II</model>
     <year>2026</year>
     <title>Gac GS8, II GX Premium 2026</title>
-    <image_link>https://img.upspace.ru/cars/auto-team.pro/new/LMGJU3G8XT1062214/0/full.webp?v=5592cb80f94d</image_link>
+    <image_link>https://img.upspace.ru/cars/auto-team.pro/new/LMGJU3G8XT1062214/0/full.webp?v=3b45c3484966</image_link>
     <price>5349000 RUB</price>
     <sale_price>4249000 RUB</sale_price>
     <min_price>4249000 RUB</min_price>
@@ -560,7 +536,7 @@
     <model>GS8, II</model>
     <year>2026</year>
     <title>Gac GS8, II GX Premium 2026</title>
-    <image_link>https://img.upspace.ru/cars/auto-team.pro/new/LMGJU3G8XT1066442/0/full.webp?v=405b321c6343</image_link>
+    <image_link>https://img.upspace.ru/cars/auto-team.pro/new/LMGJU3G8XT1066442/0/full.webp?v=ba05045a1f88</image_link>
     <price>5349000 RUB</price>
     <sale_price>4249000 RUB</sale_price>
     <min_price>4249000 RUB</min_price>
