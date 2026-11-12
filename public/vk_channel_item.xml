@@ -338,30 +338,6 @@
     <vehicle_type>car_truck</vehicle_type>
   </item>
   <item>
-    <id>LMGJU3G83T1064628</id>
-    <link>https://auto-team.pro/cars/gac-gs8-ii-20-at-231-hp-4wd-gt-black-2026/</link>
-    <brand>Gac</brand>
-    <model>GS8, II</model>
-    <year>2026</year>
-    <title>Gac GS8, II GT 2026</title>
-    <image_link>https://img.upspace.ru/cars/auto-team.pro/new/LMGJU3G83T1064628/0/full.webp?v=edabee6d569b</image_link>
-    <price>4949000 RUB</price>
-    <sale_price>3849000 RUB</sale_price>
-    <min_price>3849000 RUB</min_price>
-    <max_price>4949000 RUB</max_price>
-    <state_of_vehicle>new</state_of_vehicle>
-    <description>Автомобиль Gac GS8, II, GT, 2.0 AT (231 л.с.) 4WD, 2026 г.</description>
-    <exterior_color>Черный</exterior_color>
-    <mileage>
-      <value>5</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>suv</body_style>
-    <vin>LMGJU3G83T1064628</vin>
-    <availability>в наличии</availability>
-    <vehicle_type>car_truck</vehicle_type>
-  </item>
-  <item>
     <id>LMGJU3G85T1063688</id>
     <link>https://auto-team.pro/cars/gac-gs8-ii-20-at-231-hp-4wd-gt-gray-2026/</link>
     <brand>Gac</brand>
@@ -434,6 +410,30 @@
     <vehicle_type>car_truck</vehicle_type>
   </item>
   <item>
+    <id>LMGJU3G87T1064874</id>
+    <link>https://auto-team.pro/cars/gac-gs8-ii-20-at-231-hp-4wd-gt-green-2026/</link>
+    <brand>Gac</brand>
+    <model>GS8, II</model>
+    <year>2026</year>
+    <title>Gac GS8, II GT 2026</title>
+    <image_link>https://img.upspace.ru/cars/auto-team.pro/new/LMGJU3G87T1064874/0/full.webp?v=c46b0785d32b</image_link>
+    <price>4949000 RUB</price>
+    <sale_price>4299000 RUB</sale_price>
+    <min_price>4299000 RUB</min_price>
+    <max_price>4949000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Gac GS8, II, GT, 2.0 AT (231 л.с.) 4WD, 2026 г.</description>
+    <exterior_color>Зеленый</exterior_color>
+    <mileage>
+      <value>5</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>suv</body_style>
+    <vin>LMGJU3G87T1064874</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
     <id>LMGJU3G88T1061384</id>
     <link>https://auto-team.pro/cars/gac-gs8-ii-20-at-231-hp-4wd-gx-premium-black-2026/</link>
     <brand>Gac</brand>
@@ -458,37 +458,13 @@
     <vehicle_type>car_truck</vehicle_type>
   </item>
   <item>
-    <id>LMGJU3G88T1065998</id>
-    <link>https://auto-team.pro/cars/gac-gs8-ii-20-at-231-hp-4wd-gx-premium-white-2026/</link>
-    <brand>Gac</brand>
-    <model>GS8, II</model>
-    <year>2026</year>
-    <title>Gac GS8, II GX Premium 2026</title>
-    <image_link>https://img.upspace.ru/cars/auto-team.pro/new/LMGJU3G88T1065998/0/full.webp?v=0310fa535669</image_link>
-    <price>5349000 RUB</price>
-    <sale_price>4249000 RUB</sale_price>
-    <min_price>4249000 RUB</min_price>
-    <max_price>5349000 RUB</max_price>
-    <state_of_vehicle>new</state_of_vehicle>
-    <description>Автомобиль Gac GS8, II, GX Premium, 2.0 AT (231 л.с.) 4WD, 2026 г.</description>
-    <exterior_color>Белый</exterior_color>
-    <mileage>
-      <value>8</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>suv</body_style>
-    <vin>LMGJU3G88T1065998</vin>
-    <availability>в наличии</availability>
-    <vehicle_type>car_truck</vehicle_type>
-  </item>
-  <item>
     <id>LMGJU3G89T1066285</id>
     <link>https://auto-team.pro/cars/gac-gs8-ii-20-at-231-hp-4wd-gx-premium-gray-2026/</link>
     <brand>Gac</brand>
     <model>GS8, II</model>
     <year>2026</year>
     <title>Gac GS8, II GX Premium 2026</title>
-    <image_link>https://img.upspace.ru/cars/auto-team.pro/new/LMGJU3G89T1066285/0/full.webp?v=8c4494f9d5ef</image_link>
+    <image_link>https://img.upspace.ru/cars/auto-team.pro/new/LMGJU3G89T1066285/0/full.webp?v=4e1e48a87506</image_link>
     <price>5349000 RUB</price>
     <sale_price>4249000 RUB</sale_price>
     <min_price>4249000 RUB</min_price>

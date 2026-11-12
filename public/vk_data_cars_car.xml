@@ -125,6 +125,8 @@
         <image>https://img.upspace.ru/cars/auto-team.pro/new/LMGAE3G80T1005968/21/full.webp?v=5f769e980cfe</image>
         <image>https://img.upspace.ru/cars/auto-team.pro/new/LMGAE3G80T1005968/22/full.webp?v=f2704c4844d7</image>
         <image>https://img.upspace.ru/cars/auto-team.pro/new/LMGAE3G80T1005968/23/full.webp?v=35530175b95f</image>
+        <image>https://img.upspace.ru/cars/auto-team.pro/new/LMGAE3G80T1005968/24/full.webp?v=4d3f138ba2cf</image>
+        <image>https://img.upspace.ru/cars/auto-team.pro/new/LMGAE3G80T1005968/25/full.webp?v=447ec7eb997a</image>
       </images>
     </car>
     <car>
@@ -169,6 +171,7 @@
         <image>https://img.upspace.ru/cars/auto-team.pro/new/LMGAE3G81T1004912/21/full.webp?v=16848317ec4c</image>
         <image>https://img.upspace.ru/cars/auto-team.pro/new/LMGAE3G81T1004912/22/full.webp?v=05134df9cb04</image>
         <image>https://img.upspace.ru/cars/auto-team.pro/new/LMGAE3G81T1004912/23/full.webp?v=f5b0f4d6e71b</image>
+        <image>https://img.upspace.ru/cars/auto-team.pro/new/LMGAE3G81T1004912/24/full.webp?v=dc3c8ddeaf1a</image>
       </images>
     </car>
     <car>
@@ -248,6 +251,8 @@
         <image>https://img.upspace.ru/cars/auto-team.pro/new/LMGAE3G84T1006122/21/full.webp?v=922aa43a7bf4</image>
         <image>https://img.upspace.ru/cars/auto-team.pro/new/LMGAE3G84T1006122/22/full.webp?v=e9f983ab5fb5</image>
         <image>https://img.upspace.ru/cars/auto-team.pro/new/LMGAE3G84T1006122/23/full.webp?v=3d5d9c726b25</image>
+        <image>https://img.upspace.ru/cars/auto-team.pro/new/LMGAE3G84T1006122/24/full.webp?v=4d571b3acfd5</image>
+        <image>https://img.upspace.ru/cars/auto-team.pro/new/LMGAE3G84T1006122/25/full.webp?v=8dd96ebb1f78</image>
       </images>
     </car>
     <car>
@@ -417,6 +422,7 @@
         <image>https://img.upspace.ru/cars/auto-team.pro/new/LMGBB1L83S3147886/23/full.webp?v=0fbbb893f743</image>
         <image>https://img.upspace.ru/cars/auto-team.pro/new/LMGBB1L83S3147886/24/full.webp?v=3f31d3c1db7c</image>
         <image>https://img.upspace.ru/cars/auto-team.pro/new/LMGBB1L83S3147886/25/full.webp?v=4cc1274d902e</image>
+        <image>https://img.upspace.ru/cars/auto-team.pro/new/LMGBB1L83S3147886/26/full.webp?v=e091507f9564</image>
       </images>
     </car>
     <car>
@@ -463,6 +469,7 @@
         <image>https://img.upspace.ru/cars/auto-team.pro/new/LMGJF3S85T1000513/23/full.webp?v=63994cf126ff</image>
         <image>https://img.upspace.ru/cars/auto-team.pro/new/LMGJF3S85T1000513/24/full.webp?v=d419d8561a89</image>
         <image>https://img.upspace.ru/cars/auto-team.pro/new/LMGJF3S85T1000513/25/full.webp?v=26fbc1e31a23</image>
+        <image>https://img.upspace.ru/cars/auto-team.pro/new/LMGJF3S85T1000513/26/full.webp?v=d9414452ad3c</image>
       </images>
     </car>
     <car>
@@ -509,6 +516,8 @@
         <image>https://img.upspace.ru/cars/auto-team.pro/new/LMGJF3S89T1000532/23/full.webp?v=0b3e209ca789</image>
         <image>https://img.upspace.ru/cars/auto-team.pro/new/LMGJF3S89T1000532/24/full.webp?v=ca28dbc243f5</image>
         <image>https://img.upspace.ru/cars/auto-team.pro/new/LMGJF3S89T1000532/25/full.webp?v=4b71a441aea4</image>
+        <image>https://img.upspace.ru/cars/auto-team.pro/new/LMGJF3S89T1000532/26/full.webp?v=2c35e42e61d3</image>
+        <image>https://img.upspace.ru/cars/auto-team.pro/new/LMGJF3S89T1000532/27/full.webp?v=29f5477eeb2e</image>
       </images>
     </car>
     <car>
@@ -589,41 +598,6 @@
         <image>https://img.upspace.ru/cars/auto-team.pro/new/LMGJU3G82T1061591/18/full.webp?v=99e12c4d78c2</image>
         <image>https://img.upspace.ru/cars/auto-team.pro/new/LMGJU3G82T1061591/19/full.webp?v=d85a21836adc</image>
         <image>https://img.upspace.ru/cars/auto-team.pro/new/LMGJU3G82T1061591/20/full.webp?v=10fd7532c3be</image>
-      </images>
-    </car>
-    <car>
-      <unique_id>LMGJU3G83T1064628</unique_id>
-      <url>https://auto-team.pro/cars/gac-gs8-ii-20-at-231-hp-4wd-gt-black-2026/</url>
-      <mark_id>Gac</mark_id>
-      <folder_id>GS8, II</folder_id>
-      <year>2026</year>
-      <vin>LMGJU3G83T1064628</vin>
-      <price>4949000</price>
-      <sale_price>3849000</sale_price>
-      <currency>RUR</currency>
-      <owners_number>Не было владельцев</owners_number>
-      <max_benefit>1100000</max_benefit>
-      <color>черный</color>
-      <availability>В наличии</availability>
-      <body_type>Внедорожник</body_type>
-      <run>5</run>
-      <description>Автомобиль Gac GS8, II, GT, 2.0 AT (231 л.с.) 4WD, 2026 г., черный</description>
-      <images>
-        <image>https://img.upspace.ru/cars/auto-team.pro/new/LMGJU3G83T1064628/0/full.webp?v=edabee6d569b</image>
-        <image>https://img.upspace.ru/cars/auto-team.pro/new/LMGJU3G83T1064628/1/full.webp?v=792627f5c516</image>
-        <image>https://img.upspace.ru/cars/auto-team.pro/new/LMGJU3G83T1064628/2/full.webp?v=677ca2d722fc</image>
-        <image>https://img.upspace.ru/cars/auto-team.pro/new/LMGJU3G83T1064628/3/full.webp?v=a01f22dbaebf</image>
-        <image>https://img.upspace.ru/cars/auto-team.pro/new/LMGJU3G83T1064628/4/full.webp?v=8d5c0f8b816b</image>
-        <image>https://img.upspace.ru/cars/auto-team.pro/new/LMGJU3G83T1064628/5/full.webp?v=73a0bc874f5e</image>
-        <image>https://img.upspace.ru/cars/auto-team.pro/new/LMGJU3G83T1064628/6/full.webp?v=c8783329089b</image>
-        <image>https://img.upspace.ru/cars/auto-team.pro/new/LMGJU3G83T1064628/7/full.webp?v=3e084282917c</image>
-        <image>https://img.upspace.ru/cars/auto-team.pro/new/LMGJU3G83T1064628/8/full.webp?v=f7a898425be7</image>
-        <image>https://img.upspace.ru/cars/auto-team.pro/new/LMGJU3G83T1064628/9/full.webp?v=7b644be740a9</image>
-        <image>https://img.upspace.ru/cars/auto-team.pro/new/LMGJU3G83T1064628/10/full.webp?v=818a8973fed2</image>
-        <image>https://img.upspace.ru/cars/auto-team.pro/new/LMGJU3G83T1064628/11/full.webp?v=e9b72b7de54d</image>
-        <image>https://img.upspace.ru/cars/auto-team.pro/new/LMGJU3G83T1064628/12/full.webp?v=bbe51fcead76</image>
-        <image>https://img.upspace.ru/cars/auto-team.pro/new/LMGJU3G83T1064628/13/full.webp?v=5816e9ab723c</image>
-        <image>https://img.upspace.ru/cars/auto-team.pro/new/LMGJU3G83T1064628/14/full.webp?v=40c974b72533</image>
       </images>
     </car>
     <car>
@@ -731,6 +705,28 @@
       </images>
     </car>
     <car>
+      <unique_id>LMGJU3G87T1064874</unique_id>
+      <url>https://auto-team.pro/cars/gac-gs8-ii-20-at-231-hp-4wd-gt-green-2026/</url>
+      <mark_id>Gac</mark_id>
+      <folder_id>GS8, II</folder_id>
+      <year>2026</year>
+      <vin>LMGJU3G87T1064874</vin>
+      <price>4949000</price>
+      <sale_price>4299000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>650000</max_benefit>
+      <color>зеленый</color>
+      <availability>В наличии</availability>
+      <body_type>Внедорожник</body_type>
+      <run>5</run>
+      <description>Автомобиль Gac GS8, II, GT, 2.0 AT (231 л.с.) 4WD, 2026 г., зеленый</description>
+      <images>
+        <image>https://img.upspace.ru/cars/auto-team.pro/new/LMGJU3G87T1064874/0/full.webp?v=c46b0785d32b</image>
+        <image>https://img.upspace.ru/cars/auto-team.pro/new/LMGJU3G87T1064874/1/full.webp?v=5e7e9eb51793</image>
+      </images>
+    </car>
+    <car>
       <unique_id>LMGJU3G88T1061384</unique_id>
       <url>https://auto-team.pro/cars/gac-gs8-ii-20-at-231-hp-4wd-gx-premium-black-2026/</url>
       <mark_id>Gac</mark_id>
@@ -772,50 +768,8 @@
         <image>https://img.upspace.ru/cars/auto-team.pro/new/LMGJU3G88T1061384/21/full.webp?v=8263d2260a19</image>
         <image>https://img.upspace.ru/cars/auto-team.pro/new/LMGJU3G88T1061384/22/full.webp?v=9ffce1476881</image>
         <image>https://img.upspace.ru/cars/auto-team.pro/new/LMGJU3G88T1061384/23/full.webp?v=978ccc0e01f3</image>
-      </images>
-    </car>
-    <car>
-      <unique_id>LMGJU3G88T1065998</unique_id>
-      <url>https://auto-team.pro/cars/gac-gs8-ii-20-at-231-hp-4wd-gx-premium-white-2026/</url>
-      <mark_id>Gac</mark_id>
-      <folder_id>GS8, II</folder_id>
-      <year>2026</year>
-      <vin>LMGJU3G88T1065998</vin>
-      <price>5349000</price>
-      <sale_price>4249000</sale_price>
-      <currency>RUR</currency>
-      <owners_number>Не было владельцев</owners_number>
-      <max_benefit>1100000</max_benefit>
-      <color>белый</color>
-      <availability>В наличии</availability>
-      <body_type>Внедорожник</body_type>
-      <run>8</run>
-      <description>Автомобиль Gac GS8, II, GX Premium, 2.0 AT (231 л.с.) 4WD, 2026 г., белый</description>
-      <images>
-        <image>https://img.upspace.ru/cars/auto-team.pro/new/LMGJU3G88T1065998/0/full.webp?v=0310fa535669</image>
-        <image>https://img.upspace.ru/cars/auto-team.pro/new/LMGJU3G88T1065998/1/full.webp?v=9d13bb081d14</image>
-        <image>https://img.upspace.ru/cars/auto-team.pro/new/LMGJU3G88T1065998/2/full.webp?v=5185d7cdc051</image>
-        <image>https://img.upspace.ru/cars/auto-team.pro/new/LMGJU3G88T1065998/3/full.webp?v=377257f19482</image>
-        <image>https://img.upspace.ru/cars/auto-team.pro/new/LMGJU3G88T1065998/4/full.webp?v=195355855697</image>
-        <image>https://img.upspace.ru/cars/auto-team.pro/new/LMGJU3G88T1065998/5/full.webp?v=bd316f00746f</image>
-        <image>https://img.upspace.ru/cars/auto-team.pro/new/LMGJU3G88T1065998/6/full.webp?v=ecd80def1281</image>
-        <image>https://img.upspace.ru/cars/auto-team.pro/new/LMGJU3G88T1065998/7/full.webp?v=ca076d5e34bb</image>
-        <image>https://img.upspace.ru/cars/auto-team.pro/new/LMGJU3G88T1065998/8/full.webp?v=10e87c34c58d</image>
-        <image>https://img.upspace.ru/cars/auto-team.pro/new/LMGJU3G88T1065998/9/full.webp?v=e827577c84ce</image>
-        <image>https://img.upspace.ru/cars/auto-team.pro/new/LMGJU3G88T1065998/10/full.webp?v=2136bf646205</image>
-        <image>https://img.upspace.ru/cars/auto-team.pro/new/LMGJU3G88T1065998/11/full.webp?v=37c0d12c40fc</image>
-        <image>https://img.upspace.ru/cars/auto-team.pro/new/LMGJU3G88T1065998/12/full.webp?v=6ca17a2c5d18</image>
-        <image>https://img.upspace.ru/cars/auto-team.pro/new/LMGJU3G88T1065998/13/full.webp?v=acd9d8419657</image>
-        <image>https://img.upspace.ru/cars/auto-team.pro/new/LMGJU3G88T1065998/14/full.webp?v=888ea485fe87</image>
-        <image>https://img.upspace.ru/cars/auto-team.pro/new/LMGJU3G88T1065998/15/full.webp?v=bc7cb7b42722</image>
-        <image>https://img.upspace.ru/cars/auto-team.pro/new/LMGJU3G88T1065998/16/full.webp?v=04291ef92d6a</image>
-        <image>https://img.upspace.ru/cars/auto-team.pro/new/LMGJU3G88T1065998/17/full.webp?v=d96ff07ba29e</image>
-        <image>https://img.upspace.ru/cars/auto-team.pro/new/LMGJU3G88T1065998/18/full.webp?v=2bd28e39cb91</image>
-        <image>https://img.upspace.ru/cars/auto-team.pro/new/LMGJU3G88T1065998/19/full.webp?v=d2258020f66e</image>
-        <image>https://img.upspace.ru/cars/auto-team.pro/new/LMGJU3G88T1065998/20/full.webp?v=c0873c16bf5a</image>
-        <image>https://img.upspace.ru/cars/auto-team.pro/new/LMGJU3G88T1065998/21/full.webp?v=776783ae3297</image>
-        <image>https://img.upspace.ru/cars/auto-team.pro/new/LMGJU3G88T1065998/22/full.webp?v=ffb4b08a1611</image>
-        <image>https://img.upspace.ru/cars/auto-team.pro/new/LMGJU3G88T1065998/23/full.webp?v=bd041d296324</image>
+        <image>https://img.upspace.ru/cars/auto-team.pro/new/LMGJU3G88T1061384/24/full.webp?v=113c36f3ca37</image>
+        <image>https://img.upspace.ru/cars/auto-team.pro/new/LMGJU3G88T1061384/25/full.webp?v=90ac3580a042</image>
       </images>
     </car>
     <car>
@@ -836,12 +790,12 @@
       <run>3</run>
       <description>Автомобиль Gac GS8, II, GX Premium, 2.0 AT (231 л.с.) 4WD, 2026 г., серый</description>
       <images>
-        <image>https://img.upspace.ru/cars/auto-team.pro/new/LMGJU3G89T1066285/0/full.webp?v=8c4494f9d5ef</image>
+        <image>https://img.upspace.ru/cars/auto-team.pro/new/LMGJU3G89T1066285/0/full.webp?v=4e1e48a87506</image>
         <image>https://img.upspace.ru/cars/auto-team.pro/new/LMGJU3G89T1066285/1/full.webp?v=49cb88dafea1</image>
         <image>https://img.upspace.ru/cars/auto-team.pro/new/LMGJU3G89T1066285/2/full.webp?v=a1d17a2c48cb</image>
         <image>https://img.upspace.ru/cars/auto-team.pro/new/LMGJU3G89T1066285/3/full.webp?v=7b153df24fcd</image>
         <image>https://img.upspace.ru/cars/auto-team.pro/new/LMGJU3G89T1066285/4/full.webp?v=77c3509bcd81</image>
-        <image>https://img.upspace.ru/cars/auto-team.pro/new/LMGJU3G89T1066285/5/full.webp?v=25b313648bd5</image>
+        <image>https://img.upspace.ru/cars/auto-team.pro/new/LMGJU3G89T1066285/5/full.webp?v=2138fb9df452</image>
         <image>https://img.upspace.ru/cars/auto-team.pro/new/LMGJU3G89T1066285/6/full.webp?v=9efc23064cd8</image>
         <image>https://img.upspace.ru/cars/auto-team.pro/new/LMGJU3G89T1066285/7/full.webp?v=884b3a6241e8</image>
         <image>https://img.upspace.ru/cars/auto-team.pro/new/LMGJU3G89T1066285/8/full.webp?v=d4ee0a48a6b5</image>
@@ -896,6 +850,8 @@
         <image>https://img.upspace.ru/cars/auto-team.pro/new/LMGJU3G8XT1062214/19/full.webp?v=f3d6d71790e8</image>
         <image>https://img.upspace.ru/cars/auto-team.pro/new/LMGJU3G8XT1062214/20/full.webp?v=b4fe8bff4018</image>
         <image>https://img.upspace.ru/cars/auto-team.pro/new/LMGJU3G8XT1062214/21/full.webp?v=38b8b7c01be6</image>
+        <image>https://img.upspace.ru/cars/auto-team.pro/new/LMGJU3G8XT1062214/22/full.webp?v=5cd0d19492ec</image>
+        <image>https://img.upspace.ru/cars/auto-team.pro/new/LMGJU3G8XT1062214/23/full.webp?v=89e4b174f02b</image>
       </images>
     </car>
     <car>
@@ -977,6 +933,8 @@
         <image>https://img.upspace.ru/cars/auto-team.pro/new/LMGMU1G8XT1318546/23/full.webp?v=3281dcc31f7a</image>
         <image>https://img.upspace.ru/cars/auto-team.pro/new/LMGMU1G8XT1318546/24/full.webp?v=ad04250825e1</image>
         <image>https://img.upspace.ru/cars/auto-team.pro/new/LMGMU1G8XT1318546/25/full.webp?v=ba9790cf52ba</image>
+        <image>https://img.upspace.ru/cars/auto-team.pro/new/LMGMU1G8XT1318546/26/full.webp?v=1520a7d12385</image>
+        <image>https://img.upspace.ru/cars/auto-team.pro/new/LMGMU1G8XT1318546/27/full.webp?v=289c61c5b4e8</image>
       </images>
     </car>
     <car>
