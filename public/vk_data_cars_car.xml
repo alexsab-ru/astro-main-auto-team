@@ -127,6 +127,8 @@
         <image>https://img.upspace.ru/cars/auto-team.pro/new/LMGAE3G80T1005968/23/full.webp?v=35530175b95f</image>
         <image>https://img.upspace.ru/cars/auto-team.pro/new/LMGAE3G80T1005968/24/full.webp?v=4d3f138ba2cf</image>
         <image>https://img.upspace.ru/cars/auto-team.pro/new/LMGAE3G80T1005968/25/full.webp?v=447ec7eb997a</image>
+        <image>https://img.upspace.ru/cars/auto-team.pro/new/LMGAE3G80T1005968/26/full.webp?v=0adb2604d302</image>
+        <image>https://img.upspace.ru/cars/auto-team.pro/new/LMGAE3G80T1005968/27/full.webp?v=0ae408be8598</image>
       </images>
     </car>
     <car>
@@ -253,6 +255,8 @@
         <image>https://img.upspace.ru/cars/auto-team.pro/new/LMGAE3G84T1006122/23/full.webp?v=3d5d9c726b25</image>
         <image>https://img.upspace.ru/cars/auto-team.pro/new/LMGAE3G84T1006122/24/full.webp?v=4d571b3acfd5</image>
         <image>https://img.upspace.ru/cars/auto-team.pro/new/LMGAE3G84T1006122/25/full.webp?v=8dd96ebb1f78</image>
+        <image>https://img.upspace.ru/cars/auto-team.pro/new/LMGAE3G84T1006122/26/full.webp?v=2015e35c40d7</image>
+        <image>https://img.upspace.ru/cars/auto-team.pro/new/LMGAE3G84T1006122/27/full.webp?v=9a7c62b6376b</image>
       </images>
     </car>
     <car>
@@ -426,53 +430,6 @@
       </images>
     </car>
     <car>
-      <unique_id>LMGJF3S85T1000513</unique_id>
-      <url>https://auto-team.pro/cars/gac-s9-15hyb-at-340-hp-4wd-sx-premium-black-2026/</url>
-      <mark_id>Gac</mark_id>
-      <folder_id>S9</folder_id>
-      <year>2026</year>
-      <vin>LMGJF3S85T1000513</vin>
-      <price>6949000</price>
-      <sale_price>6649000</sale_price>
-      <currency>RUR</currency>
-      <owners_number>Не было владельцев</owners_number>
-      <max_benefit>300000</max_benefit>
-      <color>черный</color>
-      <availability>В наличии</availability>
-      <body_type>Внедорожник</body_type>
-      <run>30</run>
-      <description>Автомобиль Gac S9, SX Premium, 1.5hyb AT (340 л.с.) 4WD, 2026 г., черный</description>
-      <images>
-        <image>https://img.upspace.ru/cars/auto-team.pro/new/LMGJF3S85T1000513/0/full.webp?v=e4c06334cbbd</image>
-        <image>https://img.upspace.ru/cars/auto-team.pro/new/LMGJF3S85T1000513/1/full.webp?v=6083e88ffe09</image>
-        <image>https://img.upspace.ru/cars/auto-team.pro/new/LMGJF3S85T1000513/2/full.webp?v=5b14fbaabdf3</image>
-        <image>https://img.upspace.ru/cars/auto-team.pro/new/LMGJF3S85T1000513/3/full.webp?v=a47bbed93f60</image>
-        <image>https://img.upspace.ru/cars/auto-team.pro/new/LMGJF3S85T1000513/4/full.webp?v=cd9300e2e12c</image>
-        <image>https://img.upspace.ru/cars/auto-team.pro/new/LMGJF3S85T1000513/5/full.webp?v=e82a86231c67</image>
-        <image>https://img.upspace.ru/cars/auto-team.pro/new/LMGJF3S85T1000513/6/full.webp?v=d39ffe76e664</image>
-        <image>https://img.upspace.ru/cars/auto-team.pro/new/LMGJF3S85T1000513/7/full.webp?v=0dc508e2ebf2</image>
-        <image>https://img.upspace.ru/cars/auto-team.pro/new/LMGJF3S85T1000513/8/full.webp?v=1e88a34dc103</image>
-        <image>https://img.upspace.ru/cars/auto-team.pro/new/LMGJF3S85T1000513/9/full.webp?v=d68ae7187fd5</image>
-        <image>https://img.upspace.ru/cars/auto-team.pro/new/LMGJF3S85T1000513/10/full.webp?v=6fb3f39a88b4</image>
-        <image>https://img.upspace.ru/cars/auto-team.pro/new/LMGJF3S85T1000513/11/full.webp?v=c3b8d9beb037</image>
-        <image>https://img.upspace.ru/cars/auto-team.pro/new/LMGJF3S85T1000513/12/full.webp?v=6520bdb7a8b4</image>
-        <image>https://img.upspace.ru/cars/auto-team.pro/new/LMGJF3S85T1000513/13/full.webp?v=0044772d83a7</image>
-        <image>https://img.upspace.ru/cars/auto-team.pro/new/LMGJF3S85T1000513/14/full.webp?v=46a8c0dba92d</image>
-        <image>https://img.upspace.ru/cars/auto-team.pro/new/LMGJF3S85T1000513/15/full.webp?v=032b13ae294e</image>
-        <image>https://img.upspace.ru/cars/auto-team.pro/new/LMGJF3S85T1000513/16/full.webp?v=73bf104be7e5</image>
-        <image>https://img.upspace.ru/cars/auto-team.pro/new/LMGJF3S85T1000513/17/full.webp?v=eea0a58b256b</image>
-        <image>https://img.upspace.ru/cars/auto-team.pro/new/LMGJF3S85T1000513/18/full.webp?v=7a947eb0739e</image>
-        <image>https://img.upspace.ru/cars/auto-team.pro/new/LMGJF3S85T1000513/19/full.webp?v=661c4fee9585</image>
-        <image>https://img.upspace.ru/cars/auto-team.pro/new/LMGJF3S85T1000513/20/full.webp?v=28dbfce864b3</image>
-        <image>https://img.upspace.ru/cars/auto-team.pro/new/LMGJF3S85T1000513/21/full.webp?v=e67225c1b8fe</image>
-        <image>https://img.upspace.ru/cars/auto-team.pro/new/LMGJF3S85T1000513/22/full.webp?v=1f4a412afa00</image>
-        <image>https://img.upspace.ru/cars/auto-team.pro/new/LMGJF3S85T1000513/23/full.webp?v=63994cf126ff</image>
-        <image>https://img.upspace.ru/cars/auto-team.pro/new/LMGJF3S85T1000513/24/full.webp?v=d419d8561a89</image>
-        <image>https://img.upspace.ru/cars/auto-team.pro/new/LMGJF3S85T1000513/25/full.webp?v=26fbc1e31a23</image>
-        <image>https://img.upspace.ru/cars/auto-team.pro/new/LMGJF3S85T1000513/26/full.webp?v=d9414452ad3c</image>
-      </images>
-    </car>
-    <car>
       <unique_id>LMGJF3S89T1000532</unique_id>
       <url>https://auto-team.pro/cars/gac-s9-15hyb-at-340-hp-4wd-sx-premium-black-2026/</url>
       <mark_id>Gac</mark_id>
@@ -518,6 +475,8 @@
         <image>https://img.upspace.ru/cars/auto-team.pro/new/LMGJF3S89T1000532/25/full.webp?v=4b71a441aea4</image>
         <image>https://img.upspace.ru/cars/auto-team.pro/new/LMGJF3S89T1000532/26/full.webp?v=2c35e42e61d3</image>
         <image>https://img.upspace.ru/cars/auto-team.pro/new/LMGJF3S89T1000532/27/full.webp?v=29f5477eeb2e</image>
+        <image>https://img.upspace.ru/cars/auto-team.pro/new/LMGJF3S89T1000532/28/full.webp?v=7f25e5f6fcd9</image>
+        <image>https://img.upspace.ru/cars/auto-team.pro/new/LMGJF3S89T1000532/29/full.webp?v=1ea5ab9028da</image>
       </images>
     </car>
     <car>
@@ -724,6 +683,8 @@
       <images>
         <image>https://img.upspace.ru/cars/auto-team.pro/new/LMGJU3G87T1064874/0/full.webp?v=c46b0785d32b</image>
         <image>https://img.upspace.ru/cars/auto-team.pro/new/LMGJU3G87T1064874/1/full.webp?v=5e7e9eb51793</image>
+        <image>https://img.upspace.ru/cars/auto-team.pro/new/LMGJU3G87T1064874/2/full.webp?v=14d7bd21cd55</image>
+        <image>https://img.upspace.ru/cars/auto-team.pro/new/LMGJU3G87T1064874/3/full.webp?v=9524cdb7b6d9</image>
       </images>
     </car>
     <car>
@@ -770,6 +731,8 @@
         <image>https://img.upspace.ru/cars/auto-team.pro/new/LMGJU3G88T1061384/23/full.webp?v=978ccc0e01f3</image>
         <image>https://img.upspace.ru/cars/auto-team.pro/new/LMGJU3G88T1061384/24/full.webp?v=113c36f3ca37</image>
         <image>https://img.upspace.ru/cars/auto-team.pro/new/LMGJU3G88T1061384/25/full.webp?v=90ac3580a042</image>
+        <image>https://img.upspace.ru/cars/auto-team.pro/new/LMGJU3G88T1061384/26/full.webp?v=074a607f8c4f</image>
+        <image>https://img.upspace.ru/cars/auto-team.pro/new/LMGJU3G88T1061384/27/full.webp?v=f0afe0b39d60</image>
       </images>
     </car>
     <car>
@@ -852,6 +815,8 @@
         <image>https://img.upspace.ru/cars/auto-team.pro/new/LMGJU3G8XT1062214/21/full.webp?v=38b8b7c01be6</image>
         <image>https://img.upspace.ru/cars/auto-team.pro/new/LMGJU3G8XT1062214/22/full.webp?v=5cd0d19492ec</image>
         <image>https://img.upspace.ru/cars/auto-team.pro/new/LMGJU3G8XT1062214/23/full.webp?v=89e4b174f02b</image>
+        <image>https://img.upspace.ru/cars/auto-team.pro/new/LMGJU3G8XT1062214/24/full.webp?v=083c5b7f8e40</image>
+        <image>https://img.upspace.ru/cars/auto-team.pro/new/LMGJU3G8XT1062214/25/full.webp?v=195c12cc3cef</image>
       </images>
     </car>
     <car>
@@ -935,6 +900,8 @@
         <image>https://img.upspace.ru/cars/auto-team.pro/new/LMGMU1G8XT1318546/25/full.webp?v=ba9790cf52ba</image>
         <image>https://img.upspace.ru/cars/auto-team.pro/new/LMGMU1G8XT1318546/26/full.webp?v=1520a7d12385</image>
         <image>https://img.upspace.ru/cars/auto-team.pro/new/LMGMU1G8XT1318546/27/full.webp?v=289c61c5b4e8</image>
+        <image>https://img.upspace.ru/cars/auto-team.pro/new/LMGMU1G8XT1318546/28/full.webp?v=4e9af4615045</image>
+        <image>https://img.upspace.ru/cars/auto-team.pro/new/LMGMU1G8XT1318546/29/full.webp?v=92dd019cfd08</image>
       </images>
     </car>
     <car>

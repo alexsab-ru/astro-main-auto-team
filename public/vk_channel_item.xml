@@ -242,30 +242,6 @@
     <vehicle_type>car_truck</vehicle_type>
   </item>
   <item>
-    <id>LMGJF3S85T1000513</id>
-    <link>https://auto-team.pro/cars/gac-s9-15hyb-at-340-hp-4wd-sx-premium-black-2026/</link>
-    <brand>Gac</brand>
-    <model>S9</model>
-    <year>2026</year>
-    <title>Gac S9 SX Premium 2026</title>
-    <image_link>https://img.upspace.ru/cars/auto-team.pro/new/LMGJF3S85T1000513/0/full.webp?v=e4c06334cbbd</image_link>
-    <price>6949000 RUB</price>
-    <sale_price>6649000 RUB</sale_price>
-    <min_price>6649000 RUB</min_price>
-    <max_price>6949000 RUB</max_price>
-    <state_of_vehicle>new</state_of_vehicle>
-    <description>Автомобиль Gac S9, SX Premium, 1.5hyb AT (340 л.с.) 4WD, 2026 г.</description>
-    <exterior_color>Черный</exterior_color>
-    <mileage>
-      <value>30</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>suv</body_style>
-    <vin>LMGJF3S85T1000513</vin>
-    <availability>в наличии</availability>
-    <vehicle_type>car_truck</vehicle_type>
-  </item>
-  <item>
     <id>LMGJF3S89T1000532</id>
     <link>https://auto-team.pro/cars/gac-s9-15hyb-at-340-hp-4wd-sx-premium-black-2026/</link>
     <brand>Gac</brand>
