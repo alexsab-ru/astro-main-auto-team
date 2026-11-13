@@ -233,7 +233,7 @@
     <description>Автомобиль Gac S9, SX Premium, 1.5hyb AT (340 л.с.) 4WD, 2026 г.</description>
     <exterior_color>Черный</exterior_color>
     <mileage>
-      <value>3</value>
+      <value>27</value>
       <unit>KM</unit>
     </mileage>
     <body_style>suv</body_style>
@@ -502,30 +502,6 @@
     </mileage>
     <body_style>minivan</body_style>
     <vin>LMGMU1G8XT1318546</vin>
-    <availability>в наличии</availability>
-    <vehicle_type>car_truck</vehicle_type>
-  </item>
-  <item>
-    <id>LMGNC3S83T1002223</id>
-    <link>https://auto-team.pro/cars/gac-s7-15hyb-at-340-hp-4wd-sx-premium-green-2026/</link>
-    <brand>Gac</brand>
-    <model>S7</model>
-    <year>2026</year>
-    <title>Gac S7 SX Premium 2026</title>
-    <image_link>https://img.upspace.ru/cars/auto-team.pro/new/LMGNC3S83T1002223/0/full.webp?v=e24db4697351</image_link>
-    <price>6249000 RUB</price>
-    <sale_price>5799000 RUB</sale_price>
-    <min_price>5799000 RUB</min_price>
-    <max_price>6249000 RUB</max_price>
-    <state_of_vehicle>new</state_of_vehicle>
-    <description>Автомобиль Gac S7, SX Premium, 1.5hyb AT (340 л.с.) 4WD, 2026 г.</description>
-    <exterior_color>Зеленый</exterior_color>
-    <mileage>
-      <value>2</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>suv</body_style>
-    <vin>LMGNC3S83T1002223</vin>
     <availability>в наличии</availability>
     <vehicle_type>car_truck</vehicle_type>
   </item>
