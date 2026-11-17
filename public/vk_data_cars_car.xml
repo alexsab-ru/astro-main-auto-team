@@ -271,50 +271,6 @@
       </images>
     </car>
     <car>
-      <unique_id>LMGAE3G87T1004901</unique_id>
-      <url>https://auto-team.pro/cars/gac-gs4-20-at-231-hp-4wd-gl-gray-2026/</url>
-      <mark_id>Gac</mark_id>
-      <folder_id>GS4</folder_id>
-      <year>2026</year>
-      <vin>LMGAE3G87T1004901</vin>
-      <price>4049000</price>
-      <sale_price>3199000</sale_price>
-      <currency>RUR</currency>
-      <owners_number>Не было владельцев</owners_number>
-      <max_benefit>850000</max_benefit>
-      <color>серый</color>
-      <availability>В наличии</availability>
-      <body_type>Внедорожник</body_type>
-      <run>5</run>
-      <description>Автомобиль Gac GS4, GL, 2.0 AT (231 л.с.) 4WD, 2026 г., серый</description>
-      <images>
-        <image>https://img.upspace.ru/cars/auto-team.pro/new/LMGAE3G87T1004901/0/full.webp?v=9113fdde47a2</image>
-        <image>https://img.upspace.ru/cars/auto-team.pro/new/LMGAE3G87T1004901/1/full.webp?v=43e18f94cec2</image>
-        <image>https://img.upspace.ru/cars/auto-team.pro/new/LMGAE3G87T1004901/2/full.webp?v=5b9e8df5d1a9</image>
-        <image>https://img.upspace.ru/cars/auto-team.pro/new/LMGAE3G87T1004901/3/full.webp?v=b103f74cf3e5</image>
-        <image>https://img.upspace.ru/cars/auto-team.pro/new/LMGAE3G87T1004901/4/full.webp?v=680d7a6b9c29</image>
-        <image>https://img.upspace.ru/cars/auto-team.pro/new/LMGAE3G87T1004901/5/full.webp?v=5566f4737b9d</image>
-        <image>https://img.upspace.ru/cars/auto-team.pro/new/LMGAE3G87T1004901/6/full.webp?v=63c764cc5537</image>
-        <image>https://img.upspace.ru/cars/auto-team.pro/new/LMGAE3G87T1004901/7/full.webp?v=7ff51b23794e</image>
-        <image>https://img.upspace.ru/cars/auto-team.pro/new/LMGAE3G87T1004901/8/full.webp?v=2ce802d0a9ad</image>
-        <image>https://img.upspace.ru/cars/auto-team.pro/new/LMGAE3G87T1004901/9/full.webp?v=50e922dc9ef4</image>
-        <image>https://img.upspace.ru/cars/auto-team.pro/new/LMGAE3G87T1004901/10/full.webp?v=d2bf2211e90e</image>
-        <image>https://img.upspace.ru/cars/auto-team.pro/new/LMGAE3G87T1004901/11/full.webp?v=316c153eb715</image>
-        <image>https://img.upspace.ru/cars/auto-team.pro/new/LMGAE3G87T1004901/12/full.webp?v=4984a4216733</image>
-        <image>https://img.upspace.ru/cars/auto-team.pro/new/LMGAE3G87T1004901/13/full.webp?v=0391f5f4868a</image>
-        <image>https://img.upspace.ru/cars/auto-team.pro/new/LMGAE3G87T1004901/14/full.webp?v=6a9830b3f969</image>
-        <image>https://img.upspace.ru/cars/auto-team.pro/new/LMGAE3G87T1004901/15/full.webp?v=45e2ffb38978</image>
-        <image>https://img.upspace.ru/cars/auto-team.pro/new/LMGAE3G87T1004901/16/full.webp?v=2db84d1cfd1b</image>
-        <image>https://img.upspace.ru/cars/auto-team.pro/new/LMGAE3G87T1004901/17/full.webp?v=accbbea14090</image>
-        <image>https://img.upspace.ru/cars/auto-team.pro/new/LMGAE3G87T1004901/18/full.webp?v=bebe2560a327</image>
-        <image>https://img.upspace.ru/cars/auto-team.pro/new/LMGAE3G87T1004901/19/full.webp?v=4efeed8da284</image>
-        <image>https://img.upspace.ru/cars/auto-team.pro/new/LMGAE3G87T1004901/20/full.webp?v=5629ed6ab7dd</image>
-        <image>https://img.upspace.ru/cars/auto-team.pro/new/LMGAE3G87T1004901/21/full.webp?v=912e3375e534</image>
-        <image>https://img.upspace.ru/cars/auto-team.pro/new/LMGAE3G87T1004901/22/full.webp?v=344dd211ee6e</image>
-        <image>https://img.upspace.ru/cars/auto-team.pro/new/LMGAE3G87T1004901/23/full.webp?v=fb797a0d4cf7</image>
-      </images>
-    </car>
-    <car>
       <unique_id>LMGBB1L82S3147751</unique_id>
       <url>https://auto-team.pro/cars/gac-empow-15-amt-170-hp-gl-s-style-white-2025/</url>
       <mark_id>Gac</mark_id>
