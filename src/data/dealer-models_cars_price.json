@@ -1,7 +1,7 @@
 [
   {
     "brand": "Changan",
-    "model": "CS35 PLUS",
+    "model": "CS35PLUS",
     "price": 2519900,
     "benefit": 320000
   },
@@ -37,25 +37,25 @@
   },
   {
     "brand": "Gac",
-    "model": "ДжиЭс 4 / GS4",
+    "model": "GS4",
     "price": 3049000,
     "benefit": 850000
   },
   {
     "brand": "Gac",
-    "model": "Обновленный ДжиЭс 8 / GS8",
+    "model": "GS8",
     "price": 3849000,
     "benefit": 1100000
   },
   {
     "brand": "Gac",
-    "model": "Эм 8 / M8",
+    "model": "M8",
     "price": 6074000,
     "benefit": 675000
   },
   {
     "brand": "Gac",
-    "model": "Эс 9 / S9",
+    "model": "S9",
     "price": 6649000,
     "benefit": 300000
   }
