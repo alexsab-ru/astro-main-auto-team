@@ -1,0 +1,98 @@
+---
+import Button from '@/ui/button/Button.astro';
+import LeadForm from '@/blocks/forms/lead-form/LeadForm.astro';
+import ContactFields from '@/blocks/forms/lead-form/ContactFields.astro';
+import ConsentFields from '@/blocks/forms/lead-form/ConsentFields.astro';
+import ChoosingDealerSelect from '@/ui/choosing-dealer-select/ChoosingDealerSelect.astro';
+import type { ISalon } from '@/types/ISalon';
+interface Props {
+	formId: string;
+	agreeLabel: string;
+	departments: string[];
+	salons: ISalon[];
+	formName?: string;
+	comment?: string;
+	useDealerStore?: boolean;
+}
+const {
+	formId,
+	agreeLabel,
+	departments,
+	salons,
+	formName = '',
+	comment = '',
+	useDealerStore = true,
+} = Astro.props;
+---
+
+<LeadForm
+	class="flex flex-col gap-4"
+	id={formId}
+	formName={formName}
+	comment={comment}
+>
+	<ContactFields
+		phoneField={{ errorText: 'Телефон является обязательным полем' }}
+	/>
+
+	<input
+		type="hidden"
+		name="departament"
+		value={departments[0]}
+		data-departament-default
+		disabled={departments.length > 1}
+	/>
+	{
+		departments.length > 1 && (
+			<div
+				class="flex flex-col gap-2"
+				data-departament-block
+			>
+				<div class="text-sm font-medium text-gray-700">
+					<span>
+						Выберите цель обращения{' '}
+						<span class="text-red-500">*</span>
+					</span>
+				</div>
+				<div class="flex flex-col gap-4 md:flex-row md:gap-3">
+					{departments.map((department) => (
+						<label class="flex items-center gap-2 cursor-pointer border border-gray-200 rounded p-3 hover:border-accent-500 transition-colors">
+							<input
+								type="radio"
+								name="departament"
+								value={department}
+								class="w-4 h-4"
+								required
+							/>
+							<span>
+								{department === 'Отдел продаж'
+									? 'Покупка автомобиля'
+									: department}
+							</span>
+						</label>
+					))}
+				</div>
+				<div class="error-message departament text-xs hidden text-red-500">
+					Пожалуйста, выберите цель обращения
+				</div>
+			</div>
+		)
+	}
+
+	<ChoosingDealerSelect
+		required
+		salons={salons}
+		modalData={useDealerStore}
+	/>
+
+	<ConsentFields
+		label={agreeLabel}
+		color="black"
+	/>
+
+	<Button
+		view="form-button"
+		classes="w-full"
+		title="Отправить"
+	/>
+</LeadForm>
