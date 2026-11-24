@@ -409,28 +409,4 @@
     <availability>в наличии</availability>
     <vehicle_type>car_truck</vehicle_type>
   </item>
-  <item>
-    <id>LMGMU1G8XT1318546</id>
-    <link>https://auto-team.pro/cars/gac-m8-20-at-231-hp-gx-premium-black-2026/</link>
-    <brand>Gac</brand>
-    <model>M8</model>
-    <year>2026</year>
-    <title>Gac M8 GX Premium 2026</title>
-    <image_link>https://img.upspace.ru/cars/auto-team.pro/new/LMGMU1G8XT1318546/0/full.webp?v=1fb019c37eb3</image_link>
-    <price>6749000 RUB</price>
-    <sale_price>6074000 RUB</sale_price>
-    <min_price>6074000 RUB</min_price>
-    <max_price>6749000 RUB</max_price>
-    <state_of_vehicle>new</state_of_vehicle>
-    <description>Автомобиль Gac M8, GX Premium, 2.0 AT (231 л.с.), 2026 г.</description>
-    <exterior_color>Черный</exterior_color>
-    <mileage>
-      <value>5</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>minivan</body_style>
-    <vin>LMGMU1G8XT1318546</vin>
-    <availability>в наличии</availability>
-    <vehicle_type>car_truck</vehicle_type>
-  </item>
 </channel>
