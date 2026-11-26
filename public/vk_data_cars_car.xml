@@ -16,7 +16,7 @@
       <color>серый</color>
       <availability>В наличии</availability>
       <body_type>Внедорожник</body_type>
-      <run>5</run>
+      <run>6</run>
       <description>Автомобиль Gac GS4, GB, 2.0 AT (231 л.с.) 4WD, 2026 г., серый</description>
       <images>
         <image>https://img.upspace.ru/cars/auto-team.pro/new/LMGAE3G53T1004528/0/full.webp?v=1906576782bf</image>
@@ -98,7 +98,7 @@
       <color>серый</color>
       <availability>В наличии</availability>
       <body_type>Внедорожник</body_type>
-      <run>3</run>
+      <run>4</run>
       <description>Автомобиль Gac GS4, GL, 2.0 AT (231 л.с.) 4WD, 2026 г., серый</description>
       <images>
         <image>https://img.upspace.ru/cars/auto-team.pro/new/LMGAE3G80T1005968/0/full.webp?v=372583a16b23</image>
@@ -235,7 +235,7 @@
       <color>белый</color>
       <availability>В наличии</availability>
       <body_type>Седан</body_type>
-      <run>9</run>
+      <run>10</run>
       <description>Автомобиль Gac Empow, GL S-style, 1.5 AMT (170 л.с.), 2025 г., белый</description>
       <images>
         <image>https://img.upspace.ru/cars/auto-team.pro/new/LMGBB1L82S3147751/0/full.webp?v=7a0d2362c157</image>
@@ -270,7 +270,7 @@
       <color>серый</color>
       <availability>В наличии</availability>
       <body_type>Седан</body_type>
-      <run>5</run>
+      <run>6</run>
       <description>Автомобиль Gac Empow, GL S-style, 1.5 AMT (170 л.с.), 2025 г., серый</description>
       <images>
         <image>https://img.upspace.ru/cars/auto-team.pro/new/LMGBB1L83S3147886/0/full.webp?v=2e32ddabcc3e</image>
@@ -317,7 +317,7 @@
       <color>черный</color>
       <availability>В наличии</availability>
       <body_type>Внедорожник</body_type>
-      <run>27</run>
+      <run>28</run>
       <description>Автомобиль Gac S9, SX Premium, 1.5hyb AT (340 л.с.) 4WD, 2026 г., черный</description>
       <images>
         <image>https://img.upspace.ru/cars/auto-team.pro/new/LMGJF3S89T1000532/0/full.webp?v=f53eaf2b2ec3</image>
@@ -406,7 +406,7 @@
       <color>зеленый</color>
       <availability>В наличии</availability>
       <body_type>Внедорожник</body_type>
-      <run>9</run>
+      <run>10</run>
       <description>Автомобиль Gac GS8, II, GX Premium, 2.0 AT (231 л.с.) 4WD, 2026 г., зеленый</description>
       <images>
         <image>https://img.upspace.ru/cars/auto-team.pro/new/LMGJU3G82T1061591/0/full.webp?v=0447e16f68c1</image>
@@ -687,7 +687,7 @@
       <color>белый</color>
       <availability>В наличии</availability>
       <body_type>Внедорожник</body_type>
-      <run>4</run>
+      <run>5</run>
       <description>Автомобиль Gac GS8, II, GX Premium, 2.0 AT (231 л.с.) 4WD, 2026 г., белый</description>
       <images>
         <image>https://img.upspace.ru/cars/auto-team.pro/new/LMGJU3G8XT1066442/0/full.webp?v=ba05045a1f88</image>

@@ -17,7 +17,7 @@
     <description>Автомобиль Gac GS4, GB, 2.0 AT (231 л.с.) 4WD, 2026 г.</description>
     <exterior_color>Серый</exterior_color>
     <mileage>
-      <value>5</value>
+      <value>6</value>
       <unit>KM</unit>
     </mileage>
     <body_style>suv</body_style>
@@ -65,7 +65,7 @@
     <description>Автомобиль Gac GS4, GL, 2.0 AT (231 л.с.) 4WD, 2026 г.</description>
     <exterior_color>Серый</exterior_color>
     <mileage>
-      <value>3</value>
+      <value>4</value>
       <unit>KM</unit>
     </mileage>
     <body_style>suv</body_style>
@@ -137,7 +137,7 @@
     <description>Автомобиль Gac Empow, GL S-style, 1.5 AMT (170 л.с.), 2025 г.</description>
     <exterior_color>Белый</exterior_color>
     <mileage>
-      <value>9</value>
+      <value>10</value>
       <unit>KM</unit>
     </mileage>
     <body_style>sedan</body_style>
@@ -161,7 +161,7 @@
     <description>Автомобиль Gac Empow, GL S-style, 1.5 AMT (170 л.с.), 2025 г.</description>
     <exterior_color>Серый</exterior_color>
     <mileage>
-      <value>5</value>
+      <value>6</value>
       <unit>KM</unit>
     </mileage>
     <body_style>sedan</body_style>
@@ -185,7 +185,7 @@
     <description>Автомобиль Gac S9, SX Premium, 1.5hyb AT (340 л.с.) 4WD, 2026 г.</description>
     <exterior_color>Черный</exterior_color>
     <mileage>
-      <value>27</value>
+      <value>28</value>
       <unit>KM</unit>
     </mileage>
     <body_style>suv</body_style>
@@ -233,7 +233,7 @@
     <description>Автомобиль Gac GS8, II, GX Premium, 2.0 AT (231 л.с.) 4WD, 2026 г.</description>
     <exterior_color>Зеленый</exterior_color>
     <mileage>
-      <value>9</value>
+      <value>10</value>
       <unit>KM</unit>
     </mileage>
     <body_style>suv</body_style>
@@ -401,7 +401,7 @@
     <description>Автомобиль Gac GS8, II, GX Premium, 2.0 AT (231 л.с.) 4WD, 2026 г.</description>
     <exterior_color>Белый</exterior_color>
     <mileage>
-      <value>4</value>
+      <value>5</value>
       <unit>KM</unit>
     </mileage>
     <body_style>suv</body_style>
