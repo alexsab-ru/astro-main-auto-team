@@ -209,7 +209,7 @@
     <description>Автомобиль Gac GS8, II, GL, 2.0 AT (231 л.с.) 4WD, 2026 г.</description>
     <exterior_color>Черный</exterior_color>
     <mileage>
-      <value>8</value>
+      <value>9</value>
       <unit>KM</unit>
     </mileage>
     <body_style>suv</body_style>
@@ -310,54 +310,6 @@
     </mileage>
     <body_style>suv</body_style>
     <vin>LMGJU3G86T1065417</vin>
-    <availability>в наличии</availability>
-    <vehicle_type>car_truck</vehicle_type>
-  </item>
-  <item>
-    <id>LMGJU3G88T1061384</id>
-    <link>https://auto-team.pro/cars/gac-gs8-ii-20-at-231-hp-4wd-gx-premium-black-2026/</link>
-    <brand>Gac</brand>
-    <model>GS8, II</model>
-    <year>2026</year>
-    <title>Gac GS8, II GX Premium 2026</title>
-    <image_link>https://img.upspace.ru/cars/auto-team.pro/new/LMGJU3G88T1061384/0/full.webp?v=d65666011834</image_link>
-    <price>5349000 RUB</price>
-    <sale_price>4249000 RUB</sale_price>
-    <min_price>4249000 RUB</min_price>
-    <max_price>5349000 RUB</max_price>
-    <state_of_vehicle>new</state_of_vehicle>
-    <description>Автомобиль Gac GS8, II, GX Premium, 2.0 AT (231 л.с.) 4WD, 2026 г.</description>
-    <exterior_color>Черный</exterior_color>
-    <mileage>
-      <value>11</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>suv</body_style>
-    <vin>LMGJU3G88T1061384</vin>
-    <availability>в наличии</availability>
-    <vehicle_type>car_truck</vehicle_type>
-  </item>
-  <item>
-    <id>LMGJU3G88T1065273</id>
-    <link>https://auto-team.pro/cars/gac-gs8-ii-20-at-231-hp-4wd-gx-premium-black-2026/</link>
-    <brand>Gac</brand>
-    <model>GS8, II</model>
-    <year>2026</year>
-    <title>Gac GS8, II GX Premium 2026</title>
-    <image_link>https://img.upspace.ru/cars/auto-team.pro/new/LMGJU3G88T1061384/0/full.webp?v=d65666011834</image_link>
-    <price>5349000 RUB</price>
-    <sale_price>4249000 RUB</sale_price>
-    <min_price>4249000 RUB</min_price>
-    <max_price>5349000 RUB</max_price>
-    <state_of_vehicle>new</state_of_vehicle>
-    <description>Автомобиль Gac GS8, II, GX Premium, 2.0 AT (231 л.с.) 4WD, 2026 г.</description>
-    <exterior_color>Черный</exterior_color>
-    <mileage>
-      <value>7</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>suv</body_style>
-    <vin>LMGJU3G88T1065273</vin>
     <availability>в наличии</availability>
     <vehicle_type>car_truck</vehicle_type>
   </item>
